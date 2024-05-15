@@ -1,4 +1,6 @@
-This is the repository for my chess activities. It contains
+2024, May 2024.
+
+This is the repository of Beat Neuenschwander's chess activities. It contains
 
 - original studies first published in "beatochess"
 - revised studies from other authors
