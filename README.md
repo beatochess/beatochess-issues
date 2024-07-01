@@ -1,4 +1,4 @@
-2024, May 2024.
+2024, July 1.
 
 This is the repository of Beat Neuenschwander's chess activities. It contains
 
@@ -6,4 +6,4 @@ This is the repository of Beat Neuenschwander's chess activities. It contains
 - revised studies from other authors
 - my studies
 
-The .pdf file has all the information. The pgn-files of all the studies can also be found here. 
+The .pdf file has all the information. The pgn-files of all the studies can be found in the /pgn folder. 
