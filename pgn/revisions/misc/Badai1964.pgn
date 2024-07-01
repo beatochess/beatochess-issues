@@ -1,0 +1,30 @@
+[Event "Szachy#419"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Badai=B"]
+[Black "(+0001.12g5e2) U2"]
+[Result "1-0"]
+[FEN "8/p7/2p5/6K1/8/5P2/4k2N/8 w - - 0 1"]
+
+{U2: Afek=Y HHdbVI 6-8-2020.} 1. f4 a5 2. Nf3 $1 a4 3. Nd4+ Kd3 4. f5 (4. Nxc6
+$2 Kc3 5. f5 a3) 4... Kc3 5. f6 (5. Ne2+ $1 {<cook YA>} 5... Kb2 6. f6 a3 7.
+Nc3 Kxc3 8. f7 a2 9. f8=Q a1=Q 10. Qg7+ Kb3 11. Qxa1) 5... a3 6. Nb5+ (6. Ne2+
+$1 {  <cook YA>} ) 6... cxb5 7. f7 a2 8. f8=Q a1=Q (8... Kb2 9. Qb4+ Kc2 10.
+Qa3 Kb1 11. Qb3+ Ka1 12. Qc2 b4 13. Qc1#) 9. Qf6+ 1-0
+
+[Event "Szachy#419"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Badai=B BN=(c)"]
+[Black "(+0031.21h5e2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/bP6/5P1K/p6N/8/4k3/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 29/05/2024.} 1. Nf3 $1 (1. f6 $2 a3 2.
+Nf5 Kd2 $1 3. Nd4 Bc4 4. b7 a2 5. b8=Q a1=Q) 1... a3 2. Nd4+ (2. f6 $2 Bc4 $1) 
+2... Kd3 3. f6 (3. Nb3 $2 Kc4 $1 4. Nc1 Kd5 5. f6 Kd6 $1 6. Kg6 Bc4) 3... Kc3 (
+3... a2 4. Nb3 Kc3 5. Na1 Kb2 6. f7 Kxa1 7. f8=Q) 4. Nb5+ $1 1-0
+

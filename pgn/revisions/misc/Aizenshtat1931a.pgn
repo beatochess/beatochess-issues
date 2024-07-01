@@ -1,0 +1,30 @@
+[Event "Shakhmaty v SSSR#541"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "?"]
+[White "Aizenshtat=M"]
+[Black "(+3100.52h7f8)"]
+[Result "1-0"]
+[FEN "5k2/q4p1K/3P1P2/5P2/2p2P2/2P5/8/1R6 w - - 0 1"]
+
+{Shakhmaty v SSSR=14 U2: Neuenschwander=B beatochess 03/06/2024 .} 1. d7 Qa8 $1
+(1... Qb6 2. Rd1 Qd8 (2... Qd6 3. d8=Q+) 3. Rd2)  (1... Qxd7 2. Rb8+ Qe8 3.
+Rxe8+ Kxe8 4. Kg7) 2. Rb7 $1 (2. Rd1 $2 Qh1+ $1 3. Rxh1)  (2. Kh6 $1 {<cook
+BN>} 2... Qd8 3. Kh5 Kg8 4. Rd1 Kh7 5. Kg4 Qa8 6. Rd2) 2... Qd8 3. Rb2 $1 (3.
+Ra7 $2 Qa5 $1 4. Kh6 Qd5 $1 5. Ra1 Kg8 6. Rg1+ (6. Rb1 Qd6 $1) 6... Kh8 7. Ra1
+Kg8) 3... Qa8 4. Rg2 $1 1-0
+
+[Event "Shakhmaty v SSSR#541"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "?"]
+[White "Aizenshtat=M BN=(v)"]
+[Black "(+3100.53h8f8) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5k1K/q4p2/3P1P2/pR6/3p4/P2P4/5P2/8 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 04/06/2024.} 1. d7 Qc7 2. f4 Qd8 3. Kh7
+Qa8 4. Rb1 $1 (4. Rb7 $2 a4 $1 5. Kh8 Qd8 6. Kh7 Qa8 7. Rb1 Qh1+ 8. Rxh1) 4...
+a4 5. Rb7 $1 Qd8 6. Rb2 $1 (6. Ra7 $2 Qa5 $1) 6... Qa8 7. Rg2 $1 1-0
+
