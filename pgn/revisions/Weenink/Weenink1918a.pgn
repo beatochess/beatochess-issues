@@ -1,0 +1,38 @@
+[Event "Tijdschrift v.d. KNSB#080"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Weenink=H"]
+[Black "(+0040.32f5d8) U3"]
+[Result "1-0"]
+[FEN "3k4/8/2P2p2/3BbKp1/8/5P1P/8/8 w - - 0 1"]
+
+{Tijdschrift v.d. KNSB/2. U3: Garcia=M HHdbV#77762 23-9-2011. Comment:
+Neuenschwander=B (move 6).} 1. f4 $1 gxf4 (1... Bc3 2. fxg5 fxg5 3. Kxg5 Ke7 4.
+h4 Bf6+ 5. Kg4 Be5 6. Kf5 (6. h5 $2 Kf6) 6... Bg3 7. h5 Kf8 8. h6 Bc7 9. Kg6) 
+(1... Bc7 2. fxg5 fxg5 3. Kxg5 Ke7 4. h4 Be5 (4... Kd6 $1 {  <cook MG>} ) 5. h5
+)  (1... Bxf4 2. h4 Be5 (2... Bc7 3. h5 Ke7 4. h6 Kf8 5. Kxf6)  (2... Bd2 3. h5
+g4 4. Kxf6) 3. h5 Ke7 4. h6 Kf8 5. Kg6 f5 6. Kxf5 Bc7 7. Kg6) 2. h4 Ke7 3. Kg6
+(3. h5 $2 f3 4. Bxf3 Kf7) 3... Kf8 4. Kh7 $1 (4. h5 $2 f3 5. h6 f2 6. h7 f1=Q
+7. h8=Q+ Ke7) 4... f3 $1 5. Bxf3 f5 {<eg>} 6. h5 (6. Bd5 {also wins} ) 6... f4
+7. h6 Kf7 8. Bd5+ Kf8 9. Kg6 f3 10. h7 f2 (10... Ke7 11. Bxf3) 11. h8=Q+ (11.
+Bg2 $2 Ke7) 11... Bxh8 12. c7 f1=Q 13. c8=Q+ Ke7 14. Qc7+ Ke8 15. Bc6+ Kf8
+{<eg>} 16. Qd8# 1-0
+
+[Event "Tijdschrift v.d. KNSB#080"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Weenink=H BN=(c)"]
+[Black "(+0040.33f5d8) "]
+[Result "1-0"]
+[FEN "3k4/8/2Pp1p2/4bKp1/2B5/8/5P1P/8 w - - 0 1"]
+
+{correction: Neuenschwander beatochess 13/5/2024.} 1. f4 $1 gxf4 (1... Bxf4 2. h4 d5
+3. Bxd5 Ke7 4. h5) 2. h4 (2. Bd5 $2 f3 3. Bxf3 Bxh2) 2... d5 3. Bxd5 (3. h5 $2
+Ke7 4. h6 Kf8 5. Bxd5 f3 6. Bxf3 Kg8) 3... Ke7 4. Kg6 $1 (4. h5 Kf8 5. h6 f3 6.
+Bxf3 Kg8) 4... Kf8 5. Kh7 $1 f5 (5... f3 6. Bxf3 f5 7. h5 ( {<or>} 7. Bd5) ) 6.
+h5 $1 (6. Bf3 $2 Kf7 7. h5 Kf6 8. h6 Kg5) 6... f3 7. Bxf3 Kf7 8. h6 $1 (8. Bd5+
+$2 Kf6 9. h6 Kg5) 8... Kf6 (8... Bc7 9. Bd5+ Kf6 (9... Kf8 10. Kg6) 10. Kg8) 9.
+Kg8 $1 1-0
+

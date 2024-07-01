@@ -1,0 +1,33 @@
+[Event "ostergotlands Dagblad"]
+[Site "?"]
+[Date "1922.04.01"]
+[Round "?"]
+[White "Weenink=H"]
+[Black "(+0440.44g5b2) U1"]
+[Result "1-0"]
+[FEN "8/8/8/1pR1P1K1/p2P2P1/rp1B1P2/pk6/b7 w - - 0 1"]
+
+{U1: Garcia=M HHdbV#76692 23-9-2011 U1, (U2): Neuenschwander=B beatochess
+2024.} 1. Bh7 $1 (1. Bg6 $1 {<cook MG>} 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2 4. Ke4
+Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bf7 Kb1 9. Rc1+ Kb2 10. Rc8 Kb1 11.
+Bg6+ Kb2 12. Kd3 Kb1 13. Ke3+ Kb2 14. Rh8) 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2 4.
+Ke4 Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bg8 Kb1 9. Rc1+ Kb2 10. Rc6 Kb1
+11. Bh7+ Kb2 12. Rg6 (12. Kd3 {<cook BN>} 12... Kb1 13. Ke3+ Kb2 14. Rh6) 12...
+Kb1 13. Rg5+ (13. Rf6+ {<minor dual BN>} 13... Kb2 14. Rf5) 13... Kb2 14. Rf5
+Kb1 15. Rf4+ Kb2 16. Re4 Kb1 17. Re3+ Kb2 18. Rd3 Kb1 19. Rxb3# 1-0
+
+[Event "ostergotlands Dagblad"]
+[Site "?"]
+[Date "1922.04.01"]
+[Round "?"]
+[White "Weenink=H BN=(c)"]
+[Black "(+0440.44g5b2) (c)"]
+[Result "1-0"]
+[FEN "7R/8/1p2K3/4P3/p2PB1P1/rp3P2/pk5P/b7 w - - 0 1"]
+
+{correction: Neuenshwander=B beatochess 24/05/2024.} 1. Rc8 b5 2. Bh7 $1 b4 3.
+Kf5 Kb1 4. Kf4+ Kb2 5. Ke4 Kb1 6. Ke3+ Kb2 7. Kd3 Kb1 8. Kd2+ Kb2 9. Bg8 $1 Kb1
+10. Rc1+ Kb2 11. Rc6 Kb1 12. Bh7+ Kb2 13. Rg6 $1 Kb1 14. Rg5+ (14. Rf6+ {<or>} 
+) 14... Kb2 15. Rf5 Kb1 16. Rf4+ Kb2 17. Re4 Kb1 18. Re3+ Kb2 19. Rd3 Kb1 20.
+Rxb3# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Algemeen Handelsblad"]
+[Site "?"]
+[Date "1919.12.13"]
+[Round "?"]
+[White "Weenink=H"]
+[Black "(+0010.12h1g8) U1"]
+[Result "1-0"]
+[FEN "B5k1/8/8/3P4/8/6p1/7p/7K w - - 0 1"]
+
+{Algemeen Handelsblad=29722 . U1: Ulrichsen=J HHdbIII#60326 13-2-2003.} 1. Bb7
+(1. Bc6 $1 {  <cook JU>} ) 1... Kf7 2. Ba6 (2. Bc8 {<or>} 2... Kf6 3. Bg4 Ke5
+4. Bf3) 2... Kf6 3. Be2 (3. Bd3 $2 Ke5 4. Be4 $2 Kxe4 5. d6 Kf3) 3... Ke5 4.
+Bf3 Kf4 5. Kg2 h1=Q+ 6. Kxh1 Kxf3 7. Kg1 1-0
+
+[Event "Algemeen Handelsblad"]
+[Site "?"]
+[Date "1919.12.13"]
+[Round "?"]
+[White "Weenink=H BN=(c)"]
+[Black "(+0010.23h1f4) (c)"]
+[Result "1-0"]
+[FEN "8/8/2p5/8/2PP1k2/3B2p1/7p/7K w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 22/05/2024.c} 1. Bf1 $1 (1. d5 $2 cxd5
+2. cxd5 Ke5 3. Bc4 (3. Be4 $2 Kxe4 4. d6 Kf3 5. d7 Kf2 6. d8=Q g2+ 7. Kxh2
+g1=Q+ 8. Kh3 Qg3#) 3... Kd6) 1... Ke4 2. d5 cxd5 3. Bg2+ (3. c5 Ke5) 3... Kf4
+4. cxd5 (4. Bxd5 Ke5 5. Kg2 Kd4 6. Kxg3 h1=Q 7. Bxh1 Kxc4) 4... Ke5 5. Bf3 Kf4
+6. Kg2 h1=Q+ 7. Kxh1 Kxf3 8. Kg1 1-0
+
