@@ -1,0 +1,33 @@
+[Event "2.hm Shakhmatny Listok#413"]
+[Site "?"]
+[Date "1929.12.25"]
+[Round "?"]
+[White "Bron=V"]
+[Black "(+0400.52h6a5) U1"]
+[Result "1-0"]
+[FEN "8/8/pP1P3K/k2r4/Pp6/1P6/1P2R3/8 w - - 0 1"]
+
+{Shakhmatny Listok=24 . U1: De_Zeeuw=M HHdbIV#12923 1-9-2005. Neuenschwander=B
+beatochess 05/032024: the claim seems incorrect according to Stockfish-16.} 1.
+Re5 $1 (1. b7 $1 {<cook MZ>} 1... Rxd6+ 2. Kg5 $1 Rd8 (2... Rd5+ 3. Kf6 Rd8 4.
+Ke7 Rb8 5. Kd6 Kb6 (5... Rxb7 6. Re5+ Kb6 7. a5+ Ka7 8. Re7) 6. Re7 Ka5 7. Kc6
+Rc8+ 8. Kd5 Rb8 9. Kd6 Rxb7 10. Re5+) 3. Kf6 Rb8 (3... Kb6 4. Re7 Rb8 (4... Ka7
+$1 {<BN>}  (4... Ka7 $1 {<BN> Stockfish 16 0.00 (depth 54)} 5. Re4 Kxb7 6.
+Rxb4+ Ka7 7. Ke5 Rd2 8. a5 Rxb2 9. Kd5 Rd2+ 10. Rd4 Rc2 11. Re4 Rd2+ 12. Kc5
+Rd7 13. Kc4 Rc7+ 14. Kb4 Rb7+ 15. Ka3 Rb5 16. b4 Kb7 17. Re7+ Kb8 18. Rd7 Ka8
+19. Ka4 Rh5)  (4... Ka7 $1 {<BN> 0.00 (depth 54)} 5. a5 Rd3 6. Ke5 Rxb3 7. Kd4
+Rxb2 8. Re6 Kxb7 9. Rb6+ Kc7 10. Kc4 Rb1 11. Rh6 b3 12. Kc3 Rc1+ 13. Kb2 Rc5
+14. Kxb3 Rb5+ 15. Kc4 Kb7 16. Rh7+ Kb8 17. Rh8+ Ka7 18. Re8 Rb2 19. Re7+ Kb8) 
+(4... Ka7 $1 {<BN> 0.00 (depth 53)} 5. b8=Q+ Kxb8 6. Ke6 Rd2 7. Rd7 Rxb2 8. Kd5
+Rc2 9. a5 Rc3 10. Rd6 Rxb3 11. Rxa6 Rb2 12. Rb6+ Ka7 13. Kc4 Ra2 14. Kb3 Ra3+
+15. Kxb4 Re3 16. Kc4 Re7 17. Kc3 Re2 18. Kd4 Rd2+ 19. Kc5 Rc2+) ) 5. Ke5 Rxb7
+6. Rxb7+ Kxb7 7. Kd5) 4. Re5+ Kb6 5. Re7 Ka5 (5... Ka7 6. Ke6 Kb6 7. Kd5 Ka5 8.
+Kc6) 6. Ke5 Rxb7 (6... Rd8 7. Rc7 Rb8 8. Kd6 Rxb7 9. Rc5+ Kb6 10. a5+ Ka7 11.
+Rc7) 7. Kd6 Rb8 (7... Rb6+ 8. Kd5 Rc6 9. Re5 (9. Kxc6 $2) 9... Rc2 10. Kd6+ Kb6
+11. a5+ Ka7 12. Re7+ Ka8 13. Kd5 Rxb2 14. Kc4 Rh2 15. Kxb4) 8. Re5+ Kb6 9. a5+
+Ka7 (9... Kb7 10. Re7+ Ka8 11. Kc6) 10. Kc5 Rb5+ 11. Kd4)  (1. Re6 $2 Rxd6 2.
+Rxd6) 1... Rxe5 2. d7 Re6+ $1 (2... Rf5 3. d8=Q Rf6+ 4. Kh5 Rf5+ (4... Rh6+ 5.
+Kg4 Rg6+ 6. Qg5+) 5. Qg5)  (2... Rd5 3. b7) 3. Kg5 $1 Rxb6 $1 4. d8=N $1 (4.
+d8=Q $2) 4... Rb8 (4... Rd6 { <main>} 5. Nb7+ Kb6 6. Nxd6) 5. Nc6+ Kb6 6. Nxb8
+1-0
+

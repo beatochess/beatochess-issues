@@ -1,0 +1,32 @@
+[Event "6.hm Shakhmatny Listok#380"]
+[Site "?"]
+[Date "1929.07.25"]
+[Round "?"]
+[White "Korolkov=V"]
+[Black "(=1061.23h5h1) U1"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/5pQ1/8/7K/8/2p2N2/3p2PP/2bb3k w - - 0 1"]
+
+{Shakhmatny Listok=14. U1: Neuenschwander=B 20/05/2024 .} 1. Qg3 (1. Qg4 $1
+{<cook BN>} 1... Bc2 (1... c2 {<=main>} 2. h4 Bxf3 3. Qxf3 d1=Q 4. g4+ Qxf3) 2.
+h4 Bg6+ 3. Kh6 d1=Q+ 4. Kg7 Bf5 5. Qg3 Bf4 6. Qxf4 { leads to a roughly equal
+position (SF-16)} ) 1... c2 2. h4 $1 Bxf3+ 3. Qxf3 $1 (3. gxf3 $2 d1=Q 4. Qh3+
+Kg1) 3... d1=Q (3... d1=R 4. g4+ Kg1 5. Qg3+ Kf1 6. Qf3+ Ke1 7. Qe4+)  (3...
+Bb2 4. Qf1+ Kh2 5. Qf4+ Kg1 6. Qxd2 c1=Q 7. Qxc1+ Bxc1 8. g4 Bb2 9. g5 Bg7 $1
+10. g6 f6 11. Kg4 Kf2 12. Kf5 Kg3 13. h5) 4. g4+ $1 Qxf3 (4... Kg1 5. Qg2+ Kxg2
+) 1/2-1/2
+
+[Event "6.hm Shakhmatny Listok#380"]
+[Site "?"]
+[Date "1929.07.25"]
+[Round "?"]
+[White "Korolkov=V BN=(c)"]
+[Black "(=1061.24h4h1) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/5pQ1/8/7K/p7/2p2N2/3p2PP/2bb3k w - - 0 1"]
+
+{correction Neuenschwander=B beatochess 20/05/2024.} 1. Qg3 c2 2. h4 Bxf3+ 3.
+Qxf3 d1=Q 4. g4+ Qxf3 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "Shakhmatny Listok#396"]
+[Site "?"]
+[Date "1929.11.10"]
+[Round "?"]
+[White "Havasi=A"]
+[Black "(+0003.32a3a1) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3n4/8/p7/1p4P1/5P2/KP6/8/k7 w - - 0 1"]
+
+{Shakhmatny Listok=21. U1: Neuenschwander=B beatochess 03/03/2024 .} 1. b4 $1 (
+1. f5 $2 a5 $1 2. f6 Nc6 3. f7 Nd4 4. f8=Q Nc2#)  (1. g6 $2 Ne6 2. f5 (2. b4 $1
+{<cook BN> leads to the main variation} ) 2... Nd4)  (1. Kb4 $2 Ne6 2. g6 Nxf4
+3. g7 Nd5+ 4. Ka5 Ne7 $1 5. Kxa6 Kb2 6. b4 Kc3 7. Kxb5 Kd4 8. Kb6 Ke5 9. Kc7
+Kf6 10. Kd7 Kf7) 1... Ne6 2. g6 Ng7 3. Kb3 Ne6 4. Kc2 1-0
+

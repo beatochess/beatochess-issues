@@ -1,0 +1,36 @@
+[Event "6.p Shakhmatny Listok#454"]
+[Site "?"]
+[Date "1930.05.25"]
+[Round "?"]
+[White "Gorgiev=T"]
+[Black "(+0144.03c1e1) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3N1b2/1p6/Rp6/4B3/1p6/8/2Knk3 w - - 0 1"]
+
+{Shakhmatny Listok=10 . U1: Van_der_Heijden=H HHdbVI 8-12-2016.} 1. Ra7 $1 (1.
+Ra3 $2 b4 $1 2. Ra7 b2+ 3. Kc2 Nc3)  (1. Ra8 $1 {<cook HH>} 1... b2+ 2. Kc2
+b1=Q+ 3. Kxb1 Nc3+ 4. Kc2 $1 Nxe4 5. Ne5 Bh5 6. Nd3+ Kf1 7. Ra1+ Kg2 8. Nf4+
+Kg3 9. Nxh5+) 1... b2+ 2. Kc2 $1 b1=Q+ 3. Kxb1 Nc3+ 4. Kc1 $1 Nxe4 5. Nf6 $1
+Ng5 (5... Nxf6 6. Re7+ Ne4 (6... Be6 7. Rxe6+ Kf2 8. Rxf6+)  (6... Kf2 7. Rxf7)
+7. Rxe4+ Kf2 8. Rf4+) 6. Re7+ (6. Nh7 $2 Nxh7 7. Re7+ Be6 $1 8. Rxe6+ Kf2 9.
+Rg6 Ke3 $1) 6... Be6 $1 (6... Kf2 {<main>} 7. Nh7 $1 Nxh7 8. Rxf7+ Kg3 9. Rxh7)
+7. Ne4 $1 Nxe4 8. Rxe6 Kf2 9. Rxe4 1-0
+
+[Event "6.p Shakhmatny Listok#454"]
+[Site "?"]
+[Date "1930.05.25"]
+[Round "?"]
+[White "Gorgiev=T BN=(c)"]
+[Black "(+0144.02b2e1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3N1b2/8/8/2p1B3/1p2n3/RK6/4k3 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/03/2024.} 1. Ra7 Nd1+ 2. Kc1 b2+ 3.
+Kc2 b1=Q+ 4. Kxb1 Nc3+ 5. Kc1 Nxe4 6. Nf6 $1 Ng5 (6... Nxf6 7. Re7+ $1 Ne4 (
+7... Kf2 8. Rxf7)  (7... Be6 8. Rxe6+ Kf2 9. Rxf6+) 8. Rxe4+ Kf2 9. Rf4+) 7.
+Re7+ $1 (7. Nh7 $2 Nxh7 8. Re7+ Be6 $1 (8... Kf2 $2 9. Rxf7+ Ke3 10. Rxh7) ) 
+7... Be6 (7... Kf2 {<main>} 8. Nh7 $1 Nxh7 9. Rxf7+ Ke3 10. Rxh7) 8. Ne4 $1
+Nxe4 9. Rxe6 Kf2 10. Rxe4 1-0
+

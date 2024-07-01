@@ -1,0 +1,66 @@
+[Event "Shakhmatny Listok#431"]
+[Site "?"]
+[Date "1930.02.10"]
+[Round "?"]
+[White "Lapin=G"]
+[Black "(+0113.13c3e2) U2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3n2B1/1p6/5p2/P6R/8/2K5/4k1p1/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1930.02.10"]
+
+{Shakhmatny Listok=3 . U2: Shakhmatny Listok=15-16 10-8-1930 (U2): Haworth=G Bleicher=E HHdbV#71040
+9-12-2009.} 1. Rh2 Kf1 2. Kd2 (2. Bc4+ $1 {<cook>} Kg1 3. Rh6 Kf2 4. Rxf6+ Ke3
+5. Rg6 Kf2 6. Kb4 g1=Q 7. Rxg1 Kxg1 8. Bd5 Kf2 9. Bxb7 Nxb7 10. a6 Nd8 11. Kb5
+Ne6 12. Kb6) 2... Kg1 3. Rh3 $1 Kf2 4. Bd5 $1 g1=Q 5. Rf3+ Kg2 6. Rxf6+ Kh3 7.
+Rh6+ Kg3 8. Rg6+ Kf2 9. Rxg1 Kxg1 10. Bxb7 (10. Ke3 $1 {<minor_dual GH/EB>})
+10... Nxb7 11. a6 1-0
+
+[Event "Shakhmatny Listok#431"]
+[Site "?"]
+[Date "1930.02.10"]
+[Round "?"]
+[White "Lapin=G"]
+[Black "(+0113.14c1e2) (c) U2"]
+[Result "1-0"]
+[FEN "3n4/1p3p1p/7R/P7/8/8/B3k1p1/2K5 w - - 0 1"]
+
+{Shakhmatny Listok=3 . correction: Lapin=G 64#590 64=5 5/1932. U2: Garcia=M
+Estudios Artisticos  de Ajedrez - VI-44 2012.} 1. Rh2 Kf1 2. Kd2 (2. Bc4+ $1
+{<cook MG>} 2... Kg1 3. Rxh7 Kf2 4. Rh2 Kg3 5. Rxg2+ Kxg2 6. Bd5+ Kf2 7. Bxb7
+Ne6 8. Kc2 Ke3 9. Kc3 Nc7 10. Kc4 Kd2 11. Kc5 Kc3 12. Kb6 Kb4 13. Bc6 f5 14.
+Bf3) 2... Kg1 $1 3. Rh3 $1 Kf2 4. Bd5 g1=Q 5. Rf3+ Kg2 6. Rxf7+ Kg3 7. Rg7+ Kf2
+8. Rxg1 Kxg1 9. Ke2 h5 10. Bxb7 Ne6 (10... Nxb7 11. a6 Nd6 12. a7 Nb5 13. a8=Q)
+11. a6 Nc7 12. a7 h4 13. Kd3 1-0
+
+[Event "Shakhmatny Listok#431"]
+[Site "?"]
+[Date "1930.02.10"]
+[Round "?"]
+[White "Lapin=G"]
+[Black "(+0113.15c1e2) (c) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3n4/1p3p1p/7R/P1p5/8/8/B3k1p1/2K5 w - - 0 1"]
+
+{Shakhmatny Listok=3 . correction: Garcia=M Estudios Artisticos  de Ajedrez -
+VI-44 2012. U2: Neuenschwander=B beatochess 16/03/2024.} 1. Rh2 Kf1 2. Kd2 (2.
+Bc4+ $2 Kg1 3. Rxh7 (3. Rh5 $1 {<cook BN> e.g.} 3... Kf2 ( {Stockfish 16 3.29
+(depth 41)} 3... Kf2 4. Rf5+ Ke3 5. Rg5 Nc6 6. Rxg2 Nxa5 7. Bxf7 h5 8. Rg3+ Kd4
+9. Rh3 Nc6 10. Rh4+ Kd3 11. Bd5 Na5 12. Rh3+ Kd4 13. Bg8 Nc6 14. Rh4+ Kd3 15.
+Rxh5 b6 16. Rh3+ Ke4 17. Rh6 Ne5)  ( {3.29 (depth 41)} 3... Nc6 4. Bd5 Nxa5 5.
+Rg5 Kf2 6. Rxg2+ Ke3 7. Bxf7 h5 8. Rg3+ Kd4 9. Rh3 Nc6 10. Rh4+ Kd3 11. Bd5 Na5
+12. Rh3+ Kd4 13. Bg8 Nc6 14. Rh4+ Kd3 15. Rxh5 b6 16. Rh3+ Ke4 17. Rh6 Ne5)  (
+{5.10 (depth 41)} 3... Ne6 4. Bd5 Nf4 5. Bxb7 Nxh5 6. a6 Kf2 7. Bxg2 Kxg2 8. a7
+f5 9. a8=Q+ Kf2 10. Qa2+ Kf3 11. Qd5+ Kf4 12. Qd2+ Kg4 13. Qd1+ Kg5 14. Kd2 Nf4
+15. Qg1+ Kf6 16. Qxc5 Ng6 17. Qd6+ Kf7)  ( {6.47 (depth 40)} 3... f6 4. Bd5 c4
+5. Rf5 Ne6 6. Bxe6 Kh2 7. Rf2 Kg3 8. Rxg2+ Kxg2 9. Bd5+ Kg3 10. Bxb7 h5 11. a6
+h4 12. Kc2 h3 13. Kc3 Kf4 14. Bh1 Ke5 15. Kxc4 Kd6 16. Kd4 Ke6 17. Kc5 Ke7) 4.
+Rf5+ Ke3 5. Rg5 Kf2 6. Bd5 g1=Q+ 7. Rxg1 Kxg1 8. Bxb7 Ne6 9. Kc2 h5 10. Kc3 h4
+11. Kc4 h3 12. a6 h2 13. a7 Nc7 14. Kxc5) 3... Kf2 4. Rh2 Kg3 5. Rxg2+ Kxg2 6.
+Bd5+ Kf2 7. Bxb7 Ne6 8. Kd2 c4 9. Kc3 Nc5 10. Kxc4 Nxb7 11. a6 Nd6+ 12. Kc5 Nc8
+) 2... Kg1 $1 (2... c4 3. Bxc4+ Kg1 4. Rh3 Kf2 5. Bd5) 3. Rh3 $1 Kf2 4. Bd5
+g1=Q 5. Rf3+ Kg2 6. Rxf7+ Kg3 7. Rg7+ Kf2 8. Rxg1 Kxg1 9. Ke2 (9. Kc2 {<or>} ) 
+9... h5 10. Bxb7 Ne6 {<eg>} 11. a6 Nc7 12. a7 h4 13. Kd3 1-0
+

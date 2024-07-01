@@ -1,0 +1,30 @@
+[Event "Shakhmatny Listok#482"]
+[Site "?"]
+[Date "1930.10.10"]
+[Round "?"]
+[White "Videnkin=I"]
+[Black "(=0044.21b4e5)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/6N1/7B/4k1P1/1K4b1/1n6/p1P5/8 w - - 0 1"]
+
+{Shakhmatny Listok=19 U3: Neuenschwander=B beatochess 05/06/2024 .} 1. Nf5 Kxf5
+2. Bg7 a1=Q (2... Kg6 3. Kxb3 Be6+ 4. Kb2)  (2... Nc1 $1 {<cook BN>} 3. Ka3 Kg6
+$1 (3... Kxg5 $2 4. Kb2) 4. Bh8 Be6) 3. Bxa1 Nxa1 4. Kc3 Bd1 $1 5. g6 $1 Kxg6
+6. Kb2 Nxc2 7. Kc1 $1 Ne3 8. Kd2 1/2-1/2
+
+[Event "Shakhmatny Listok#482"]
+[Site "?"]
+[Date "1930.10.10"]
+[Round "?"]
+[White "Videnkin=I BN=(c)"]
+[Black "(=0044.31b5f5) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3B4/3N4/8/1K3kP1/3P2b1/p7/2P1n3/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 05/06/2024.} 1. Nc5 (1. Bf6 $2 Nc3+ 2.
+Kb4 a2) 1... Nxd4+ 2. Kb4 a2 3. Nb3 Nxb3 4. Bf6 a1=Q (4... Nc1 5. Ka3 Kg6 6.
+Kb2 Be6 7. Kxc1) 5. Bxa1 Nxa1 6. Kc3 Bd1 7. g6 $1 Kxg6 8. Kb2 Nxc2 9. Kc1 Ne3
+10. Kd2 1/2-1/2
+
