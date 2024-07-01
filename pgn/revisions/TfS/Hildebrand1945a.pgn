@@ -1,0 +1,42 @@
+[Event "Tidskrift for Schack#0007"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hildebrand=A"]
+[Black "(+0041.24a5c7) U3"]
+[Result "1-0"]
+[FEN "1N6/2k1p3/P3b3/K1p5/2P5/6p1/4Bp2/8 w - - 0 1"]
+
+{Tidskrift for Schack=2 Tidskrift for Schack/2. U3: Tidskrift for Schack=5
+5/1945.} 1. a7 Kb7 2. Bf1 Kxa7 3. Nc6+ Ka8 4. Bg2 (4. Nxe7 $2 Kb8 $1 5. Nd5 $1
+Bg4 6. Ne3 Bf3 7. Kb6 Kc8 8. Kxc5 Kc7 9. Ng2 Kb7 10. Nh4 Bc6 11. Kd4 Kb6 12.
+Ke3 Kc5 13. Kf4 g2) 4... f1=Q 5. Bxf1 Bxc4 6. Bg2 e6 $1 {<cook>} 7. Ne5+ Bd5
+1-0
+
+[Event "Tidskrift for Schack#0007"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hildebrand=A"]
+[Black "(+0041.24a5c8) (c) U3"]
+[Result "1-0"]
+[FEN "1Nk5/8/P3bp2/K1p5/2P5/6p1/4Bp2/8 w - - 0 1"]
+
+{Tidskrift for Schack=2 Tidskrift for Schack/2. correction: Hildebrand=A
+Tidskrift for Schack=6 6/1945. U3: Neuenschwander=B beatochess 07/06/2024.} 1.
+a7 Kb7 2. Bf1 Kxa7 3. Nc6+ Ka8 4. Bg2 f1=Q (4... Bc8 $1 {<cook BN>} 5. Kb6 Bb7
+6. Kxc5 f5 $1 7. Kd4 f4) 5. Bxf1 Bxc4 6. Bg2 1-0
+
+[Event "Tidskrift for Schack#0007"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hildebrand=A BN=(c)"]
+[Black "(+0041.24a5c7) (c)"]
+[Result "1-0"]
+[FEN "1Nk5/7p/P3b3/K1p5/2P5/3B2p1/5p2/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/06/2024.} 1. a7 (1. Kb6 $2 g2 2. a7
+f1=Q 3. a8=Q Qf6 $1) 1... Kb7 2. Bf1 Kxa7 3. Nc6+ Ka8 4. Bg2 f1=Q 5. Bxf1 Bxc4
+6. Bg2 1-0
+

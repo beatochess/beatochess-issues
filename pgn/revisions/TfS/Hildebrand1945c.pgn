@@ -1,0 +1,17 @@
+[Event "Tidskrift for Schack#0049 U1 U2"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hildebrand=A"]
+[Black "(+0024.02f2a2)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/8/B7/1n6/8/k3pKp1/1N3B2 w - - 0 1"]
+
+{Tidskrift for Schack=8 Tidskrift for Schack/8. U1 U2 Neuenschwander=B
+beatochess 19/06/2024.} 1. Bxg2 $1 (1. Bxe2 $2 Nc6 $1 2. Nc3+ Kb3)  (1. Bxe2 $1
+{<cook BN>} 1... Nc6 2. Bc3 Kxb1 3. Kxg2) 1... Nd3+ 2. Kxe2 Nc1+ (2... Nf4+ 3.
+Kf3 Nxg2 4. Nc3+ Kb3 5. Kxg2) 3. Kd2 $1 (3. Kd1 $2 Kxb1 4. Be4+ Kb2)  (3. Ke3
+{<cook BN>any kiing move wins} ) 3... Nb3+ (3... Kxb1 4. Be4+ Kb2 5. Bc3+ Kb3
+6. Bd5+) 4. Kc2 Nxa5 5. Bd5+ Ka1 6. Nd2 $1 1-0
+
