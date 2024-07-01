@@ -1,0 +1,31 @@
+[Event "64#485"]
+[Site "?"]
+[Date "1930.08.20"]
+[Round "2"]
+[White "Zakhodyakin=G"]
+[Black "(+0161.00e1a8) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k4N2/8/b7/6b1/4R3/8/8/4K3 w - - 0 1"]
+
+{64=22-23. U1: Neuenschwander=B 2024 .} 1. Nh7 (1. Ne6 $1 { <cook BN>} 1... Bf6
+2. Ra4) 1... Bc1 $1 2. Kd1 Bb2 (2... Bd3 {<main>} 3. Re8+ Kb7 4. Kxc1 Bxh7 5.
+Re7+ Kc6 6. Rxh7) 3. Kc2 Ba1 (3... Bg7 4. Re8+ Ka7 5. Re7+)  (3... Ba3 4. Ra4) 
+4. Ra4 1-0
+
+[Event "64#485"]
+[Site "?"]
+[Date "1930.08.20"]
+[Round "2"]
+[White "Zakhodyakin=G"]
+[Black "(+0161.00e1a8) (v)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/8/b4N2/6b1/4R3/8/8/4K3 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1930.08.20"]
+
+{64=22-23 .} 1. Nh7 Bc1 2. Kd1 Bb2 (2... Bd3 {<main>} 3. Re8+ Kb7 4. Kxc1
+Bxh7 5. Re7+ Kc6 6. Rxh7) 3. Kc2 Ba1 (3... Ba3 4. Ra4) (3... Bg7 4. Re8+ Kb7 5.
+Re7+ Kc6 6. Rxg7) 4. Ra4 1-0
+

@@ -1,0 +1,28 @@
+[Event "2.p 64#550"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "2"]
+[White "Zakhodyakin=G"]
+[Black "(+0027.01c3e6) U1 U2"]
+[Result "1-0"]
+[FEN "3n4/8/4k3/2p5/6N1/2K1B3/4B3/4n3 w - - 0 1"]
+
+{64=13-14 . U2: 64 Shakhmatnoye Obozrenye=9(728) 5/1985 U1: Beasley=J
+HHdbIII#53843 3-2-2002.} 1. Bd2 $1 (1. Bxc5 $1 {<cook JB>} ) 1... Ng2 2. Bf1 $1
+Nf4 $1 (2... Nh4 3. Bg5 Kf5 4. Bxh4)  (2... Kf5 3. Nh6+) 3. Bxf4 Kf5 4. Bc7 (4.
+Be3 $1 {<cook>} 4... Kxg4 5. Bxc5) 4... Ne6 5. Ne3+ $1 (5. Nh6+ $2 Kg6) 5...
+Ke4 6. Nd5 $1 Kxd5 7. Bg2# 1-0
+
+[Event "2.p 64#550"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "2"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0057.12c3e6) (c)"]
+[Result "1-0"]
+[FEN "3n4/b7/1p2k3/2p5/6N1/1PK1B3/4B3/4n3 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 19/04/2024.} 1. Bd2 Ng2 2. Bf1 Nf4 (
+2... Nh4 3. Bg5)  (2... Kf5 3. Nh6+)  (2... Nf4 3. Bxf4 Kf5 4. Bc7 Ne6 5. Ne3+
+Ke4 6. Nd5 Kxd5 7. Bg2#) 1-0
+

@@ -1,0 +1,29 @@
+[Event ".c Fizkulturnik Belarussii"]
+[Site "?"]
+[Date "1979.10.03"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0133.00c6a7) U3"]
+[Result "1-0"]
+[FEN "n4b2/k7/2K5/3R4/8/8/8/8 w - - 0 1"]
+
+{(EG#04964). U3: Conrady=H HHdbIII#22486 27-5-2001 U2: Neuenschwander=B
+beatochess 25/04/2024.} 1. Rd7+ Nc7 (1... Ka6 2. Rd8 Nb6 $1 {<cook HC>} 3. Rxf8
+Ka5 4. Rf5+ Ka6) 2. Rxc7+ (2. Kxc7 $1 {<cook BN>} 2... Ka6 3. Rd5 $1) 2... Kb8
+3. Rh7 Ba3 4. Rh1 Be7 5. Rh8+ Ka7 6. Rh7 1-0
+
+[Event ".c Fizkulturnik Belarussii"]
+[Site "?"]
+[Date "1979.10.03"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+0133.00c6a7) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5b2/k7/2KR4/3n4/8/8/8/8 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 25/04/2024.} 1. Rd7+ Kb8 (1... Ka6 2.
+Rxd5 $1)  (1... Nc7 2. Rxc7+ ( {<or>} 2. Kxc7) 2... Kb8 3. Rh7 Ba3 4. Rh1 Be7
+5. Rh8+ Ka7 6. Rh7) 2. Rd8+ Ka7 3. Rxf8 $1 (3. Rxd5 $2 Bh6 $1) 3... Nb4+ 4. Kb5
+1-0
+

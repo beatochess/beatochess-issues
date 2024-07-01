@@ -1,0 +1,59 @@
+[Event "64#472"]
+[Site "?"]
+[Date "1930.06.30"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(+0018.01h7f8) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5k1n/7K/n7/1p6/N5N1/8/1B6/8 w - - 0 1"]
+
+{64=17-18 . U3: Beasley=J HHdbIII#54385 3-2-2002.} 1. Nc5 Nxc5 2. Ba3 Ke8 (2...
+Kf7 $1 {<cook JB>} 3. Bxc5 Ng6 4. Nh6+ Kf6 5. Bd4+ Kg5 6. Nf7+ Kh5)  (2... b4
+$1 {<cook JB>} 3. Bxb4 Kf7) 3. Bxc5 Nf7 4. Kg6 Nd8 5. Nf6# 1-0
+
+[Event "64#472"]
+[Site "?"]
+[Date "1930.06.30"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(+0018.02h7f8) (c) U2 U3"]
+[Result "1-0"]
+[FEN "5k1n/7K/n7/1p4p1/N5N1/8/1B6/8 w - - 0 1"]
+
+{64=17-18 . correction: Garcia=M Estudios Artisticos  de Ajedrez - XI-98 2012.
+U2 U3: Van_der_Heijden=H HHdbV#70675 1-2-2014.} 1. Nc5 Nxc5 2. Ba3 Ke8 (2...
+Kf7 3. Bxc5 Ng6 4. Nh6+ Kf6 5. Bd4+ Ne5 6. Ng4+ Kf5 $1 {<cook HH>} 7. Nxe5 g4
+8. Kh6 g3 9. Kh5 Ke4)  (2... b4 3. Bxb4 Kf7 4. Bxc5 Ng6 5. Nh6+ Kf6 6. Bd4+ Ne5
+7. Ng4+ Kf5 8. Nxe5) 3. Bxc5 Nf7 4. Kg6 (4. Kg7 $1 {<cook HH>} )  (4. Kg8 $1
+{<cook HH>} ) 4... Nd8 5. Nf6# 1-0
+
+[Event "64#472"]
+[Site "?"]
+[Date "1930.06.30"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(+3114.00h6g8) (c)"]
+[Result "1-0"]
+[FEN "6kn/R4q2/7K/8/6N1/8/8/2B5 w - - 0 1"]
+
+{64=17-18 . correction: Krug=P Estudios Artisticos  de Ajedrez - XX-5 2017.} 1.
+Ra8+ $1 (1. Rxf7 $2 Kxf7 $1 (1... Nxf7+ $2 2. Kg6 Kf8 3. Ba3+) ) 1... Qf8+ 2.
+Rxf8+ Kxf8 3. Kh7 Nf7 4. Ba3+ Ke8 5. Kg6 Nd8 (5... Nh8+ 6. Kg7 Nf7 7. Nf6+ Kd8
+8. Kxf7) 6. Nf6# 1-0
+
+[Event "64#472"]
+[Site "?"]
+[Date "1930.06.30"]
+[Round "?"]
+[White "Zakhodyakin=B BN=(v)"]
+[Black "(+0014.11f8h7) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5K1n/7k/1N5P/8/8/6p1/8/6B1 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 24/03/2024} 1. Nd7 $1 (1. Be3 $2 Ng6+ 2.
+Kf7 Ne5+ 3. Ke6 Nf3 $10)  (1. Nd5 $2 Kxh6 $10) 1... Kxh6 (1... Ng6+ 2. Kf7 Nh4
+3. Nf6+ Kxh6 4. Be3#) 2. Kg8 Ng6 3. Be3+ Kh5 4. Kf7 Nh4 (4... g2 5. Nf6+ Kh4 6.
+Kxg6) 5. Nf6# 1-0
+

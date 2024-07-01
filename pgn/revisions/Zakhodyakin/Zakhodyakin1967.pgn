@@ -1,0 +1,35 @@
+[Event "3.hm Rustaveli MT Vecherni Tbilisi"]
+[Site "?"]
+[Date "1967.02.03"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+3200.33g1h4) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5R2/4p3/1p1p2P1/1P6/P6k/8/2q5/4R1K1 w - - 0 1"]
+
+{(EG#00396). U1: Beasley=J HHdbIII#33057 3-2-2002 U2: Neuenschwander=B
+beatochess 07/04/2024.} 1. g7 (1. Kh1 $1 {<cook JB>} 1... Qc3 (1... Qxg6 2.
+Rh8+) 2. Re2 Qa1+ 3. Kh2) 1... Qg6+ 2. Kh1 $1 (2. Kf2 $2 Qg3+ 3. Kf1 (3. Ke2
+Qe5+ 4. Kd3 Qd5+ 5. Ke3 Qe5+ 6. Kf3 Qg3+) 3... Qxg7 4. Rf4+ Kh5)  (2. Kh2 $2
+Qg3+ 3. Kh1 Qxe1+) 2... Qxg7 3. Rf4+ Kh5 4. Rf5+ (4. Rg1 {<cook BN>} 4... Qe5
+5. Rfg4 Qd5+ 6. R1g2 Qf3 7. Rg3 Qf1+ 8. Rg1 Qf5 9. Rg5+ Qxg5 10. Rxg5+ Kxg5 11.
+a5) 4... Kh4 5. Ree5 $1 dxe5 6. Rf2 $1 1-0
+
+[Event "3.hm Rustaveli MT Vecherni Tbilisi"]
+[Site "?"]
+[Date "1967.02.03"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+3101.52h1h3) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5R2/4pN2/2qp4/6P1/4P2P/3P3k/2P5/7K w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 07/04/2024.} 1. g6 Qc3 (1... Qxc2 2. Ng5+ Kg3 (2... Kxh4 3. Rf1 $1) 3. Rf3+ Kxh4 4. Rf1 $1) 
+2. Ng5+ Kxh4 (2... Kg3 3. Rf1) 3. Nf3+ (3. Rf1 $2 Kh5 $1) 3... Kh5 (3... Kg3 4.
+Ng1 Qg7 5. Rf3+ $1 Kh4 6. Kh2) 4. g7 $1 Qxg7 5. Rf5+ Kh6 (5... Kg4 6. Rg5+) 6.
+Ne5 $3 dxe5 (6... Qg3 7. Nf7+ Kh7 8. Rh5+ Kg6 9. Rg5+)  (6... Qg8 7. Nf7+ Kh7
+8. Rh5+ Kg6 9. Rg5+)  (6... Kh7 7. Rf7)  (6... e6 7. Nf7+ Kh7 8. Rh5+ Kg8 9.
+Rg5)  (6... Qh7 7. Rf2)  (6... Qh8 7. Nf7+) 7. Rf2 1-0
+

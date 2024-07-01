@@ -1,0 +1,32 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3101.01f3g7) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/6kq/2p5/5R2/5N2/5K2/8/8 w - - 0 1"]
+
+{Shakhmaty v SSSR/9. U2: Beasley=J HHdbIII#20150 3-2-2002.} 1. Ne6+ Kh6 2. Rf6+
+Kh5 3. Rg6 $1 Qd7 4. Nf4+ (4. Rg5+ $1 {<cook JB>} 4... Kh4 5. Rg4+ Kh5 (5...
+Kh3 $2 6. Nf4+) 6. Rg5+) 4... Kh4 5. Ng2+ 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3101.02f3h8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7k/7q/5R2/2Np4/8/5Kp1/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 12/04/2024.} 1. Rf8+ Kg7 2. Ne6+ Kh6 (
+2... Kg6 3. Kxg3 $1 (3. Nf4+ $2 Kg5 4. Kxg3 Qh4+ 5. Kg2 (5. Kf3 Qh1+) 5... Qg4+
+6. Kf2 Qxf4+) 3... Qe7 4. Nf4+ Kg5 (4... Kg7 5. Rd8)  (4... Kh7 5. Rh8+ Kg7 6.
+Rd8) 5. Nh3+ {and Rf3} ) 3. Rf6+ (3. Kxg3 Qg6+)  (3. Nf4 Qg7)  (3. Rf4 Qd3+) 
+3... Kh5 4. Rg6 $1 (4. Nf4+ Kg5 (4... Kh4 $2 5. Rg6) 5. Rg6+ Kf5 6. Rxg3 Qh1+
+{is theoreatically lost} ) 4... Qf7+ (4... Qxg6 5. Nf4+ Kg5 6. Nxg6 Kxg6 7.
+Kxg3) 5. Nf4+ Qxf4+ 6. Kxf4 Kxg6 7. Kxg3 1/2-1/2
+

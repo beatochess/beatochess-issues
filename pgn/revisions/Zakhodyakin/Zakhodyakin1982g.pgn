@@ -1,0 +1,29 @@
+[Event "Shakhmaty v SSSR (U1)"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0340.20h2h5)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6r1/1B4b1/2P3P1/7k/8/8/7K/8 w - - 0 1"]
+
+{Shakhmaty v SSSR/9. (U1) Neuenschwander=B beatochess 07/05/2024.} 1. c7 $1 (1.
+Kh1 {<minor dual>} 1... Be5 2. c7) 1... Be5+ 2. Kh1 (2. Kh3 $2 Bxc7 3. Bd5 Re8
+$1 4. g7 Re3+ 5. Kg2 Rg3+) 2... Bxc7 3. Bd5 $1 Rg7 (3... Rxg6 4. Bf7) 4. Bf7 $1
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0340.30h2h5) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "5br1/1B6/2P3P1/3P3k/8/8/7K/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/05/2024. } 1. c7 $1 (1. Kh1 $2 Rg7)
+1... Bd6+ 2. Kh1 $1 (2. Kh3 $2 Bxc7 3. d6 Bxd6 4. Bd5 Re8 5. g7 Re3+ 6. Kg2
+Rg3+) 2... Bxc7 3. d6 $1 Bxd6 4. Bd5 $1 Rg7 5. Bf7 1/2-1/2
+

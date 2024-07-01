@@ -1,0 +1,49 @@
+[Event ".c Shakhmatny Listok#472"]
+[Site "?"]
+[Date "1930.07.25"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+4001.02h6g8) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6k1/8/7K/8/1Q4p1/3N1p2/8/3q4 w - - 0 1"]
+
+{Shakhmatny Listok=14. U1: Neuenschwander=B beatochess 22/03/2024 .} 1. Qe7 (1.
+Qc4+ $1 {<cook BN>} 1... Kf8 2. Kg6 Ke8 3. Qc8+ Ke7 4. Qc7+ Ke8 (4... Ke6 5.
+Nf4#) 5. Kf6 Qa1+ 6. Ne5 Qa6+ 7. Kg7 {and Stockfish-16 gives a mate in 17} ) 
+1... Qd2+ 2. Nf4 $1 Qh2+ $1 (2... Qxf4+ 3. Kg6) 3. Nh3 $1 (3. Kg6 $2 Qc2+) 3...
+Qd2+ (3... Qxh3+ 4. Kg6) 4. Ng5 Qh2+ {<eg>} 5. Kg6 Qc2+ 6. Ne4 Qc6+ 7. Nf6+ 1-0
+
+[Event ".c Shakhmatny Listok#472"]
+[Site "?"]
+[Date "1930.07.25"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+4001.02h6g8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6k1/8/7K/7N/1Q4p1/5p2/7q/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 22/03/2024.} 1. Qe7 Qd2+ 2. Nf4 $1 (2.
+Kg6 $2 Qc2+ 3. Kh6 Qc1+ $10) 2... Qh2+ 3. Nh3 $1 (3. Kg6 $2 Qc2+ 4. Kf6 Qc6+ 5.
+Ne6 Qc3+ $10) 3... Qd2+ 4. Ng5 (4. Kg6 $2 Qc2+ $10) 4... Qh2+ 5. Kg6 Qc2+ 6.
+Ne4 1-0
+
+[Event ".c Shakhmatny Listok#472"]
+[Site "?"]
+[Date "1930.07.25"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(m)"]
+[Black "(+4301.02f5h7) (m)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3Q4/6Nk/8/5K2/6p1/5pq1/7r/8 w - - 0 1"]
+
+{modification: Neuenschwander=B beatochess 22/03/2024.} 1. Qe7 Kg8 (1... Qh4 2.
+Qf7 Kh8 (2... Qh6 3. Nh5+ Kh8 4. Qe8+ Kh7 5. Qe7+ Kh8 6. Qe5+ Kg8 7. Nf6+ $16) 
+3. Qf8+ Kh7 4. Ne6 Qh5+ 5. Ng5+ {(theme)} 5... Qxg5+ 6. Kxg5 $18) 2. Kg6 Rh6+ (
+2... Qb8 3. Nf5 {(theme)} 3... Qb6+ 4. Nd6 Qb1+ 5. Ne4 {(theme)} 5... Qb6+ 6.
+Nf6+ {(theme)} ) 3. Kxh6 Qh2+ 4. Nh5 {(theme)} 4... Qd2+ 5. Nf4 {(theme)} 5...
+Qh2+ 6. Nh3 {(theme)} 6... Qd2+ 7. Ng5 {(theme)} 7... Qh2+ 8. Kg6 Qc2+ 9. Ne4
+{(theme)} 1-0
+

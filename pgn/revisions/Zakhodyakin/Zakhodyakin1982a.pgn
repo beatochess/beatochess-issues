@@ -1,0 +1,45 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0040.12b3e4) U3"]
+[Result "1/2-1/2"]
+[FEN "8/8/P6B/8/4k3/1K6/1p2p3/4b3 w - - 0 1"]
+
+{Shakhmaty v SSSR/12. U3: Isakov=V Shakhmaty v SSSR/2 1985 U3: Haworth=G
+Bleicher=E HHdbIV#50746 1-11-2009.} 1. Kc2 (1. Kxb2 $2 Bc3+)  (1. Ka2 $2 Kd3 2.
+a7 Kc2) 1... Ba5 $1 2. Bd2 $1 (2. a7 $2 b1=Q+ 3. Kxb1 e1=Q+ 4. Bc1 Qb4+) 2...
+Bxd2 3. a7 b1=Q+ (3... Kd4 $1 {<cook VI>} ) 4. Kxb1 e1=Q+ 5. Ka2 Qc1 (5... Kd4
+$1 {<cook VI>} 6. a8=Q Qe6+)  (5... Kd3 $1 {<cook GH/EB>} ) 6. a8=Q+ 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0040.12c3f4) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/8/1P6/7B/5k2/2K5/2p2p2/5b2 w - - 0 1"]
+
+{Shakhmaty v SSSR/12. correction: Keith=D EG=188 4/2012. U3 Neuenschwander=B
+beatochess 12/04/2024.} 1. Kd2 Ba6 (1... Bd3 {<cook BN>} 2. Be2 (2. b7 f1=Q 3.
+b8=Q+ Kg5 4. Qe5+ Kh6) 2... c1=Q+ 3. Kxc1 Ke3 $1 4. b7 Kxe2)  (1... Bg2 {<cook
+BN>} 2. Be2 Be4) 2. Be2 Bxe2 3. b7 c1=Q+ 4. Kxc1 f1=Q+ 5. Kb2 Qd1 6. b8=Q+
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0040.12d5f4) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/bP6/3K3B/p4k2/5p2/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 12/04/2024.} 1. Kd4 $1 (1. Bxf3 $1 a3)
+1... f2 2. Be2 $1 a3 (2... Bxe2 3. b7 f1=Q 4. b8=Q+ $10 {, e.g.} 4... Kg4 5.
+Qg8+ Kh4 6. Qh7+ Kg3 7. Qg6+ Bg4 8. Qd3+) 3. Kc3 a2 4. Kb2 Bxe2 5. b7 a1=Q+ 6.
+Kxa1 f1=Q+ 7. Kb2 1/2-1/2
+

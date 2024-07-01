@@ -1,0 +1,30 @@
+[Event "Chess Life & Review#0452"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0840.11a1g8) U1"]
+[Result "1/2-1/2"]
+[FEN "3R1bk1/8/8/6P1/3p4/3r4/2R5/K2B3r w - - 0 1"]
+
+{Chess Life & Review=8 Chess Life & Review/8. U1: Brieger=R Szusz=P Chess Life
+& Review=4 4/1972 U1: Neuenschwander=B beatochess 25/05/2024.} 1. Kb2 $1 (1.
+Rf2 $1 { <cook RB/PS>} 1... Rhxd1+ 2. Kb2 R1d2+ 3. Rxd2 Rxd2+ 4. Kc1 Rd3 5. Kc2
+Rc3+ 6. Kd2 Rc4 7. Kd3)  (1. Rc1 $1 {<cook BN>} 1... Rdxd1 2. Rxd1 Rxd1+ 3. Kb2
+Kf7 4. Kc2) 1... Rhxd1 2. Rxf8+ $1 Kxf8 3. Rf2+ Kg8 $1 4. Kc2 $1 Kg7 5. Re2 $1
+(5. Rh2 $2 Ra3 $1 6. Kxd1 Ra1+ 7. Kc2 Ra2+)  (5. Rg2 $2 Kg6 $1) 1/2-1/2
+
+[Event "Chess Life & Review#0452"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0840.11a1g8) (c)"]
+[Result "1/2-1/2"]
+[FEN "R4bk1/8/8/6P1/3p4/3r4/2R5/K2B3r w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 25/05/2024.} 1. Kb2 $1 (1. Rf2 $2
+Rhxd1+ 2. Kb2 R1d2+ 3. Rxd2 Rxd2+ 4. Kc1 Rd3 5. Kc2 Rc3+ 6. Kd2 Kf7) 1... Rhxd1
+(1... Rdxd1 2. Rf2) 2. Rxf8+ $1 Kxf8 3. Rf2+ Kg8 4. Kc2 Kg7 5. Re2 $1 (5. Rh2
+$2 Ra3 6. Kxd1 Ra1+)  (5. Rg2 $2 Kg6) 5... Kg6 6. Rg2 1/2-1/2
+

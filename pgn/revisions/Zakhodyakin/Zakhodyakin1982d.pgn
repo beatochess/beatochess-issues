@@ -1,0 +1,35 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0106.11d8d6) U1 U3"]
+[Result "1-0"]
+[FEN "3K4/3p3P/1n1k2n1/8/4R3/8/8/8 w - - 0 1"]
+
+{Shakhmaty v SSSR/12. U1: Isakov=V Shakhmaty v SSSR/2 1985 U3: Haworth=G
+Bleicher=E HHdbIV#50732 31-10-2009 Comment Neuenschwander=B beatochess
+07/05/2024 .} 1. Rg4 (1. Ke8 $1 {<cook VI>} 1... Nh8 2. Kf8)  (1. Rh4 $1 {<cook
+VI>} 1... Ne5 (1... Nd5 $1 $10 {<comment BN>} ) 2. Rh6+ Kc5 3. Rh5) 1... Nh8 2.
+Rg8 Nd5 $1 3. Rxh8 Nf6 4. Kc8 Kc6 (4... Kc5 {<cook BN>} 5. Kc7 (5. Kb7 Kb4) 
+5... d5 $10) 5. Kb8 Kb6 (5... Kb5 {<cook BN>} ) 6. Ka8 $1 Ka6 (6... Ka5 $1
+{<cook GH/EB>} 7. Rd8 Nxh7 8. Rxd7 Nf6) 7. Rd8 $1 Nxh7 8. Rxd7 Ng5 (8... Nf8 9.
+Rf7) 9. Rd6+ Kb5 10. Rd5+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0106.11b8b6) (c)"]
+[Result "1-0"]
+[FEN "1K6/8/1k5P/4n3/5p2/2n5/8/5R2 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/05/2024.} 1. h7 (1. Rxf4 $2 Nd5 $1
+2. h7 (2. Rf5 Ne7) 2... Ng6 3. Rg4 Nde7) 1... Ng6 2. Rg1 (2. Re1 $2 Kb5 $3 (
+2... Kc5 3. Re6 Nh8 4. Re8) 3. Re6 Nh8 4. Re8 Nd5 5. Rxh8 Nf6 6. Kc7 Kc4 7. Kd6
+Kd3 8. Ke5 Nxh7 $10) 2... Nh8 3. Rg8 Ne4 4. Rxh8 Nf6 5. Ka8 $1 Ka6 (5... Ka5
+{<main>} 6. Rf8 $1 (6. Rg8 $2 Nxh7 7. Rg7 Nf6) 6... Nxh7 7. Rf7 Ng5 (7... Kb4
+8. Rxh7 Kc3 9. Rf7) 8. Rf5+) 6. Rg8 $1 (6. Rf8 $2 Nxh7 7. Rf7 Ng5 8. Rf6+ Kb5
+9. Rf5+ Kc4 10. Rxg5 Kd3) 6... Nxh7 7. Rg7 Nf8 8. Rf7 Ne6 9. Rf6 1-0
+

@@ -1,0 +1,25 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0304.20g6c6) U3"]
+[Result "1/2-1/2"]
+[FEN "8/1r5N/2k3K1/7n/8/4P3/5P2/8 w - - 0 1"]
+
+{Shakhmaty v SSSR/3. U3: Alizade=A Shakhmaty v SSSR/11 1983.} 1. Ng5 Ng7 2. Nf7
+Ne6 (2... Kd7 $1 { <cook AA>} 3. Kxg7 Ke6) 3. Kf6 Kd7 4. Ne5+ Kd6 5. Nf7+ Kd5
+6. e4+ 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0304.30g6c6) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/1r5N/2k1P1K1/7n/8/4P3/7P/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/052024.} 1. Ng5 Ng7 2. Nf7 Nxe6 3.
+Kf6 Kd7 4. Ne5+ Kd6 5. Nf7+ Kd7 (5... Kd5 6. e4+) 6. Ne5+ 1/2-1/2
+

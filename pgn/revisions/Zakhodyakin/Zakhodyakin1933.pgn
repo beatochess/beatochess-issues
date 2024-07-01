@@ -1,0 +1,28 @@
+[Event "64#623"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0161.00b3a8) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k7/8/b4b2/8/8/1KN5/3R4/8 w - - 0 1"]
+
+{64=1 64/1. U2: Neuenschwander=B beatochess 27/03/2024.} 1. Ne4 $1 (1. Rd6 $2
+Bxc3) 1... Be7 $1 (1... Be5 2. Ra2 Ka7 3. Nc5) 2. Rd7 Bh4 3. Rh7 Be1 4. Rh1 Ba5
+5. Ra1 (5. Nc5 {<cook BN>} ) 1-0
+
+[Event "64#623"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+0161.00b3a8) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k7/4b3/8/8/2b1N3/8/1K6/3R4 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 27/03/2024.} 1. Rd7 Bh4 (1... Bb4 2. Rd4)
+2. Rh7 Be1 3. Rh1 Bb4 (3... Ba5 4. Ra1 (4. Nc5 {<or>} ) ) 4. Ra1+ Kb7 5. Ra4
+1-0
+

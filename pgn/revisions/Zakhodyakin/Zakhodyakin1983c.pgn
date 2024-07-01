@@ -1,0 +1,28 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0170.01e6h1) U3"]
+[Result "1-0"]
+[FEN "b7/8/4K3/B7/7p/b7/2R5/7k w - - 0 1"]
+
+{Shakhmaty v SSSR/3. U3: Nikoronov=A Shakhmaty v SSSR/12 1983.} 1. Rc3 Bb2 2.
+Rd3 $1 Bg7 (2... Bg2 3. Bc7 Kg1 4. Rd1+ Bf1 5. Bb6+) 3. Rd1+ Kh2 (3... Kg2 $1
+{<cook AN>} 4. Rd8 $1 Bf3 5. Rg8 Bg4+ $1 6. Kd5 h3 7. Rxg7 h2 8. Rxg4+ Kh3) 4.
+Bc7+ Kh3 5. Rd3+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0170.01e6h1) (c)"]
+[Result "1-0"]
+[FEN "7k/8/b7/2R4p/B7/4K3/8/b7 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 15/04/2024.} 1. Rc6 (1. Rxh5+ $2 Kg7
+$1)  (1. Ra5 $2 Bc4 $1) 1... Bb7 (1... Bf1 2. Rc1) 2. Rd6 $1 (2. Rb6 $2 Bd5 $1)
+2... Bg2 (2... Bg7 3. Rd8+ Kh7 4. Bc2+ Kh6 5. Rd6+ Kg5 6. Rg6+) 3. Rd8+ Kh7 (
+3... Kg7 4. Rd1) 4. Bc2+ Kh6 5. Rd6+ 1-0
+

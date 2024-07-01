@@ -1,0 +1,29 @@
+[Event "2.hm Trud"]
+[Site "?"]
+[Date "1948.02.14"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0104.01b2g2) U1"]
+[Result "1/2-1/2"]
+[FEN "1R6/8/7n/3N4/8/8/1K4kp/8 w - - 0 1"]
+
+{U1: Hildebrand=A Tidskrift for Schack=12 12/1950 U1: Pettersson=B Tidskrift
+for Schack=2 2/1951.} 1. Ka2 (1. Nf4+ $1 {<cook AH>} 1... Kf2 2. Nh3+ Kg2 (2...
+Ke2 3. Re8+ Kf3 4. Rf8+ Kg2 5. Nf2) 3. Nf4+ Kf3 4. Rb3+ Kxf4 5. Rh3)  (1. Ne3+
+$1 {<cook AH>} 1... Kf3 2. Rf8+ Kxe3 3. Rf1)  (1. Ka1 $1 {<cook BP>} ) 1...
+h1=Q 2. Rb1 Qh4 3. Rb2+ Kf3 4. Rb3+ Ke2 5. Rb2+ Kd3 6. Rb3+ 1/2-1/2
+
+[Event "2.hm Trud"]
+[Site "?"]
+[Date "1948.02.14"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0104.01b2g2) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/1R6/7n/3N4/8/1K6/6kp/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 08/05/2024.} 1. Ka2 (1. Nf4+ Kf3)  (1.
+Ne3+ Kf3) 1... h1=Q 2. Rb1 Qh4 3. Rb2+ Kf3 4. Rb3+ Ke2 5. Rb2+ Kd3 6. Rb3+
+1/2-1/2
+

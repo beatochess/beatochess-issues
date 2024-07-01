@@ -1,0 +1,30 @@
+[Event "Shakhmaty (Riga)#31"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3230.10a8b6) U2"]
+[Result "1/2-1/2"]
+[FEN "KR6/1P5q/1k6/5R2/8/8/1b6/8 w - - 0 1"]
+
+{Shakhmaty (Riga)=21 Shakhmaty (Riga)/11. U2: Van_der_Heijden=H HHdbIV#51756
+3-1-2010 U1: Neuenschwander=B beatochess 13/04/2024.} 1. Rb5+ $1 (1. Ra5 {<cook
+BN>} ) 1... Kxb5 2. Rh8 $1 Qe4 3. Rh4 $1 Qc6 4. Rh6 Qf3 5. Rh3 Qd5 6. Rh5 (6.
+Rb3+ $1 {<cook HH> } ) 6... Be5 7. Rxe5 1/2-1/2
+
+[Event "Shakhmaty (Riga)#31"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3230.10a8b6) (c)"]
+[Result "1/2-1/2"]
+[FEN "KR6/1P5q/k7/6R1/3b4/8/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 13/04/2024.} 1. Rb5 $1 (1. Rg4 $2 Qe7
+$1 2. Rxd4 (2. Rg6+ Bf6) 2... Qa3 3. Rd3 (3. Rg8 Kb6+ 4. Kb8 Qa7+ 5. Kc8 Qxb7+
+6. Kd8 Qb8+) 3... Qa5 (3... Qxd3 $2 4. Re8) 4. Rf8 Kb6+ 5. Kb8 Qa7+ 6. Kc8
+Qxb7+ 7. Kd8 Qc7+ 8. Ke8 Qe5+ 9. Kd8 Qg5+ 10. Kc8 Qc5+ 11. Kd7 Qb5+)  (1. Rd5) 
+1... Kxb5 2. Rh8 $1 (2. Re8 Qh1 $1) 2... Qe4 3. Rh4 Qf3 4. Rh3 $1 (4. Rxd4 $2
+Qa3+ $1 5. Kb8 Kb6) 4... Qc6 5. Rh6 Qg2 6. Rh2 Qd5 7. Rh5 1/2-1/2
+

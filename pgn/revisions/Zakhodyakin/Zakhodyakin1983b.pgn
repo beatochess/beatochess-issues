@@ -1,0 +1,27 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0160.10e4f1) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R7/8/8/8/1bb1K3/8/2P5/5k2 w - - 0 1"]
+
+{Shakhmaty v SSSR/9. U2: Neuenschwander=B beatchess 14/04/2024.} 1. Ra4 Bf7 2.
+Rxb4 Bg6+ 3. Ke3 Bxc2 4. Kd2 (4. Rb2 {<cook BN> } 4... Bh7 5. Rf2+ Kg1 6. Kf3) 
+4... Bh7 5. Rh4 Bg8 6. Rf4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0160.11e4f1) (c)"]
+[Result "1-0"]
+[FEN "R7/8/5p2/8/1bb1K3/8/2P5/5k2 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 14/04/2024.} 1. Ra4 Bf7 (1... f5+ 2.
+Kd4 $1) 2. Rxb4 Bg6+ 3. Ke3 Bxc2 4. Kd2 (4. Rb2 $2 Bd1 $1 (4... Ba4 {<or>} ) 5.
+Rb1 Ke1 6. Kd3 f5) 4... Bh7 5. Rh4 Bg8 6. Rf4+ 1-0
+
