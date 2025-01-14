@@ -1,0 +1,33 @@
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=041154g8h4)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4N1K1/8/P1r5/B5P1/4P1Pk/1p1ppp2/7P/6R1 w - - 0 1"]
+
+1. Nc7 ( {After } 1. a7 $2 Rc8 $1 { White cannot equalize, for example} 2. g6
+f2 3. Rf1 Rxe8+ 4. Kh7 Ra8 5. g7 Rxa7 6. Bb6 Rxg7+ 7. Kxg7 e2 8. Bxf2+ Kh3 9.
+Rb1 d2 10. Rxb3+ Kxh2 { and now } 11. Rb5 e1=Q 12. Bxe1 dxe1=Q { leads to a
+technically won endgame for Black (tablebase); other rook moves to b6 or b8 do
+not change the evaluation.} ) 1... f2 2. Rf1 Rc5 (2... Rxc7 3. Bxc7 e2 4. Rxf2
+e1=Q 5. g6 d2 6. a7 Qxe4 7. Rxd2 Qxg6+ 8. Kf8 $10)  (2... Rxa6 3. Nxa6 e2 4.
+Rxf2 b2 5. Nc5 b1=Q 6. g6 $10) 3. Bd2 exd2 (3... Rxg5+ 4. Kf8 exd2 5. a7 {=main
+variation} ) 4. a7 Rxg5+ (4... Rc1 $2 5. Rxf2 d1=Q 6. a8=Q {is better for
+White} ) 5. Kf8 $1 {First thematic square differentiation (wKf8/f7).   }  (
+{After the thematic} 5. Kf7 $2 {, as in the main line, } 5... Ra5 6. a8=Q Rxa8
+7. Nxa8 Kh3 8. Rd1 Kg2 9. Rxd2 Kg1 10. Rd1+ f1=Q+ 11. Rxf1+ Kxf1 12. Nb6 d2 13.
+Nc4 Ke2 14. Nb2 d1=Q 15. Nxd1 Kxd1 16. e5 b2 17. e6 b1=Q 18. e7 {Black, having
+a check on a2, b3, or h7, wins} ) 5... Ra5 6. a8=Q Rxa8+ 7. Nxa8 Kh3 (7... Kxg4
+8. Nb6 Kf3 9. Nc4 Ke2 10. Nxd2 Kxd2 11. Rxf2+ Ke1 12. Rg2 $1 { is equal} ) 8.
+Rd1 Kg2 9. Rxd2 Kg1 10. Rd1+ $1 {Second thematic square differentation
+(bKf1/f2).}  ( {After the thematic} 10. Rxf2 $2 Kxf2 { White cannot eliminate
+one of the black pawns} ) 10... f1=Q+ 11. Rxf1+ Kxf1 12. Nb6 d2 13. Nc4 Ke2 14.
+Nb2 $1 { Third thematic square differentiation (bKd1/d2).}  ( {After the
+thematic} 14. Nxd2 $2 Kxd2 15. e5 b2 16. e6 b1=Q 17. e7 {Black wins after the
+check} 17... Qf1+ {!} ) 14... d1=Q 15. Nxd1 Kxd1 16. e5 b2 17. e6 b1=Q 18. e7
+Qb4 19. h3 $1 {The final position is known: M. Fabbri,  L'Italia Scacchistica/2
+(EG#01669). U2: Campioli=M HHdbIII#31641 4-12-2002. } 1/2-1/2
+

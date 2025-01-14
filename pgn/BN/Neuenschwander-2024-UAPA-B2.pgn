@@ -1,0 +1,23 @@
+[Event "UAPA (B2) 1st honourable mention"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=3000.53h8h6)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "q6k/3P1P1p/1p5P/8/p7/P7/1P1K4/8 w - - 0 1"]
+
+1. b4 $3 {A paradoxical move, giving Black a passed pawn in an already critical
+position.}  (1. Kc1 $2 Qc6+ 2. Kb1 Qg6+ 3. Ka1 Qf6 4. Kb1 b5 5. Kc2 (5. Ka1
+Qf1+ 6. Ka2 Qxf7+)  (5. Ka2 Qxf7+)  (5. Kc1 Qxh6+) 5... Qg6+ 6. Kc3 Qf6+ 7. Kc2
+b4 8. axb4 Qg6+ 9. Kc3 (9. Kd1 Qb1+ $2) 9... Qc6+) 1... axb3 2. a4 $1 (2. Kc3
+$2 Qf3+ $1 3. Kb2 Qf6+ 4. Kb1 Qf5+ 5. Ka1 Qe5+) 2... Qa5+ ( {After } 2... b2 3.
+Kc2 Qxa4+ 4. Kxb2 { Black cannot win} ) 3. Kd3 $1 (3. Kd1 $2 Qh5+ $1 4. Kc1
+Qxh6+)  (3. Ke2 $2 Qe5+ $1 4. Kd3 Qf6 $1 5. Kd2 Qxh6+)  (3. Kc1 Qc3+ 4. Kd1 Qf6
+) 3... Qf5+ (3... Qd5+ 4. Kc3 $1 Qe5+ 5. Kxb3 {positional draw} ) 4. Kc3 $1
+Qf6+ 5. Kd3 $1 Qd6+ 6. Kc3 $1 Qe7 7. Kb2 $1 Qf6+ 8. Kb1 $1 (8. Ka3 $2 b2 9. Ka2
+Qxf7+) 8... b2 (8... Qd6 9. Kb2 $1 Qe7 10. Kc3 $1 (10. Kb1 $2 Qf6 $1) 10...
+Qf6+ 11. Kd3 $1 {positional draw} ) 9. Kc2 $1 (9. Ka2 $2 Qxf7+) 9... Qf2+ 10.
+Kb1 Qf6 11. Kc2 {positional draw} 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Variantim"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B Minski=M"]
+[Black "(+3503.30a8g8)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "KR1R1rk1/7q/1P4n1/7P/6P1/8/8/8 w - - 0 1"]
+
+1. b7 (1. hxg6 $2 Qh1+)  (1. Rxf8+ $2 Nxf8 2. b7 Qe4) 1... Qe7 (1... Qf7 {<main
+1>} 2. Rxf8+ Nxf8 3. Rxf8+ Kxf8 (3... Qxf8+ {see 3... Qxf8 below} ) 4. b8=R+ $1
+(4. b8=Q+ $2 {<thematic try 1>} 4... Kg7 5. Qb7 Kh8 $1 6. Qxf7 {<stalemate 1>} 
+) 4... Kg7 5. Rb7)  (1... Qg7 2. Rxf8+ Nxf8 3. Rxf8+ Kh7 (3... Qxf8+ {see 3...
+Qxf8 below} ) 4. Rf1 $1) 2. Rxf8+ Nxf8 3. Rxf8+ Qxf8+ (3... Kxf8 4. b8=R+ $1
+{<main 2>}  (4. b8=Q+ $2 {<thematic try 2>} 4... Kg7 $1 5. Qb7 Kh6 $1 6. Qxe7
+{<stalemate 2>} ) 4... Kf7 5. Rb7)  (3... Kh7 4. Rh8+ $1 Kxh8 5. b8=R+ $1) 4.
+b8=R $1 {Triple rook Phoenix to avoid stalemating of black king on h8, h7, and
+h6}  (4. b8=Q $2 {<thematic try 3>} 4... Kh7 $1 5. Qxf8 {stalemate 3} ) 1-0
+

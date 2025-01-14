@@ -1,0 +1,24 @@
+[Event "Frederik Svane gewidmet"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0004.55h3g8)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1n4k1/6p1/p1p5/PpP2Np1/1P4P1/7K/7P/8 w - - 0 1"]
+
+1. Nd6 $1 (1. Kg3 $2 Kf7 $1 2. Kf3 Nd7 3. Ke4 Kf6 $1 4. Nd6 g6) 1... g6 (1...
+Nd7 2. Nxb5 $3 {Das "Svane" Motiv.} 2... cxb5 3. c6)  ( {Schwarz hat kein
+Gegenspiel nach} 1... Kf8 2. Ne4) 2. Kg2 $1 (2. Kg3 $2 Nd7 3. Nxb5 $2
+{funktioniert hier nicht:} 3... cxb5 4. c6 Nf6)  ( {Knapp unzureichend ist} 2.
+Ne4 $2 Nd7 3. Nxg5 Ne5 4. Kg3 Nd3 5. Kf3 Nxb4 6. Ke4 Na2 $1 7. Kd4 (7. Kd3 Nb4+
+$1) 7... Nc1 $1 8. Kc3 Ne2+ 9. Kd2 (9. Kd3 Nc1+ $1) 9... Nd4) 2... Kg7 (2...
+Nd7 3. Nxb5) 3. Ne4 (3. Kf3 $2 Nd7 $1) 3... Nd7 4. Nxg5 Kf6 5. Nf3 (5. h4 $2
+Ne5 6. Kg3 Nd3) 5... Ke6 6. h4 $1 Kd5 7. h5 gxh5 8. gxh5 Kc4 9. h6 Nf8 10. Ne5+
+Kxb4 11. Nd7 $1 (11. Nxc6+ $2 Kxc5 12. Nb8 b4)  (11. Kg3 $2 Nh7 $1 (11... Kxc5
+$2 12. Nd7+)  (11... Kxa5 12. Nxc6+ $2) 12. Kf4 Kxc5 13. Kf5 b4 14. Kg6 b3 (
+14... Nf8+ $2 15. Kg7 Ne6+ 16. Kf7 Ng5+ 17. Kg6 Ne6 18. Nd7+ Kd6 19. h7) 15.
+Kxh7 Kd4 $1) 11... Nh7 12. Nb8 $1 Kxc5 (12... Kxa5 13. Nxc6+) 13. Nxa6+ Kd6 14.
+Nb4 1-0
+

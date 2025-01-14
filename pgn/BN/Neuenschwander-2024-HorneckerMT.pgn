@@ -1,0 +1,21 @@
+[Event "Hornecker MT 2nd honorable mention"]
+[Site "?"]
+[Date "2024.06.24"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0440.45e7a6)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "7r/P1p1K2p/k2p4/5p2/B5p1/4P3/5PPb/6R1 w - - 0 1"]
+
+1. Ra1 $1 {(theme)}  (1. Be8 $2 Kxa7 2. Ra1+ Kb6 3. g3 h5 4. Rh1 h4 5. Rxh2
+hxg3 6. Rg2 (6. Rxh8 $2 g2) 6... Rh2 7. Rxg3 Rxf2 $10) 1... Kxa7 (1... Be5 2.
+Be8+ $1) 2. g3 (2. Bd7+ $2 Kb7 3. g3 h5 4. Rh1 h4 5. Rxh2 hxg3) 2... h5 3. Rh1
+h4 4. Rxh2 hxg3 5. Rxh8 g2 6. Ra8+ Kb7 (6... Kb6 7. Rb8+) 7. Bc6+ Kxc6 8. Ra1
+$1 {(theme)} 8... Kd5 9. Rg1 Ke4 10. Rxg2 d5 11. Kf6 c5 (11... Kf3 12. Rh2 c5
+13. Kxf5) 12. Rg1 $1 {Back to the square where the rook started  the round trip
+(via the four corner squares)}  (12. Kg5 $2 Kf3 13. Rh2 d4 $1 14. exd4 cxd4 15.
+Kxf5 d3 16. Ke5 d2 17. Rh1 Kxf2 $10)  (12. Rg3 $2 c4 13. Kg5 c3 14. Rg1 g3 $1
+15. Rxg3 (15. fxg3 Kxe3 16. Kxf5 c2 17. Rc1 Kd2 18. Rh1 Ke3 $1 19. Rc1 Kd2 20.
+Ra1 Ke3 $1) 15... c2 16. Rg1 f4 $1 17. exf4 d4) 1-0
+

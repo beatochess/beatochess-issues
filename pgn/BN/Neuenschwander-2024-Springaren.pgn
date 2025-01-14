@@ -1,0 +1,19 @@
+[Event "Springaren"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0030.75e5g6)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3b4/2pp4/6k1/1P2K1p1/3p1p2/3P3P/PP2P2P/8 w - - 0 1"]
+
+1. a4 Be7 2. a5 Bb4 (2... Bc5 3. b6 $1 cxb6 4. a6 b5 5. b4 Ba7 6. Kd6 Kf5 7.
+Kc7 Ke5 8. Kb7 Kd6 9. h4 $1 (9. Kxa7 $2 Kc7 10. Ka8 Kc8 $10) 9... g4 10. h5 f3
+11. exf3 gxf3 12. h6 f2 13. h7 f1=Q 14. h8=Q $16 Qxd3 15. Kxa7 $16) 3. b6 f3 $1
+(3... Bd6+ 4. Kd5 cxb6 5. Kxd6 bxa5 6. Kxd7 $16) 4. exf3 Bxa5 5. b7 Bd2 $1 6.
+Ke4 $1 (6. b8=N $2 d6+ 7. Kxd4 Kf5 8. Na6 c6 9. Kc4 Kf4 10. b4 Be3 11. Nb8 d5+
+12. Kc3 c5 13. b5 Bd4+ 14. Kd2 c4 $10)  (6. b8=Q $2 Bf4+ 7. Ke4 d5+ 8. Kxd4 c5+
+9. Kxd5 Bxb8 $10) 6... Bf4 7. b8=N $1 d6 (7... d5+ 8. Kxd5 c6+ 9. Nxc6) 8. Nc6
+(8. b4 $2 c5 $1 $10) 1-0
+

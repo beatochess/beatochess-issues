@@ -1,0 +1,16 @@
+[Event "Problem Paradise 2024 (no. 108)"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0400.45b6a8)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k7/4pp1p/1K6/6P1/p1pP4/4P3/1P1r4/6R1 w - - 0 1"]
+
+1. b4 $1 (1. b3 $2 Rb2 $1 $10) 1... cxb3 (1... Rb2 2. b5 $18) 2. g6 $1 b2 (2...
+fxg6 3. Rf1 $18)  (2... hxg6 3. Rh1 $18) 3. gxf7 (3. gxh7 $2 b1=Q+ 4. Rxb1 Rh2
+5. Kc7 (5. Ra1 Kb8 $10) 5... Ka7 $10)  (3. g7 $2 b1=Q+ 4. Rxb1 Rg2 5. Kc7 (5.
+Ra1 Kb8 $10) 5... Ka7 $10) 3... b1=Q+ 4. Rxb1 Rf2 5. e4 $1 (5. Kc7 $2 Rxf7 $10)
+(5. d5 $2 Rxf7) 5... Rxf7 6. e5 e6 7. Kc6 1-0
+

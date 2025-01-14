@@ -1,0 +1,23 @@
+[Event "Chess Study Art 3rd commendation"]
+[Site "?"]
+[Date "2022.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+1863.12h5h8)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "bb1r3k/4p3/1r2p3/7K/3P4/2R5/4n3/Q6R w - - 0 1"]
+
+1. Kg6+ (1. Rc6 Rg8 $1 (1... Bxc6 2. Kg6+ Kg8 3. Rh8+ Kxh8 4. d5+ e5 5. Qh1+) 
+2. d5+ Kh7 (2... e5 3. Rxb6) 3. Rxb6 Ng3+ 4. Kh4 Nf5+ {=} ) 1... Kg8 2. Rh8+ (
+2. Qxa8 e5+ {=} ) 2... Kxh8 3. Kf7 Ng3 (3... Bg3 4. Rc8 (4. d5 Bxd5 5. Rxg3+
+e5+)  (4. Rc6 Rb1) 4... Bd5 (4... Be4 5. Qa5 Bf5 6. Rxd8+) 5. Rxd8+ Kh7 6. Qa3
+Be4 7. Qxe7 Rb7 8. Rd7 Rxd7 9. Qxd7 { and White wins more material quickly} ) 
+(3... Nxc3 4. Qg1 (4. Qe1 Rf8+ 5. Kxf8 Kh7 6. Kf7 e5)  (4. Qf1 Rf8+ 5. Kxf8 Kh7
+6. Kf7 Kh6) ) 4. Rxg3 (4. Qxa8 Rb5 5. Rxg3 Rf5+ 6. Kxe6 Rf6+ 7. Kxe7 Bxg3 8.
+Qxd8+ Kg7 {=tablebase} )  (4. d5 Bxd5 5. Rxg3+ e5+)  (4. Qf1 Be4) 4... Bxg3 5.
+Qd1 (5. d5+ Rb2 6. Qxb2+ e5 { and Lxd5+=} ) 5... Rb5 (5... Be4 6. Qg4) 6. d5
+Rdxd5 7. Qa1+ (7. Qh1+ {(loss of time)} 7... Bh2 8. Qa1+ Be5 { = main
+variation} ) 7... Be5 (7... Re5 8. Qxa8+) 8. Qc1 Bg7 9. Qh1+ (9. Qc8+ Kh7 10.
+Qg8+ Kh6 11. Qxg7+ Kh5) 9... Rh5 10. Qxa8+ Kh7 11. Qg8+ Kh6 12. Qxg7# 1-0
+

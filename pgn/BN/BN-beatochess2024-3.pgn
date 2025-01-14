@@ -1,0 +1,30 @@
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.02"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0130.01f5h8) TW"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "7k/1p3R2/8/5K2/7b/8/8/8 w - - 0 1"]
+
+1. Rc7 $1 ( {Try: } 1. Kg6 $2 Kg8 2. Rf4 Bd8 3. Rd4 Bb6 4. Rd6 Ba5) 1... Kg8 2.
+Rc4 $1 (2. Kg6 $2 Kf8 3. Rc4 Bd8) 2... Be1 (2... Be7 3. Kg6 b5 (3... Kf8 4.
+Rc8+) 4. Rc8+ Bf8 5. Rb8)  (2... Bf2 3. Kg6 Kf8 4. Rf4+) 3. Kg6 Kf8 4. Rf4+ Kg8
+5. Re4 1-0
+
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.02"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0130.01f5h8) TW"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "7k/5R2/8/5K2/1p5b/8/8/8 w - - 0 1"]
+
+1. Kg6 $1 ( {Try:} 1. Rc7 $2 Kg8 2. Rc4 Be1 $1 3. Kg6 Kf8 4. Rf4+ Ke7 $1 5.
+Re4+ Kd6 6. Rxe1) 1... Kg8 2. Rf4 $1 Bg3 3. Rg4 Be5 (3... Bd6 4. Rd4)  (3...
+Bc7 4. Rc4)  (3... Bh2 4. Kf6+ Kf8 5. Rh4)  (3... Be1 4. Re4)  (3... Bf2 4.
+Rxb4 Bg3 5. Rg4 Bf2 6. Ra4 Kf8 7. Rf4+) 4. Re4 1-0
+

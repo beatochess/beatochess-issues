@@ -1,0 +1,18 @@
+[Event "Pat A Mat"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=3011.87e8e4)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "2B1K3/1p2p3/2p1Np1p/1p1P4/1Pp1k1P1/2P5/P2P2PP/1q6 w - - 0 1"]
+
+1. d6 exd6 2. Nf8 Qe1 (2... Qxa2 3. Bf5+ Kd5 4. Ng6 Qxd2 5. Ne7+ Ke5 6. Ng6+) 
+3. Bf5+ Kf4+ 4. Ne6+ {Two consecutive cross-checks (B-K-N).} 4... Ke5 5. Nf8
+Kf4+ 6. Ne6+ {Single cross-check (K-N).} 6... Ke5 7. Nf8 Kd5+ (7... d5 8. Kd7
+d4 9. Ng6+ Kd5 10. Ne7+) 8. Be6+ {Single crosscheck (K-B).} 8... Ke4 (8...
+Qxe6+ 9. Nxe6 Kxe6 $10) 9. Bf5+ Kd5+ 10. Be6+ {Two consecutive cross-checks
+(B-K-B).} 10... Ke5 11. Bf5 c5 12. Ng6+ Kd5+ 13. Ne7+ {Two consecutive
+cross-checks (N-K-N).} 13... Ke5 14. Ng6+ {perpetual check.} 1/2-1/2
+

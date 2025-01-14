@@ -1,0 +1,24 @@
+[Event "Avni 70-JT 8. honourable mention"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0000.42d6f2)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/3KP3/P2P3P/1p6/8/2p2k2/8 w - - 0 1"]
+
+1. e7 b3 $1 {Delayed queening is the most dangerous.}  (1... c1=Q 2. e8=Q
+{poses White no problems} ) 2. h6 $1 {2nd delayed queening.}  (2. e8=Q $2 b2 3.
+Qf7+ Ke1 $1 4. Qe6+ Kd2 $1 5. a6 (5. Qh6+ Kd1 $19) 5... b1=Q $1 (5... c1=Q $2
+6. a7 b1=Q 7. a8=Q $10) 6. a7 Qb6+ $19) 2... c1=Q (2... b2 3. h7 $1 b1=Q 4.
+h8=Q Qb4+ (4... c1=Q 5. Qd4+ $10 (5. e8=Q $2 Qb4+ $19) ) 5. Kd7 Qb5+ 6. Kd6
+c1=Q 7. Qh2+ Kf3 8. Qh3+ Ke4 9. Qe6+ Kd4 10. Qe5+ Kd3 11. Qf5+ Kc3 12. Qc8+ Kb2
+13. Qxc1+ Kxc1 14. Ke6 $10) 3. e8=Q Qf4+ (3... b2 4. Qf7+ $1 Ke1 5. h7 b1=Q 6.
+h8=Q $10)  (3... Qxh6+ 4. Qe6 $1 Qf4+ 5. Kd7 $1 $10) 4. Kd7 $1 (4. Kc5 $2 b2) 
+4... Qa4+ 5. Ke7 (5. Kd8 {<or>} ) 5... Qxe8+ 6. Kxe8 b2 7. d6 $1 {3rd delayed
+queening.}  (7. h7 $2 b1=Q 8. h8=Q Qb8+ $19) 7... b1=Q 8. d7 Qg6+ 9. Ke7 (9.
+Kd8 $2 Qxh6 10. Kc7 Qf4+ $19) 9... Qg5+ 10. Ke8 Qe5+ 11. Kd8 $1 (11. Kf7 $2 Qd6
+12. Ke8 Qe6+ $19) 11... Qxa5+ 12. Ke7 (12. Ke8 {<or>} ) 12... Qe5+ 13. Kf7 (13.
+Kf8 $2 Qf6+ $19) 13... Qd6 14. h7 $1 Qxd7+ 15. Kg8 1/2-1/2
+

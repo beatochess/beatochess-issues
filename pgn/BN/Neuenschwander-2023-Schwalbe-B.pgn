@@ -1,0 +1,16 @@
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0133.55d6e8)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4k1b1/2R4p/1pPKpP2/8/1p1n4/5P2/p1P2P2/8 w - - 0 1"]
+
+1. Rc8+ (1. f7+ $2 Kf8 2. fxg8=Q+ Kxg8 3. Rc8+ Kf7 4. Ra8 Nb5+ 5. Kd7 Na3 6. c7
+a1=Q 7. c8=Q Qd1+ 8. Kc6 Qxc2+ 9. Kd7 Qxc8+ 10. Kxc8 h5) 1... Kf7 2. Ra8 Nb5+
+3. Ke5 Na3 4. Ra7+ Kg6 (4... Ke8 5. Ra8+) 5. Rg7+ Kh5 6. Rg1 Nb1 7. Rh1+ Kg6 8.
+Rg1+ Kf7 9. Rg7+ Kf8 10. Ra7 Na3 11. Ra8+ Kf7 12. Ra7+ Kg6 13. Rg7+ Kh5 14. Rg1
+{positionelles Remis} 1/2-1/2
+

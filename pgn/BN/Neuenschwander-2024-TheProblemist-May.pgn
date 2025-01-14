@@ -1,0 +1,19 @@
+[Event "The Problemist"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0320.88e4f8)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "5k1r/3p2pB/1p1Ppp1p/2p5/2P1KP2/p1P5/P2B1PPP/8 w - - 0 1"]
+
+1. Bg6 f5+ 2. Ke5 $1 (2. Kd3 $2 h5 3. h4 Rh6 4. g4 Rxg6 5. g5 Ke8 $1 (5... e5
+$2 6. fxe5 Re6 7. f4) 6. Kc2 Kd8 7. Kb3 Kc8 8. Ka4 Kb7 9. Kb5 e5 10. fxe5 Re6
+11. f4 Re8 12. Ka4 Ra8+ 13. Kb3 Kc6 14. Bc1 Ra5 15. Bxa3 b5 $17) 2... h5 3. h4
+Rh6 4. g4 $3 Rxg6 5. g5 Kf7 6. Bc1 $1 {Tempo!}  (6. Be3 $2 Rf6 7. Bxc5 bxc5 8.
+f3 Kg6 {Zugzwang} 9. gxf6 gxf6#)  (6. f3 $2 Rf6 7. Be3 Kg6 8. Bf2 Rf8 9. Bxc5
+Rc8 $17) 6... Rf6 7. Be3 $1 (7. Bxa3 $2 Kg6 8. Bc1 Rf8 $17) 7... Kg6 8. Bxc5 $1
+(8. f3 $2 Rf8 9. Bxc5 Rc8 $17) 8... bxc5 9. f3 {Now Black is in Zugzwang} 9...
+Kf7 10. g6+ 1/2-1/2
+

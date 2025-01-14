@@ -1,0 +1,32 @@
+[Event "EG 1st prize"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+4000.45f8h8)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5K1k/5pp1/4p3/5p2/3p3P/3P3Q/P3P3/6q1 w - - 0 1"]
+
+1. Qf3 (1. Kxf7 $2 Kh7 2. Kxe6 Qg6+ 3. Kd5 Qf7+ 4. Kxd4 Qa7+ 5. Kc3 Qa3+ 6. Kd2
+Qxa2+ 7. Ke3 Qe6+ 8. Kf2 Qe5 9. Qg3 Qd4+ 10. Kg2 g6 { with only a minimal
+advantage for White} )  (1. h5 $2 Qg5 {=} ) 1... Qg6 (1... Qg4 2. a4 $16) 2.
+Qf4 (2. a4 $2 e5 3. Qd5 Qf6) 2... Qf6 (2... f6 3. Qxd4 Qg4 4. Qd7 Qb4+ 5. Kf7
+Qb8 (5... Kh7 6. Qc8) 6. a4 { and White wins easily} ) 3. Qg5 (3. Qd6 $2 f4 4.
+a4 Qf5 5. Qxd4 e5 { gives White only a minimal edge, for example,} 6. Qc4 f3 7.
+exf3 Qxf3 8. Qe4 (8. a5 Qb7 9. Qa4 Qa6 10. Kxf7 Qf6+ 11. Ke8 Qe6+ 12. Kd8 Qd6+
+13. Qd7 (13. Kc8 Qxd3 14. a6 Qd5 15. a7 Qc5+ 16. Kb7 Qe7+ 17. Kb6 Qd8+ 18. Kc5
+Qf8+ 19. Kc4 Qf7+ {= perpetual check} ) 13... Qc5 14. Qa4 Qd6+ 15. Qd7 Qc5 16.
+Qc7 Qf8+ 17. Kd7 Qf5+ 18. Kc6 Qxd3 19. Qxe5) ) 3... Qxg5 (3... e5 4. Qxf6 gxf6
+5. a4) 4. hxg5 e5 5. a3 $3 ( {After } 5. a4 $2 e4 6. a5 exd3 7. exd3 f4 8. a6
+f3 9. a7 f2 10. a8=Q f1=Q {, a position of mutual zugzwang arises, which Black
+holds with accurate play } 11. Qb8 Qf2 $1 12. Qb7 Qh2 $1 13. Qc8 Kh7 $1 14.
+Qf5+ Kh8 15. Kxf7 Qc7+ {=} ) 5... e4 6. a4 exd3 (6... f4 7. a5 f3 8. exf3 e3 (
+8... exf3 { leads to the main line} ) 9. a6 e2 10. a7 e1=Q 11. a8=Q Qe6 (11...
+Kh7 12. Kxf7) 12. Qe4 Qd6+ 13. Kxf7 Qd7+ 14. Kf8 Qd6+ 15. Ke8 Qb8+ 16. Kf7 $16)
+7. exd3 f4 8. a5 f3 9. a6 f2 10. a7 f1=Q 11. a8=Q { Now Black is in Zugzwang } 
+11... Qf5 (11... Kh7 12. Qe4+ f5 13. gxf6+ Kh6 14. f7 $1 $16) 12. Qh1+ Qh7 13.
+Qxh7+ Kxh7 14. Kxf7 Kh8 15. Ke6 Kh7 16. Kf5 $1 { (final Zugzwang)}  (16. Ke5 $2
+Kg6 17. Kxd4 Kxg5 18. Ke5 Kg6 19. Ke6 (19. d4 Kf7) 19... Kh7 $1 20. d4 g5 {=} )
+1-0
+

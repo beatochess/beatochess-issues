@@ -1,0 +1,21 @@
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.05.28"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0004.11e4f2)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/6N1/8/P3K1p1/8/5k2/6n1 w - - 0 1"]
+
+1. a5 g3 2. Nh4 (2. a6 $2 Ne2 3. Nh4 Nc3+) 2... Ne2 3. Kd5 $1 (3. a6 $2 Nd4 4.
+Kd5 Nb5) 3... Nf4+ (3... Nc3+ 4. Kc6 $1) 4. Kc6 $1 (4. Kc5 $2 Ne6+ 5. Kb6 Nd4
+6. a6 Nf5 7. a7 Nxh4 8. a8=Q g2)  (4. Kd6 Ng2 5. Nf5 (5. Ng6 Ne3 6. a6 Nf5+ 7.
+Kc7 Kf1 (7... g2 $2 8. Nf4) 8. Nf4 Nd4 9. Kb6 Ne6 10. Nh3 g2 11. a7 Nf4) 5...
+Ne3 6. Nxg3 Nc4+) 4... Ne6 (4... Nd3 5. Kb5 $1) 5. a6 Nd4+ 6. Kc5 $1 (6. Kb6 $2
+Nf5 7. Ng6 Nd6) 6... Nf5 7. Ng2 $1 Kxg2 (7... Ne3 8. Nf4) 8. a7 Kh2 (8... Kf2
+9. a8=Q g2 10. Qa2+ Kf1 11. Qb1+) 9. a8=Q g2 {<eg>} 10. Qh8+ Kg3 (10... Kg1 11.
+Qh3) 11. Qe5+ Kg4 12. Qe1 Kf3 13. Kc4 Ne3+ 14. Kd3 Nf1 15. Qe4+ Kf2 (15... Kg3
+16. Qd4 Kh2 17. Qh4+ Kg1 18. Ke2 Nh2 19. Qg5) 16. Qd4+ Kg3 17. Ke2 Kh2 18. Qh4+
+Kg1 19. Qg5 1-0
+

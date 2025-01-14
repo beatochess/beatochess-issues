@@ -1,0 +1,20 @@
+[Event "Suomen Shakki 100-JT 1st honourable mention"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+4320.14e2c2)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6B1/5p2/5p1B/2qp4/r7/5Q2/1pkPK3/8 w - - 0 1"]
+
+1. Qd3+ (1. Bh7+ $2 Re4+ 2. Bxe4+ dxe4 3. Qxe4+ Kb3 $10) 1... Kc1 2. Bh7 Re4+ (
+2... Qe7+ {main} 3. Be3 Re4 4. Qxd5 $1 b1=Q 5. Bxe4 Qbxe4 (5... Qbb4 6. Qc6+
+Kb2 7. Qc2+ Ka3 8. d3 $1 $16) 6. Qxe4 Qxe4 7. d3+ $1 {(theme)} 7... Kc2 8. dxe4
+$16) 3. Qxe4 $1 Qb5+ (3... dxe4 {main} 4. d4+ $1 {(theme)} 4... Kb1 5. dxc5 $16
+(5. Bxe4+ $2 Qc2+ $17) ) 4. Qc4+ $3 (4. d3+ $2 Kb1 $1 (4... Kc2 5. Qc4+ $1) 5.
+Qc4 Qe8+ $1 $17) 4... dxc4 (4... Qxc4+ {main} 5. d3+ $1 {(theme)} 5... Kc2 6.
+dxc4+ $16) 5. d3+ $1 (5. d4+ $2 Qg5 $1 $17) 5... Kc2 6. dxc4+ $1 {(theme)} 6...
+Kb3 7. cxb5 {White bishop-pawn batteries win the black queen on four different
+squares.} 1-0
+

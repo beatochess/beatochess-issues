@@ -1,0 +1,18 @@
+[Event "Slovak Chess Union 100 JT (after Havel)"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0430.64h6g1)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3b1r2/3p3p/p4PpK/P1PP4/P6R/8/6P1/6k1 w - - 0 1"]
+
+1. Kg7 (1. Kxh7 $2 g5 2. Rb4 Bxf6 3. g4 Be5 4. Kg6 Bf4)  (1. Rb4 $2 Bxf6 2.
+Kxh7 g5) 1... Rxf6 (1... Bxf6+ 2. Kxf8 Bxh4 3. Ke8 Bf2 4. Kxd7 Bxc5 5. Kc6 Bd4
+6. Kb7 {leads to quality} ) 2. g4 $1 (2. Rxh7 $2 Rf5 3. d6 g5)  (2. Kxh7 $2 g5)
+2... Rd6 $1 (2... g5 3. Rxh7 Rf4 4. Kg6 Rxg4 5. Rxd7 Bxa5 6. c6) 3. cxd6 Bxh4
+4. g5 $1 (4. Kxh7 $2 g5) 4... Bxg5 5. Kxh7 Bf4 6. Kxg6 Bxd6 7. Kf7 Bb4 8. d6 $1
+(8. Ke8 $2 d6) 8... Bxd6 9. Ke8 Bb4 10. Kxd7 Bxa5 11. Kc6 {(Kc8)} 11... Bc3 12.
+a5 $1 (12. Kb7 $2 a5) 12... Bxa5 13. Kb7 1/2-1/2
+
