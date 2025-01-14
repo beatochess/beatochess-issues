@@ -8,13 +8,13 @@
 [FEN "8/8/8/1pR1P1K1/p2P2P1/rp1B1P2/pk6/b7 w - - 0 1"]
 
 {U1: Garcia=M HHdbV#76692 23-9-2011 U1, (U2): Neuenschwander=B beatochess
-2024.} 1. Bh7 $1 (1. Bg6 $1 {<cook MG>} 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2 4. Ke4
-Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bf7 Kb1 9. Rc1+ Kb2 10. Rc8 Kb1 11.
-Bg6+ Kb2 12. Kd3 Kb1 13. Ke3+ Kb2 14. Rh8) 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2 4.
-Ke4 Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bg8 Kb1 9. Rc1+ Kb2 10. Rc6 Kb1
-11. Bh7+ Kb2 12. Rg6 (12. Kd3 {<cook BN>} 12... Kb1 13. Ke3+ Kb2 14. Rh6) 12...
-Kb1 13. Rg5+ (13. Rf6+ {<minor dual BN>} 13... Kb2 14. Rf5) 13... Kb2 14. Rf5
-Kb1 15. Rf4+ Kb2 16. Re4 Kb1 17. Re3+ Kb2 18. Rd3 Kb1 19. Rxb3# 1-0
+24/05/2024.} 1. Bh7 $1 (1. Bg6 $1 {<cook MG>} 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2 4.
+Ke4 Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bf7 Kb1 9. Rc1+ Kb2 10. Rc8 Kb1
+11. Bg6+ Kb2 12. Kd3 Kb1 13. Ke3+ Kb2 14. Rh8) 1... b4 2. Kf5 Kb1 3. Kf4+ Kb2
+4. Ke4 Kb1 5. Ke3+ Kb2 6. Kd3 Kb1 7. Kd2+ Kb2 8. Bg8 Kb1 9. Rc1+ Kb2 10. Rc6
+Kb1 11. Bh7+ Kb2 12. Rg6 (12. Kd3 $1 {<cook BN>} 12... Kb1 13. Ke3+ Kb2 14. Rh6
+) 12... Kb1 13. Rg5+ (13. Rf6+ {<minor dual BN>} 13... Kb2 14. Rf5) 13... Kb2
+14. Rf5 Kb1 15. Rf4+ Kb2 16. Re4 Kb1 17. Re3+ Kb2 18. Rd3 Kb1 19. Rxb3# 1-0
 
 [Event "ostergotlands Dagblad"]
 [Site "?"]

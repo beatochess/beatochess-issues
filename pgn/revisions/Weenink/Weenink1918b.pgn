@@ -25,6 +25,7 @@ Ka1 11. Qa5+ Kb1 12. Qb4+ Ka1 13. Qd4+ Kb1 14. Qd1+ Kb2 15. Qd2+ Kb1 16. Qxg2
 [Result "1-0"]
 [FEN "8/8/7p/7b/6p1/1P6/5P2/2k1KB2 w - - 0 1"]
 
-{correction: Neuenschwander=B beatochess 14/5/2024.} 1. b4 Bg6 2. b5 Be4 3. b6 Bb7
-4. Bg2 $1 Bxg2 5. f4 g3 (5... h5 6. Kf2) 6. f5 h5 7. f6 h4 8. f7 h3 9. f8=Q 1-0
+{correction: Neuenschwander=B beatochess 14/05/2024.} 1. b4 Bg6 2. b5 Be4 3. b6
+Bb7 4. Bg2 $1 Bxg2 5. f4 g3 (5... h5 6. Kf2) 6. f5 h5 7. f6 h4 8. f7 h3 9. f8=Q
+1-0
 
