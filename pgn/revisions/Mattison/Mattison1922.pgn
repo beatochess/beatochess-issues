@@ -1,0 +1,64 @@
+[Event "Latvju Sport#03"]
+[Site "?"]
+[Date "1922.06.01"]
+[Round "?"]
+[White "Mattison=H"]
+[Black "(+0133.12h3a6) U2"]
+[Result "1-0"]
+[FEN "7n/6p1/k5p1/5P2/5R2/5b1K/8/8 w - - 0 1"]
+
+{Latvju Sport=11 . U2: Nunn=J Mattison's Chess Endgame Studies#29 1987.} 1. f6
+Bd5 (1... gxf6 2. Rxf6+ Kb5 (2... Kb7 3. Rxf3 g5 4. Rf6 Kc7 5. Rh6 Nf7 6. Rh7) 
+3. Rxf3 g5 4. Rf6 Kc5 5. Kg4 Kd5 6. Kxg5 Ke5 7. Rf8) 2. fxg7 Nf7 3. Rd4 (3. Rg4
+$2 Kb7 $1 (3... Ne5 $2 4. Rg5)  (3... Be6 $2 4. Kh2 $1 Ne5 5. Re4 Nf3+ 6. Kg3
+Ng5 7. Rxe6+) 4. Rxg6 Ne5 5. Rg5 Be6+)  (3. Rf5 gxf5 4. g8=Q Kb7 $1 5. Kg3 $1
+{<cook JN>} 5... Kc7 6. Kf4 Kd7 7. Qg7 Be6 8. Qf8 Kc6 9. Qe7 Kd5 10. Qc7) 3...
+Bb3 $1 (3... Ng5+ 4. Kg4) 4. Rd3 Bc4 $1 5. Rc3 Be6+ (5... Bf1+ {<main>} 6. Kh4
+Nh6 7. Kg5 Ng8 8. Rc8 Ne7 9. Re8)  (5... Bd5 {<main>} 6. Rc5 Be6+ (6... Bb3 7.
+g8=Q Ng5+ 8. Rxg5 Bxg8 9. Rxg6+ Kb7 10. Rxg8) 7. Kh2 $1 (7. Kg2 $2 Bc8)  (7.
+Kh4 $2 g5+ 8. Kg3 (8. Kh5 Kb6 9. Rf5 Bxf5 10. g8=Q Bg4+ $1 11. Kg6 Be6) 8...
+Kb6 $1 9. Rf5 Nd6) 7... Nd8 (7... Kb6 8. g8=Q Kxc5 9. Qxg6) 8. Rc8) 6. Kh4 $1 (
+6. Kh2 $2 Ne5)  (6. Kg3 $2 Nh6) 6... Nh6 (6... g5+ {<main>} 7. Kg3 $1 (7. Kh5
+$2 Nd8 8. Rc8 Bf7+ 9. Kxg5 Ne6+) 7... Nh6 8. Rc6+ Kb5 9. Rxe6 Nf5+ 10. Kg4 Nxg7
+11. Re7) 7. Rc6+ Kb5 8. Rxe6 Nf5+ 9. Kg5 Nxg7 10. Re5+ Kc4 (10... Kc6 11. Kxg6
+Kd6 12. Kf6) 11. Kxg6 Kd4 12. Kf6 1-0
+
+[Event "Latvju Sport#03"]
+[Site "?"]
+[Date "1922.06.01"]
+[Round "?"]
+[White "Mattison=H"]
+[Black "(+0133.13h3a6) (c) U2"]
+[Result "1-0"]
+[FEN "7n/6p1/k4Pp1/3b4/3p1R2/7K/8/8 w - - 0 1"]
+
+{Latvju Sport=11 . correction: Garcia=M Estudios Artisticos  de Ajedrez -
+VII-27 2012. U2: Van_der_Heijden=H HHdbV#76674 11-5-2013.} 1. fxg7 Nf7 2. Rxd4
+(2. Rf5 $1 {<cook HH>} 2... gxf5 3. g8=Q Kb5 4. Kg3 d3 5. Kf2 Kb4 6. Qg6) 2...
+Bb3 $1 (2... Ng5+ 3. Kg4) 3. Rd3 Bc4 $1 4. Rc3 Be6+ (4... Bf1+ {<main>} 5. Kh4
+Nh6 6. Kg5 Ng8 7. Rc8 Ne7 8. Re8)  (4... Bd5 {<main>} 5. Rc5 Be6+ (5... Bb3 6.
+g8=Q Ng5+ 7. Rxg5 Bxg8 8. Rxg6+ Kb7 9. Rxg8) 6. Kh2 $1 (6. Kg2 $2 Bc8)  (6. Kh4
+$2 g5+ 7. Kg3 (7. Kh5 Kb6 8. Rf5 Bxf5 9. g8=Q Bg4+ $1 10. Kg6 Be6) 7... Kb6 $1
+8. Rf5 Nd6) 6... Nd8 (6... Kb6 7. g8=Q Kxc5 8. Qxg6) 7. Rc8) 5. Kh4 $1 (5. Kh2
+$2 Ne5)  (5. Kg3 $2 Nh6) 5... Nh6 (5... g5+ {<main>} 6. Kg3 $1 (6. Kh5 $2 Nd8
+7. Rc8 Bf7+ 8. Kxg5 Ne6+) 6... Nh6 7. Rc6+ Kb5 8. Rxe6 Nf5+ 9. Kg4 Nxg7 10. Re7
+) 6. Rc6+ Kb5 7. Rxe6 Nf5+ 8. Kg5 Nxg7 9. Re5+ Kc4 (9... Kc6 10. Kxg6 Kd6 11.
+Kf6) 10. Kxg6 Kd4 11. Kf6 1-0
+
+[Event "Latvju Sport#03"]
+[Site "?"]
+[Date "1922.06.01"]
+[Round "?"]
+[White "Mattison=H BN=(c)"]
+[Black "(+0133.13h3a6) (c)"]
+[Result "1-0"]
+[FEN "7n/6p1/k5p1/5P2/5R1p/5b1K/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 22/10/2024.} 1. f6 Bd5 2. fxg7 Nf7 3.
+Rd4 (3. Rf5 $2 Be6 $1 (3... gxf5 $2 4. g8=Q $18) 4. Kg2 (4. Kxh4 Nd6)  (4. Kh2
+Nh6) 4... h3+ $1 (4... Bxf5 $2 5. g8=Q h3+ 6. Kg3 $18 { tablebase} ) 5. Kg1 (5.
+Kh2 Nh6) 5... Bxf5 6. g8=Q Nd6 $10 {  tablebase} ) 3... Bb3 4. Rd3 Bc4 (4...
+Be6+ 5. Kxh4) 5. Rc3 Bd5 (5... Be6+ 6. Kxh4 Nh6 7. Rc6+ Kb5 8. Rxe6 Nf5+ 9. Kg5
+Nxg7 10. Re5+ Kc4 11. Kxg6)  (5... Bf1+ 6. Kxh4 Nh6 7. Kg5 Ng8 8. Rc8 Ne7 9.
+Re8) 6. Rc5 Bb3 7. g8=Q Ng5+ 8. Rxg5 Bxg8 9. Rxg6+ 1-0
+
