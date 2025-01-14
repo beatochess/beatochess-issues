@@ -24,7 +24,7 @@ Neuenschwander=B beatochess 27/03/2024.} 1. Nc3 (1. Nd4 $1 {<cook MG>} 1... f2
 [ECO "A00"]
 [FEN "1K6/1P6/kP6/8/5p2/5p1b/4N3/8 w - - 0 1"]
 
-{correction: Neuenschwander=B beatochess 27/03/2024.} 1. Nc3 f2 2. Kc7 f1=Q 3.
+{correction: Neuenschwander=B beatochess 24/03/2024.} 1. Nc3 f2 2. Kc7 f1=Q 3.
 b8=N+ (3. b8=Q $2 Qc4+ 4. Kd6 Qxc3) 3... Ka5 4. Nc6+ Ka6 5. b7 Qd3 6. b8=N# (6.
 Nd5 $2 Qh7+ 7. Nde7 Qb1)  (6. b8=Q $2 Qd7#) 1-0
 
@@ -38,7 +38,7 @@ Nd5 $2 Qh7+ 7. Nde7 Qb1)  (6. b8=Q $2 Qd7#) 1-0
 [ECO "A00"]
 [FEN "2K5/1P6/kPn5/6p1/5pp1/5P1b/4N3/8 w - - 0 1"]
 
-{modfication: Neuenschwander=B  beatochess 27/03/2024.} 1. Kc7 Nb8 (1... Bg2 2.
+{modfication: Neuenschwander=B  beatochess 24/03/2024.} 1. Kc7 Nb8 (1... Bg2 2.
 Nd4 Nxd4 3. b8=Q $18)  (1... gxf3 2. Kxc6 Bd7+ 3. Kc7 fxe2 4. b8=Q e1=Q 5. Qa8+
 Kb5 6. Qd5+ Ka6 7. Qa2+ Kb5 8. Qb2+ Kc5 9. b7 $18) 2. Kxb8 (2. Nd4 gxf3 3. Nxf3
 Bg2)  (2. Nxf4 gxf3 3. Nxh3 g4 4. Kxb8 gxh3 $10) 2... gxf3 3. Nc3 (3. Nd4 $2 f2
@@ -56,7 +56,7 @@ $10) 1-0
 [ECO "A00"]
 [FEN "8/1pK1p3/kP6/6pp/2P1ppP1/5P2/8/1b1N4 w - - 0 1"]
 
-{modification: Neuenschwander=B  beatochess 27/03/2024.} 1. c5 (1. gxh5 $2 e3) 
+{modification: Neuenschwander=B  beatochess 24/03/2024.} 1. c5 (1. gxh5 $2 e3) 
 1... e3 2. Nc3 e2 3. Nxe2 hxg4 4. c6 gxf3 5. Nc3 f2 6. cxb7 f1=Q 7. b8=N+ $1
 Ka5 8. Nc6+ Ka6 9. b7 Qd3 10. b8=N# $1 1-0
 
