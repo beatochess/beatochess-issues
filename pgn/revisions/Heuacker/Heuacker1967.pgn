@@ -1,0 +1,30 @@
+[Event "Berliner Morgenpost"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(=3141.00d1f8) U3"]
+[Result "1/2-1/2"]
+[FEN "5k2/3b4/4qB2/5N2/8/1R6/8/3K4 w - - 0 1"]
+
+{U3: Konoval=Y Bourzutschky=M HHdbV#47003 28-7-2011.} 1. Be7+ (1. Nd4 $2 Qxf6
+2. Rf3 Bg4) 1... Kf7 (1... Kg8 2. Rg3+ Kh7 (2... Kf7 3. Rg7+ Ke8 4. Nd6+) 3.
+Rh3+ Kg6 4. Rh6+) 2. Nd6+ Kxe7 (2... Kg6 3. Rg3+ Kh5 (3... Kh6 $1 {<cook
+YK/MB>} )  (3... Kh7 $1 {<cook YK/MB>} ) 4. Rg5+ (4. Rg7 $2 Ba4+ 5. Kd2 Qd5+ 6.
+Kc1 Qd1+) 4... Kh6 (4... Kh4 5. Re5+) 5. Nf5+ Kh7 6. Rh5+ Kg8 7. Rg5+) 3. Re3
+Qxe3 4. Nf5+ Bxf5 1/2-1/2
+
+[Event "Berliner Morgenpost"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(=3141.00d1f8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "2bB1k2/8/4q3/5N2/8/7R/8/3K4 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 09/09/2024.} 1. Be7+ (1. Rh8+ $2 Kf7
+2. Rh7+ Kg8 3. Rg7+ Kh8) 1... Kf7 2. Nd6+ Kxe7 (2... Kg8 3. Rg3+ Kh7 4. Nxc8) 
+3. Re3 Qxe3 4. Nf5+ Bxf5 1/2-1/2
+

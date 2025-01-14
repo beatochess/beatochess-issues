@@ -1,0 +1,50 @@
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0311.23h3c5) U1"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/P7/2p5/2k5/8/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+
+{Deutsche Schachzeitung/10. U1: Garcia=M HHdbV#68133 24-9-2011.} 1. a8=R $1 (1. a8=Q $2 Ra1 2.
+Qxa1 h1=Q+ 3. Qxh1) (1. Kg3 $1 {<cook MG>} Ra1 2. Kxh2 Ra2 3. Kg3 Ra4 4. Kf3
+Ra3 5. Kf4) (1. Bd3 $1 {<cook MG>} Ra1 2. Kxh2) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1
+1-0
+
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0350.45h3c5) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b5/PpBp4/1P1P4/2k5/7p/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+
+{Deutsche Schachzeitung/10. correction: Hornecker=S Die Schwalbe=298-1 8/2019.} 1. a8=R $1 (1. a8=Q $2
+Ra1 2. Qxa1 h1=Q+ 3. Qxh1) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1 1-0
+
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+0311.25h3c5) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/P1p5/2p5/2k5/7p/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+
+{correction: Neuenschwander=B beatochess 21/08/2024.} 1. a8=R $1 (1. a8=Q $2 Ra1 2.
+Qxa1 h1=Q+ 3. Qxh1) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1 1-0
+

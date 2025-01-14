@@ -1,0 +1,36 @@
+[Event "Der Tagesspiegel"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+3141.01d1c4) U3 U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2B5/8/8/1q6/2k2N1R/2p4b/8/3K4 w - - 0 1"]
+
+{U3: Afek=Y HHdbVI 6-8-2020 U2: Neuenschwander=B  beatochess 01/09/2024.} 1.
+Ba6 $1 (1. Ne6+ $2 Kb3 $1 2. Nd4+ Kb2 3. Nxb5 c2+ 4. Ke2 c1=Q 5. Rb4+ (5. Bxh3
+Qc2+) 5... Ka1 6. Bxh3 Qc2+ 7. Ke3 Qc3+ 8. Nxc3) 1... Qxa6 (1... c2+ $1 {<cook
+YA>} 2. Kd2 (2. Kxc2 Qxa6 3. Ne6+ Kb5 4. Nc7+ Kb6 5. Nxa6 Bf5+) 2... c1=Q+ 3.
+Kxc1 Qxa6 4. Ne6+ Kc3 5. Rxh3+ Qd3) 2. Ne6+ Kb3 3. Nc5+ Kb2 4. Rb4+ Ka3 5. Nxa6
+Bf1 (5... Bc8 6. Rb6 $1) 6. Rb6 $1 (6. Kc2 $1 {<cook BN>} 6... Bxa6 7. Kxc3) 
+1-0
+
+[Event "Der Tagesspiegel"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(v)"]
+[Black "(+3141.01d1c4) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2B3b1/8/8/1q6/7R/2pkp1PN/8/3K4 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 01/09/2024.} 1. Nf4+ Kc4 (1... Ke4 2.
+Ne2+ (2. Ne6+ {<or>} ) 2... Kf3 3. Nd4+ Kf2 4. Rf4+ Kxg3 5. Rg4+) 2. Ba6 $1 (2.
+Ne6+ $2 Kb3 3. Nd4+ Kb2 4. Rh2+ e2+ $1 5. Rxe2+ Qxe2+ 6. Nxe2 Bb3+ 7. Ke1 Bc4
+8. Bf5 c2) 2... Qxa6 (2... c2+ 3. Kxc2 Qxa6 4. Ne6+) 3. Ne6+ Kb3 4. Nc5+ Kb2 5.
+Rb4+ Bb3+ 6. Rxb3+ Ka2 7. Nxa6 Kxb3 8. Nc5+ (8. Ke2 $2 Kc4) 8... Kc4 9. Ne6 (9.
+Ne4 $2 Kd4 $1) 9... Kd3 10. Nf4+ Kd4 (10... Ke4 11. Ke2 c2 12. Nd3 Kd4 13. Nc1)
+1-0
+
