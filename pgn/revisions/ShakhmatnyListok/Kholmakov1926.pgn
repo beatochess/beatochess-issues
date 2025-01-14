@@ -8,8 +8,23 @@
 [ECO "A00"]
 [FEN "3B4/p2p4/4Np2/5Pp1/2k5/2P5/P1KP1Pp1/8 w - - 0 1"]
 
-{Shakhmatny Listok=20. U2: Neuenschwander=B beatochess 13/01/2025 .} 1. d3+ Kd5
+{Shakhmatny Listok=20. U2: Neuenschwander=B beatochess 14/01/2025 .} 1. d3+ Kd5
 $1 2. c4+ Ke5 3. Bc7+ d6 4. Nd4 $1 (4. c5 $1 {<cook>} 4... g1=Q 5. cxd6 Qxf2+
-6. Kb3 Qxf5 7. d7+ Kxe6 8. d8=Q $18) 4... Kxd4 5. Bb8 g1=Q 6. Bxa7+ Ke5 7. f4+
-1-0
+6. Kb3 Qxf5 7. d7+ Kxe6 8. d8=Q Qb5+ 9. Ka3 Qc5+ 10. Ka4 Qc2+ 11. Kb5 Qb2+ 12.
+Ka6 Qxa2+ 13. Ba5 $16) 4... Kxd4 5. Bb8 g1=Q 6. Bxa7+ Ke5 7. f4+ 1-0
+
+[Event "Shakhmatny Listok#172"]
+[Site "?"]
+[Date "1926.10.20"]
+[Round "?"]
+[White "Kholmakov=S BN(c)"]
+[Black "(+0011.55c2c4) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3B4/p2p4/4Np2/5Pp1/2k5/P1P5/2KP1Pp1/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 14/01/2025.} 1. d3+ Kd5 2. c4+ Ke5 3.
+Bc7+ d6 4. Nd4 $1 (4. c5 $2 g1=Q 5. cxd6 Qxf2+ 6. Kb3 Qxf5 7. d7+ Kxe6 8. d8=Q
+Qb5+ 9. Ka2 Qc6 10. Kb3 Qb5+ 11. Kc2 Qc5+ 12. Kd1 Qg1+ 13. Kd2 Qf2+ 14. Kc3
+Qc5+) 4... Kxd4 5. Bb8 g1=Q 6. Bxa7+ Ke5 7. f4+ 1-0
 
