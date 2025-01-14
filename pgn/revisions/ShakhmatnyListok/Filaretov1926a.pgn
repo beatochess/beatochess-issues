@@ -1,0 +1,32 @@
+[Event "Shakhmatny Listok#153"]
+[Site "?"]
+[Date "1926.04.25"]
+[Round "?"]
+[White "Filaretov=S"]
+[Black "(+0072.14e3c2)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/2p5/3p3P/7B/4N3/1p2K3/1pk5/bb3N2 w - - 0 1"]
+
+{Shakhmatny Listok=8. U2: Neuenschwander=B beatochess 11/01/2024 .} 1. Ned2 $1
+(1. Bg6 $2 Kc1)  (1. h7 $2 Ba2 2. h8=Q (2. Bd1+)  (2. Bd1+ $1 {<cook BN>} 2...
+Kxd1 (2... Kc1 3. h8=Q b1=Q 4. Qh1) 3. Nc3+ Kc2 4. Nb1 Bxb1 5. h8=Q Ba2 6. Qh7+
+Kc3 7. Qxc7+ Kb4 8. Qb6+ Ka4 9. Qa6+ Kb4 10. Qxd6+ Kb5 11. Nd2) 2... b1=Q 3.
+Qh7 Kb2) 1... Ba2 2. Nb1 $1 Bxb1 3. h7 Ba2 4. Bg6+ (4. h8=Q $1 {<cook BN>} 4...
+b1=Q 5. Bg6+ Kc1 6. Qh6) 4... Kc1 5. Bb1 $1 Bxb1 6. h8=Q Bc2 7. Ng3 $1 1-0
+
+[Event "Shakhmatny Listok#153"]
+[Site "?"]
+[Date "1926.04.25"]
+[Round "?"]
+[White "Filaretov=S BN=(c)"]
+[Black "(+0072.15e3c2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/2p2B2/3p3P/6pN/8/1p2K3/1pk5/bb3N2 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 11/01/2025.} 1. Nd2 (1. h7 $2 Ba2 2.
+Bg6+ Kc1 3. h8=Q b1=Q 4. Qh7 Qb2 5. Qxc7+ Qc3+) 1... Ba2 2. Nb1 $1 Bxb1 3. h7
+Ba2 4. Bg6+ Kc1 (4... Kd1 5. Bb1 Bxb1 6. h8=Q Ba2 (6... Bd3 7. Qc3) 7. Qd4+) 5.
+Bb1 $1 Bxb1 6. h8=Q Bc2 7. Ng3 b1=Q 8. Ne2+ Kd1 9. Qh1# 1-0
+

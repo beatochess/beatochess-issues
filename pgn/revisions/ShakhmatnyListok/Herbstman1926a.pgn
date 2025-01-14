@@ -1,0 +1,15 @@
+[Event "Shakhmatny Listok#169"]
+[Site "?"]
+[Date "1926.10.05"]
+[Round "?"]
+[White "Herbstman=A"]
+[Black "(=0264.13h5a4) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/1P6/2n2b1R/7K/k6p/1R1p3b/5p2/4N3 w - - 0 1"]
+
+{Shakhmatny Listok=19. U2: Neuenschwander=B beatochess 13/01/2025 .} 1. b8=Q
+Nxb8 2. Nxd3 f1=Q 3. Nc5+ Ka5 4. Nb7+ Ka6 5. Rxf6+ (5. Nc5+ $1 {<dual BN>} 5...
+Ka7 6. Ra3+ Kb6 7. Rxf6+) 5... Qxf6 6. Nc5+ Ka7 7. Rb7+ Ka8 8. Rxb8+ Kxb8 9.
+Nd7+ Bxd7 1/2-1/2
+

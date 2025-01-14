@@ -1,0 +1,46 @@
+[Event "Shakhmatny Listok#168"]
+[Site "?"]
+[Date "1926.08.15"]
+[Round "?"]
+[White "Topcheev=L"]
+[Black "(+4020.03e7a3) U2"]
+[Result "1-0"]
+[FEN "1Q6/2p1K3/2B5/8/3B4/k7/1pqp4/8 w - - 0 1"]
+
+{Shakhmatny Listok=15 . U2: Garcia=M HHdbIV#11106 19-1-2007.} 1. Qa7+ Kb4 2.
+Bc3+ $1 Qxc3 (2... Kxc3 3. Qc5+) 3. Qa4+ (3. Qb7+ $1 {<cook MG>} 3... Ka3 4.
+Qa6+)  (3. Qb8+ $1 { <cook MG>} 3... Ka3) 3... Kc5 4. Qb5+ Kd4 5. Qd5+ Ke3 6.
+Qf3+ Kd4 7. Qe4+ Kc5 8. Qd5+ Kb4 (8... Kb6 9. Qb5+ Ka7 10. Qb7#) 9. Qb5+ Ka3
+10. Qa4# 1-0
+
+[Event "Shakhmatny Listok#168"]
+[Site "?"]
+[Date "1926.08.15"]
+[Round "?"]
+[White "Topcheev=L"]
+[Black "(+4023.03e7a3) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "nQ6/2p1K3/2B5/8/3B4/k7/1pqp4/8 w - - 0 1"]
+
+{Shakhmatny Listok=15 . correction: Garcia=M Estudios Artisticos  de Ajedrez -
+X-60 2012.} 1. Qa7+ Kb4 2. Bc3+ $1 Qxc3 (2... Kxc3 3. Qc5+) 3. Qa4+ (3. Qb7+ $2
+Nb6)  (3. Qb8+ $2 Nb6) 3... Kc5 4. Qb5+ Kd4 5. Qd5+ Ke3 6. Qf3+ Kd4 7. Qe4+ Kc5
+8. Qd5+ Kb4 (8... Kb6 9. Qb5+ Ka7 10. Qb7#) 9. Qb5+ Ka3 10. Qa4# 1-0
+
+[Event "Shakhmatny Listok#168"]
+[Site "?"]
+[Date "1926.08.15"]
+[Round "?"]
+[White "Topcheev=L BN=(c)"]
+[Black "(+4020.06g7c3) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3Q4/p3p1K1/1p2B3/8/5B2/2k5/1p1pqp2/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 13/01/2025.} 1. Qc7+ Kd4 (1... Kb4 2.
+Qxe7+ Kc3 3. Qc7+ Kb4 4. Bd6+) 2. Be3+ $1 Qxe3 (2... Kxe3 3. Qe5+ Kd3 (3... Kf3
+4. Qd5+) 4. Bf5+) 3. Qc4+ Ke5 4. Qd5+ Kf4 5. Qf5+ Kg3 6. Qh3+ Kf4 7. Qg4+ Ke5
+8. Qf5+ Kd4 (8... Kd6 9. Qd5+ Kc7 10. Qd7+ Kb8 11. Qc8#) 9. Qd5+ Kc3 10. Qc4#
+1-0
+

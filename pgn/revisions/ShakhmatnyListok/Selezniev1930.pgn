@@ -8,20 +8,10 @@
 [ECO "A00"]
 [FEN "8/p3p3/Nr2p3/pP2P3/K1Pk4/8/8/8 w - - 0 1"]
 
-{Shakhmatny Listok=8. U2: Neuenschwander=B 2024 .} 1. c5 Rxa6 $1 2. c6 Kc5 $1
-3. c7 Kb6 $1 4. c8=B (4. c8=Q $2)  (4. c8=R $1 {<cook BN>} 4... Kb7 5. Rh8
-{gives White a big advantage} 5... Rb6 6. Re8 (6. Re8 {Stockfish 16 6.64 (depth
-42)} 6... Kc7 7. Rxe7+ Kb8 8. Kxa5 Rb7 9. Re8+ Kc7 10. Rxe6 Kd8 11. Ka6 Rh7 12.
-Rc6 Rg7 13. Rc5 Re7 14. e6 Rh7 15. Rd5+ Kc8 16. Rd7 Rh6 17. Re7 Kd8 18. Rxa7
-Rxe6+ 19. b6 Re3 20. Kb7 Rb3)  (6. Re8 {33.29 (depth 41)} 6... a6 7. Rxe7+ Kb8
-8. bxa6 Rb1 9. Kxa5 Rc1 10. Kb6 Rb1+ 11. Kc5 Rc1+ 12. Kd6 Ra1 13. Rb7+ Kc8 14.
-Rb6 Ra3 15. Rc6+ Kd8 16. Kxe6 Ra5 17. Kd6 Ra2 18. Rb6 Rd2+ 19. Kc6 Rc2+ 20. Kb7
-)  (6. Re8 {#-23 (depth 41)} 6... Rc6 7. bxc6+ Kxc6 8. Rd8 Kc7 9. Rd1 Kb7 10.
-Kxa5 Kc6 11. Ka6 Kc5 12. Kxa7 Kc6 13. Kb8 Kc5 14. Kc7 Kc4 15. Kc6 Kb3 16. Rd7
-Kc4 17. Rxe7 Kd3 18. Rxe6 Ke4 19. Kd6 Kd4 20. Re7)  (6. Re8 {#-15 (depth 41)} 
-6... Rd6 7. Rxe7+ Rd7 8. Rxd7+ Kb6 9. Re7 Kc5 10. Rxa7 Kd5 11. Kxa5 Kxe5 12.
-Rd7 Ke4 13. b6 Ke5 14. b7 Kf4 15. b8=Q+ e5 16. Qa8 e4 17. Re7 Ke3 18. Qxe4+ Kd2
-19. Rd7+ Kc3 20. Qb1) )  (4. c8=N+ $2 Kb7) 1-0
+{Shakhmatny Listok=8. U2: Neuenschwander=B beatochess 15/03/2024 .} 1. c5 Rxa6
+$1 2. c6 Kc5 $1 3. c7 Kb6 $1 4. c8=B (4. c8=Q $2)  (4. c8=R $1 {<cook BN>} 4...
+Kb7 5. Rh8 {gives White a big advantage, e.g.} 5... Rb6 6. Re8 a6 7. Rxe7+ Kb8
+8. bxa6 Rxa6 9. Kb5 Ra7 10. Rxa7 Kxa7 11. Kxa5)  (4. c8=N+ $2 Kb7) 1-0
 
 [Event "Shakhmatny Listok#446"]
 [Site "?"]
@@ -33,11 +23,11 @@ Rd7 Ke4 13. b6 Ke5 14. b7 Kf4 15. b8=Q+ e5 16. Qa8 e4 17. Re7 Ke3 18. Qxe4+ Kd2
 [ECO "A00"]
 [FEN "8/p4p2/Nr1k1P1p/pP3P1P/K7/8/2PP4/8 w - - 0 1"]
 
-{correction/modifcation: Neuenschwander=B beatochess 15/03/2024.} 1. c4 (1. Kxa5 $2
-Kd5) 1... Ke5 (1... Kd7 2. Nc5+ $1 Kd6 (2... Kd8 3. Ne4 $18) 3. d4 $18) 2. d4+
-$1 (2. c5 $2 Rxf6 3. d4+ Kd5 $1 4. Kxa5 Rxf5 5. c6 Kd6 $10)  (2. Kxa5 $2 Rd6 3.
-c5 Rxd2 4. Nb4 Rd1 $1 5. Ka6 Rb1 $1 6. c6 Kd6 7. Nd5 Rc1 8. Kb7 a6 $1 9. bxa6 (
-9. b6 Rxc6 $10) 9... Rb1+ 10. Nb6 Kc5 11. c7 Rxb6+ 12. Ka7 Rc6 13. Kb7 Rb6+ 14.
+{correction: Neuenschwander=B beatochess 15/03/2024.} 1. c4 (1. Kxa5 $2 Kd5) 
+1... Ke5 (1... Kd7 2. Nc5+ $1 Kd6 (2... Kd8 3. Ne4 $18) 3. d4 $18) 2. d4+ $1 (
+2. c5 $2 Rxf6 3. d4+ Kd5 $1 4. Kxa5 Rxf5 5. c6 Kd6 $10)  (2. Kxa5 $2 Rd6 3. c5
+Rxd2 4. Nb4 Rd1 $1 5. Ka6 Rb1 $1 6. c6 Kd6 7. Nd5 Rc1 8. Kb7 a6 $1 9. bxa6 (9.
+b6 Rxc6 $10) 9... Rb1+ 10. Nb6 Kc5 11. c7 Rxb6+ 12. Ka7 Rc6 13. Kb7 Rb6+ 14.
 Kc8 Rxa6 15. Kd8 Rd6+ 16. Ke7 Rc6 $10) 2... Kxd4 (2... Kxf6 3. c5 Rb7 4. c6 Re7
 5. Kxa5 $18) 3. c5 Rxa6 4. c6 Kc5 5. c7 Kb6 6. c8=B $1 1-0
 
