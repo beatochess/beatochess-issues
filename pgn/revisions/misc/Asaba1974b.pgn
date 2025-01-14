@@ -1,0 +1,29 @@
+[Event "4.c Shakhmaty v SSSR#25"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Asaba=E"]
+[Black "(=0300.31d3d1) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/8/3pr3/2P5/3KP3/4P3/3k4 w - - 0 1"]
+
+{Shakhmaty v SSSR/7 (EG#02758). U3: Bourzutschky=M Konoval=Y EG=191 1/2013.} 1.
+c5 $1 (1. Kd4 $2 dxc4 $1) 1... Re4 $1 2. c6 Rc4 (2... Re6 $1 {<cook MB/YK>} 3.
+c7 Rc6 4. Kd4) 3. e4 $1 Rxe4 4. c7 Rc4 (4... Re8 {<main>} 5. Kd4 Rc8 6. Kxd5
+Rxc7 7. e4) 5. e4 $1 Rxc7 6. exd5 1/2-1/2
+
+[Event "4.c Shakhmaty v SSSR#25"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Asaba=E BN=(c)"]
+[Black "(=0300.31g3g1) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/8/6pr/5P2/6KP/7P/6k1 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/11/2024.} 1. f5 Rh4 2. f6 Rf4 (2...
+Rh6 3. Kg4 Rxf6 4. Kxg5 Rf8 5. h4 Kxh2 6. h5) 3. h4 Rxh4 4. f7 Rf4 (4... Rh8 5.
+Kg4 Rf8 6. Kxg5 Rxf7 7. h4) 5. h4 Rxf7 6. hxg5 1/2-1/2
+

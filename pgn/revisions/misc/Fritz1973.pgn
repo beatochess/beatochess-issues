@@ -1,0 +1,59 @@
+[Event "Szachy#0176"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0240.03e1g7) (c)"]
+[Result "1-0"]
+[FEN "8/6k1/p4R2/7b/5p2/8/7p/R2BK3 w Q - 0 1"]
+
+{Szachy/12 (EG#02987). correction: Fritz=J 2.p Szachy#0501 Szachy=5(341)
+5/1975.} 1. Rg6+ $1 (1. Rf7+ $2 Kg8) 1... Kf8 (1... Kh7 2. Bc2)  (1... Kxg6 2.
+Bxh5+ Kxh5 3. Kf2)  (1... Kh8 2. Rh6+ Kg7 3. Rxh5)  (1... Bxg6 2. Bf3) 2. Rg8+
+$1 Ke7 (2... Kxg8 3. Bb3+ Kg7 4. Kf2) 3. Re8+ $1 (3. Rg7+ $2 Kf8) 3... Kd6 (
+3... Kxe8 4. Bxh5+ Ke7 5. Kf2) 4. Re6+ $1 (4. Bf3 $2 Bxf3 5. Rh8 h1=Q+ 6. Rxh1
+Bxh1 7. O-O-O+ Bd5 $1) 4... Kc7 (4... Kxe6 5. Bb3+ Ke5 6. Kf2) 5. Rc6+ $1 Kd8
+6. Bf3 $1 Bxf3 7. Rh6 h1=Q+ 8. Rxh1 Bxh1 9. O-O-O+ $1 Kc7 10. Rxh1 1-0
+
+[Event "Szachy#0176"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0243.03e1h6) U1"]
+[Result "1-0"]
+[FEN "8/3n4/p6k/7b/3R1p2/8/7p/R2BK3 w Q - 0 1"]
+
+{Szachy/12 (EG#02257). U1: Halski=M Szachy=2(338) 2/1975.} 1. Rd6+ $1 (1. Rxa6+
+$1 {<cook MH>} 1... Nf6 2. Rxf6+ Kg7 3. Rf7+ $1 Kg8 (3... Kh6 4. Rd6+ Kg5 5.
+Rd5+) 4. Rf8+ $1 (4. Rd8+ $2 Kxf7 5. Bxh5+ Ke7) 4... Kg7 (4... Kxf8 5. Rxf4+
+Kg7 6. Rh4) 5. Rg8+ $1 Kxg8 (5... Kh7 6. Bc2+ $1 Kxg8 7. Be4 f3 8. Bd5+ Kg7 9.
+Rh4) 6. Bb3+ Kg7 7. Bd5) 1... Nf6 $1 (1... Kg7 2. Rxd7+ Kf8 (2... Kf6 3. Rxa6+
+Kg5 4. Ra5+) 3. Rd8+ Kg7 (3... Ke7 4. Re8+ $1) 4. Rg8+ $1 Kf6 5. Rxa6+ Ke7 6.
+Rg7+ Kf8 7. Rf7+ $1 Kg8 8. Ra8+ Kxf7 9. Bxh5+ Kg7 10. Bf3)  (1... Kg5 2. Ra5+) 
+2. Rxf6+ Kg7 3. Rg6+ $1 (3. Rf7+ $2 Kg8) 3... Kf8 (3... Kh7 4. Bc2 $1)  (3...
+Kxg6 4. Bxh5+ Kxh5 5. Kf2) 4. Rg8+ $1 Ke7 (4... Kxg8 5. Bb3+ Kg7 6. Kf2) 5.
+Re8+ $1 Kd6 (5... Kf6 6. Rxa6+ Kg7 7. Re7+ Kf8 8. Rf7+ $1 Kg8 9. Ra8+) 6. Re6+
+$1 (6. Bf3 $2 Bxf3 7. Rh8 h1=Q+ 8. Rxh1 Bxh1 9. O-O-O+ Bd5 $1) 6... Kc7 $1 (
+6... Kxe6 7. Bb3+ Kd6 8. Kf2)  (6... Kc5 7. Re5+ Kd6 8. Rxh5) 7. Rc6+ $1 (7.
+Rc1+ $2 Kb7 $1 8. Re7+ Kb8 9. Rb1+ Ka8 10. Re8+ Ka7) 7... Kd8 (7... Kd7 8. Bf3
+Bxf3 9. Rh6)  (7... Kb8 8. Rb1+ Ka7 9. Rxa6+ Kxa6 10. Be2+)  (7... Kb7 8. Rb1+
+Ka7 9. Rxa6+ $1 Kxa6 10. Be2+ Ka7 11. Kf2)  (7... Kxc6 8. Kd2 h1=Q 9. Ba4+ $1) 
+8. Bf3 $1 Bxf3 9. Rh6 h1=Q+ 10. Rxh1 Bxh1 11. O-O-O+ $1 Kc7 12. Rxh1 1-0
+
+[Event "Szachy#0176"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Fritz=J BN=(c)"]
+[Black "(+0270.03e1h6) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/4b3/p6k/7b/4Rp2/8/7p/R2BK3 w Q - 0 1"]
+
+{correction: Neuenschwander=B beatochess 08/01/2025.} 1. Re6+ (1. Rxa6+ $2 Bf6
+2. Rxf6+ Kg7 3. Rf7+ Bxf7 (3... Kg8 4. Re8+) 4. Bf3 Bd5) 1... Bf6 (1... Kg7 2.
+Rxe7+ Kf8 3. Re8+ Kg7 4. Rg8+ Kf6 5. Rxa6+ Ke7 6. Rg7+ Kf8 7. Rf7+) 2. Rxf6+
+Kg7 3. Rg6+ Kf8 (3... Kh7 4. Bc2) 4. Rg8+ Ke7 5. Re8+ Kd6 6. Re6+ (6. Rxa6+ $2
+Kc7) 6... Kc7 7. Rc6+ Kd7 8. Bf3 Bxf3 9. Rh6 h1=Q+ 10. Rxh1 Bxh1 11. O-O-O+ 1-0
+

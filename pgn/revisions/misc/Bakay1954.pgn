@@ -1,0 +1,30 @@
+[Event "3.c OTSB Magyar Sakkelet"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Bakay=B"]
+[Black "(=0100.03h3b5) U2 U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7R/8/8/1k5p/8/p6K/p7/8 w - - 0 1"]
+
+{Magyar Sakkelet/12 6/7.p Hungarian champ 1953-1955 Magyar Sakkelet/2 1956. U2=
+U3: Haworth=G Bleicher=E HHdbIV#27111 1-11-2009 U2: Van_der_Heijden=H
+HHdbIV#27111 27-12-2009.} 1. Rb8+ Kc4 2. Rc8+ Kd3 3. Rd8+ (3. Rc1 $1 {<cook
+HH>} ) 3... Ke2 4. Re8+ Kf1 5. Rf8+ Kg1 6. Re8 $1 (6. Rg8+ $1 {<cook GH/EB>} ) 
+6... a1=Q (6... a1=R $1 {<cook GH/EB>} ) 7. Re1+ Qxe1 1/2-1/2
+
+[Event "3.c OTSB Magyar Sakkelet"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Bakay=B BN=(c)"]
+[Black "(=0100.03h3a5) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7R/8/8/k6p/8/p6K/p7/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/11/1924.} 1. Ra8+ Kb4 2. Rb8+ Kc3
+3. Rc8+ Kd2 4. Rd8+ Ke2 5. Re8+ Kf2 6. Rf8+ Kg1 7. Rg8+ (7. Re8 $2 a1=R $1) 
+7... Kh1 8. Re8 a1=R 9. Re3 1/2-1/2
+

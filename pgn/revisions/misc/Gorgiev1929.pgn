@@ -1,0 +1,75 @@
+[Event "2.p Shakhmaty#385"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Gorgiev=T"]
+[Black "(+0143.00f1h8) U1 U2"]
+[Result "1-0"]
+[FEN "3b3k/4n3/8/8/7B/8/8/5KR1 w - - 0 1"]
+
+{Shakhmaty=4 Shakhmaty/4 4.p USSR Study Composition champ 1929 64=13-14
+30-7-1931. U1 U2: Elkies=N EG=138 10/2000.} 1. Bf6+ (1. Ke2 $1 {<cook NE>} 1...
+Nc6 2. Bf2 $1 Kh7 3. Kf3) 1... Kh7 2. Rg7+ (2. Ke2 $1 {<cook NE>} ) 2... Kh6 $1
+(2... Kh8 3. Rxe7+) 3. Rf7 Kg6 $1 (3... Nc6 4. Bxd8 Nxd8 5. Rd7 Ne6 6. Rd6)  (
+3... Kh5 4. Bxe7 Kg6 5. Rf6+) 4. Rf8 Nc6 $1 5. Bxd8 Kg7 $1 6. Re8 Kf7 $1 7. Rh8
+Kg7 8. Bf6+ $1 Kxf6 9. Rh6+ Ke7 10. Rxc6 1-0
+
+[Event "2.p Shakhmaty#385"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Gorgiev=T"]
+[Black "(+0143.00h1h7) (c)"]
+[Result "1-0"]
+[FEN "3b4/4n2k/5B2/8/6R1/8/8/7K w - - 0 1"]
+
+{Shakhmaty=4 Shakhmaty/4 4.p USSR Study Composition champ 1929 64=13-14
+30-7-1931. correction: Problemist Ukraini=4(26) 10-12/2010.} 1. Rg7+ Kh6 2. Rf7
+$1 Kg6 $1 (2... Nc6 3. Bxd8 Nxd8 4. Rd7 $1 Ne6 5. Rd6) 3. Rf8 Nc6 $1 4. Bxd8
+Kg7 $1 5. Re8 Kf7 $1 6. Rh8 Kg7 7. Bf6+ $1 Kxf6 8. Rh6+ 1-0
+
+[Event "2.p Shakhmaty#385"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Gorgiev=T"]
+[Black "(+0143.01f1h8) (c)"]
+[Result "1-0"]
+[FEN "3b3k/4n3/8/8/7B/5p2/8/5KR1 w - - 0 1"]
+
+{Shakhmaty=4 Shakhmaty/4 4.p USSR Study Composition champ 1929 64=13-14
+30-7-1931. correction: Byway=P British Chess Magazine=1 1/2015.} 1. Bf6+ Kh7 2.
+Rg7+ Kh6 3. Rf7 Kg6 4. Rf8 Nc6 5. Bxd8 Kg7 6. Re8 Kf7 7. Rh8 Kg7 8. Bf6+ Kxf6
+9. Rh6+ Kg7 10. Rxc6 1-0
+
+[Event "2.p Shakhmaty#385"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Gorgiev=T"]
+[Black "(+0143.01f1h8) (c)"]
+[Result "1-0"]
+[FEN "3b3k/p3n3/8/8/7B/8/8/5KR1 w - - 0 1"]
+
+{Shakhmaty=4 Shakhmaty/4 4.p USSR Study Composition champ 1929 64=13-14
+30-7-1931. correction: Garcia=M Estudios Artisticos  de Ajedrez - VIII-74
+2012.} 1. Bf6+ (1. Ke2 $2 Nc6 2. Bf2 Bb6) 1... Kh7 2. Rg7+ (2. Ke2 $2 Nc6) 2...
+Kh6 $1 3. Rf7 Kg6 $1 (3... Nc6 4. Bxd8 Nxd8 5. Rd7 Ne6 6. Rd6)  (3... Kh5 4.
+Bxe7 Kg6 5. Rf6+) 4. Rf8 Nc6 $1 5. Bxd8 Kg7 $1 6. Re8 Kf7 $1 7. Rh8 Kg7 8. Bf6+
+$1 Kxf6 9. Rh6+ Ke7 10. Rxc6 1-0
+
+[Event "2.p Shakhmaty#385"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Gorgiev=T BN=(c)"]
+[Black "(+0143.01g1a8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k3B3/6R1/8/1n2p3/b7/8/8/6K1 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 07/11/2024.} 1. Bc6+ (1. Rg4 $2 Bd1 $1
+2. Rg8 Nc3 $1)  (1. Rg2 $2 Kb7 $1 2. Ra2 (2. Rg4 e4 $1 3. Rxe4 Nc3) 2... Nc3) 
+(1. Kf2 $2 Nc3 $1) 1... Kb8 2. Rb7+ Kc8 3. Rb6 Kc7 4. Ra6 Nc3 5. Bxa4 Kb7 6.
+Ra5 Kb6 7. Ra8 Kb7 8. Bc6+ Kxc6 9. Rc8+ 1-0
+

@@ -1,0 +1,32 @@
+[Event "Revista de Romana de Sah#0649"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP"]
+[Black "(=0312.55f3a1) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/3ppp2/2p5/4P1P1/4N1P1/1rP2K2/pP1B4/k2N4 w - - 0 1"]
+
+{Revista de Romana de Sah/3. U2: Garcia=M HHdbV#41274 22-9-2011.} 1. Nc5 Rb5 2.
+c4 $1 (2. Nxd7 $1 { <cook MG>} 2... Rd5 (2... Kb1 3. e6 fxe6 4. g6 a1=Q 5. g7) 
+3. e6 fxe6 4. g6 Rxd7 5. c4 Kb1 6. Nc3+ Kxb2 7. Nxa2 Kxa2 8. Ke4) 2... Rxc5 3.
+b3 $1 Kb1 4. Nc3+ Kb2 5. Nxa2 Kxa2 6. e6 $1 (6. g6 $2 fxg6 7. e6 d6) 6... dxe6
+7. g6 $1 fxg6 8. Bb4 Re5 9. Bc3 Rg5 10. Bd2 (10. Kf4 $2 Kxb3 11. Kxg5 Kxc3 12.
+Kxg6 e5 13. Kf5 Kd4 14. g5 e4 15. g6 e3 16. g7 e2 17. g8=Q e1=Q) 10... Re5 11.
+Bc3 1/2-1/2
+
+[Event "Revista de Romana de Sah#0649"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP BN=(v)"]
+[Black "(=0310.75f3a3) (v)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/3ppp1p/2p4P/2r1P1P1/6P1/kP3K2/P1P5/4B3 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 03/12/2024.} 1. e6 $1 dxe6 2. g6 $1 fxg6
+3. c4 $1 Kxa2 4. Bb4 Rg5 5. Bd2 Re5 6. Bc3 Rc5 7. Bb4 Re5 8. Bc3 Rg5 9. Bd2
+1/2-1/2
+

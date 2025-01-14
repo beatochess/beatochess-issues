@@ -1,0 +1,29 @@
+[Event "64#022"]
+[Site "?"]
+[Date "1925.01.15"]
+[Round "?"]
+[White "Levman=S"]
+[Black "(+0011.12e2c2) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5B2/8/7P/N7/2p5/8/p1k1K3/8 w - - 0 1"]
+
+{64=1 . U2: Garcia=M HHdbV#74514 24-9-2011.} 1. Bg7 c3 2. Nb3 $1 (2. Bxc3 Kxc3
+3. h7 a1=Q 4. h8=Q+ (4. h8=B+ Kb4 5. Bxa1 Kxa5) 4... Kc2 5. Qxa1 (5. Qh7+ $1 {
+<cook MG>} 5... Kc3 6. Qg7+ Kc2 7. Qg6+ Kc3 8. Qf6+ Kc2 9. Qf5+ Kc3 10. Qc5+
+Kb2 11. Nc4+) ) 2... Kxb3 3. Bxc3 Kxc3 4. h7 a1=Q 5. h8=Q+ Kb3 6. Qxa1 1-0
+
+[Event "64#022"]
+[Site "?"]
+[Date "1925.01.15"]
+[Round "?"]
+[White "Levman=S BN=(c)"]
+[Black "(+0011.13e3c2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5B2/8/7P/N7/2p1p3/4K3/p1k5/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 25/11/2024.} 1. Bg7 c3 2. Nb3 $1 (2.
+Bxc3 $2 Kxc3 3. h7 a1=Q 4. h8=Q+ Kc2 5. Qxa1 (5. Qh2+ Kb1) ) 2... Kxb3 3. Bxc3
+Kxc3 4. h7 a1=Q 5. h8=Q+ 1-0
+

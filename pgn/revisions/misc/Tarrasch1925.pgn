@@ -1,0 +1,35 @@
+[Event "64"]
+[Site "?"]
+[Date "1925.02.28"]
+[Round "?"]
+[White "Tarrasch=S"]
+[Black "(+0100.02e7f5) U1 U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R7/4K1p1/8/5k2/8/p7/8/8 w - - 0 1"]
+
+{64=4 after game Tarrasch=S - Schlechter=C Koln 1911. U1: Kopaev=N Shakhmaty v
+SSSR/3 1953 U2: Haworth=G Bleicher=E HHdbV#74513 9-12-2009.} 1. Kd6 (1. Rxa3 $2
+g5 2. Ra5+ Kf4 3. Kf6 g4 4. Ra4+ Kf3 5. Kf5 g3 6. Ra3+ Kf2 7. Kf4 g2 8. Ra2+
+Kf1 9. Kf3 g1=N+)  (1. Ra5+ $1 {<cook NK>} 1... Kf4 2. Ke6 g5 3. Ra4+ Kf3 4.
+Kf5) 1... g5 (1... Ke4 2. Ke6 g5 3. Ra4+ Kf3 4. Kf5) 2. Kd5 Kf4 $1 (2... g4 3.
+Rf8+) 3. Kd4 g4 (3... a2 4. Rxa2 g4 5. Rf2+) 4. Rf8+ $1 Kg3 5. Ke3 Kh2 (5... a2
+6. Ra8 Kh3 7. Rxa2 g3 8. Kf3) 6. Rh8+ (6. Ra8 $1 {<cook GH/EB>} )  (6. Rf2+ $1
+{<cook GH/EB> } ) 6... Kg2 7. Ra8 g3 8. Rxa3 (8. Ke2 $1 {<cook GH/EB>} ) 8...
+Kh1 9. Ra1+ Kh2 (9... Kg2 10. Ke2) 10. Kf3 g2 11. Kf2 $1 (11. Ra2 $2 Kh1 12.
+Rxg2) 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1925.02.28"]
+[Round "?"]
+[White "Tarrasch=S BN=(c)"]
+[Black "(+0100.02e7f5) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R7/4K3/8/5kp1/8/p7/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 26/11/2024.} 1. Kd6 g4 (1... Ke4 2.
+Ra4+) 2. Kd5 Kf4 3. Kd4 g3 4. Rf8+ Kg4 5. Ke3 (5. Ke4 {<or>} )  (5. Rf1 $2 g2
+6. Ra1 Kf3) 1-0
+
