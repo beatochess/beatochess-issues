@@ -1,0 +1,30 @@
+[Event "Shakhmatny Listok#171"]
+[Site "?"]
+[Date "1926.10.20"]
+[Round "?"]
+[White "Kaminer=S"]
+[Black "(+0160.32f3h5) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2b5/3p4/4p3/7k/1b2P3/5K2/2P2P2/3R4 w - - 0 1"]
+
+{Shakhmatny Listok=20. U2: Neuenschwander=B beatochess 16/01/2025 .} 1. Rh1+
+Kg5 2. Rh8 (2. Rg1+ $1 {<cook BN>} 2... Kf6 (2... Kh4 3. Rg4+ Kh5 4. Rg8 Ba6 5.
+Ra8 Bf1 6. Ra1 Bh3 7. Kg3) 3. Rg8 Ba6 4. Ra8 Bf1 5. Ra1 Bh3 6. Rh1) 2... Ba6 3.
+Ra8 (3. Rg8+ $1 {<cook BN>} ) 3... Bf1 (3... Bb7 4. Rb8)  (3... Bc4 4. Ra4) 4.
+Ra1 Bh3 5. Kg3 Bg4 6. f4+ Kh5 7. Rh1+ 1-0
+
+[Event "Shakhmatny Listok#171"]
+[Site "?"]
+[Date "1926.10.20"]
+[Round "?"]
+[White "Kaminer=S BN=(c)"]
+[Black "(+0160.44f3h6) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2b5/3p2p1/5p1k/8/1b1PPpP1/5K2/2P5/3R4 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 16/01/2025} 1. Rh1+ Kg6 (1... Kg5 2.
+Rh5+ Kg6 3. Rh8 {=main} ) 2. Rh8 Ba6 (2... Bb7 3. Rb8) 3. Ra8 Bf1 (3... Bc4 4.
+Ra4) 4. Ra1 Bh3 (4... Bb5 5. Rb1) 5. Rh1 1-0
+
