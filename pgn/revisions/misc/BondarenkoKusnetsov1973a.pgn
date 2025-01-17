@@ -1,0 +1,34 @@
+[Event "1.p Szachy#0131"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP"]
+[Black "(+0114.47e1g5) U3"]
+[Result "1-0"]
+[FEN "8/3p4/1n1p3p/1B4k1/p2p2pN/P2P4/3P1P1p/R3K3 w Q - 0 1"]
+
+{Szachy/9 (EG#02258). U3: Veitch=W EG=41 7/1975.} 1. Nf3+ $1 gxf3 2. O-O-O $1
+Kg4 3. Rh1 Kh3 4. Kd1 Kg2 5. Ke1 Kxh1 (5... h5 $1 {<cook WV>} 6. Ba6 Nd5 7. Bb7
+Nf4 8. Bxf3+ (8. Rxh2+ Kxh2 9. Kf1 d5)  (8. Be4 h4) 8... Kxf3 9. Rxh2 h4 10.
+Kf1 h3 11. Rh1 d5 12. Rg1 Ng2 13. Rh1 Nf4 14. Rh2 Kg4) 6. Kf1 d5 $1 (6... Nd5
+7. Bxa4) 7. Ba6 $1 Na8 8. Bc8 Nb6 9. Bb7 h5 10. Ba6 Na8 11. Bc8 Nb6 12. Bb7 h4
+13. Ba6 Na8 14. Bc8 Nb6 15. Bb7 h3 16. Ba6 Na8 (16... Nc8 $1 {<cook WV>} )  (
+16... d6 17. Bb7 Nd7 18. Bxd5 Ne5 19. Be4) 17. Bc8 Nb6 18. Bb7 1-0
+
+[Event "1.p Szachy#0131"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP BN=(c)"
+[Black "(+0114.57e1g5) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3p3p/1n1p4/1B4k1/pP1p2pN/P2P4/3P1P1p/R3K3 w Q - 0 1"]
+
+{correction: Neuenschwander=B beatochess 17/01/2025.} 1. Nf3+ gxf3 2. O-O-O Kh4
+3. Rh1 Kh3 4. Kd1 Kg2 5. Ke1 d5 6. Ba6 Na8 7. Bc8 Nb6 8. Bb7 h6 9. Ba6 Na8 10.
+Bc8 Nb6 11. Bb7 h5 12. Ba6 Na8 13. Bc8 Nb6 14. Bb7 h4 15. Ba6 Na8 16. Bc8 Nb6
+17. Bb7 h3 18. b5 $1 (18. Ba6 $2 Na8 19. Bc8 Nc7 $1 20. Bb7 Nb5 21. Bxd5 Nxa3
+22. Bxf3+ Kxf3 23. Rxh2 Nc2+ 24. Kd1 Nxb4 25. Rxh3+ Kxf2 26. Rh7 a3 27. Rxd7 a2
+28. Ra7 Kf3) 18... Na8 19. Bxd5 (19. Bxa8 $2 Kxh1 20. Kf1 d6) 1-0
+
