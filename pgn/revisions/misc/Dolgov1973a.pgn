@@ -1,0 +1,34 @@
+[Event "2.p Szachy#0073"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Dolgov=V"]
+[Black "(+0500.02b5e7) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/4k3/5R1R/1K6/7r/1p6/6p1/8 w - - 0 1"]
+
+{Szachy/5 (EG#02259). U2: Ibran=J EG=41 7/1975. U2: Neuenschwander=B beatochess
+21/05/2025.} 1. Re6+ Kd7 (1... Kf7 2. Rhf6+ Kg7 3. Rg6+ Kf7 4. Ref6+ Ke7 5. Rf2
+) 2. Rd6+ Kc7 3. Rc6+ Kb7 4. Rb6+ Kc7 $1 (4... Ka7 5. Ra6+) 5. Rhc6+ Kd7 6.
+Rd6+ (6. Rb7+ $1 {<cook JI>} 6... Kd8 7. Rg6) 6... Ke7 (6... Kc7 7. Rbc6+ Kb7
+8. Rd7+ Kb8 9. Rg6) 7. Re6+ Kf7 (7... Kd7 8. Rbd6+ Kc7 9. Rd1 Rh1 10. Ree1) 8.
+Rf6+ (8. Rec6 $1 {<cook BN>} 8... Re4 9. Rb7+ Re7 10. Rxe7+ Kxe7 11. Rc1) 8...
+Ke7 $1 (8... Kg7 9. Rg6+ Kf7 10. Rxg2) 9. Rbe6+ Kd7 10. Rd6+ (10. Re1 $2 Rh1) 
+10... Kc7 11. Rc6+ Kd7 12. Rf7+ $1 Ke8 13. Rg7 1-0
+
+[Event "2.p Szachy#0073"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Dolgov=V BN=(v)"]
+[Black "(+0500.02a4f7) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/5k2/6RR/8/K7/p6r/6p1/8 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 21/01/2025.} 1. Rf6+ Ke7 2. Re6+ Kd7 3.
+Rd6+ Kc7 4. Rc6+ Kb7 5. Rb6+ Kc7 (5... Ka7 6. Ra6+ Kb7 7. Rhb6+ Kc7 8. Rc6+ Kd7
+(8... Kb7 9. Rab6+ Ka7 10. Rb1) 9. Rg6) 6. Rhc6+ Kd7 7. Rd6+ Ke7 8. Re6+ Kd7 (
+8... Kf7 9. Rbc6) 9. Rbd6+ Kc7 10. Rd1 1-0
+
