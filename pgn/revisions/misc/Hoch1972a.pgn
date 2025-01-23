@@ -1,0 +1,21 @@
+[Event "1.p Th mes 64#2488"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Hoch=Y"]
+[Black "(=0500.02h6f8) (U2)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "5k2/8/7K/4pr2/4R3/6R1/5p2/8 w - - 0 1"]
+
+{Th mes 64=68 Th mes 64/10-12 EG#02452. (U2): Neuenschwander=B beatochess
+23/01/2025.} 1. Rxe5 $1 Rf6+ (1... f1=Q 2. Rg8+ Kf7 3. Rf8+ Kxf8 4. Rxf5+ Qxf5)
+(1... Rf4 2. Rgg5 $1 (2. Rge3 $2 f1=Q 3. Re8+ Kf7 4. R8e7+ Kg8) 2... f1=Q (2...
+Rh4+ 3. Kg6)  (2... Rf6+ 3. Kh7) 3. Rgf5+ Rxf5 4. Rxf5+ Qxf5)  (1... Rf7 2.
+Rge3 Rf6+ 3. Kh7 Rf7+ 4. Kh6) 2. Kh7 $1 Rf7+ (2... f1=Q 3. Rg8+ Kf7 4. Rg7+ Kf8
+5. Rg8+)  (2... Rf4 3. Rg8+ Kf7 4. Rg7+ Kf6 5. Ra5 f1=Q 6. Rg6+) 3. Kh8 $1 Rf4
+4. Rg4 $1 (4. Rgg5 $2 Rh4+ 5. Rh5 f1=Q 6. Rxh4 Qf6+ 7. Kh7 Qg7#)  (4. Rg8+ $2
+Kf7 5. Rg7+ (5. Rg4 $1 {<dual BN>} ) 5... Kf6 6. Rge7 f1=Q 7. R7e6+ Kf7 8. Re7+
+Kg6 9. R7e6+ Rf6) 4... Rf3 (4... f1=Q {<main>} 5. Rxf4+ Qxf4 6. Rf5+ Qxf5) 5.
+Rg3 $1 f1=Q (5... Rf6 6. Rg8+) 6. Rxf3+ Qxf3 7. Rf5+ Qxf5 1/2-1/2
+
