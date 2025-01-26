@@ -1,0 +1,37 @@
+[Event "Loshinksy MT 64"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Gurgenidze=D Mitrofanov=L"]
+[Black "(=3500.43d8b6) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3K3R/P3r2p/1k2q2P/5p2/1p1R1P2/1P6/8/8 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=24(671) 64 Shakhmatnoye Obozrenye/12 (EG#05076). U3:
+Korolkov=V 64 Shakhmatnoye Obozrenye=14(685) 7/1983.} 1. a8=Q Rd7+ $1 2. Rxd7
+Qf6+ 3. Re7 (3. Kc8 $2 Qc3+) 3... Qd4+ 4. Qd5 $1 (4. Ke8 $2 Qxh8+ 5. Kd7 Qxa8) 
+(4. Rd7 $2 Qxh8+ 5. Ke7 Qxa8) 4... Qxd5+ 5. Ke8 Qa8+ (5... Qc6+ $1 {<cook VK>} 
+6. Rd7 (6. Kf7 Qg6+ 7. Kf8 Qf6+ 8. Kg8 Qxe7 9. Rxh7) 6... Qc8+ 7. Rd8 Qe6+ 8.
+Kf8 Qf6+ 9. Kg8 Qxd8+ 10. Kxh7 Qf6 11. Rg8 Kc5 12. Rg6 Qf7+ 13. Rg7 Qxb3 14.
+Kg6 Qg3+ 15. Kf7 Qh4 16. h7 b3 17. Kg8 b2 18. Rb7 Qd8+ 19. Kg7 Qd4+ 20. Kg8
+Qd5+ 21. Kf8 Qxb7) 6. Kf7 Qxh8 7. Re6+ Kc7 8. Re7+ Kd8 9. Re5 $1 Kd7 10. Re7+
+Kd6 11. Re6+ Kd5 12. Re5+ Kd4 13. Re8 $1 Qxe8+ {<eg>} 14. Kxe8 Kc3 15. Kf7 Kxb3
+16. Kg7 Ka2 17. Kxh7 b3 18. Kg6 b2 19. h7 b1=Q 20. h8=Q 1/2-1/2
+
+[Event "Loshinksy MT 64"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Gurgenidze=D Mitrofanov=L BN=(c)"]
+[Black "(=3500.63d8b6) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3K3R/P3r2p/1k2q2P/5p2/1p1R1P2/1P3P2/2P5/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 26/01/2025.} 1. a8=Q Rd7+ $1 2. Rxd7
+Qf6+ 3. Re7 (3. Kc8 $2 Qc3+) 3... Qd4+ 4. Qd5 $1 (4. Ke8 $2 Qxh8+ 5. Kd7 Qxa8) 
+(4. Rd7 $2 Qxh8+ 5. Ke7 Qxa8) 4... Qxd5+ 5. Ke8 Qa8+ (5... Qc6+ 6. Rd7 Qc8+ 7.
+Rd8 Qe6+ 8. Kf8 Qf6+ 9. Kg8 Qxd8+ 10. Kxh7) 6. Kf7 Qxh8 7. Re6+ Kc7 8. Re7+ Kd8
+9. Re5 $1 Kd7 10. Re7+ Kd6 11. Re6+ Kd5 12. Re5+ Kd6 13. Re6+ 1/2-1/2
+
