@@ -1,0 +1,24 @@
+[Event "1.p De Feijter JT EG"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Marwitz=J"]
+[Black "(=0743.30e1e8) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4k3/rP6/3n4/5rP1/6P1/4b3/4B3/3RK3 b - - 0 1"]
+
+{EG=76 EG/4 1984 EG#05161. U2: Neuenschwander=B beatochess 27/01/2025.} 1...
+Bd2+ $1 (1... Bf2+ 2. Kf1 $1)  (1... Bd2+) 2. Kxd2 (2. Rxd2 $2 Ra1+ 3. Bd1 (3.
+Rd1 Rxd1+ 4. Kxd1 Rd5+) 3... Re5+) 2... Rd5+ 3. Ke3 $1 (3. Ke1 $2 Rxd1+ 4. Bxd1
+Rxb7)  (3. Kc3 $2 Rc5+ 4. Kb4 Nxb7 5. Bb5+ Kf8 6. Rd7 Rxg5 7. Bc6 Rg7) 3...
+Re5+ 4. Kd4 $1 (4. Kf4 $2 Re4+ 5. Kf3 Ra3+ 6. Kf2 Nxb7) 4... Re4+ 5. Kc5 $1 (5.
+Kd5 $2 Rxb7 6. Ba6 (6. Bd3 Re3 7. Kxd6 Rd7+) 6... Rd7) 5... Nxb7+ 6. Kb6 $1 Ra5
+$1 7. Bb5+ Kf8 (7... Kf7 8. Rd7+) 8. Rf1+ $1 (8. Kxb7 $2 Rxb5+)  (8. Rb1 $2 Re5
+9. g6 Kg7 10. Rb2 (10. Rb4 Re7 11. Bc6 Nd8 $1 12. Kxa5 Nxc6+)  (10. Rb3 Nc5 11.
+Rc3 Rxb5+ 12. Kxb5 Ne4+) 10... Nd6 $1 11. Kxa5 Nc4+)  (8. Rc1 $1 {<cook BN>} 
+8... Rb4 (8... Re7 9. Rc8+ Kg7 10. Rb8 Re6+ 11. Bc6) 9. Rf1+ Kg7 10. Rf5 Kg6
+11. Re5) 8... Kg7 9. Rb1 $1 Re5 $1 10. g6 $1 Rg5 (10... Rd5 11. Bc6) 11. Rb4 $1
+(11. Rb2 $2 Nd6 $1 12. Kxa5 Nc4+)  (11. Rb3 $2 Nc5 $1) 11... Re5 12. Rb1 (12.
+Rb3 $2 Nc5) 12... Rc5 {<eg>} 13. Rb3 $1 Rg5 14. Rb4 $1 Re5 15. Rb1 $1 1/2-1/2
+
