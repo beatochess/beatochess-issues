@@ -1,0 +1,30 @@
+[Event ".p Czechoslovaki ty"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Sochnev=A"]
+[Black "(+0116.33a2d3) U3"]
+[Result "1-0"]
+[FEN "2R1B3/3pn1n1/8/2p5/PP6/2Pk3p/K7/8 w - - 0 1"]
+
+{EG#05321. U3: Garcia=M EG=177 7/2009.} 1. Rd8 h2 2. Bxd7 h1=Q (2... Nh5 $1
+{<cook MG>} 3. Bc6+ (3. Be6+ Kxc3)  (3. Bg4+ Kxc3) 3... Kxc3) 3. Bc6+ Nd5 4.
+Rxd5+ Kxc3 5. Rxc5+ (5. Rd3+ $2 Kxd3 6. Bxh1 cxb4 7. Kb3 Ne6 8. Kxb4 Kd4 9. a5
+Nc5 10. Kb5 Ne6 11. Kb6 Nc5) 5... Kxb4 6. Rb5+ Kxa4 7. Bd7 Qh3 8. Rf5+ (8. Rd5+
+$2 Qxd7) 8... Kb4 9. Rf4+ Kc5 10. Bxh3 1-0
+
+[Event ".p Czechoslovaki ty"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Sochnev=A BN=(c)"]
+[Black "(+0116.33a2d3) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2R1B3/3pn1n1/8/p7/PP6/2Pk3p/K7/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 31/01/2025.} 1. Rd8 h2 2. Bxd7 h1=Q (
+2... Nh5 3. Bc6+ Kxc3 4. Bb7 Kxb4 5. Rh8 Nf6 6. Rh4+) 3. Bc6+ Nd5 4. Rxd5+ Kxc3
+(4... Kc2 5. Rd2+) 5. Rc5+ (5. Rd3+ Kxd3 6. Bxh1 Kc4) 5... Kxb4 6. Rb5+ Kxa4 7.
+Bd7 $1 Qh3 8. Rf5+ Kb4 9. Rf4+ 1-0
+
