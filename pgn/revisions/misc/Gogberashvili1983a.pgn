@@ -1,0 +1,37 @@
+[Event "1.sp.p Nadareishvili JT Molodezh Gruzzi"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Gogberashvili=M"]
+[Black "(=3015.22f6a8) U3 U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "k7/8/P4Kp1/nN4N1/6pP/2Bq4/8/8 w - - 0 1"]
+
+{EG#05382. U3: Garcia=M HHdbV#30517 24-9-2011.U2:  Neuenschwander=B beatochess
+05/02/2025.} 1. Ne6 Nc6 (1... Qf3+ $1 { <cook MG>} 2. Kxg6 Nc6 3. Bd4 g3 4.
+Nec7+ Kb8 5. a7+ Nxa7 6. Bxa7+ Kb7) 2. Nec7+ Kb8 3. a7+ Nxa7 4. Na6+ Kc8 (4...
+Ka8 5. Nbc7+) 5. Nxa7+ Kd8 6. Nc6+ Ke8 7. Nc7+ Kf8 8. Ne6+ Kg8 9. Ne7+ Kh7 (
+9... Kh8 10. Be5) 10. Kf7 (10. Bd4 $2 Qf1+ 11. Kg5 g3)  (10. Be5 $1 {<cook BN>}
+10... g3 (10... Qf1+ 11. Bf4) 11. Bf4 Qc3+ 12. Kf7 Qb3 13. Kf6) 10... Qxc3 11.
+Nf8+ Kh6 12. Ng8+ Kh5 13. Nf6+ Kxh4 14. Nxg6+ Kh3 15. Nf4+ Kh2 16. Nxg4+ Kh1
+17. Nf2+ Kh2 18. Ng4+ Kh1 19. Nf2+ 1/2-1/2
+
+[Event "1.sp.p Nadareishvili JT Molodezh Gruzzi"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Gogberashvili=M BN=(c)"]
+[Black "(=3005.62f6a8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "k2n4/8/P1P2Kp1/2pN4/7P/NPPqP3/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 05/02/2025.} 1. Nb5 (1. c7 $2 Qxa6+ 2.
+Kg7 (2. Ke7 Qe6+ 3. Kxd8 Qxd5+) 2... Ne6+) 1... Nxc6 (1... Qf5+ 2. Ke7 Qe6+ 3.
+Kxd8 Qxd5+ 4. Kc8 Qe6+ 5. Kc7 Qxe3 6. c4) 2. Ndc7+ Kb8 3. a7+ Nxa7 4. Na6+ Kc8
+5. Nxa7+ Kd8 6. Nc6+ Ke8 7. Nc7+ Kf8 8. Ne6+ Kg8 9. Ne7+ Kh7 10. Kf7 Qxc3 (
+10... Qxe3 11. Nf8+ Kh6 12. Ng8+ Kh5 13. Nxg6 Kg4 14. Nf6+ Kf3 15. Nd5 Qe4 16.
+c4) 11. Nf8+ Kh6 12. Ng8+ Kh5 13. Nf6+ Kxh4 14. Nxg6+ Kh3 15. Nf4+ Kh2 16. Ng4+
+Kh1 17. Nf2+ Kh2 18. Ng4+ Kh1 19. Nf2+ 1/2-1/2
+
