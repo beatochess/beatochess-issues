@@ -1,0 +1,54 @@
+[Event "1.p Magyar Sakkelet#1604a"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Janosi=E"]
+[Black "(=1033.06d4f6) TW"]
+[Result "1/2-1/2"]
+[FEN "4b3/p3pp2/5kp1/6p1/1Q1K4/4n3/p7/8 w - - 0 1"]
+
+{Magyar Sakkelet/11 (EG#05692a).} 1. Kc5 $1 (1. Qc3 $2 a1=Q $1)  (1. Qb2 $2
+a1=B)  (1. Ke4 $2 a1=Q) 1... a1=B (1... a1=Q {<main>} 2. Qb2+ $1 Qxb2) 2. Qc3+
+$1 Bxc3 1/2-1/2
+
+[Event "1.p Magyar Sakkelet#1604b"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Janosi=E"]
+[Black "(=1033.06d4f6) TW"]
+[Result "1/2-1/2"]
+[FEN "4b3/p3p3/5kp1/6p1/1Q1K2p1/4n3/p7/8 w - - 0 1"]
+
+{Magyar Sakkelet/11 (EG#05692b).} 1. Qc3 (1. Ke4 $2 Bc6+ $1)  (1. Kc5 $2 Bf7 2.
+Qc3+ e5 3. Kd6 Nf5+ 4. Kd7 Nd4)  (1. Qb2 $2 a1=B $1 (1... a1=Q $2 2. Kc5+ Qxb2)
+) 1... a1=B (1... a1=Q {<main>} 2. Ke4+ $1 Qxc3) 2. Kc5+ $1 Bxc3 1/2-1/2
+
+[Event "1.p Magyar Sakkelet#1604c"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Janosi=E"]
+[Black "(=1033.06d4f6) TW U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4b3/p3p3/2p2k2/6p1/1Q1K2p1/4n3/p7/8 w - - 0 1"]
+
+{Magyar Sakkelet/11 (EG#05692). U3: Neuenschwander=B beatochess 13/02/2025.} 1.
+Ke4 (1. Qb2 $2 a1=B $1 (1... a1=Q $2 2. Kc5+ Qxb2) )  (1. Kc5 $2 Bf7)  (1. Qc3
+$2 Nf5+ 2. Kd3+ e5 3. Kc2 Nd4+ 4. Kb2 Bf7) 1... Bg6+ (1... a1=Q {<main>} 2.
+Qc3+ Qxc3)  (1... a1=B 2. Kxe3)  (1... Nc4)  (1... Nc4 $1 {<cook BN>} 2. Qa4 e5
+) 2. Kxe3 a1=Q 3. Qb2+ $1 Qxb2 1/2-1/2
+
+[Event "1.p Magyar Sakkelet#1604d"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Janosi=E"]
+[Black "(=1033.06d4f6) TW"]
+[Result "1/2-1/2"]
+[FEN "4b3/p3p3/5k2/p5p1/1Q1K2p1/4n3/p7/8 w - - 0 1"]
+
+{Magyar Sakkelet/11 (EG#05692d).} 1. Qb2 $1 (1. Qc3 $2 Nf5+) 1... a1=Q (1...
+a1=B { <main>} 2. Kc5+ $1 Bxb2) 2. Kc5+ $1 Qxb2 1/2-1/2
+

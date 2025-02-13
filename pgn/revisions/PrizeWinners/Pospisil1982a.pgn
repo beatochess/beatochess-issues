@@ -1,0 +1,18 @@
+[Event "1.p Fritz JT"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Pospisil=J"]
+[Black "(+4000.10f8h7) (s)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "4QK2/4P2k/8/8/8/8/4q3/8 b - - 0 1"]
+
+{EG#05553. (s) Neuenschwander=B beatochess 09/02/2025.} 1... Qe5 $1 (1... Qg4
+{<main>} 2. Qf7+ Kh8 $1 3. Qf6+ (3. Qd5 $2 Qf5+ $1 4. Qxf5)  (3. e8=Q $2 Qb4+
+4. Qfe7 Qf4+) 3... Kh7 4. e8=R $1 (4. e8=Q $2 Qg8+ 5. Ke7 Qf8+ $1 6. Qexf8 (6.
+Kxf8)  (6. Qfxf8) ) ) 2. Qf7+ Kh6 3. e8=R $1 (3. e8=Q $2 Qd6+ 4. Qfe7 Qf4+ 5.
+Kg8 Qg3+ 6. Kh8 Qe5+ 7. Qxe5)  (3. Qc4 $2 Qf6+ (3... Qf5+ $1 4. Qf7 (4. Ke8 $2
+Kg7 $10) 4... Qe5) 4. Qf7 (4. Ke8 $1 $18 {<cook BN>} 4... Kg7 5. Qg4+) 4... Qe5
+)  (3. Kg8 $2 Qg5+ 4. Kf8 Qe5) 1-0
+
