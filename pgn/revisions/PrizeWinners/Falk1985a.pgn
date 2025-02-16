@@ -1,0 +1,54 @@
+[Event "5.p Herbstman MT TfS #2452"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Falk=L"]
+[Black "(=0433.12c4e3) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6n1/8/2P5/8/ppK5/4k3/8/r1b3R1 w - - 0 1"]
+
+{Tidskrift for Schack=8 Tidskrift for Schack/10 (EG#05794). U2: Neuenshwander=B
+beatochess 16/02/2025 .} 1. c7 (1. Re1+ $2 Kd2 2. c7 Ra2)  (1. Rxg8 $2 Bd2 2.
+Re8+ Kf3 3. Rf8+ (3. Kd3 Bf4) 3... Ke2 4. Re8+ Kd1) 1... Ne7 2. Re1+ Kf3 3.
+Rxe7 Ba3 (3... Bd2 {<main>} 4. Kd3 Rc1 (4... Rd1 5. Kc2 Rc1+ 6. Kxd2) 5. Kxd2 (
+5. Re3+ $2 Bxe3 6. c8=Q Rc3+ $1 (6... Rxc8 $2) ) 5... Rc6 6. Kd3 $1 (6. Re3+ $2
+Kf4 7. Rh3 Kg5 8. Rd3 Rxc7)  (6. Rf7+ $2 Kg3 (6... Ke4 $2 7. Rh7 Kd5 8. Rh4 Kc5
+9. Kd3 Kb5 10. Rh5+ Kb6 11. Rh4) 7. Rg7+ (7. Rd7 a3)  (7. Re7 $1 {<cook BN>} 
+7... a3 (7... Kf4 8. Kd3 Rc3+ 9. Kd4 a3 10. Re4+) 8. Re3+ Kf4 9. Rb3) 7... Kf4
+8. Rf7+ (8. Rh7 Kg5 9. Re7 b3)  (8. c8=Q Rxc8 9. Rb7 (9. Ra7 a3 10. Ra4 Rc4) 
+9... Rd8+ (9... Rc4 $2 10. Kd3 Rc3+ 11. Kd4) 10. Kc2 Rd4 11. Ra7 Rc4+ 12. Kb2
+b3) 8... Ke5 9. Rh7 b3 10. Rh5+ Kd4 11. Rh4+ Kc5 12. Rxa4 b2 13. Ra3 b1=N+) 
+6... b3 (6... Rc3+ 7. Kd2 Rc4 8. Kd3 Rc3+ 9. Kd2 Kf4 10. Rh7 Kg5 11. Rd7 a3 12.
+Rd5+ Kf6 13. Rb5 a2 14. Ra5) 7. Re3+ $1 Kf2 8. Re4 a3 9. Rc4 Rxc4 (9... Rd6+
+10. Kc3 a2 11. Ra4)  (9... b2 10. Rxc6 b1=Q+ 11. Rc2+)  (9... Rxc7 10. Rxc7 a2
+11. Ra7 b2 12. Rxa2) 10. Kxc4 {<eg>} 10... b2 11. c8=Q b1=Q 12. Qf8+) 4. Rf7+
+Ke3 5. Re7+ Kd2 6. Rd7+ Ke2 (6... Ke3 7. Rd3+ Ke2 8. Rc3) 7. Re7+ Kf3 8. Rf7+
+Kg3 9. Rg7+ (9. Kb5 $2 Rc1 10. Kxa4 Rc5 11. Kb3 Kg4 12. Rd7 Rc3+ 13. Ka4 Kf5
+14. Kb5 Ke6 15. Rh7 Kd6 16. Kb6 b3 17. Rh6+ (17. Rh3 Rc6+ 18. Kb5 b2) 17... Kd7
+18. Rh7+ Be7) 9... Kf3 (9... Kh4 10. Rg4+ (10. Kb5 $2 Rc1 11. Rd7 Kg3 12. Kxa4
+Rc5 13. Kb3 Kf3 14. Rh7 (14. Ka4 Kf4) 14... Kg4 15. Rd7 Rc3+ 16. Ka4 Kf5) 10...
+Kh5 11. Kb5) 10. Rf7+ Ke4 11. Re7+ Kf4 12. Rf7+ Ke5 (12... Kg5 13. Rf5+ $1 (13.
+Kb5 $2 Rc1 14. Rd7 b3 15. Rd5+ Kf6 16. Kxa4 b2 17. Rb5 Ra1 18. Rb3 Bd6+) 13...
+Kg6 14. Kb5 Rc1 15. Rc5 Rxc5+ 16. Kxc5 b3+ 17. Kd5 b2 18. c8=Q b1=Q 19. Qc6+
+Kf5 20. Qxa4) 13. Re7+ (13. Rf5+ $2 Kd6 $1 14. c8=N+ Ke6) 13... Kd6 (13... Kf6
+14. Re6+ Kf7 15. Rc6) 14. c8=N+ Kc6 15. Na7+ Kb6 16. Nc8+ Kc6 (16... Ka6 17.
+Ra7#) 17. Na7+ 1/2-1/2
+
+[Event "5.p Herbstman MT TfS #2452"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Falk=L BN=(c)"]
+[Black "(=0433.12d4f3) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7n/8/3P4/8/1ppK4/5k2/8/1r1b3R w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 16/02/2025.} 1. d7 Nf7 2. Rf1+ Kg3 3.
+Rxf7 Bb3 (3... Be2 {<main>} 4. Ke3 Rd1 5. Kxe2 Rd6 6. Ke3 (6. Rg7+ $2 Kf4 7.
+Rh7 Ke5 8. Rh5+ Ke4 9. Rh4+ Kd5 10. Ke3 Rxd7 11. Rd4+ Kc6 12. Rxc4+ Kb5) 6...
+b3 7. Rf3+) 4. Rg7+ Kf3 5. Rf7+ Ke2 6. Re7+ Kf2 7. Rf7+ Kg3 8. Rg7+ Kf4 9. Rf7+
+Kg4 10. Rg7+ Kf5 (10... Kh5 11. Rg5+) 11. Rf7+ Ke6 (11... Kg6 $2 12. Rf6+) 12.
+d8=N+ Kd6 13. Nb7+ Kc6 14. Nd8+ Kd6 15. Nb7+ Kc6 16. Nd8+ Kb6 17. Rb7+ 1/2-1/2
+
