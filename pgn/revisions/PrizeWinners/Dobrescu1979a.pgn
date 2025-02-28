@@ -1,0 +1,25 @@
+[Event ".p Schach-Echo#489"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Dobrescu=E"]
+[Black "(=0867.10e5a6) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7n/2P1n3/k7/4K3/r1b5/2N3r1/8/2R1b2R w - - 0 1"]
+
+{Schach-Echo=13-14 Schach-Echo/7 1980 (EG#05892). U3: Neuenschwander=B
+beatochess 28/02/2025.} 1. c8=Q+ $1 (1. Nxa4 $2 Nhg6+) 1... Nxc8 2. Nxa4 Rg5+
+3. Kd4 $1 Rg4+ 4. Ke3 $1 (4. Ke5 $2 Bg3+ 5. Kf5 (5. Kf6 Rg6+) 5... Rf4+ 6. Kg5
+Nf7+ 7. Kh5 Be2+ 8. Kg6 Ne7+) 4... Rg3+ 5. Kd4 (5. Kf4 $2 Ng6+)  (5. Ke4 $2
+Nd6+) 5... Rg4+ 6. Ke3 Bh4 7. Kf3 (7. Nb2 $2 Nd6 8. Kf3 (8. Nxc4 Nxc4+ 9. Kf3
+Ne5+) 8... Rd4 9. Ke3 Nf5+) 7... Rg3+ (7... Be6 8. Rc6+ Ka5 9. Rxe6 Rxa4 10.
+Rh6) 8. Kf2 Rh3+ (8... Rc3+ 9. Rxh4 Rxc1 10. Rxh8 Bb5 $1 { <cook BN> wins
+(tablebase)} ) 9. Kg2 (9. Kg1 $2 Rxh1+ 10. Kxh1 Bd5+) 9... Rg3+ (9... Rxh1 10.
+Rxc4) 10. Kf2 $1 (10. Kh2 $2 Rg4 11. Kh3 Rd4) 10... Rg4+ 11. Kf3 Rd4 12. Ke3 (
+12. Nc5+ $2 Kb5 13. Ne4 Ng6)  (12. Nb2 $2 Nd6 13. Ke3 Nf5+) 12... Rd3+ (12...
+Bf6 13. Rh6) 13. Ke2 Rc3+ (13... Rh3+ 14. Rxc4 Rxh1 15. Rxc8) 14. Kd2 $1 (14.
+Kd1 $2 Rxc1+ 15. Kxc1 Bg5+) 14... Rd3+ (14... Rxc1 15. Rxh4) 15. Ke2 (15. Kc2
+$2 Rd4 16. Kc3 Rg4) 15... Rd4+ (15... Kb5 16. Rxc4 Kxc4 17. Nb2+) 16. Ke3 Rg4
+17. Kf3 1/2-1/2
+
