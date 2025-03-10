@@ -1,0 +1,37 @@
+[Event "1.p Tidskrift for Schack#2334"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Nestorescu=V"]
+[Black "(+0431.11b4g8) U2"]
+[Result "1-0"]
+[FEN "6k1/8/2R3P1/3N4/1K3b2/2p2r2/8/8 w - - 0 1"]
+
+{Tidskrift for Schack=7 Tidskrift for Schack/9 (EG#05945). U2: Pallier=A HHdbVI
+9-2-2019.} 1. Ne7+ $1 Kh8 (1... Kf8 {<main>} 2. Nf5 $1 (2. Rc8+ $2 Kxe7 3. g7
+Rg3) 2... Bc7 $1 (2... Bd6+ 3. Nxd6 c2 (3... Rf1 4. Kb3 c2 5. Kxc2)  (3... Rf6
+4. Rc8+ Kg7 5. Ne8+)  (3... Kg7 4. Ne8+ Kg8 5. Rxc3) 4. Rxc2 Rf4+ 5. Rc4 $1
+Rxc4+ 6. Nxc4 Kg7 7. Ne5) 3. Rf6+ Kg8 4. Ne7+ (4. Kb3 $1 {<cook AP>} 4... Bd6 (
+4... c2+ 5. Kxc2 Rc3+ 6. Kd1 Be5 7. Re6)  (4... Rf4 5. Rf7) 5. Ne7+ Bxe7 6.
+Rxf3 Bd6) 4... Kh8 5. Rxf3 Bd6+ 6. Kxc3 Bxe7 7. Rf7)  (1... Kg7 2. Nf5+) 2.
+Rc8+ (2. Nf5 $2 Bc7 $1 3. Rf6 Bd6+ $1 4. Kb3 Rxf5 5. Rxf5 Kg7 6. Rg5 (6. Rb5
+Bf4 7. Rb6 Bg5) 6... Be7 7. Rg2 Bf6) 2... Kg7 3. Nf5+ $1 (3. Rg8+ $2 Kf6 4.
+Nd5+ Kg5 5. Nxf4 Rxf4+ 6. Kxc3 Kh6) 3... Kf6 4. g7 Bd6+ (4... c2 5. Rf8+ Ke5 6.
+g8=Q Bd2+ 7. Kb5 c1=Q 8. Qg7+) 5. Kb3 $1 c2+ 6. Kxc2 Rf2+ 7. Kd3 $1 Rg2 8. Rf8+
+Ke5 9. Nd4 $1 Rxg7 10. Rf5# 1-0
+
+[Event "1.p Tidskrift for Schack#2334"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Nestorescu=V BN=(c)"]
+[Black "(+0431.11a4f8) (c)"]
+[Result "1-0"]
+[FEN "5k2/8/1R3P2/2N5/K3b3/1p2r3/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 10/03/2025} 1. Nd7+ $1 Kg8 (1... Ke8
+{<main>} 2. Ne5 Bb7 3. Re6+ Kf8 4. Nd7+ (4. Ka3 $2 Bc6 5. Nd7+ Bxd7 6. Rxe3 Bc6
+7. Re7 Bd5 $10) 4... Kg8 5. Rxe3 Bc6+ 6. Kxb3 Bxd7 7. Re7 Bc6 8. Kc4 Ba4 9. Rb7
+) 2. Rb8+ Kf7 3. Ne5+ Ke6 4. f7 Bc6+ 5. Ka3 b2+ 6. Kxb2 Re2+ 7. Kc3 Rf2 8. Re8+
+Kd5 9. Nc4 Rxf7 10. Re5# 1-0
+
