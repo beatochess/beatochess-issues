@@ -1,0 +1,32 @@
+[Event "1/2.p Sagaredzho ty Ivris Gantadi"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Nadareishvili=G"]
+[Black "(=3036.11a1g4) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "q7/2P5/8/b7/6k1/2nn4/5p2/K7 w - - 0 1"]
+
+{(EG#06009). U3: Neuenschwander=B beatochess 17/03/2025.} 1. c8=Q+ Kf3 (1...
+Qxc8) 2. Qg4+ (2. Qxa8+ $2 Ne4 3. Qf8+ Nf4)  (2. Qf8+ $2 Ke2 3. Qf3+ Ke1 4.
+Qh1+ Kd2 5. Qh6+ Nf4 $1) 2... Ke3 3. Qf3+ $1 Kd4 (3... Kxf3)  (3... Kd2 4. Qe3+
+$1 Kc2 5. Qd2+ Kb3 6. Qc2+) 4. Qe3+ (4. Qg4+ $2 Ne4)  (4. Qf6+ $2 Ne5) 4... Kc4
+(4... Kd5 5. Qd4+ Kc6 6. Qd7+ Kc5 7. Qd4+ Kb5 8. Qc4+) 5. Qd4+ Kb3 6. Qc4+ Kc2
+7. Qb3+ Kd2 (7... Kc1 8. Qc2+ Kxc2) 8. Qc2+ Ke3 (8... Ke1 $1 {<cook BN} ) 9.
+Qd2+ Kd4 10. Qe3+ Kxe3 1/2-1/2
+
+[Event "1/2.p Sagaredzho ty Ivris Gantadi"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Nadareishvili=G"]
+[Black "(=3066.11a1g4) (v)"]
+[Result "1/2-1/2"]
+[FEN "q7/2P5/8/b7/6k1/2nn4/5p2/K4b2 w - - 0 1"]
+
+1. c8=Q+ $1 Kf3 $1 2. Qg4+ $1 (2. Qh3+ $2 Ke2 $1 3. Qxf1+ (3. Qf3+ Ke1 $1) 3...
+Kd2 $1) 2... Ke3 3. Qf3+ $1 Kd4 $1 4. Qe3+ Kc4 5. Qd4+ Kb3 $1 6. Qc4+ Kc2 $1 (
+6... Ka3 7. Qb3+ Kxb3) 7. Qb3+ Kd2 $1 (7... Kc1 8. Qc2+ Kxc2) 8. Qc2+ Ke3 $1 (
+8... Ke1 9. Qd2+ Kxd2) 9. Qd2+ Kd4 10. Qe3+ 1/2-1/2
+
