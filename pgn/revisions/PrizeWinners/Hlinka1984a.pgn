@@ -1,0 +1,25 @@
+[Event "4.p 64 Shakhmatnoye Obozrenye#72"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Hlinka=M"]
+[Black "(=0130.21g7c8)"]
+[Result "1/2-1/2"]
+[FEN "2k5/6K1/6P1/8/8/8/2p4P/3b1R2 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=23(718) 64 Shakhmatnoye Obozrenye/12 (EG#06194). U2:
+Neuenschwander=B beatochess 01/04/2025.} 1. Rf8+ (1. Kh8 $2 c1=Q 2. g7 Qh6+ $1)
+1... Kc7 2. Rf7+ Kb6 3. Rf6+ Kb5 4. Rf5+ $1 (4. Kh8 $2 c1=Q 5. g7 Bb3 $1) 4...
+Kb4 5. Rf4+ Kb3 (5... Kc3 6. Rf6 $1 Be2 7. Kh8 c1=Q 8. g7 Bc4 9. Rc6 Kb3 10.
+g8=Q $1) 6. Kh8 $1 c1=Q 7. g7 Qc3 (7... Qa1 8. Rf1 $1) 8. h4 $1 Be2 (8... Ka3 {
+<main>} 9. h5 $1 (9. Rf5 $2 Bb3 10. h5 Qc8+ 11. Rf8 Qh3)  (9. Rf8 $2 Bb3 10.
+Ra8+ Kb2 11. Rb8 Qf6)  (9. Rc4 $2 Qf6 $1 10. Rc6 Qxh4+) 9... Bxh5 10. Rc4 $1
+Qa1 11. Rc1 $1 Qb2 12. Rc2 Qf6 13. Rc6)  (8... Bh5 9. Rf8 $1) 9. Rf8 $1 (9. Re4
+$2 Bd3 10. Re3 Kc2 11. Rxd3 (11. h5 Qf6 12. Rxd3 Qh6+) 11... Kxd3 12. h5 Ke4) 
+(9. h5 $2 Bxh5 10. Kh7 Qh3 11. g8=Q+ Bf7+ $1)  (9. Rf7 $1 {<cook BN>} 9... Bc4
+10. Rb7+ Ka4 11. Rc7) 9... Qd4 (9... Qe5 10. Rf5 Qd4 11. h5 Bc4 12. h6)  (9...
+Bc4 10. Rb8+ Kc2 11. Rc8 Kd3 12. Rxc4 $1 Kxc4 13. h5 $1) 10. h5 $1 (10. Rf4 $2
+Qxf4 11. g8=Q+ Bc4 12. Qg7 (12. Qg6 Qd4+ 13. Qg7 Qd8+)  (12. Qg5 Qf8+ 13. Kh7
+Bd3+) 12... Qxh4+ 13. Qh7 Qf6+ 14. Qg7 Qd8+ 15. Kh7 Bd3+ 16. Kh6 Qh4#) 10...
+Bxh5 11. Rd8 $1 1/2-1/2
+

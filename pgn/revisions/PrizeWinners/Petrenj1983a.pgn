@@ -1,0 +1,29 @@
+[Event "1.p Solidarity ty"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Petrenj=B"]
+[Black "(=4683.34a8c6) U3"]
+[Result "1/2-1/2"]
+[FEN "K1B2r2/BP1p4/QPk1np2/bp6/1Pp5/8/r7/q6b w - - 0 1"]
+
+{(EG#06275). U3: Garcia=M HHdbV#30509 23-9-2011.} 1. b8=B (1. b8=N+ $2 Kd6+ 2.
+b7+ Ke7)  (1. b8=Q $2 Bxb4) 1... Bxb4 (1... Nc7+ 2. bxc7+ Kd5 3. Bb7+ Ke5 4.
+c8=Q+)  (1... Kd5 $1 {<cook MG>} 2. Qxb5+ Kd4+ 3. b7+ Bb6 4. Qxb6+ Kc3) 2. b7+
+Kd5 (2... Rxa6 3. Bxd7+ Kd5 4. Bc6+ Kxc6) 3. Qc6+ (3. Qxb5+ $2 Nc5 4. Qxb4 Rxc8
+) 3... dxc6 4. Bxe6+ Ke4 5. Bf5+ Kf3 6. Bg4+ Kg2 7. Bh3+ Kxh3 1/2-1/2
+
+[Event "1.p Solidarity ty"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Petrenj=B"]
+[Black "(=4683.44a8c6) (v) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "K1B2r2/BP1p1p2/QPk1n3/bp3p2/1P6/rP6/8/q6b w - - 0 1"]
+
+{U3: Neuenschwander=B beatochess 04/042025.} 1. b8=B $1 Bxb4 (1... Kd5 $1
+{<cook BN>} 2. Qxb5+ Kd4+ 3. b7+ Kc3) 2. b7+ Kd5 3. Qc6+ $1 dxc6 4. Bxe6+ Ke4
+5. Bxf5+ Kf3 6. Bg4+ Kg2 7. Bh3+ Kxh3 1/2-1/2
+
