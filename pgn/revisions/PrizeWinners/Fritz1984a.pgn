@@ -1,0 +1,33 @@
+[Event "4.p Schakend Nederland#1981"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0171.11h1c2) U2"]
+[Result "1-0"]
+[FEN "8/2BR1N2/P7/8/7b/7b/2k1p3/7K w - - 0 1"]
+
+{Schakend Nederland/11 (EG#06489). U2: Campioli=M HHdbII#46509 9-7-1998.} 1.
+Rd2+ $1 Kxd2 2. Ba5+ Ke3 (2... Kd3 3. a7 Bf5 4. Nd6)  (2... Kd1 3. a7) 3. a7
+Bg4 (3... Bf5 4. Nd6 Bg4 5. Nc4+ Kf4 6. Bd2+ Kg3 7. Ne5) 4. Ne5 Bf5 5. Nc4+ (5.
+Bb6+ $2 Kf4 $1)  (5. Bd2+ $2 Kxd2 6. Nf3+ Ke3 7. a8=Q Be4 $1) 5... Kd4 (5...
+Kd3 6. Nd6)  (5... Kf4 6. Bd2+ Kf3 7. a8=Q+ Be4 8. Ne5+) 6. Nd6 Be6 7. Nb5+ Kc5
+(7... Kc4 8. Nc7)  (7... Ke5 8. Bc3+ Ke4 9. a8=Q+ Bd5 10. Nd6+) 8. Nc7 e1=Q+ (
+8... Bd7 9. Na6+ Kb5 (9... Kd6 10. Bb4+ Kd5 11. a8=Q+ Bc6 12. Nc7+) 10. Nb8
+Kxa5 11. a8=Q+ Kb5 12. Qa6+) 9. Bxe1 Bd7 10. Na6+ (10. Bb4+ $1 {<cook MC>} 
+10... Kxb4 11. a8=Q) 10... Kb6 11. a8=Q Bc6+ 12. Qxc6+ Kxc6 13. Bxh4 1-0
+
+[Event "4.p Schakend Nederland#1981"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Fritz=J BN=(c)"]
+[Black "(+0171.12h1c2) (c)"]
+[Result "*"]
+[ECO "A00"]
+[FEN "8/2B2N2/8/P5p1/7b/4p2b/2k5/3R3K w - - 0 1"]
+
+{(c): Neuenschwander=B beatochess 22/04/2025.} 1. a6 e2 2. Rd2+ Kxd2 3. Ba5+
+Ke3 4. a7 Bg4 5. Ne5 Bf5 6. Nc4+ Kd4 7. Nd6 Be6 8. Nb5+ Kc5 9. Nc7 Bd7 (9...
+e1=Q+ 10. Bxe1 Bd7 11. Bb4+ Kb6 12. a8=Q Bc6+ 13. Nd5+) 10. Na6+ Kb5 11. Nb8 *
+
