@@ -1,0 +1,36 @@
+[Event "3.p Grigoriev MT"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Balanovsky=V"]
+[Black "(+0000.55b8h4) TT U3"]
+[Result "1-0"]
+[FEN "1K6/8/2p4p/5p2/1P3P1k/4pP1p/4P2P/8 w - - 0 1"]
+
+{Shakhmaty v SSSR/7 (EG#06549). U3: Schach Report/12 1996.} 1. Ka8 $1 (1. Ka7
+$2 Kh5 (1... h5 2. Ka6) 2. Ka6 Kh4 $1 3. Ka5 Kh5 $1 4. Ka4 Kh4 $1 5. Kb3 (5.
+Ka3 c5 6. b5 c4 7. b6 c3 8. b7 c2 9. b8=Q c1=Q+) 5... c5 $1 6. b5 c4+ 7. Kc3 h5
+)  (1. Kc7 $2 c5 $1 2. b5 c4 3. b6 c3 4. b7 c2 5. b8=Q c1=Q+ 6. Kd7 Qd2+) 1...
+Kh5 $1 (1... c5 2. b5) 2. Ka7 $1 Kh4 (2... Kg6 $1 {<cook>} 3. Ka6 c5 4. bxc5 (
+4. b5 c4) 4... Kh5 5. c6 Kh4 6. c7 h5 7. c8=Q) 3. Ka6 Kh5 4. Ka5 Kh4 5. Ka4 Kh5
+(5... h5 6. Ka5) 6. Kb3 $1 Kh4 (6... c5 {<main>} 7. b5 c4+ 8. Kc3 Kh4 9. b6 h5
+10. Kd4 c3 11. b7 c2 12. b8=Q c1=Q 13. Qd8#) 7. Kc3 (7. Kc2 {<or>} ) 7... h5 8.
+Kd3 (8. Kd4 {<or>} ) 8... c5 9. Kxe3 c4 10. Kd2 $1 c3+ 11. Kc1 c2 12. e4 1-0
+
+[Event "3.p Grigoriev MT"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Balanovsky=V BN=(c)"]
+[Black "(+0000.55b8h4) TT (c)"]
+[Result "1-0"]
+[FEN "1K6/8/2p1p2p/4Pp2/1P3P1k/4pP1p/4P2P/8 w - - 0 1"]
+
+{(c): Neuenschwander=B beatochess 23/04/2025.} 1. Ka8 $1 (1. Ka7 $2 Kh5 2. Ka6
+Kh4 3. Ka5 Kh5 4. Ka4 Kh4 5. Kb3 (5. Ka3 c5 6. b5 c4 7. b6 c3 8. b7 c2 9. Kb2
+h5 10. b8=Q c1=Q+ 11. Kxc1) 5... c5 6. b5 c4+) 1... Kh5 $2 2. Ka7 Kh4 (2... Kg6
+3. Ka6 c5 4. b5 c4 5. b6 c3 6. b7 c2 7. b8=Q c1=Q 8. Qg8+ Kh5 9. Qxe6) 3. Ka6
+Kh5 4. Ka5 Kh4 5. Ka4 Kh5 6. Kb3 Kh4 (6... c5 7. b5 c4+ 8. Kc3 Kh4 9. b6 h5 10.
+Kd4 c3 11. b7 c2 12. b8=Q c1=Q 13. Qd8#) 7. Kc3 (7. Kc2 {<or>} ) 7... h5 8. Kd3
+(8. Kd4 {<or>} ) 8... c5 9. Kxe3 c4 10. Kd2 c3+ 11. Kc1 c2 12. e4 1-0
+

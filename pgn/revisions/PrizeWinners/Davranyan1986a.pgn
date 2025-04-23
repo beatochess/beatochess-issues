@@ -1,0 +1,24 @@
+[Event "2.p Grigoriev MT Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Davranyan=A"]
+[Black "(=0000.53h1a8) TT (s)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "k7/p1p5/8/6p1/P5P1/P5P1/P7/7K w - - 0 1"]
+
+{Shakhmaty v SSSR/7 (EG#06548). (s): Neuenschwander=B beatochess 23/04/2025.} 
+1. Kg2 Kb7 2. Kf3 c5 (2... Kc6 {<main>} 3. Ke4 Kd6 4. Kd4 (4. Kf5 $2 c5 5. Kxg5
+Ke5 6. Kh5 c4 7. g5 c3 8. g6 Kf6 9. Kh6 c2 10. g7 c1=Q+) 4... c5+ 5. Kc4 Kc6 6.
+a5 Kd6 7. a6 (7. a4 {<or>} ) 7... Kc6 8. a4 Kd6 9. a5 Kc6 10. a4 Kd6 11. Kb5
+Kd5) 3. Ke4 Kc6 4. Ke5 $1 a6 (4... a5 {<main>} 5. Ke4 Kd6 6. Kd3 (6. Ke3 {<or>}
+6... Ke5 7. Kd3) 6... Kd5 7. Kc3 c4 8. Kd2 (8. Kb2 {<or>} )  (8. Kc2 $2 Kd4 9.
+Kd2 c3+ 10. Kc2 Kc4 11. Kc1 Kd3 12. Kd1 Ke3) 8... Kd4 9. Kc2 c3 10. Kb3 Kd3) 5.
+Ke4 $1 (5. a5 $2 c4 6. Ke4 Kc5 7. a4 c3 8. Ke3 Kc4) 5... Kd6 6. a5 $1 (6. Ke3
+$2 Ke5 $1) 6... Kc6 7. a4 $1 (7. Kd3 $2 Kb5 8. Kc3 Kxa5 9. Kc4 Kb6 10. Kd5 Kb5
+11. a4+ Kb4 12. a5 Kb5 13. a3 c4 14. Kd4 Kxa5) 7... Kd6 8. a3 $1 (8. Ke3 $2 Ke5
+$1) 8... Kc6 {This should be the sideline.}  (8... Ke6 $1 {<main line>} 9. Kd3
+Kd5 10. Kc3 c4 11. Kb4 Kd4) 9. Kd3 $1 (9. Ke5 $1 {<BN>} ) 9... Kd5 10. Kc3 c4
+11. Kb4 Kd4 1/2-1/2
+
