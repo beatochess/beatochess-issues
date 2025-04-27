@@ -1,0 +1,28 @@
+[Event "3.p Chervoni Girnik"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kuruoglu=Y"]
+[Black "(+0310.44b5f5)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p4p1/1P1P2P1/pKp2k2/8/8/6P1/4B2r w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1986.??.??"]
+
+{(EG#06650).} 1. d7 Rh8 2. Bh4 a4 3. Kc4 (3. Kxa4 $2 Rxh4+ 4. Kb5 Rd4) (3.
+Kxc5 $2 a3) 3... Rxh4+ 4. Kxc5 a3 5. d8=Q a2 6. Qd5+ Kxg6 7. Qxa2 1-0
+
+[Event "3.p Chervoni Girnik"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kuruoglu=Y"]
+[Black "(+0310.44b5f5) (s)"]
+[Result "1-0"]
+[FEN "8/1p4p1/1P1P2P1/pKp2k2/8/8/6P1/4B2r w - - 0 1"]
+
+{(EG#06650). (s): Neuenschwander=B beatochess 27/4/2025.} 1. d7 Rh8 2. Bh4 a4
+3. Kc4 (3. Kxa4 $2 Rxh4+ 4. Kb5 Rd4)  (3. Kxc5 $2 a3) 3... Rxh4+ 4. g4+ $1
+Rxg4+ 5. Kxc5 a3 6. d8=Q 1-0
+
