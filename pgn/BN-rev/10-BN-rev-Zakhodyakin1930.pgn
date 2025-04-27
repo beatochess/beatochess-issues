@@ -1,0 +1,18 @@
+[Event "beatochess-01"]
+[Site "?"]
+[Date "2024.03.24"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(m)"]
+[Black "(+0034.33c8a6) (m)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2K5/1P6/kPn5/6p1/5pp1/5P1b/4N3/8 w - - 0 1"]
+
+{modfication of Zakhodyakin 1930 (+0031.22b8a6) U1 U2.} 1. Kc7 Nb8 (1... Bg2 2.
+Nd4 Nxd4 3. b8=Q $18)  (1... gxf3 2. Kxc6 Bd7+ 3. Kc7 fxe2 4. b8=Q e1=Q 5. Qa8+
+Kb5 6. Qd5+ Ka6 7. Qa2+ Kb5 8. Qb2+ Kc5 9. b7 $18) 2. Kxb8 (2. Nd4 gxf3 3. Nxf3
+Bg2)  (2. Nxf4 gxf3 3. Nxh3 g4 4. Kxb8 gxh3 $10) 2... gxf3 3. Nc3 (3. Nd4 $2 f2
+4. Kc7 f1=Q 5. b8=Q Qc4+ 6. Nc6 Qf7+ 7. Kd6 Qe6+ 8. Kc5 Qe3+ $10) 3... f2 4.
+Kc7 f1=Q 5. b8=N+ Ka5 6. Nc6+ Ka6 7. b7 Qd3 8. b8=N# (8. Nd5 Qh7+ 9. Nde7 Qb1
+$10) 1-0
+

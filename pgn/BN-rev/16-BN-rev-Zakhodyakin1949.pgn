@@ -1,0 +1,14 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.04"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0002.03c6e8)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4k2N/4p3/2K1p3/8/1N6/6p1/8/8 w - - 0 1"]
+
+{correction of Zakhodyakin 1949 (=0002.02c8e8) U2.} 1. Na6 $1 g2 2. Nc7+ Kf8 (
+2... Kd8 3. Nxe6+ Kc8 4. Ng6 g1=Q 5. Nxe7+ $10) 3. Nxe6+ Kg8 4. Nf7 $1 g1=Q 5.
+Nfg5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.07"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+3101.52h1h3) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5R2/4pN2/2qp4/6P1/4P2P/3P3k/2P5/7K w - - 0 1"]
+
+{version of Zakhodyakin 1967 (+3200.33g1h4) U1.} 1. g6 Qc3 (1... Qxc2 2. Ng5+
+Kg3 (2... Kxh4 3. Rf1 $1) 3. Rf3+ Kxh4 4. Rf1) 2. Ng5+ Kxh4 (2... Kg3 3. Rf1) 
+3. Nf3+ (3. Rf1 $2 Kh5 $1) 3... Kh5 (3... Kg3 4. Ng1 Qg7 5. Rf3+ $1 Kh4 6. Kh2)
+4. g7 $1 Qxg7 5. Rf5+ Kh6 (5... Kg4 6. Rg5+) 6. Ne5 $3 dxe5 (6... Qg3 7. Nf7+
+Kh7 8. Rh5+ Kg6 9. Rg5+)  (6... Qg8 7. Nf7+ Kh7 8. Rh5+ Kg6 9. Rg5+)  (6... Kh7
+7. Rf7)  (6... e6 7. Nf7+ Kh7 8. Rh5+ Kg8 9. Rg5)  (6... Qh7 7. Rf2)  (6... Qh8
+7. Nf7+) 7. Rf2 1-0
+

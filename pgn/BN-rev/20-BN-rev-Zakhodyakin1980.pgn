@@ -1,0 +1,16 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.11"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0011.02b7b4) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/pK1BN3/8/8/1k6/8/4p3/8 w - - 0 1"]
+
+{correction of Zakhodyakin1980 (=0011.01b7b4) U2.} 1. Nd5+ Ka5 (1... Kb3 2.
+Ba4+ $1) 2. Ne7 $1 (2. Kxa7 $2 {is one move too slow. White cannot reach the
+theoretical draw with the bishop on b7.} 2... e1=Q 3. Bc6 Qf2+ (3... Qg1+ $2 4.
+Ka8 Qg8+ 5. Ka7 Qf7+ 6. Bb7) 4. Ka8 Qf8+ 5. Ka7 Qc5+ 6. Kb7 Qd6) 2... e1=Q 3.
+Nc6+ Ka4 4. Nd4+ Ka5 5. Nc6+ Kb5 6. Ne5+ Ka5 7. Nc6+ 1/2-1/2
+

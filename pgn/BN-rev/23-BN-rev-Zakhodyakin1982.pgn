@@ -1,0 +1,15 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.12"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0040.12d5f4) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/bP6/3K3B/p4k2/5p2/8/8 w - - 0 1"]
+
+{correction of Zakhodyakin 1982 (=0040.12b3e4) U3.} 1. Kd4 $1 (1. Bxf3 $2 a3) 
+1... f2 2. Be2 $1 a3 (2... Bxe2 3. b7 f1=Q 4. b8=Q+ $10 {, e.g.} 4... Kg4 5.
+Qg8+ Kh4 6. Qh7+ Kg3 7. Qg6+ Bg4 8. Qd3+) 3. Kc3 a2 4. Kb2 Bxe2 5. b7 a1=Q+ 6.
+Kxa1 f1=Q+ 7. Kb2 1/2-1/2
+

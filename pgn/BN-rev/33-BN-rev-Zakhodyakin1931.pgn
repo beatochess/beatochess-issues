@@ -1,0 +1,14 @@
+[Event "4.p 64#571"]
+[Site "?"]
+[Date "1931.11.30"]
+[Round "2"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=4013.11a1d1) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/1Q6/8/q2n1B2/1p6/P7/8/K2k4 w - - 0 1"]
+
+{correction of Zakhodyakin 1931 (=4016.21a1c1) U3.} 1. Bc2+ $1 Kc1 (1... Kxc2
+2. Qh7+ Kb3 (2... Kc3 3. Qh3+ Kc4 4. Kb2) 3. Qb1+ Kc4 4. Qe4+ Kc5 5. Qc2+ Kb5
+6. Qd3+) 2. Ba4 $1 Qxa4 (2... Qc5 3. Qg7) 3. Qxb4 $1 Nxb4 1/2-1/2
+

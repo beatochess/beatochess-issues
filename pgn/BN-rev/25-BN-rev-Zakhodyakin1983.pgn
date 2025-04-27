@@ -1,0 +1,17 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.13"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3230.10a8b6) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "KR6/1P5q/k7/6R1/3b4/8/8/8 w - - 0 1"]
+
+{correction of Zakhodyakin 1983 (=3230.10a8b6) U2.} 1. Rb5 $1 (1. Rg4 $2 Qe7 $1
+2. Rxd4 (2. Rg6+ Bf6) 2... Qa3 3. Rd3 (3. Rg8 Kb6+ 4. Kb8 Qa7+ 5. Kc8 Qxb7+ 6.
+Kd8 Qb8+) 3... Qa5 (3... Qxd3 $2 4. Re8) 4. Rf8 Kb6+ 5. Kb8 Qa7+ 6. Kc8 Qxb7+
+7. Kd8 Qc7+ 8. Ke8 Qe5+ 9. Kd8 Qg5+ 10. Kc8 Qc5+ 11. Kd7 Qb5+)  (1. Rd5) 1...
+Kxb5 2. Rh8 $1 (2. Re8 Qh1 $1) 2... Qe4 3. Rh4 Qf3 4. Rh3 $1 (4. Rxd4 $2 Qa3+
+$1 5. Kb8 Kb6) 4... Qc6 5. Rh6 Qg2 6. Rh2 Qd5 7. Rh5 1/2-1/2
+

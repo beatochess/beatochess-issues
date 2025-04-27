@@ -1,0 +1,13 @@
+[Event "beatochess-02"]
+[Site "?"]
+[Date "2024.04.14"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0031.21d7h2) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4N3/3K4/6P1/1P6/7k/1b1p4/8/8 w - - 0 1"]
+
+{correction of Zakhodyakin 1986 (=0031.11d7h2) U3.} 1. Nd6 (1. Ng7 $2 Kg4 $1) 
+1... d2 2. Nf5+ Kg4 3. Ne3+ Kf3 4. b6 Kxe3 5. b7 d1=Q+ 6. Ke7 1/2-1/2
+

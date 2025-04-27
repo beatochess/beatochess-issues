@@ -1,0 +1,18 @@
+[Event "beatochess-01"]
+[Site "?"]
+[Date "2024.03.15"]
+[Round "?"]
+[White "Selezniev=A BN=(c)"]
+[Black "(+0301.64a4d6) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/p4p2/Nr1k1P1p/pP3P1P/K7/8/2PP4/8 w - - 0 1"]
+
+{correction of Selzniev 1930 (+0301.34a4d4) U2.} 1. c4 (1. Kxa5 $2 Kd5) 1...
+Ke5 (1... Kd7 2. Nc5+ $1 Kd6 (2... Kd8 3. Ne4 $18) 3. d4 $18) 2. d4+ $1 (2. c5
+$2 Rxf6 3. d4+ Kd5 $1 4. Kxa5 Rxf5 5. c6 Kd6 $10)  (2. Kxa5 $2 Rd6 3. c5 Rxd2
+4. Nb4 Rd1 $1 5. Ka6 Rb1 $1 6. c6 Kd6 7. Nd5 Rc1 8. Kb7 a6 $1 9. bxa6 (9. b6
+Rxc6 $10) 9... Rb1+ 10. Nb6 Kc5 11. c7 Rxb6+ 12. Ka7 Rc6 13. Kb7 Rb6+ 14. Kc8
+Rxa6 15. Kd8 Rd6+ 16. Ke7 Rc6 $10) 2... Kxd4 (2... Kxf6 3. c5 Rb7 4. c6 Re7 5.
+Kxa5 $18) 3. c5 Rxa6 4. c6 Kc5 5. c7 Kb6 6. c8=B $1 1-0
+

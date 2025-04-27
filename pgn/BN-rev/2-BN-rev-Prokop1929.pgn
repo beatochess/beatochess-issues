@@ -1,0 +1,15 @@
+[Event "beatochess-01"]
+[Site "?"]
+[Date "2024.03.01"]
+[Round "?"]
+[White "Prokop=F BN=(c)"]
+[Black "(=4133.43e5a2) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/2n2P2/pQP5/4K3/5p2/b5PR/k3P2p/5q2 w - - 0 1"]
+
+{correction of Prokop 1929 (=4160.22e5a2) U3.} 1. f8=Q (1. Rxh2 fxg3 $17) 1...
+Bxf8 (1... Qxe2+ 2. Kf5 Qe6+ (2... Bxf8 3. Qxc7) 3. Kg5 Be7+ 4. Kxf4 Nd5+ 5.
+Kf3 Nxb6 6. Rxh2+) 2. Rxh2 fxg3 (2... Bg7+ {<main>} 3. Ke4 fxg3 4. e3+ gxh2 5.
+Qb2+ (5. Qa5+ {<or>} )  (5. Qb3+ {<or>} ) ) 3. e4+ gxh2 4. Qf2+ Qxf2 1/2-1/2
+

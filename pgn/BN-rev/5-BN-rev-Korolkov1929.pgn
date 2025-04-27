@@ -1,0 +1,13 @@
+[Event "beatochess-01"]
+[Site "?"]
+[Date "2024.03.20"]
+[Round "?"]
+[White "Korolkov=V BN=(c)"]
+[Black "(=1061.24h4h1) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/5pQ1/8/7K/p7/2p2N2/3p2PP/2bb3k w - - 0 1"]
+
+{correction of Korolkov 1929 (=1061.23h5h1) U1.} 1. Qg3 c2 2. h4 Bxf3+ 3. Qxf3
+d1=Q 4. g4+ Qxf3 1/2-1/2
+
