@@ -1,0 +1,13 @@
+[Event "64"]
+[Site "?"]
+[Date "1974.05.17"]
+[Round "?"]
+[White "Asaba=E BN=(c)"]
+[Black "(+3100.33d8a8) (c)"]
+[Result "1-0"]
+[FEN "k2K4/1p5P/1P6/7R/8/6p1/p5P1/q7 w - - 0 1"]
+
+{correction of Asaba 1974 (+3100.33d8a8) (c) U2.} 1. h8=Q Qxh8+ 2. Rxh8 a1=Q 3.
+Rg8 Qa2 4. Rf8 Qa3 (4... Qf2 5. Ke7+) 5. Ke8 Kb8 6. Kf7+ Qxf8+ 7. Kxf8 Kc8 8.
+Ke7 Kb8 9. Kd7 1-0
+

@@ -1,0 +1,15 @@
+[Event "beatochess-07"]
+[Site "?"]
+[Date "2025.01.11"]
+[Round "?"]
+[White "Filaretov=S BN=(c)"]
+[Black "(+0072.15e3c2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/2p2B2/3p3P/6pN/8/1p2K3/1pk5/bb3N2 w - - 0 1"]
+
+{correction of Filaretov 1926 (+0072.14e3c2) U2.} 1. Nd2 (1. h7 $2 Ba2 2. Bg6+
+Kc1 3. h8=Q b1=Q 4. Qh7 Qb2 5. Qxc7+ Qc3+) 1... Ba2 2. Nb1 $1 Bxb1 3. h7 Ba2 4.
+Bg6+ Kc1 (4... Kd1 5. Bb1 Bxb1 6. h8=Q Ba2 (6... Bd3 7. Qc3) 7. Qd4+) 5. Bb1 $1
+Bxb1 6. h8=Q Bc2 7. Ng3 b1=Q 8. Ne2+ Kd1 9. Qh1# 1-0
+

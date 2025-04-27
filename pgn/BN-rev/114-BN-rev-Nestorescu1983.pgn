@@ -1,0 +1,15 @@
+[Event "beatochess-08"]
+[Site "?"]
+[Date "2025.02.04"]
+[Round "?"]
+[White "Nestorescu=V BN=(c)"]
+[Black "(=0301.41b3g8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6k1/8/P5P1/6P1/8/1K3P1N/6p1/5r2 w - - 0 1"]
+
+{correction of Nestorescu 1983 (=0301.31b2g8) U3.} 1. Kb2 $1 (1. Ka2 Rd1) 1...
+Rf2+ (1... Rd1 2. a7 Rd8 3. Kc2 Ra8 4. Kd2 Rxa7 5. Ke2) 2. Kb3 (2. Ka3 {<or>} )
+2... Rxf3+ 3. Ka4 Rxh3 4. a7 Rh4+ (4... g1=Q {<main>} 5. a8=Q+ Kg7 6. Qb7+ Kxg6
+7. Qb6+ Qxb6) 5. Ka3 g1=Q 6. a8=Q+ Kg7 7. Qb7+ Kxg6 8. Qb1+ Qxb1 1/2-1/2
+

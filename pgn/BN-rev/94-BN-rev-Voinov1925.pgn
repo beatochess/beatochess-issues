@@ -1,0 +1,14 @@
+[Event "beatochess-06"]
+[Site "?"]
+[Date "2024.11.26"]
+[Round "?"]
+[White "Voinov=V BN=(c)"]
+[Black "(+0351.03e1g8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6kr/5p1p/4bp1B/8/8/7B/6N1/4K3 w - - 0 1"]
+
+{correction of Voinov 1925 (+0351.25h2g8) U2 U1.} 1. Bf5 $1 (1. Nf4 $2 f5 2.
+Bf1 Ba2 $1 (2... Bb3 $2 3. Kd2 f6 4. Kc3 Ba2 5. Kb2) 3. Kd2 f6) 1... Bxf5 2.
+Nf4 Be6 (2... Bg6 {<main>} 3. Nd5) 3. Nh5 1-0
+

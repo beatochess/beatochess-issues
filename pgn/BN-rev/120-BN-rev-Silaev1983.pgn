@@ -1,0 +1,26 @@
+[Event "beatochess-09"]
+[Site "?"]
+[Date "2025.03.16"]
+[Round "?"]
+[White "Silaev=L BN=(c)"]
+[Black "(+4800.33f8h6) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5K2/6P1/r3q2k/6p1/Q5P1/p1r2R2/P5p1/1R6 w - - 0 1"]
+
+{correction of Silaev 1983 (+4800.22f8h6) U2.} 1. Rh3+ $1 (1. g8=N+ $2 Kg6 2.
+Ne7+ Kh7 3. Rxc3 Qh6+ $1) 1... Rxh3 (1... Kg6 2. Qe4+ Qxe4 3. g8=Q+ Kf6 4. Qg7+
+Ke6 5. Qe7+ Kd5 6. Rd1+) 2. g8=N+ $1 (2. g8=Q $2 Rf3+) 2... Qxg8+ (2... Kg6 3.
+Qc2+)  (2... Kh7 3. Rb7+ Kh8 4. Qd4+) 3. Kxg8 Rg6+ (3... Rxa4 4. Rb6#) 4. Kh8
+$1 (4. Kf7 $2 Rf3+ 5. Ke7 (5. Ke8 Re6+ (5... Rg8+ $2 6. Ke7 Rg7+ (6... Rf1 7.
+Rb6+) 7. Ke6 Rf1 8. Qe8 Rc7 (8... Rg6+ 9. Ke5 Kh7 10. Qd7+ Rg7 11. Qd3+) 9.
+Qh5+ Kg7 10. Qxg5+)  (5... Rf1 $2 6. Qb3 Rxb1 (6... g1=Q 7. Qh3+ Kg7 8. Rb7+
+Kf6 9. Qc3+ Ke6 10. Qc4+ Kd6 11. Rd7+ Ke5 12. Rd5+ Kf6 13. Qc3+) 7. Qxb1 Rc6 8.
+Qg1 Rc2 9. Kf8) 6. Kd7 Rf1 7. Qa8 g1=Q 8. Qh8+ Kg6 9. Qg8+ Kh6 10. Qxe6+ Kg7
+11. Qe5+ Kh7 12. Rxf1 Qxf1 13. Qf5+ Qxf5+ 14. gxf5 g4 15. f6 g3 16. f7 g2 17.
+f8=Q g1=Q) 5... Rf1 6. Qe8 Kh7) 4... Rf6 (4... Re6 5. Qe4)  (4... Rd3 5. Qe8) 
+5. Qe8 $1 (5. Qb4 $2 g1=Q 6. Rxg1 Kg6+ 7. Kg8 Rh8+ 8. Kxh8 Rf8+ 9. Qxf8)  (5.
+Rb6 $2 { } 5... Rxb6 6. Qa7 Kg6+ 7. Kg8 Rb8+ 8. Qxb8 Rh8+ 9. Kxh8 g1=Q) 5...
+g1=Q 6. Rb7 Rf8+ 7. Qxf8+ Kg6+ 8. Kg8 Rh8+ 9. Kxh8 Qh1+ 10. Qh6+ $1 (10. Kg8 $2
+Qh8+ 11. Kxh8) 10... Qxh6+ 11. Kg8 $1 Kf6 12. Rb6+ 1-0
+

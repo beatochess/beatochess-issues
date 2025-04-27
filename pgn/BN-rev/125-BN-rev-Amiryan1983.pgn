@@ -1,0 +1,14 @@
+[Event "beatochess-09"]
+[Site "?"]
+[Date "2025.04.21"]
+[Round "?"]
+[White "Amiryan=G BN=(c)"]
+[Black "(+4010.13g8h1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6K1/2p1Q3/8/8/8/6p1/2P1B2p/q6k w - - 0 1"]
+
+{correction of Amiryan 1983 (+0010.24f6h1) (v) U2.} 1. Bf3+ g2 2. Qe2 Qg1 (2...
+Qa2+ 3. Kg7 Qa1+ 4. Kg6) 3. Kf7 $1 c5 4. Ke6 $1 c4 5. Kd5 $1 c3 6. Ke4 $1 Qf2
+7. Qd1+ Qg1 8. Bxg2+ $1 Kxg2 9. Qf3# 1-0
+

@@ -1,0 +1,17 @@
+[Event "beatochess-07"]
+[Site "?"]
+[Date "2025.01.26"]
+[Round "?"]
+[White "Gurgenidze=D Mitrofanov=L BN=(c)"]
+[Black "(=3500.63d8b6) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3K3R/P3r2p/1k2q2P/5p2/1p1R1P2/1P3P2/2P5/8 w - - 0 1"]
+
+{correction of Gurgenidze/Mitrofanov 1982 (=3500.43d8b6) U3.} 1. a8=Q Rd7+ $1
+2. Rxd7 Qf6+ 3. Re7 (3. Kc8 $2 Qc3+) 3... Qd4+ 4. Qd5 $1 (4. Ke8 $2 Qxh8+ 5.
+Kd7 Qxa8)  (4. Rd7 $2 Qxh8+ 5. Ke7 Qxa8) 4... Qxd5+ 5. Ke8 Qa8+ (5... Qc6+ 6.
+Rd7 Qc8+ 7. Rd8 Qe6+ 8. Kf8 Qf6+ 9. Kg8 Qxd8+ 10. Kxh7) 6. Kf7 Qxh8 7. Re6+ Kc7
+8. Re7+ Kd8 9. Re5 $1 Kd7 10. Re7+ Kd6 11. Re6+ Kd5 12. Re5+ Kd6 13. Re6+
+1/2-1/2
+

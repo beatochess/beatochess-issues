@@ -1,0 +1,17 @@
+[Event "beatochess-09"]
+[Site "?"]
+[Date "2025.03.21"]
+[Round "?"]
+[White "Pervakov=O BN=(c)"]
+[Black "(+0116.34e1h1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6R1/4p3/B2p4/P6p/4P3/p3n3/1n5P/4K2k w - - 0 1"]
+
+{correction of Pervakov 1985 (+0116.23e1h1) U3.} 1. Rc8 a2 2. Rc1 a1=Q 3. Rxa1
+Nc2+ 4. Kf2+ Nxa1 5. Bb5 Nd1+ 6. Kg3 Nc3 7. Bc6 Ne2+ 8. Kh4 (8. Kf2 $2 Nf4 9.
+a6 Ne6) 8... Nd4 9. Bd7 Nf3+ 10. Kg3 (10. Kxh5 $2 Nb3 11. a6 Nc5 12. a7 Nxd7
+13. a8=Q Kxh2)  (10. Kh3 $2 Ne5 11. Bb5 Nf3 12. a6 Ng5+) 10... Ne5 (10... Nd2
+11. a6 Nc4 12. Be6 Nb6 13. h4) 11. Bb5 Nb3 12. a6 Nd4 13. a7 (13. Be8 $2 h4+
+14. Kxh4 Nc4 15. Kg3 Ne2+ 16. Kf2 Nc3) 13... Nxb5 14. a8=Q 1-0
+

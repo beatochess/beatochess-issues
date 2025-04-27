@@ -1,0 +1,14 @@
+[Event "beatochess-06"]
+[Site "?"]
+[Date "2024.12.03"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP BN=(v)"]
+[Black "(=0310.75f3a3) (v)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/3ppp1p/2p4P/2r1P1P1/6P1/kP3K2/P1P5/4B3 w - - 0 1"]
+
+{version of Bondarenko/Kuznetsov 1974 (=0312.55f3a1) U2.} 1. e6 $1 dxe6 2. g6
+$1 fxg6 3. c4 $1 Kxa2 4. Bb4 Rg5 5. Bd2 Re5 6. Bc3 Rc5 7. Bb4 Re5 8. Bc3 Rg5 9.
+Bd2 1/2-1/2
+

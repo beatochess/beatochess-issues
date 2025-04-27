@@ -1,0 +1,13 @@
+[Event "64#088"]
+[Site "?"]
+[Date "1925.07.25"]
+[Round "?"]
+[White "Lerner=E BN=(c)"]
+[Black "(+3141.34h1g5) (c)"]
+[Result "1-0"]
+[FEN "5N2/1Pq5/4Rp1p/6k1/4P3/4pPp1/8/1b1B3K w - - 0 1"]
+
+{correction of Lerner 1925 (+3141.34h1g5) U3.} 1. Re5+ (1. Rc6 $2 e2 $1 $19) 
+1... Qxe5 2. f4+ Kxf4 (2... Qxf4 {<main>} 3. Ne6+ Kh4 4. Nxf4 Bxe4+ 5. Ng2+) 3.
+Ng6+ Kg5 4. Nxe5 Bxe4+ 5. Nf3+ 1-0
+

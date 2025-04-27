@@ -1,0 +1,14 @@
+[Event "beatochess-07"]
+[Site "?"]
+[Date "2025.01.16"]
+[Round "?"]
+[White "Kaminer=S BN=(c)"]
+[Black "(+0160.44f3h6) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2b5/3p2p1/5p1k/8/1b1PPpP1/5K2/2P5/3R4 w - - 0 1"]
+
+{correction of Kaminer 1926 (+0160.32f3h5) U2} 1. Rh1+ Kg6 (1... Kg5 2. Rh5+
+Kg6 3. Rh8 {=main} ) 2. Rh8 Ba6 (2... Bb7 3. Rb8) 3. Ra8 Bf1 (3... Bc4 4. Ra4) 
+4. Ra1 Bh3 (4... Bb5 5. Rb1) 5. Rh1 1-0
+

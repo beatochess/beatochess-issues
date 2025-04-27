@@ -1,0 +1,17 @@
+[Event "beatochess-08"]
+[Site "?"]
+[Date "2025.02.16"]
+[Round "?"]
+[White "Falk=L BN=(c)"]
+[Black "(=0433.12d4f3) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7n/8/3P4/8/1ppK4/5k2/8/1r1b3R w - - 0 1"]
+
+{correction of Falk 1985 (=0433.12c4e3) U2.} 1. d7 Nf7 2. Rf1+ Kg3 3. Rxf7 Bb3
+(3... Be2 {<main>} 4. Ke3 Rd1 5. Kxe2 Rd6 6. Ke3 (6. Rg7+ $2 Kf4 7. Rh7 Ke5 8.
+Rh5+ Ke4 9. Rh4+ Kd5 10. Ke3 Rxd7 11. Rd4+ Kc6 12. Rxc4+ Kb5) 6... b3 7. Rf3+) 
+4. Rg7+ Kf3 5. Rf7+ Ke2 6. Re7+ Kf2 7. Rf7+ Kg3 8. Rg7+ Kf4 9. Rf7+ Kg4 10.
+Rg7+ Kf5 (10... Kh5 11. Rg5+) 11. Rf7+ Ke6 (11... Kg6 $2 12. Rf6+) 12. d8=N+
+Kd6 13. Nb7+ Kc6 14. Nd8+ Kd6 15. Nb7+ Kc6 16. Nd8+ Kb6 17. Rb7+ 1/2-1/2
+

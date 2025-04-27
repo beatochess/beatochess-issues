@@ -1,0 +1,15 @@
+[Event "beatochess-07"]
+[Site "?"]
+[Date "2025.01.14"]
+[Round "?"]
+[White "Kholmakov=S BN (c)"]
+[Black "(+0011.55c2c4) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "3B4/p2p4/4Np2/5Pp1/2k5/P1P5/2KP1Pp1/8 w - - 0 1"]
+
+{correction of Kholmakov 1926 (+0011.55c2c4) U2.} 1. d3+ Kd5 2. c4+ Ke5 3. Bc7+
+d6 4. Nd4 $1 (4. c5 $2 g1=Q 5. cxd6 Qxf2+ 6. Kb3 Qxf5 7. d7+ Kxe6 8. d8=Q Qb5+
+9. Ka2 Qc6 10. Kb3 Qb5+ 11. Kc2 Qc5+ 12. Kd1 Qg1+ 13. Kd2 Qf2+ 14. Kc3 Qc5+) 
+4... Kxd4 5. Bb8 g1=Q 6. Bxa7+ Ke5 7. f4+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "beatochess-07"]
+[Site "?"]
+[Date "2025.01.17"]
+[Round "?"]
+[White "Bondarenko=F Kuznetsov=AP BN=(c)"]
+[Black "(+0114.57e1g5) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3p3p/1n1p4/1B4k1/pP1p2pN/P2P4/3P1P1p/R3K3 w Q - 0 1"]
+
+{correction of Bondarenko/Kuznetsov 1973 (+0114.47e1g5) U3.} 1. Nf3+ gxf3 2.
+O-O-O Kh4 3. Rh1 Kh3 4. Kd1 Kg2 5. Ke1 d5 6. Ba6 Na8 7. Bc8 Nb6 8. Bb7 h6 9.
+Ba6 Na8 10. Bc8 Nb6 11. Bb7 h5 12. Ba6 Na8 13. Bc8 Nb6 14. Bb7 h4 15. Ba6 Na8
+16. Bc8 Nb6 17. Bb7 h3 18. b5 $1 (18. Ba6 $2 Na8 19. Bc8 Nc7 $1 20. Bb7 Nb5 21.
+Bxd5 Nxa3 22. Bxf3+ Kxf3 23. Rxh2 Nc2+ 24. Kd1 Nxb4 25. Rxh3+ Kxf2 26. Rh7 a3
+27. Rxd7 a2 28. Ra7 Kf3) 18... Na8 19. Bxd5 (19. Bxa8 $2 Kxh1 20. Kf1 d6) 1-0
+

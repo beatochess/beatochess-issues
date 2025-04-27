@@ -1,0 +1,16 @@
+[Event "Shakhmatny Listok#132"]
+[Site "?"]
+[Date "1925.12.05"]
+[Round "?"]
+[White "Troitzky=A BN=(c)"]
+[Black "(+0040.35b8d5) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1K6/8/1P3pp1/3kp1p1/4p3/7P/4P3/1Bb5 w - - 0 1"]
+
+{correction of Troitzky 1925 (+0040.35c7c5) U2.} 1. Kc7 (1. b7 $2 Ba3 2. Ba2+
+Kc6 3. Kc8 Bd6 4. Bf7 e3 5. Bxg6 Kd5 6. Kd7 e4 7. Bxe4+ Ke5) 1... Ke6 (1... Be3
+2. Ba2+)  (1... Ba3 2. Ba2+) 2. b7 Ba3 3. Kd8 (3. Ba2+ Ke7) 3... Bd6 4. Ba2+
+Kf5 5. Kd7 (5. e3 $2 g4 6. h4 (6. Kd7 gxh3 7. Kxd6 h2 8. b8=Q h1=Q)  (6. Kd7
+gxh3 7. Kxd6 h2 8. b8=Q h1=Q) ) 5... Bb8 6. e3 g4 7. h4 g5 8. h5 g3 9. Be6# 1-0
+
