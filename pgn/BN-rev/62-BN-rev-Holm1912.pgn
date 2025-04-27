@@ -1,0 +1,18 @@
+[Event "La Strategie#0382"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Holm=E BN=(c)"]
+[Black "(+0311.26e8a4) (c)"]
+[Result "1-0"]
+[FEN "4K3/2P5/p2p2Br/1p5p/k1p1p3/P3N3/8/8 w - - 0 1"]
+
+{correction of Holm 1912 (+0311.24e7a4) U1.} 1. Ke7 $1 Rh8 2. Nxc4 $1 (2. Be8
+$2 Rh7+ 3. Bf7 Rh8 4. Nxc4 d5 $1 5. Nb6+ Kxa3 6. Bxh5 Rh7+ 7. Bf7 Rh8) 2... h4
+$1 (2... d5 3. Nb6+ Kxa3 4. Kf7 h4 5. Kg7)  (2... bxc4 3. Be8+) 3. Bh5 $1 Kb3
+4. Be8 Rh7+ (4... h3 5. c8=Q h2 6. Qxa6 h1=Q 7. Qxb5+ Kc2 8. Qb2+ Kd3 9. Bb5
+Qh7+ 10. Kxd6 Rd8+ 11. Kc5 Qe7+ 12. Nd6+ Ke3 13. Qe2+ Kf4 14. Qf2+ Kg5 15. Qe3+
+Kh5 16. Be2+ Kg6 17. Qxe4+) 5. Bf7 Rh8 6. Nxd6+ Kb2 7. Bg8 $1 Rxg8 (7... h3 8.
+c8=Q h2 9. Nxe4 h1=Q 10. Qc3+ Kb1 11. Nd2#) 8. Ne8 e3 9. c8=Q e2 10. Qe6 Rg2
+{<eg>} 11. Nf6 h3 12. Qe4 1-0
+

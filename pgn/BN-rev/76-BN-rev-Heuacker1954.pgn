@@ -1,0 +1,17 @@
+[Event "Der Tagesspiegel"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(v)"]
+[Black "(+3141.01d1c4) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2B3b1/8/8/1q6/7R/2pkp1PN/8/3K4 w - - 0 1"]
+
+{version of Heuacker 1954 (+3141.01d1c4) U3 U1.} 1. Nf4+ Kc4 (1... Ke4 2. Ne2+
+(2. Ne6+ {<or>} ) 2... Kf3 3. Nd4+ Kf2 4. Rf4+ Kxg3 5. Rg4+) 2. Ba6 $1 (2. Ne6+
+$2 Kb3 3. Nd4+ Kb2 4. Rh2+ e2+ $1 5. Rxe2+ Qxe2+ 6. Nxe2 Bb3+ 7. Ke1 Bc4 8. Bf5
+c2) 2... Qxa6 (2... c2+ 3. Kxc2 Qxa6 4. Ne6+) 3. Ne6+ Kb3 4. Nc5+ Kb2 5. Rb4+
+Bb3+ 6. Rxb3+ Ka2 7. Nxa6 Kxb3 8. Nc5+ (8. Ke2 $2 Kc4) 8... Kc4 9. Ne6 (9. Ne4
+$2 Kd4 $1) 9... Kd3 10. Nf4+ Kd4 (10... Ke4 11. Ke2 c2 12. Nd3 Kd4 13. Nc1) 1-0
+

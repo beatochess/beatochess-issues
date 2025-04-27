@@ -1,0 +1,17 @@
+[Event "1.p L'Italia Scacchistica#5106"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Dobrescu=E BN=(c)"]
+[Black "(=3051.32e5b8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1k4B1/8/1P3N2/1P2K1p1/bB6/5p2/5qP1/8 w - - 0 1"]
+
+{correction of Dobrescu 1970 (=3051.32e5b8) U1.} 1. Bd6+ (1. Bd5 $2 Qe2+ 2. Be4
+(2. Ne4 Qb2+) 2... Qxb5+) 1... Kc8 (1... Kb7 2. Bd5+) 2. Be6+ Kb7 (2... Kd8 3.
+Bc7+ Ke7 4. Bd6+) 3. Bd5+ Kxb6 4. Bc5+ $1 Qxc5 (4... Kxc5 5. Ne4+ Kxb5 6. Nxf2
+fxg2 7. Bxg2) 5. Nd7+ Kxb5 6. Nxc5 f2 $1 (6... Kxc5 7. Bxf3)  (6... fxg2 7.
+Bxg2) 7. Ne4 $1 f1=Q 8. Bc4+ Qxc4 9. Nd6+ Kb4 (9... Kc5 10. Nxc4) 10. Nxc4 Kxc4
+11. Kf5 1/2-1/2
+

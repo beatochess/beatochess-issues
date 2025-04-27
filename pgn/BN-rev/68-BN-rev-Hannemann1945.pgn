@@ -1,0 +1,14 @@
+[Event "Tidskrift for Schack#0042"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Hannemann=K BN=(c)"]
+[Black "(=0011.02a8b6) (v)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "K3N3/8/1k6/8/2p5/4p3/2B5/8 w - - 0 1"]
+
+{version of Hannemann 1945 (=0011.02b8b3) U1 U2.} 1. Bd1 c3 2. Nf6 Ka5 3. Nd5
+c2 (3... e2 {<main>} 4. Bxe2 c2 5. Ba6 $1 c1=Q 6. Kb7) 4. Bxc2 e2 5. Ba4 $1
+e1=Q 6. Bc6 1/2-1/2
+

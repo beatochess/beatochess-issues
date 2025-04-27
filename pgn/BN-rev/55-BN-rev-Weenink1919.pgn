@@ -1,0 +1,14 @@
+[Event "Algemeen Handelsblad"]
+[Site "?"]
+[Date "1919.02.01"]
+[Round "?"]
+[White "Weenink=H BN=(c)"]
+[Black "(+0110.02d2a1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/8/7R/8/1p6/p2KB3/k7 w - - 0 1"]
+
+{correction of Weenink 1919 (+0110.02d2b1) U1.} 1. Bc4 Kb1 (1... b2 2. Bxa2
+Kxa2 3. Ra5+ Kb3 4. Rb5+) 2. Rh1+ Kb2 3. Rh3 a1=Q 4. Rxb3+ Ka2 5. Kc2 Qd4 6.
+Rc3+ 1-0
+

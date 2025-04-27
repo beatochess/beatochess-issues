@@ -1,0 +1,12 @@
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+0311.25h3c5) (c)"]
+[Result "1-0"]
+[FEN "2N5/P1p5/2p5/2k5/7p/2P1p2K/4B2p/7r w - - 0 1"]
+
+{correction of Heuacker 1935 (+0311.23h3c5) U1.} 1. a8=R $1 (1. a8=Q $2 Ra1 2.
+Qxa1 h1=Q+ 3. Qxh1) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1 1-0
+

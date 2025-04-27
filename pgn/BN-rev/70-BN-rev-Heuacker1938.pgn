@@ -1,0 +1,17 @@
+[Event "Deutsche Schachblatter#08"]
+[Site "?"]
+[Date "1938.06.15"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+1400.01c8a1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1RK5/8/Q7/5r2/8/8/p7/k7 w - - 0 1"]
+
+{correction of Heuacker 1938 (+1400.01c8a1) U1.} 1. Qh6 $1 (1. Qe2 $2 Rf8+ 2.
+Kc7 Rxb8 3. Qe5+ Kb1)  (1. Ra8 $2 Rf8+ 2. Kb7 Rxa8)  (1. Rb6 $2 Rc5+ 2. Kd7
+Rd5+ 3. Ke6 Re5+ 4. Kd6 Rd5+ 5. Kc6 Rc5+ 6. Kb7 Rc7+ 7. Ka8 Rc8+)  (1. Qc6 $2
+Rc5) 1... Rf8+ (1... Rc5+ 2. Kb7 Rb5+ 3. Kc6 Rc5+ 4. Kb6) 2. Kc7 (2. Kb7 $2
+Rxb8+)  (2. Kd7 {<or>} ) 2... Rxb8 (2... Rf7+ 3. Kb6) 3. Qc1+ Rb1 4. Qc3+ Rb2
+5. Qd4 Kb1 6. Qd1# 1-0
+
