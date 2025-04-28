@@ -1,0 +1,31 @@
+[Event "2.p Saloniki Olympiade"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kalandadze=V"]
+[Black "(=0800.11h1f6) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6R1/8/5k2/6r1/r7/7P/p7/1R5K w - - 0 1"]
+
+{(EG#06665). U2: Neuenschwander=B beatochess 28/04/2025.} 1. Rf1+ Rf5 2. Rf8+
+Ke6 3. Re1+ (3. R8xf5 $1 {<cook BN>} 3... a1=Q 4. Rf4 $1 Qa2 5. Rxa4 Qxa4) 3...
+Re5 4. Re8+ Kd6 5. Rd1+ Rd5 6. Rd8+ Kc6 7. Rc1+ Rc5 8. Rc8+ Kb6 9. R8xc5 a1=Q
+10. Rc6+ Kb5 11. Rc8 Qe5 12. Rb1+ Rb4 13. Rxb4+ $1 Kxb4 14. Rg8 $1 Qd5+ 15. Rg2
+1/2-1/2
+
+[Event "2.p Saloniki Olympiade"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kalandadze=V BN=(c)"]
+[Black "(=0800.11h1g5) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7R/8/8/5rk1/r7/7P/p7/2R4K w - - 0 1"]
+
+{(c): Neuenschwander=B beatochess 28/04/2025.} 1. Rg1+ (1. Rg8+ $2 Kh4 2. Rh8+
+Kg3 3. Ra1 Rb5) 1... Kf6 2. Rf8+ Ke6 3. Re1+ Re5 4. Re8+ Kd6 5. Rd1+ Rd5 6.
+Rd8+ Kc6 7. Rc1+ Rc5 8. Rc8+ Kb6 9. R8xc5 a1=Q 10. Rc6+ (10. Rc8 Qe5 11. Rb1+
+Ka7) 10... Kb5 11. Rc8 Qe5 12. Rb1+ Rb4 13. Rxb4+ Kxb4 14. Rg8 1/2-1/2
+
