@@ -8,7 +8,7 @@
 [ECO "A00"]
 [FEN "3R2b1/5pr1/1p6/1P6/1n3P2/1pN5/2p3P1/k1K2B2 w - - 0 1"]
 
-{(EG#06262). (U2): Neuenschwander=B beatochess 03/04/2025.} 1. Ra8+ Na2+ 2.
+{(EG#06262). (U2): Neuenschwander=B beatochess 19/04/2025.} 1. Ra8+ Na2+ 2.
 Rxa2+ bxa2 3. Ne2 Bh7 (3... f5 {<main>} 4. Nd4 Rc7 5. Bc4 Rxc4 (5... Bxc4
 {<main>} 6. Nxc2#) 6. Nb3#) 4. Nd4 Rg3 5. Bd3 (5. f5 {<dual BN>} 5... Bxf5 (
 5... Rc3 6. g4) 6. Bd3) 5... Rxd3 (5... Bxd3 {<main>} 6. Nb3#) 6. Nxc2# 1-0
@@ -22,8 +22,8 @@ Rxa2+ bxa2 3. Ne2 Bh7 (3... f5 {<main>} 4. Nd4 Rc7 5. Bc4 Rxc4 (5... Bxc4
 [Result "1-0"]
 [FEN "6b1/5pr1/p7/7R/Nn6/1p5P/k1p3P1/2K2B2 w - - 0 1"]
 
-{(c): Neuenschwander=B beatochess 19/04/2025.} 1. Nc3+ (1. Ra5 $2 b2+ 2. Nxb2+
-Kb3 3. Bc4+ Kc3) 1... Ka1 2. Ra5+ Na2+ 3. Rxa2+ bxa2 4. Ne2 Bh7 (4... f5
+{correction: Neuenschwander=B beatochess 19/04/2025.} 1. Nc3+ (1. Ra5 $2 b2+ 2.
+Nxb2+ Kb3 3. Bc4+ Kc3) 1... Ka1 2. Ra5+ Na2+ 3. Rxa2+ bxa2 4. Ne2 Bh7 (4... f5
 {<main>} 5. Nd4 Rc7 6. Bc4 $1 Bxc4 (6... Rxc4 {<main>} 7. Nb3#) 7. Nxc2#) 5.
 Nd4 Rg3 6. Bd3 $1 Bxd3 (6... Rxd3 {<main>} 7. Nxc2#) 7. Nb3# 1-0
 
