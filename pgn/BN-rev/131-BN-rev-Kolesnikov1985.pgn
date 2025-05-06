@@ -1,0 +1,20 @@
+[Event "beatochess-10"]
+[Site "?"]
+[Date "2025.05.05"]
+[Round "?"]
+[White "Kolesnikov=E BN=(c)"]
+[Black "(=0300.64h4g2) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/2P3p1/1P4Pp/5p1K/5P1p/4rPkP/8 w - - 0 1"]
+
+{correction of Kolesnikov 1985 (=0300.64h4g2) U3.} 1. c7 Rc2 (1... Re8 2. b6
+Kxh2 3. b7 Kg2 4. c8=Q Rxc8 5. bxc8=Q h2 6. Qh3+ Kg1 7. Qxh2+ Kxh2) 2. b6 Kxh2
+3. b7 (3. c8=Q $2 Rxc8 4. b7 Rf8 5. b8=Q Rf5) 3... Kg1 (3... Rxc7 4. b8=Q Kg2
+5. Qc8 $1 h2 6. Qh3+ Kg1 7. Qxh2+ Kxh2) 4. c8=Q (4. Kxh3 $2 Rxf2) 4... Rxc8 5.
+bxc8=B (5. bxc8=Q $2 h2) 5... h2 6. Bh3 $1 Kxf2 (6... h1=Q) 7. Bg2 Kg1 8. Bh3
+h1=B $1 9. Bg2 $1 Kh2 (9... Bxg2)  (9... Kxg2) 10. Bh3 (10. Bf1 {<or>} ) 10...
+Bxf3 11. Bg2 Bd1 (11... Be2 12. Bf3 Bf1 13. Be4 (13. Bg2 $2 Kg1) 13... Kg1 14.
+Bxg6 f3 15. Bf7 f2 16. g6 Bd3 17. g7) 12. Bf3 Bc2 (12... Bxf3) 13. Be4 Bd1 14.
+Bf3 (14. Bxg6 $2 f3 15. Be4 f2 16. Bd3 Bc2 17. Bc4 Bg6) 1/2-1/2
+
