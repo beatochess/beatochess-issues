@@ -1,0 +1,37 @@
+[Event "Pachman MT Fritz MT UV CSTV"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kolesnikov=E"]
+[Black "(=0300.64h4g2) U3"]
+[Result "1/2-1/2"]
+[FEN "8/r7/3P2p1/2P3Pp/5p1K/5P1p/5PkP/8 w - - 0 1"]
+
+{(EG#06808). U3: Ceskoslovensky Sach/9 1987 U3: Garcia=M HHdbIV#53769
+19-1-2007.} 1. c6 (1. d7 $2 Rxd7 2. c6 Kxh2 3. cxd7 Kg2 4. d8=Q h2) 1... Kxh2 (
+1... Ra8 $1 {<cook MG>} 2. c7 (2. d7 Kxh2 3. d8=Q Rxd8 4. c7 Kg1 5. cxd8=Q h2
+6. Qd1+ Kg2 7. Qe1 h1=Q+ 8. Qxh1+ Kxh1 9. Kh3 Kg1 10. Kh4 Kxf2) 2... Kxh2 3.
+c8=Q Rxc8 4. d7 Rf8 5. d8=Q Kg2 6. Qxf8 h2) 2. c7 Ra8 (2... Kg2 3. c8=Q h2 4.
+Qh3+ Kg1 5. d7 Rxd7 6. Qxh2+ Kxh2) 3. c8=Q $1 Rxc8 4. d7 Kg1 $1 (4... Rc5 $1
+{<cook>} 5. d8=Q Kg2 6. Qd7 Rf5)  (4... Kg2 5. dxc8=Q (5. dxc8=B $2 h2 6. Bh3+
+Kg1 $1) 5... h2 6. Qh3+ Kg1 7. Qxh2+ Kxh2) 5. dxc8=B $1 1/2-1/2
+
+[Event "Pachman MT Fritz MT UV CSTV"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kolesnikov=E BN=(c)"]
+[Black "(=0300.64h4g2) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/8/2P3p1/1P4Pp/5p1K/5P1p/4rPkP/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 05/05/2025.} 1. c7 Rc2 (1... Re8 2. b6
+Kxh2 3. b7 Kg2 4. c8=Q Rxc8 5. bxc8=Q h2 6. Qh3+ Kg1 7. Qxh2+ Kxh2) 2. b6 Kxh2
+3. b7 (3. c8=Q $2 Rxc8 4. b7 Rf8 5. b8=Q Rf5) 3... Kg1 (3... Rxc7 4. b8=Q Kg2
+5. Qc8 $1 h2 6. Qh3+ Kg1 7. Qxh2+ Kxh2) 4. c8=Q (4. Kxh3 $2 Rxf2) 4... Rxc8 5.
+bxc8=B (5. bxc8=Q $2 h2) 5... h2 6. Bh3 $1 Kxf2 (6... h1=Q) 7. Bg2 Kg1 8. Bh3
+h1=B $1 9. Bg2 $1 Kh2 (9... Bxg2)  (9... Kxg2) 10. Bh3 (10. Bf1 {<or>} ) 10...
+Bxf3 11. Bg2 Bd1 (11... Be2 12. Bf3 Bf1 13. Be4 (13. Bg2 $2 Kg1) 13... Kg1 14.
+Bxg6 f3 15. Bf7 f2 16. g6 Bd3 17. g7) 12. Bf3 Bc2 (12... Bxf3) 13. Be4 Bd1 14.
+Bf3 (14. Bxg6 $2 f3 15. Be4 f2 16. Bd3 Bc2 17. Bc4 Bg6) 1/2-1/2
+

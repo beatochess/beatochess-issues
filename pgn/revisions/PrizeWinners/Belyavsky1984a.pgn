@@ -1,0 +1,34 @@
+[Event "2.p Mongolian Thematic ty"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Belyavsky=A Mitrofanov=L"]
+[Black "(=0410.04g5b8) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1k6/1r3B1R/8/1p4K1/1p6/1p3p2/8/8 w - - 0 1"]
+
+{also 8.p Chavchavadze MT 1987 (EG#06798 EG#07742). U2: Neuenschwander=B
+beatochess 05/05/2025.} 1. Rh8+ Ka7 2. Bxb3 (2. Bg6 $1 {<cook BN>} 2... Re7 3.
+Rf8 Re3 4. Kg4) 2... Rg7+ 3. Kh5 Rf7 4. Bxf7 f2 5. Rh7 Kb8 6. Rh8+ Kc7 7. Rh7
+Kd8 8. Rh8+ Ke7 9. Re8+ Kd7 10. Rf8 Ke7 11. Re8+ Kxf7 12. Re4 f1=R (12... f1=Q
+13. Rf4+ Qxf4) 13. Rxb4 Rf5+ 14. Kg4 Ke6 15. Re4+ Re5 16. Kf4 1/2-1/2
+
+[Event "2.p Mongolian Thematic ty"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Belyavsky=A Mitrofanov=L"]
+[Black "(=0410.04g5a8) (m)"]
+[Result "1/2-1/2"]
+[FEN "k7/3r4/1p6/6KR/pp6/5p2/2B5/8 w - - 0 1"]
+
+{modification: Polasek=J EG=219 1/2020.} 1. Rh8+ (1. Bxa4 $2 Rd5+) 1... Ka7 $1
+(1... Kb7 2. Bxa4 b5 3. Bb3 Rg7+ 4. Kh5 Rf7 5. Bxf7 f2 6. Bd5+) 2. Bxa4 b5 $1
+3. Bb3 $1 (3. Bxb5 $2 Rd5+)  (3. Bc2 $2 Rd2 $1 4. Be4 (4. Bf5 Rg2+ 5. Kf4 f2 6.
+Bd3 Rg1 7. Ke4 f1=Q 8. Bxf1 Rxf1 9. Kd3 Rc1) 4... f2 5. Rh1 Re2 6. Bg2 (6. Bd3
+Re3 $1) 6... b3 7. Rb1 Re1 8. Rxb3 Rg1) 3... Rg7+ 4. Kh5 $1 (4. Kf4 $2 f2 5.
+Rh1 Rg1) 4... Rf7 $1 5. Bxf7 f2 6. Rh7 Kb8 7. Rh8+ Kc7 8. Rh7 Kd8 9. Rh8+ Ke7
+10. Re8+ $1 (10. Rh7 $2 Kf8 11. Rh8+ Kxf7) 10... Kd7 11. Rf8 Ke7 12. Re8+ Kxf7
+13. Re4 $1 f1=Q 14. Rf4+ Qxf4 1/2-1/2
+
