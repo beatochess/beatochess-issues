@@ -1,0 +1,19 @@
+[Event "1.p Troitzky MT Molodoj Leninets"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Dolgov=V Maksimovskikh=A"]
+[Black "(+0440.12a7a1) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/K6p/3p1P1r/8/b7/8/6R1/k4B2 w - - 0 1"]
+
+{(EG#06858). U2: Neuenschwander=B beatochess 06/05/2025.} 1. f7 Rf6 2. Bc4 Bb5
+$1 3. Bb3 (3. Rg1+ $2 Kb2 4. Rf1 Rxf7+)  (3. Be6 $1 {<cook BN>} 3... Bd7 4.
+Ra2+ Kb1 5. Bb3) 3... Bd3 (3... d5 4. Bxd5 Bc6 5. Ra2+ Kb1 6. Ra6) 4. Rg8 $1
+Bc2 5. Be6 Bf5 6. Rg1+ Bb1 (6... Kb2 7. Rf1) 7. Kb6 $1 (7. Kb7 $2 Kb2 8. Rg8
+Bf5 9. Rg2+ Kc3 10. Rf2 $2 Be4+)  (7. Kb8 $2 Kb2 8. Rg8 Bf5 9. Rg2+ Kc3 10. Rf2
+Bxe6 11. Rxf6 Bxf7 12. Rxf7 d5)  (7. Bc4 $1 {<cook BN>} 7... d5 (7... Kb2 8.
+Rf1 Bf5 9. Be6) 8. Bxd5 Kb2 9. Rg8 Be4 10. Be6 Bf5 11. Rb8+ Kc3 12. Ba2) 7...
+Kb2 8. Rg8 Bf5 9. Rg2+ Bc2 10. Kc7 Kc3 11. Rg8 Bf5 12. Rg3+ Bd3 13. Kxd6 1-0
+
