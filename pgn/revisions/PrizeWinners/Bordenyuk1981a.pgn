@@ -1,0 +1,49 @@
+[Event "3.p Tidskrift for Schack#2202"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bordeniuk=M Kuznetsov=AP"]
+[Black "(+3020.34f8a6) (c) U2"]
+[Result "1-0"]
+[FEN "5KBq/8/k6p/1p2p2p/4P2P/P7/8/2B5 w - - 0 1"]
+
+{Tidskrift for Schack=8 Tidskrift for Schack/10 (EG#05242). correction:
+Bordeniuk=M Kuznetsov=AP Tidskrift for Schack=5 6-7/ 1982. U2: Garcia=M
+HHdbV#32939 22-9-2011.} 1. Kf7 b4 (1... Ka5 2. Be3 $1) 2. axb4 Kb5 3. Ba3 (3.
+Be3 $1 {<cook MG>} 3... Kxb4 4. Bb6 Kc4 5. Bd8 Kd4 6. Bf6 Qxg8+ 7. Kxg8 Kxe4 8.
+Be7 Kf5 9. Bb4) 3... Ka4 4. b5 $1 Kxa3 5. b6 Kb2 6. b7 Ka1 7. b8=B $1 (7. b8=N
+$2 Kb2 8. Nc6 Kc3 9. Ne7 Kd4 10. Ng6 Qxg8+ 11. Kxg8 Kxe4 12. Kg7 Kf5 13. Kxh6
+Kg4)  (7. b8=Q $2 Qf6+ 8. Ke8 Qe7+ 9. Kxe7) 7... Kb2 8. Bd6 $1 Kc3 9. Bf8 Kd4
+10. Bg7 Qxg8+ 11. Kxg8 Kxe4 12. Bf8 Kf3 13. Bb4 Kg4 14. Be1 1-0
+
+[Event "Tidskrift for Schack#2202"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bordeniuk=M Kuznetsov=AP"]
+[Black "(+3020.34f8a6) U3"]
+[Result "1-0"]
+[FEN "5KBq/8/k6p/1p2p2p/4P2P/P7/1B6/8 w - - 0 1"]
+
+{Tidskrift for Schack=8 Tidskrift for Schack/10. U3: Tidskrift for Schack=5
+6-7/1982.} 1. Kf7 b4 (1... Ka5 $1 {<cook>} ) 2. axb4 Kb5 3. Ba3 Ka4 4. b5 $1
+Kxa3 5. b6 Kb2 6. b7 Ka1 $1 7. b8=B $1 (7. b8=Q $2 Qf6+ 8. Ke8 Qe7+ 9. Kxe7)  (
+7. b8=N $2 Kb2 8. Nc6 Kc3 9. Ne7 Kd4 10. Ng6 Qxg8+ 11. Kxg8 Kxe4 12. Kg7 Kf5
+13. Kxh6 Kg4) 7... Kb2 8. Bd6 $1 Kc3 9. Bf8 Kd4 10. Bg7 Qxg8+ 11. Kxg8 Kxe4 12.
+Bf8 Kf3 13. Bb4 Kg4 14. Be1 1-0
+
+[Event "3.p Tidskrift for Schack#2202"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bordeniuk=M Kuznetsov=AP BN=(c)"]
+[Black "(+3020.45f8d7) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5KBq/3k4/7p/1p2p2P/4p1p1/2P1P1P1/8/B7 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 29/01/2025.} 1. Kf7 Kc6 2. Bb2 b4 3.
+cxb4 Kb5 4. Ba3 $1 (4. Bc3 $2 Kc4 5. Be1 Kb5 6. Bd2 Kc4 7. Bc1 Kxb4) 4... Ka4
+5. b5 $1 Kxa3 6. b6 Kb2 7. b7 Ka1 8. b8=B $1 (8. b8=Q $2 Qf6+ 9. Kxf6)  (8.
+b8=N Kb2 9. Nd7 Kc3 10. Nf8 Kd3 11. Ng6 Qxg8+ 12. Kxg8 Kxe3) 1-0
+
