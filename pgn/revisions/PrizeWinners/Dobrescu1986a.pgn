@@ -1,0 +1,30 @@
+[Event "5.p Czerniak MT Shahmat"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Dobrescu=E"]
+[Black "(+0800.12h1e3) U2"]
+[Result "1-0"]
+[FEN "8/1pRR3P/8/7p/8/4k3/rr6/7K w - - 0 1"]
+
+{(EG#06972). U2: Garcia=M HHdbV#27436 22-9-2011.} 1. Rc3+ Ke4 2. Rd4+ Kf5 3.
+Rc5+ Ke6 4. Re5+ Kf7 5. Rd7+ Kg6 6. Re6+ (6. Rg5+ $1 {<cook MG>} 6... Kxg5 7.
+Rg7+ Kf4 8. h8=Q) 6... Kf5 7. Rf6+ Ke4 8. Re7+ Kd5 9. Re5+ Kc4 10. Rf4+ Kd3 11.
+Rd4+ Kc3 12. h8=Q Rb1+ 13. Rd1 Rxd1+ 14. Re1+ 1-0
+
+[Event "5.p Czerniak MT Shahmat"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Dobrescu=E BN=(c)"]
+[Black "(+0803.11h1d3) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/2R2R1P/8/1p6/8/3k4/rr5n/7K w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 17/052025.} 1. Rfd7+ (1. Rc3+ $2 Ke4
+$1) 1... Ke3 (1... Ke4 2. Rd4+ $1) 2. Rc3+ Ke4 3. Rd4+ Kf5 4. Rc5+ Ke6 5. Re5+
+Kf7 6. Rd7+ Kg6 7. Re6+ Kf5 8. Rf6+ Ke4 (8... Ke5 9. h8=Q Rb1+ 10. Rf1+) 9.
+Re7+ Kd5 10. Re5+ Kc4 11. Rf4+ Kd3 12. Rd4+ Kc3 13. h8=Q Rb1+ 14. Rd1 Rxd1+ 15.
+Re1+ Kd2 16. Qxh2+ Kxe1 17. Qxa2 1-0
+
