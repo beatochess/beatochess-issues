@@ -1,0 +1,62 @@
+[Event "3.p Schakend Nederland#2008"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Waenink=P"]
+[Black "(+0444.54a6a8) (c)"]
+[Result "1-0"]
+[FEN "kb3n1r/p5P1/K1p5/P1P5/p1P5/P7/6p1/2B2R1N w - - 0 1"]
+
+{Schakend Nederland/6 (EG#07046). correction: Waenink=P Schakend Nederland/9
+1985.} 1. Rxf8 (1. gxh8=Q $2 gxf1=Q)  (1. gxf8=Q $2 Rxf8 2. Rxf8 gxh1=Q 3. Bf4
+Qb1) 1... gxh1=Q 2. Rxh8 (2. gxh8=Q $2 Qxh8 3. Rxh8) 2... Qxh8 3. gxh8=B $1 (3.
+gxh8=Q $2)  (3. gxh8=N $2 Bf4 $1 4. Bb2 Be5 5. Bxe5) 3... Be5 4. Bb2 Bf4 5.
+Bbf6 Be5 6. Bhg7 Bf4 7. Bd8 Bc7 8. Bgf6 Be5 9. Bh4 $1 Bg3 10. Bde7 Be5 11. Bf8
+$1 Bb2 12. Bg5 $1 (12. Bd8 $2 Bxa3 13. Bg7 Bc1 14. Bb6 a3 15. Bxa7 Bb2) 12...
+Bxa3 (12... Be5 13. Bd8 Bb2 14. Bb6 Bxa3 15. Bg7 Bc1 16. Bxa7 a3 17. Be5 $1 Bb2
+18. Bab8) 13. Bg7 $1 Bb4 (13... Bxc5 14. B5f6 Bd6 15. Bd4 c5 16. Bb2 Be7 17.
+Ba3 Kb8 18. Kb5 Kc7 19. a6) 14. B5f6 Be1 (14... a3 15. Bc3 Bxc3 16. Bxc3) 15.
+Bb2 Bg3 16. Ba3 Bc7 17. Bf8 Bd8 18. Bd6 Bc7 19. Be7 Bb8 20. Bc1 Bc7 21. Bb2 a3
+(21... Bf4 22. Bd8 Bg3 23. Bb6 Bb8 24. Bc1) 22. Bxa3 1-0
+
+[Event "Schakend Nederland#2008"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Waenink=P"]
+[Black "(+0470.64a6a8) U3"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kb3R1r/p7/K1p3PP/P1P5/p1P5/P7/7p/b1B5 w - - 0 1"]
+[PlyCount "45"]
+[EventDate "1985.??.??"]
+{Schakend Nederland/6. U3: Waenink=P Schakend Nederland/9 1985.} 1. g7 h1=Q 2. Rxh8 Bxg7 (2... Qh2 $1 {
+<cook>} 3. g8=Q Bxh8 4. Qc8 Qc7) 3. hxg7 Qxh8 4. gxh8=B $1 (4. gxh8=Q $2) 4...
+Be5 5. Bb2 Bf4 6. Bbf6 Be5 7. Bhg7 Bf4 8. Bd8 Bc7 9. Bgf6 Be5 10. Bh4 Bg3 11.
+Bde7 Be5 12. Bf8 Bb2 13. Bg5 Bxa3 14. Bg7 Bb4 15. B5f6 Be1 16. Bb2 Bg3 17. Ba3
+Bc7 18. Bf8 Bd8 19. Bd6 Bc7 20. Be7 Bb8 21. Bc1 Bc7 22. Bb2 a3 23. Bxa3 1-0
+
+[Event "Schakend Nederland#2008"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Waenink=P Polasek=(c)"]
+[Black "(+0470.64a6a8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1k6/p2n4/K1p3P1/P1P4r/2P5/P3Q1b1/8/2B5 b - - 0 1"]
+
+{correction: Polasek=J Ceskoslevensky Sach 9/2022.} 1... Ka8 $1 (1... Nxc5+ 2.
+Qxc5 Rxc5 3. g7) 2. Qe8+ Nb8+ 3. Qxb8+ Bxb8 $1 4. g7 Rh8 $1 5. gxh8=B $1 (5.
+gxh8=Q)  (5. gxh8=N $2 Bf4 $1 6. Bb2 (6. Nf7 Bxc1 7. a4 (7. Ne5 Bxa3 8. Nxc6
+Bxc5 $11) 7... Be3 $1 (7... Kb8 8. Ne5 Be3 { } ) 8. Ne5 Kb8 (8... Bxc5 $2 9.
+Nxc6 Be3 10. Kb5 Kb7 11. a6+ Kc7 (11... Ka8 12. Ne7 Kb8 13. Kc6 Bg5 14. Nf5 Bf4
+15. Kd7 Bh2 16. Ne7 Bg3 17. Nc6+ Ka8 18. Kc8 Bf2 19. Nd8 Bg1 20. Ne6 Bh2 21. c5
+Bg3 22. c6 Bh2 23. c7) 12. c5) 9. Nxc6+ Kc7 10. Ne5 (10. Kb5 a6+) 10... Bxc5
+$11 11. Kb5 Bd4 12. Nd3 Be3 13. c5 Bg5 14. Nb4 Bd2 15. Nd5+ Kb7 16. a6+ Kb8 17.
+Kc6 Be1 18. Kd7 Bf2 19. c6 Bg3 20. c7+ Bxc7 21. Nxc7) 6... Be5 7. Nf7 Bxb2 8.
+Nd8 (8. a4 Bf6) 8... Bxa3 9. Nxc6 Bxc5 $11) 5... Be5 6. Bb2 Bg3 7. Bbf6 Bc7 (
+7... Be5 8. Bhg7 Bc7 9. Be7) 8. Be7 Be5 (8... Kb8 9. Bhf6 Ka8 10. Bd8 Be5 11.
+Bfe7 Bc7 12. a4) 9. Bhf6 Bc7 10. Bd8 Be5 11. Bfe7 Bc7 12. a4 Bxd8 13. Bxd8 Kb8
+14. Bc7+ Ka8 15. Bb6 1-0
+
