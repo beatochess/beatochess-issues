@@ -1,0 +1,15 @@
+[Event "beatochess-10"]
+[Site "?"]
+[Date "2025.05.23"]
+[Round "?"]
+[White "Shansin=V BN=(c)"]
+[Black "(+3126.23g1e1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "4BB2/1p6/1P2n3/8/7R/nq3Pp1/6p1/4k1K1 w - - 0 1"]
+
+{correction of Shansin 1987 (+3126.12g1e1) U2.} 1. Re4+ Kd2 2. Bh6+ Ng5 $1 3.
+Bxg5+ Kd1 4. Ba4 (4. Rd4+ Ke2 5. Re4+ Kd1) 4... Nc2 $1 5. Re1+ $1 Kxe1 6. Bxb3
+Nd4 7. Bd5 Nxf3+ 8. Kxg2 Nxg5 9. Kxg3 Kd2 10. Kf4 Kc3 11. Ke5 Kb4 12. Kd6 Kb5
+13. Kc7 Kc5 14. Kxb7 Kxd5 15. Ka8 $1 1-0
+

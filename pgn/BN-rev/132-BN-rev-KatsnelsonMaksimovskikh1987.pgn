@@ -1,0 +1,15 @@
+[Event "beatochess-10"]
+[Site "?"]
+[Date "2025.05.14"]
+[Round "?"]
+[White "Katsnelson Maksimovskikh=A BN=(c)"]
+[Black "(=0000.24d4b8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1k6/ppp5/3Pp3/8/3K4/1P6/8/8 w - - 0 1"]
+
+{correction of Katsnelson & Maksimovskikh 1987 (=0000.24d4b8) U2.} 1. d7 c5+ 2.
+Ke5 Kc7 3. Kxe6 Kd8 4. Kd6 (4. Kd5 $2 Kxd7 5. Kxc5 Ke6) 4... c4 5. bxc4 a5 6.
+Kc5 Kxd7 7. Kb6 (7. Kb5 $2 Kd6 8. Ka4 Kc6 9. Kxa5 Kc5) 7... Kd6 8. Kb5 $1 Ke5
+9. Kxa5 1/2-1/2
+
