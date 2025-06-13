@@ -1,0 +1,14 @@
+[Event "beatochess-11"]
+[Site "?"]
+[Date "2025.06.13"]
+[Round "?"]
+[White "Lewandowski=A BN=(c)"]
+[Black "(=3082.30g6e7) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "5N2/3Pk2B/4P1K1/8/4P3/4q3/b2N4/2B1b3 w - - 0 1"]
+
+{correction of Lewandowski 1986 (=3082.31g6e7) U3.} 1. Nb3 Qxe4+ 2. Kg7 Bc3+ (
+2... Qe5+ 3. Kg8 Qf6 4. Ba3+) 3. Kg8 Qg4+ 4. Ng6+ Kd8 5. Bg5+ Qxg5 6. e7+ Kxd7
+7. e8=Q+ Kxe8 1/2-1/2
+
