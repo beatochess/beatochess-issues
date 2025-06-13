@@ -1,0 +1,34 @@
+[Event "3.p Biuletyn CzOZSzach"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Lewandowski=A"]
+[Black "(=3082.31g6e7) U3"]
+[Result "1/2-1/2"]
+[FEN "5N2/3Pk1pB/4P1K1/8/4P3/4q3/b2N3b/2B5 w - - 0 1"]
+
+{(EG#07217). U3: Garcia=M HHdbV#27392 24-9-2011.} 1. Nb3 (1. Kxg7 $2 Be5+ 2.
+Kg8 (2. Kg6 Qg3+ 3. Kh5 Qh3+ 4. Kg5 Bf6+ 5. Kf4 Kxf8) 2... Qg5+ 3. Ng6+ Kxe6 4.
+Nb3 Qd8+ 5. Nf8+ Kd6 6. Ba3+ Kc6) 1... Qxe4+ 2. Kxg7 (2. Kg5 $2 Qg2+ 3. Kh5
+Qf3+ 4. Kg5 (4. Kg6 Bb1+) 4... Qxf8) 2... Be5+ (2... Qg2+ 3. Ng6+ Kd8 4. Kh6
+Qh3+ 5. Kg7 Be5+ 6. Nxe5 Qg3+ 7. Kf7 Qxe5 8. Bb2)  (2... Qg4+ 3. Ng6+ Kd8 4.
+Bb2 Qxe6 5. Bf6+ Kxd7 6. Nf8+)  (2... Qd5 3. Ng6+ Kd8 4. Bb2)  (2... Qe5+ $1 {
+<cook MG>} 3. Kg8 Qf6 4. Ba3+ Bd6 5. Bxd6+ Kxd6 6. Nd4 Kc7 7. Nf5 Bxe6+ 8.
+Nxe6+ Qxe6+ 9. Kg7 Kxd7) 3. Kg8 Qg4+ (3... Qd5 4. Bg5+ Bf6 5. Ng6+ Kd6 6. Bxf6
+Qxe6+ 7. Kg7 Qxd7+ 8. Be7+ Kc7 9. Bg8 Bb1 (9... Qd1 10. Nc5 Bb1) 10. Nc5 Qg4
+11. Bf7) 4. Ng6+ (4. Bg6 $2 Bxb3 5. Ba3+ Kd8) 4... Kd8 5. Bg5+ Qxg5 6. e7+ Kxd7
+7. e8=Q+ Kxe8 1/2-1/2
+
+[Event "3.p Biuletyn CzOZSzach"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Lewandowski=A BN=(c)"]
+[Black "(=3082.30g6e7) (c)"]
+[Result "1/2-1/2"]
+[FEN "5N2/3Pk2B/4P1K1/8/4P3/4q3/b2N4/2B1b3 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 13/06/2025} 1. Nb3 Qxe4+ 2. Kg7 Bc3+ (
+2... Qe5+ 3. Kg8 Qf6 4. Ba3+) 3. Kg8 Qg4+ 4. Ng6+ Kd8 5. Bg5+ Qxg5 6. e7+ Kxd7
+7. e8=Q+ Kxe8 1/2-1/2
+

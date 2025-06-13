@@ -1,0 +1,37 @@
+[Event "3.p Szachy#61"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gusev=B"]
+[Black "(+0414.01b8f8) (v) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1K1B1k2/8/8/1p6/3r2Nn/8/8/4R3 w - - 0 1"]
+
+{Szachy=10(475) Szachy/10 (EG#07205). U2: Neuenschwander=B beatochess
+13/06/2025.} 1. Be7+ Kg8 $1 (1... Kf7 2. Ne5+ Kg7 3. Rg1+) 2. Rg1 (2. Ne5 $1
+{<cook BN>} 2... Nf5 3. Rg1+ Kh7 4. Bf6 Rd6 5. Rh1+ Nh6 6. Ng4 Kg6 7. Rxh6+ Kf5
+8. Ne3+ Ke4 9. Kc7) 2... Nf3 $1 (2... Nf5 3. Ne5+ Kh7 4. Bf6 Rd6 5. Rh1+ Nh6 6.
+Ng4) 3. Rg3 Kf7 $1 4. Bc5 $1 (4. Nh6+ $2 Kxe7 5. Nf5+ Ke6 6. Nxd4+ Nxd4) 4...
+Rc4 5. Rxf3+ Ke6 6. Re3+ $1 (6. Rf6+ $2 Kd5 7. Ne3+ Kxc5 8. Nxc4 bxc4) 6... Kd5
+7. Re5+ Kc6 8. Nf6 $1 Rxc5 9. Re6# 1-0
+
+[Event "Szachy#61"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gusev=B"]
+[Black "(+0414.01b8g8) U1"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K4k1/4B3/5R2/1p1r4/6Nn/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1986.??.??"]
+{Szachy=10(475) Szachy/10. U1: Garcia=M HHdbIV#55113 19-1-2007.} 1. Rf1 $1 (1. Rf4 $2
+Ng6 2. Nf6+ Kf7) (1. Rc6 $1 {<cook MG>} Rd4 2. Ne5 Rd5 (2... Nf5 3. Bf6 Nd6 4.
+Rc7 Re4 5. Re7 b4 6. Kc7) 3. Bf6 Kh7 4. Rc7+ Kh6 5. Rc3) 1... Rd4 2. Rg1 Nf3 $1
+(2... Nf5 3. Ne5+ Kh7 4. Bf6 Rd6 5. Rh1+ Nh6 6. Ng4) 3. Rg3 Kf7 $1 4. Bc5 $1 (
+4. Nh6+ $2 Kxe7 5. Nf5+ Ke6 6. Nxd4+ Nxd4) 4... Rc4 5. Rxf3+ Ke6 6. Re3+ (6.
+Rf6+ $2 Kd5 7. Ne3+ Kxc5 8. Nxc4 bxc4) 6... Kd5 7. Re5+ Kc6 8. Nf6 Rxc5 9. Re6#
+1-0
+
