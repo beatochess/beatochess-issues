@@ -1,0 +1,13 @@
+[Event "beatochess-11"]
+[Site "?"]
+[Date "2025.06.16"]
+[Round "?"]
+[White "Kivi=V BN=(c)"]
+[Black "(+0011.25f5h1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3Bp3/1p3p2/3P1K2/8/pp5N/P7/7k w - - 0 1"]
+
+{correction of Kivi 1965 (+0011.24f5h1) U2.} 1. d6 exd6 2. Kg4 Kh2 3. Be6 f5+
+4. Kh4 d5 5. Bxd5 b2 6. Ng5 b1=Q 7. Nf3+ Kg2 8. Nd2+ 1-0
+
