@@ -1,0 +1,63 @@
+[Event "1.p Galitzky MT Bulletin Central Chess Club USSR"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron=V"]
+[Black "(+0440.22g1e1) U2 U3"]
+[Result "1-0"]
+[FEN "8/B7/P7/5p2/5b2/6pR/1r2P3/4k1K1 w - - 0 1"]
+
+{Bulletin Central Chess Club USSR=6(36) Bulletin Central Chess Club USSR/6 3.p
+USSR overall champ VII 1962-1964 (EG#00007). U2 U3: Garcia=M HHdbIV#33709
+19-1-2007.} 1. Bd4 $1 (1. Bc5 $2 Bb8 2. e3 Rh2 3. Rxh2 gxh2+ 4. Kg2 Ke2 5. a7
+Bxa7 6. Bxa7 h1=Q+ 7. Kxh1 Kf3) 1... Ra2 $1 2. a7 Kxe2 $1 3. Rh8 Be5 $1 (3...
+Kd3 $1 {<cook MG>} 4. Bc5 Kc4 5. Rc8 Bg5 6. Bb6+ (6. Kf1 Kb5 7. Bg1 g2+ 8. Ke1
+Bh4+ 9. Kd1 f4 10. a8=Q Rxa8 11. Rxa8 f3) 6... Kb5 7. Bd4 Bf6 8. Rb8+ Kc6) 4.
+Re8 $1 Kd3 5. Bc5 $1 (5. Bb6 $2 Bc7 6. Bc5 Kc4 7. Be3 f4 8. a8=Q Rxa8 9. Rxa8
+fxe3 10. Rc8 e2 11. Rxc7+ Kd3) 5... Bd6 $1 6. Rd8 $1 (6. Re3+ $2 Kc4 7. Ba3 Bc5
+$1 8. a8=Q Bxe3+ 9. Kf1 g2+ 10. Qxg2 Rxg2) 6... Kc4 7. Bb6 $1 (7. Be3 $1 {<cook
+MG>} 7... f4 (7... Ra1+ 8. Kg2 Ra2+ 9. Kf3 f4 10. Bb6 Ra3+ 11. Ke4) 8. Rc8+ Kd5
+9. Bb6 Ra1+ 10. Kg2 Ra2+ 11. Kh3 f3 12. a8=Q+ Rxa8 13. Rxa8 Ke4 14. Ra4+) 7...
+Bc7 $1 8. Rc8 $1 Kb5 9. Bd4 $1 (9. Be3 $2 f4 10. Bd4 Kc4) 9... Kc4 $1 (9... Be5
+10. Rc5+) 10. Be3 $1 Kd3 (10... f4 11. Rxc7+) 11. Bc5 $1 Ra1+ (11... Bd6 12.
+Bb6) 12. Kg2 Ra2+ 13. Kf3 Rf2+ $1 14. Bxf2 gxf2 15. Kg2 $1 Ke2 16. Re8+ 1-0
+
+
+[Event "1.p Galitzky MT Bulletin Central Chess Club USSR"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron=V"]
+[Black "(+0440.12h1f2) (c)"]
+[Result "1-0"]
+[FEN "8/8/1P5R/6p1/4B1b1/7p/r4k2/7K w - - 0 1"]
+
+{Bulletin Central Chess Club USSR=6(36) Bulletin Central Chess Club USSR/6 3.p
+USSR overall champ VII 1962-1964. correction: Timman=J The Art of the
+Endgame-216 2011.} 1. b7 Rb2 2. Rh8 Bf5 (2... Ke3 3. Bd5 Kd4 4. Rd8) 3. Rf8 Ke3
+4. Bd5 $1 Be6 5. Re8 $1 Kd4 6. Bc6 $1 (6. Bf3 $2 g4) 6... Bd7 7. Rd8 $1 Kc5 8.
+Be4 $1 Kd4 (8... Bf5 9. Rd5+) 9. Bf3 Ke3 10. Bd5 Be6 11. Bc6 Rb1+ 12. Kh2 Rb2+
+13. Kg3 1-0
+
+[Event "1.p Galitzky MT Bulletin Central Chess Club USSR"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bron=V"]
+[Black "(+0440.12h3e1) (c) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R7/2b5/P7/5p2/8/6pK/8/B3kr2 w - - 0 1"]
+
+{Bulletin Central Chess Club USSR=6(36) Bulletin Central Chess Club USSR/6.
+correction: Osintsev=S Grossmeister Bron - Zadachy i Etyudi#338a 2017. U3:
+Neuenschwander=B beatochess 16/06/2025.} 1. Bd4 $1 (1. Re8+ $2 Kd2 2. Bd4 Kd3
+3. a7 Rh1+ 4. Kg2 Rh2+ 5. Kg1 Ra2 6. Bc5 Kc4) 1... Rh1+ 2. Kg2 Rh2+ 3. Kg1 Ra2
+(3... f4 $1 {<cook BN>} 4. Re8+ Re2) 4. a7 Ke2 $1 5. Rc8 (5. Rf8 $2 Kd3 $1 6.
+Bc5 Kc4 7. Rxf5 Ra4 $1 (7... Kb5 $2 8. Ba3+ $1) 8. Kg2 Kb5) 5... Be5 $1 6. Re8
+$1 (6. Bb6 $2 Ra1+ $1 7. Kg2 f4 $1 8. Rc2+ Kd3 9. Rc5 Ke4 $1 10. Ra5 f3+ 11.
+Kh3 Rh1+ 12. Kg4 Rh8) 6... Kd3 7. Bc5 $1 (7. Bb6 $2 Bc7 $1 8. Bc5 Kc4) 7... Bd6
+$1 8. Rd8 $1 Kc4 9. Bb6 Bc7 $1 10. Rc8 $1 Kb5 11. Bd4 $1 (11. Be3 $2 f4 $1 12.
+Bd4 Kc4) 11... Kc4 12. Be3 Kd3 13. Bc5 Ra1+ (13... Bd6 14. Bb6) 14. Kg2 Ra2+
+15. Kf3 Rf2+ $1 16. Bxf2 gxf2 17. Kg2 $1 Ke2 18. Re8+ 1-0
+
