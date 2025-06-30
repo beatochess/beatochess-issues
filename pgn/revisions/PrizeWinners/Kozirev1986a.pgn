@@ -1,0 +1,35 @@
+[Event "2.p 64 Shakhmatnoye Obozrenye#48"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kozirev=V"]
+[Black "(+0042.02d5e1) U1"]
+[Result "1-0"]
+[FEN "B7/8/8/3K1pN1/8/b2pN3/8/4k3 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=12(755) 64 Shakhmatnoye Obozrenye/6 9/20.p USSR
+overall champ XVIII 1985-1986 Bulletin Central Chess Club USSR=19(461) Bulletin
+Central Chess Club USSR/7 1989 (EG#07327). U1: Garcia=M HHdbV#27299 24-9-2011
+U1: Afek=Y HHdbVI 6-8-2020.} 1. Kc4 $1 (1. Ke5 $1 {<cook MG>} 1... Bc1 2. Nf3+
+Ke2 3. Nxf5 d2 4. N3d4+ Ke1 5. Nc2+ Kf2 6. Nce3 Ke2 7. Kf4 Ke1 8. Bf3)  (1. Kd4
+$1 {<cook YA>} 1... Bc1 2. Ng2+ Kf2 3. Ne6 d2 4. Ne3 Ke2 5. Nf4+) 1... Bc1 $1 (
+1... d2 2. Bf3 Be7 3. Nh3 $1) 2. Nf3+ (2. Kxd3 $2 Kf2 3. Nd1+ Ke1 4. Ne3 Kf2 5.
+Nh3+ Kg3 6. Ng1 Kf2 7. Nh3+ Kg3 8. Ng5 Kf2) 2... Ke2 3. Nxf5 $1 d2 4. N3d4+ Ke1
+5. Nc2+ Kf2 $1 6. Nfe3 Ke2 7. Kc3 d1=Q 8. Nxd1 Bd2+ (8... Kxd1 9. Bf3#) 9. Kb2
+Kxd1 10. Bf3# 1-0
+
+[Event "2.p 64 Shakhmatnoye Obozrenye#48"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Kozirev=V BN=(c)"]
+[Black "(+0042.02d5e1) (c)"]
+[Result "1-0"]
+[FEN "B7/8/8/3K1pN1/8/3pN3/1b6/4k3 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 30/06/2025.} 1. Kc4 Bc1 $1 (1... d2 2.
+Bf3 Bf6 3. Nh3) 2. Nf3+ (2. Kxd3 $2 Kf2 3. Nd1+ Ke1 4. Ne3 Kf2 5. Nh3+ Kg3 6.
+Ng1 Kf2 7. Nh3+ Kg3 8. Ng5 Kf2) 2... Ke2 3. Nxf5 $1 d2 4. N3d4+ Ke1 5. Nc2+ Kf2
+$1 6. Nfe3 Ke2 7. Kc3 d1=Q 8. Nxd1 Bd2+ (8... Kxd1 9. Bf3#) 9. Kb2 Kxd1 10.
+Bf3# 1-0
+
