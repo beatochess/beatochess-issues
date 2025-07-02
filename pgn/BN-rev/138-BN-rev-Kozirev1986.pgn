@@ -1,10 +1,11 @@
-[Event "2.p 64 Shakhmatnoye Obozrenye#48"]
+[Event "beatochess-11"]
 [Site "?"]
-[Date "1986.??.??"]
+[Date "2025.06.30"]
 [Round "?"]
 [White "Kozirev=V BN=(c)"]
 [Black "(+0042.02d5e1) (c)"]
 [Result "1-0"]
+[ECO "A00"]
 [FEN "B7/8/8/3K1pN1/8/3pN3/1b6/4k3 w - - 0 1"]
 
 {correction of Kozirev 1986 (+0042.02d5e1) U1.} 1. Kc4 Bc1 $1 (1... d2 2. Bf3

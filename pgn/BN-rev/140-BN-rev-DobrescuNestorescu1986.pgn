@@ -1,0 +1,15 @@
+[Event "beatochess-11"]
+[Site "?"]
+[Date "2025.06.30"]
+[Round "?"]
+[White "Dobrescu=E Nestorescu=V BN=(c)"]
+[Black "(=4536.52g4g7) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1n5n/1R3Pk1/3q4/Q4P2/3P2Kp/6P1/4rpRP/2b5 w - - 0 1"]
+
+{correction of Dobrescu & Nestorescu 1986 (=4536.41g4g7) (c) U2.} 1. f6+ Qxf6 (
+1... Kf8 2. Rxf2) 2. f8=Q+ Kxf8 3. Rxf2 Rxf2 4. Qc5+ Kg8 5. Qc8+ Qf8 6. Rxb8
+Kg7 7. Qc7+ Qf7 (7... Rf7 8. Qe5+) 8. Rb7 Kg6 (8... Qxc7 9. Rxc7+ Nf7 10. Rxc1)
+9. Qc6+ Qf6 10. Rb6 Kg7 11. Qc7+ Qf7 12. Rb7 Kg8 13. Qc8+ 1/2-1/2
+
