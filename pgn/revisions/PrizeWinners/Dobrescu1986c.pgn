@@ -26,12 +26,12 @@ Kg8 15. Qc8+ Qf8 16. Rb8 1/2-1/2
 [Date "1986.??.??"]
 [Round "?"]
 [White "Dobrescu=E Nestorescu=V"]
-[Black "(=4536.41g4g7) (c)"]
+[Black "(=4536.41g4g7) (c) U2"]
 [Result "1/2-1/2"]
 [FEN "1n5n/1R3Pk1/3q4/Q4P2/3P2K1/6P1/4rpR1/2b5 w - - 0 1"]
 
 {Shakhmaty v SSSR/6. correction: Nestorescu=V EG=193 7/2013. U2:
-Neuenschwander=B beatochess 01/07/2025.} 1. f6+ $1 Qxf6 (1... Kf8 2. Rxf2 $1
+Neuenschwander=B beatochess 30/06/2025.} 1. f6+ $1 Qxf6 (1... Kf8 2. Rxf2 $1
 Re3 (2... Rxf2 3. Rxb8+ Qxb8 4. Qc5+) 3. Rxb8+ $1 Qxb8 4. Qc5+ Kxf7 5. Qd5+ Kf8
 6. Qc5+ Ke8 7. Qc6+ Kf8 8. Qc5+) 2. f8=Q+ $1 (2. Rxf2 $2 Qg6+ 3. Kh3 Qh6+ 4.
 Kg4 Re4+ 5. Kf3 Qh1+ 6. Rg2 Qf1+ 7. Rf2 Re3+ 8. Kg4 Qd1+ 9. Kh3 Qh1+ 10. Rh2
@@ -45,4 +45,19 @@ Qe5+ Kg6 13. Qh5+) 9. Qc6+ (9. Rb6+ $2 Kh7 $1 10. Rb7 Ba3 $1 11. Qc6 Be7 12.
 Qe4+ Ng6) 9... Qf6 10. Rb6 $1 (10. Qe4+ $2 Qf5+ $1)  (10. Qe8+ $2 Nf7 11. Qg8+
 Kh6) 10... Kg7 11. Qc7+ Qf7 12. Rb7 (12. Qe5+ $1 {<cook BN>} 12... Rf6 13. Rxf6
 Qxf6 14. Qc7+) 12... Kg8 13. Qc8+ Qf8 14. Rb8 1/2-1/2
+
+[Event "3.p Shakhmaty v SSSR#18"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Dobrescu=E Nestorescu=V BN=(c)"]
+[Black "(=4536.52g4g7) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1n5n/1R3Pk1/3q4/Q4P2/3P2Kp/6P1/4rpRP/2b5 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 30/06/2025.} 1. f6+ Qxf6 (1... Kf8 2.
+Rxf2) 2. f8=Q+ Kxf8 3. Rxf2 Rxf2 4. Qc5+ Kg8 5. Qc8+ Qf8 6. Rxb8 Kg7 7. Qc7+
+Qf7 (7... Rf7 8. Qe5+) 8. Rb7 Kg6 (8... Qxc7 9. Rxc7+ Nf7 10. Rxc1) 9. Qc6+ Qf6
+10. Rb6 Kg7 11. Qc7+ Qf7 12. Rb7 Kg8 13. Qc8+ 1/2-1/2
 

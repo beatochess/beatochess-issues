@@ -1,0 +1,28 @@
+[Event "4.p 64 Shakhmatnoye Obozrenye#76"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Rumyantsev=S"]
+[Black "(=0700.31h6c3) U1"]
+[Result "1/2-1/2"]
+[FEN "8/1R6/3P2pK/1P6/8/2kr2r1/6P1/8 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=19(763) 64 Shakhmatnoye Obozrenye/10 (EG#07329). U1:
+Garcia=M HHdbIV#54575 19-1-2007.} 1. Rc7+ (1. d7 $1 {<cook MG>} 1... Rxg2 2.
+Rc7+ Kb4 3. b6 Rh2+ 4. Kg5 Rd5+ 5. Kxg6 Rg2+ 6. Kf6 Rf2+ 7. Ke7) 1... Kb4 2. b6
+Rxd6 3. b7 Rb6 (3... g5+ {<main>} 4. Kh5 $1 Rb6 5. Rc6 $1 Rb5 6. b8=Q Rxb8 7.
+Rb6+ $1 Rxb6) 4. b8=Q Rxb8 5. Rb7+ $1 Rxb7 1/2-1/2
+
+[Event "4.p 64 Shakhmatnoye Obozrenye#76"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Rumyantsev=S BN=(c)"]
+[Black "(=0700.41h6c3) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/1R6/3P2pK/1P6/1P6/2k3r1/3r2P1/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 30/06/2025.} 1. Rc7+ (1. d7 $2 Kxb4) 
+1... Kxb4 2. b6 Rxd6 3. b7 Rb6 (3... g5+ {<main>} 4. Kh5 Rb6 5. Rc6 Rb5 6. b8=Q
+Rxb8 7. Rb6+ Rxb6) 4. b8=Q Rxb8 5. Rb7+ Rxb7 1/2-1/2
+
