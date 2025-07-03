@@ -1,0 +1,25 @@
+[Event "Kaminer MT Schakend Nederland#2079"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Marwitz=J"]
+[Black "(+3400.61f2f8) U2 U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5k2/7P/2PP1PR1/5p1q/8/6P1/5KPr/8 w - - 0 1"]
+
+{Schakend Nederland/1 (EG#07475). U2: Schakend Nederland/5 1989 U2:
+Van_der_Heijden=H HHdbIV#55800 26-5-2006. U3: Neuenschwander=B beatochess
+03/07/2025.} 1. h8=Q+ (1. Rg8+ $2 Kf7 2. h8=Q Rxg2+) 1... Qxh8 2. d7 $1 (2. c7
+$2 Kf7 3. Rg7+ Ke6 4. d7 Qa8 5. Re7+ Kxf6) 2... Kf7 3. Rg7+ Kxf6 (3... Ke6 4.
+Re7+ Kd6 (4... Kxf6 5. Re8 $1) 5. Re8 Qxf6 6. d8=Q+ Qxd8 7. Rxd8+ Kxc6 8. Kf3) 
+4. c7 Qxg7 (4... Qh3 5. d8=Q+ Kxg7 6. Qd7+ Kg6 7. Qc6+ Kg7 8. c8=Q)  (4...
+Rxg2+ 5. Kxg2 Qa8+ 6. Kh2 Qa2+ 7. Kh3)  (4... Kxg7 $1 {<cook BN>} 5. d8=Q (5.
+c8=Q Kf7 6. d8=Q Qb2+ 7. Ke3 Qe5+ 8. Kd3 Qxg3+ 9. Kc4 Qh4+) 5... Kg6 6. c8=Q
+Qb2+ 7. Ke3 Qe5+ 8. Kd3 Qxg3+ 9. Kc4 Rh4+) 5. c8=Q (5. d8=Q+ Ke5 $1 6. Qe8+ (6.
+Qd2 $1 { <cook>} )  (6. c8=Q Qa7+ 7. Kf3 Qa3+)  (6. Qb8 $1 {<cook HH>} ) 6...
+Kd6 7. c8=Q Qd4+ 8. Qe3 (8. Kf3 Qg4+) 8... Rxg2+ 9. Kxg2 Qxe3 10. Qxf5 Ke7 11.
+Kh3 Qd4) 5... Rh8 (5... Ke5 6. Qc3+)  (5... Kf7 6. Qe8+)  (5... Kg6 6. Qc6+ Kh7
+7. d8=Q Qb2+ 8. Ke3 Qe5+ 9. Kf3) 6. Qe8 $1 Rxe8 7. dxe8=N+ $1 Kf7 8. Nxg7 Kxg7
+{<eg>} 9. Kf3 Kg6 10. Kf4 Kf6 11. g4 1-0
+

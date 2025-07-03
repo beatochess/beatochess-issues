@@ -1,0 +1,36 @@
+[Event "Kaminer MT Schakend Nederland#2085"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Grondijs=H"]
+[Black "(=0416.11d6h8) U2"]
+[Result "1/2-1/2"]
+[FEN "n6k/8/3K2P1/3n4/3r4/7p/R2B4/8 w - - 0 1"]
+
+{Schakend Nederland/4. U2: Schakend Nederland/5 1989.} 1. Ke5 (1. Rxa8+ $2 Kg7
+2. Bh6+ Kxg6 3. Rg8+ Kh7 4. Rg1 Kxh6)  (1. Kc5 $2 h2 2. Bh6 (2. Bc3 h1=Q 3.
+Bxd4+ Nf6) 2... Rc4+ 3. Kd6 Rc6+ 4. Ke5 Nf6 5. Rxh2 (5. Rxa8+ Ng8 6. Ra7 Rxg6) 
+5... Ng4+ 6. Kd5 Rxg6) 1... h2 2. Bh6 Re4+ 3. Kd6 (3. Kxd5 $2 h1=Q 4. Rxa8+
+Re8+) 3... Re6+ 4. Kc5 (4. Kxe6 $1 { <cook>} 4... Nac7+ 5. Kf7) 4... Rc6+ 5.
+Kd4 Rc4+ 6. Ke5 Nf6 7. Rxa8+ (7. Rxh2 $2 Ng4+ 8. Kd5 Nb6+) 7... Ng8 8. Ra7 Re4+
+9. Kd6 Nxh6 10. Rh7+ Kg8 11. Rxh6 Re2 12. Rh7 1/2-1/2
+
+[Event "1.p Kaminer MT Schakend Nederland#2085"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Grondijs=H"]
+[Black "(=0443.21d6h8) (c) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7k/Pb6/3K2P1/3n4/3r4/7p/R2B4/8 w - - 0 1"]
+
+{Schakend Nederland/4 (EG#07473). correction: Van_Reek=J Schakend Nederland/5
+1989. U3: Neuenschwander=B beatochess 03/07/2025.} 1. Ke5 (1. a8=Q+ $2 Bxa8 2.
+Ke5 Re4+ 3. Kxe4 Nc3+ 4. Kf4 Nxa2 5. Kg3 Bg2) 1... h2 (1... Re4+ 2. Kxe4 Nc3+
+3. Kf4 Nxa2 4. Kg3 Bg2 5. a8=Q+) 2. a8=Q+ (2. Bh6 $2 Re4+ 3. Kd6 Re6+ 4. Kc5
+Rc6+ 5. Kd4 h1=Q 6. a8=Q+ Rc8 7. Qxb7 Qh4+) 2... Bxa8 3. Bh6 Re4+ 4. Kd6 Re6+
+5. Kc5 Rc6+ (5... Rxg6 $1 {<cook BN>} 6. Rxh2 Ra6 $19 {DTZ107} ) 6. Kd4 Rc4+ 7.
+Ke5 Nf6 8. Rxa8+ Ng8 9. Ra7 Re4+ 10. Kd6 Nxh6 11. Rh7+ Kg8 12. Rxh6 Re2 13. Rh7
+1/2-1/2
+
