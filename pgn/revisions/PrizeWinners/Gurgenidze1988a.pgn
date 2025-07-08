@@ -1,0 +1,32 @@
+[Event "2.p October Revolution AT Leninskoye Znamja"]
+[Site "?"]
+[Date "1988.10.06"]
+[Round "?"]
+[White "Gurgenidze=D"]
+[Black "(+0800.11a2e3) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R2R4/P6r/8/8/2r5/4k3/Kp6/8 w - - 0 1"]
+
+{(EG#07501). Neuenschwander=B beatochess 08/07/2025.} 1. Re8+ Kf2 $1 (1... Kf4
+$1 {<cook BN>} 2. Re4+ Rxe4 3. Rf8+ Ke5 4. Re8+ (4. a8=Q b1=Q+ 5. Kxb1 Rh1+ 6.
+Kc2 Rh2+ 7. Kc3 Rh3+) 4... Kf5 5. a8=Q b1=R 6. Kxb1 Rh1+ 7. Kc2 Rh2+) 2. Re2+
+$1 (2. Rf8+ $2 Kg2 3. Rf2+ Kh3) 2... Kxe2 3. Re8+ Kd1 $1 4. a8=Q b1=Q+ 5. Kxb1
+Rb7+ $1 6. Ka2 $1 (6. Qxb7 $2 Rb4+ 7. Qxb4) 6... Rc2+ 7. Ka3 Rc3+ 8. Ka4 Rcc7
+$1 9. Rd8+ $1 (9. Qd8+ $2 Rd7 10. Qc8 Rbc7 $1) 9... Kc2 10. Rc8 $1 1-0
+
+[Event "2.p October Revolution AT Leninskoye Znamja"]
+[Site "?"]
+[Date "1988.10.06"]
+[Round "?"]
+[White "Gurgenidze=D BN=(c)"]
+[Black "(+0800.11a2e2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "R2R4/P6r/8/8/2r5/8/Kp2k3/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 08/07/2025.} 1. Re8+ Kf2 2. Re2+ $1 (
+2. Rf8+ $2 Kg2 3. Rf2+ Kh3) 2... Kxe2 3. Re8+ Kd1 $1 4. a8=Q b1=Q+ 5. Kxb1 Rb7+
+$1 6. Ka2 $1 (6. Qxb7 $2 Rb4+ 7. Qxb4) 6... Rc2+ 7. Ka3 Rc3+ 8. Ka4 Rcc7 $1 9.
+Rd8+ $1 (9. Qd8+ $2 Rd7 10. Qc8 Rbc7 $1) 9... Kc2 10. Rc8 $1 1-0
+
