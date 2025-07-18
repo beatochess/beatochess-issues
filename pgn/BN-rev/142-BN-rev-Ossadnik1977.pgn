@@ -1,0 +1,14 @@
+[Event "beatochess-12"]
+[Site "?"]
+[Date "2025.07.17"]
+[Round "?"]
+[White "Ossadnik=H BN=(c)"]
+[Black "(=0030.56g1b7) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/pkp1P3/8/PpPp4/1P2b3/5pp1/6P1/6K1 w - - 0 1"]
+
+{correction of Ossadnik 1977 (=0030.56g1b7) U3.} 1. c6+ Ka6 2. e8=R $1 (2. e8=Q
+$2 f2+ 3. Kf1 Bd3+ 4. Qe2 Bc4) 2... f2+ 3. Kf1 Bd3+ 4. Re2 Bxe2+ 5. Kxe2 d4 6.
+Kf1 d3 1/2-1/2
+
