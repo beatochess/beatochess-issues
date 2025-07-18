@@ -1,0 +1,30 @@
+[Event "2.p Gazeta Czestochowska"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Ossadnik=H"]
+[Black "(=0030.56g1b7) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/pkp1P3/1p6/2Pp4/PP2b3/5pp1/6P1/6K1 w - - 0 1"]
+
+{U3: Neuenschwander=B beatochess 17/07/2025.} 1. c6+ Ka6 2. e8=R $1 (2. e8=Q $2
+f2+ 3. Kf1 Bd3+ 4. Qe2 Bc4 5. b5+ Ka5) 2... f2+ 3. Kf1 Bd3+ (3... Bc2 $1 {<cook
+BN>} 4. Re3 d4 5. Rxg3 d3) 4. Re2 Bxe2+ (4... Bc4 5. b5+ Ka5) 5. Kxe2 d4 6. Kf1
+d3 7. b5+ Ka5 1/2-1/2
+
+[Event "2.p Gazeta Czestochowska"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Ossadnik=H BN=(c)"]
+[Black "(=0030.56g1b7) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Result "1/2-1/2"]
+[FEN "8/pkp1P3/8/PpPp4/1P2b3/5pp1/6P1/6K1 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/07/2025.} 1. c6+ Ka6 2. e8=R $1 (2.
+e8=Q $2 f2+ 3. Kf1 Bd3+ 4. Qe2 Bc4) 2... f2+ 3. Kf1 Bd3+ 4. Re2 Bxe2+ 5. Kxe2
+d4 6. Kf1 d3 1/2-1/2
+
