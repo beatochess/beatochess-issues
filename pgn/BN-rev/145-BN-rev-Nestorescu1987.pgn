@@ -1,0 +1,14 @@
+[Event "beatochess-12"]
+[Site "?"]
+[Date "2025.07.21"]
+[Round "?"]
+[White "Nestorescu=V BN=(c)"]
+[Black "(+0010.24c8d3) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2K5/8/8/p2P4/p2p4/P1pk4/8/B7 w - - 0 1"]
+
+{correction of Nestorescu 1987 (+0010.24c8d3) U2.} 1. d6 Kc2 2. d7 Kb1 3. d8=Q
+c2 4. Qxd4 c1=Q+ 5. Bc3 Qxa3 (5... Ka2 {<main>} 6. Qc4+ Kxa3 7. Bb4+ Kb2 8.
+Ba3+) 6. Qd3+ Kc1 7. Bd2+ Kb2 8. Bc1+ 1-0
+
