@@ -1,0 +1,18 @@
+[Event "2.p Seletzky MT Gorkovskaja Pravda"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Balanovsky=V Rezvov=N"]
+[Black "(+3231.02b1a3) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/6b1/q7/pR6/1R1p4/k7/8/1KN5 w - - 0 1"]
+
+{(EG#07825. U2: Neuenschwander=B beatochess 08/08/2025).} 1. Rb2 Qg6+ 2. Ka1
+Ka4 3. Rb6 $1 d3 $1 (3... Qxb6 4. Rxb6 d3+ 5. Ka2 $1 d2 6. Nd3 $1 d1=Q 7. Nc5#)
+4. Rxg6 d2 5. Rg4+ (5. Rg1 $2 dxc1=Q+ 6. Rxc1 Ka3 7. Rc2 a4 $1 8. Kb1 Bxb2 9.
+Rxb2)  (5. Nd3 $2 d1=Q+ 6. Ka2 Qxd3 7. Rg4+ Bd4 $1) 5... Ka3 6. Rg3+ Ka4 7. Nd3
+$1 d1=Q+ 8. Ka2 Bf8 (8... Bd4 {<main>} 9. Nf2 $1 Bxf2 10. Ra3#)  (8... Qh5
+{<main>} 9. Rg4+ $1 Qxg4 10. Nc5#) 9. Rb4+ $1 (9. Re3 $1 {<cook BN>} ) 9...
+Bxb4 10. Nb2+ 1-0
+
