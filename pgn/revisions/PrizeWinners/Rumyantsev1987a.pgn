@@ -1,0 +1,19 @@
+[Event "2.p 64 Shakhmatnoye Obozrenye#32"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Rumyantsev=S"]
+[Black "(=0444.10h8g5) U1"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "2r2n1K/7B/6P1/2N2bk1/8/8/8/1R6 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=8(775) 64 Shakhmatnoye Obozrenye/4 (EG#07835). U1:
+Neuenschwander=B beatochess 10/08/2025.} 1. Rc1 $1 (1. Rg1+ $2 Kf6 2. Ne4+ Bxe4
+3. Rf1+ Bf5 4. Rxf5+ Kxf5 5. g7+ Ng6#)  (1. Rf1 $2 Nxg6+ 2. Kg7 Rc7+ 3. Kg8
+Rxc5 4. Bxg6 Kxg6)  (1. Ra1 $1 { <cook BN>} 1... Nxg6+ (1... Ne6+ 2. Bg8 Nxc5
+3. Kg7) 2. Kg7 Rc7+ 3. Kg8 Rxc5 (3... Kf6 4. Ra6+) 4. Bxg6 Kxg6 5. Ra6+) 1...
+Nxg6+ 2. Kg7 Rc7+ 3. Kg8 Kf6 $1 4. Ne4+ Bxe4 $1 5. Bxg6 $1 Bd5+ (5... Rg7+ 6.
+Kf8 Rxg6 7. Rc6+ Bxc6) 6. Bf7 Bxf7+ 7. Kf8 Bc4 8. Ke8 Rc8+ (8... Bb5+ {<main>} 
+9. Kd8 Rxc1) 9. Kd7 Be6+ 10. Kd6 Rxc1 1/2-1/2
+
