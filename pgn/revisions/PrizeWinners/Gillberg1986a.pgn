@@ -1,0 +1,33 @@
+[Event "3.p Springaren#06155"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gillberg=A"]
+[Black "(+0403.31e8d4) U3"]
+[Result "1-0"]
+[FEN "4K3/8/4P3/8/p2k1r2/P3RP2/8/n7 w - - 0 1"]
+
+{Springaren=30 Springaren/9 1987 (EG#07913). U3: Van_der_Heijden=H HHdbV#27379
+10-1-2014. } 1. Re1 $1 (1. Re4+ $2 Rxe4 2. fxe4 Nb3 3. e7 Nc5 4. e5 Ne6 5. Kf7
+(5. Kd7 Ng7) 5... Nc7)  (1. Re2 $2 Rxf3)  (1. e7 $2 Kxe3 2. Kd8 Kxf3 3. e8=Q
+Nb3) 1... Nc2 $1 (1... Nb3 2. e7)  (1... Rxf3 $1 {<cook HH>} 2. e7 Nc2 3. Rd1+
+(3. Re2 Kd3) 3... Kc3) 2. Re4+ (2. e7 $2 Nxe1 3. Kd8 Nxf3 4. e8=Q Kd3)  (2.
+Rd1+ $2 Kc3 3. e7 Rxf3 4. Kd8 Re3)  (2. Rc1 $2 Nxa3 3. e7 Rxf3 4. Kd8 Re3) 2...
+Rxe4 3. fxe4 Ne3 $1 4. e7 $1 (4. Kf8 $2 Nc4)  (4. Kf7 $2 Nc4)  (4. Kd7 $2 Ng4) 
+(4. Kd8 $2 Ng4) 4... Ng4 (4... Nc4 {<main>} 5. Kd7 $1) 5. Kf7 $1 1-0
+
+[Event "3.p Springaren#06155"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gillberg=A BN=(c)"]
+[Black "(+0403.31e8d4)"]
+[Result "1-0"]
+[FEN "4K3/8/4P3/8/p2k3r/P3RP2/8/n7 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 12/08/2025.} 1. Re1 $1 (1. Re4+ $2
+Rxe4 2. fxe4 Nb3 3. e7 Nc5 4. e5 Ne6 5. Kf7 (5. Kd7 Ng7) 5... Nc7)  (1. Re2 $2
+Rh8+ 2. Kd7 Kd3 3. Re5 Nc2 4. e7 Nxa3) 1... Nc2 $1 2. Re4+ Rxe4 3. fxe4 Ne3 $1
+4. e7 $1 (4. Kf8 $2 Nc4)  (4. Kf7 $2 Nc4)  (4. Kd7 $2 Ng4)  (4. Kd8 $2 Ng4) 
+4... Ng4 (4... Nc4 {<main>} 5. Kd7 $1) 5. Kf7 $1 1-0
+
