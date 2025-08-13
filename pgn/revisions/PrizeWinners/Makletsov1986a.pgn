@@ -1,0 +1,31 @@
+[Event "6.p Magyar Sakkelet#1738"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Makletsov=Y"]
+[Black "(+3540.10a6b8) (c)"]
+[Result "1-0"]
+[FEN "1k1r4/8/K4b1q/1PR5/8/B7/8/2R5 w - - 0 1"]
+
+{Magyar Sakkelet/9-10 (EG#07986). correction: Roycroft=A EG=101 7/1990.} 1.
+Rc8+ $1 Rxc8 2. Bd6+ Rc7 3. Bxc7+ Ka8 4. b6 Be5 (4... Bc3 {<main>} 5. Rg1 $1 (
+5. Rd1 $2 Bd2)  (5. Rf1 $2 Bg7) 5... Bg7 6. Rxg7 Qg6 $1 7. Rg8+ $1 (7. Rxg6 $2)
+7... Qxg8 8. b7#) 5. Bd6 $1 Qxd6 (5... Bxd6 6. b7+ Kb8 7. Rc8#) 6. Rc8+ Qb8 7.
+b7# 1-0
+
+[Event "6.p Magyar Sakkelet#1738"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Makletsov=Y"]
+[Black "(+3540.10a6b8) U1"]
+[Result "1-0"]
+[FEN "1k1r4/8/K4b1q/1P6/8/B1R5/8/2R5 w - - 0 1"]
+
+{Magyar Sakkelet/9-10 (EG#07986a). U1: Roycroft=A EG=101 7/1990. Comment:
+Neuenschwander=B beatochess 13/08/2025.} 1. Rc8+ $1 (1. Bd6+ $1 {<cook AR>} 
+1... Ka8 (1... Rxd6+ $1 {<comment BN} ) 2. Rc8+ Rxc8 3. Rxc8#) 1... Rxc8 2.
+Bd6+ Rc7 3. Bxc7+ Ka8 4. b6 Be5 (4... Bc3 {<main>} 5. Rg1 $1 (5. Rd1 $2 Bd2)  (
+5. Rf1 $2 Bg7) 5... Bg7 6. Rxg7 Qg6 $1 7. Rg8+ $1 (7. Rxg6 $2) 7... Qxg8 8. b7#
+) 5. Bd6 $1 Qxd6 (5... Bxd6 6. b7+ Kb8 7. Rc8#) 6. Rc8+ Qb8 7. b7# 1-0
+

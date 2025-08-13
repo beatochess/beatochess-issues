@@ -1,0 +1,15 @@
+[Event "3.p Havel MT"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Pachman=V"]
+[Black "(=0801.13e2h6) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "r1N5/8/7k/3r2R1/4p1RP/p7/4K2p/8 w - - 0 1"]
+
+{(EG#07948). U2: Neuenschwander=B beatochess 13/08/2025.} 1. Rg8 Rd7 (1... Kh5
+2. Rg2) 2. Rh8+ Rh7 3. Ne7 $1 Kh5 (3... Rhxh8 4. Nf5+ Kh7 5. Rg7#) 4. Rg5+ Kxh4
+5. Rg2 $1 (5. Rg7 $1 {<cook BN>} ) 5... Raxh8 (5... Rhxh8 {<main>} 6. Nf5+ Kh5
+7. Ng7+ Kh6 8. Nf5+) 6. Ng6+ Kh3 7. Nf4+ Kh4 8. Ng6+ Kh5 9. Nf4+ 1/2-1/2
+

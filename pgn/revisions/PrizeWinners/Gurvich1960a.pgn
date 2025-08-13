@@ -1,0 +1,29 @@
+[Event "4.p Havel MT"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gurvich=A"]
+[Black "(+0410.01c8a8) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "kBK5/8/8/8/8/2p5/1Rr5/8 w - - 0 1"]
+
+{(EG#07949). U1: Neuenschwander=B beatochess 13/8/2025.} 1. Rb7 {(1. Rb6/b5/b4
+<cook BN>)} 1... Ra2 2. Ba7 $1 Ra6 (2... Rd2 {<main>} 3. Bb6 $1 Rg2 4. Bd4 Rg8+
+5. Kc7)  (2... Ra4 {<main>} 3. Bc5 $1)  (2... Rxa7 3. Rb8#)  (2... Re2 {
+<main>} 3. Bc5 $1 Re8+ 4. Kc7)  (2... Rg2 {<main>} 3. Bd4 $1 Rg8+ 4. Kc7) 3.
+Bb6 $1 Ra4 4. Rb8# 1-0
+
+[Event "4.p Havel MT"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Gurvich=A BN=(c)"]
+[Black "(+0410.01d8a8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "kB1K4/1R6/8/8/8/2p5/2r5/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 13/08/2025.} 1. Kc8 (1. Kc7 Ra2) 1...
+Ra2 2. Ba7 Ra6 3. Bb6 1-0
+
