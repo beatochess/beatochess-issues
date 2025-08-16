@@ -1,0 +1,25 @@
+[Event "2.p Buletin Problemistic#238"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Dobrescu=E"]
+[Black "(=0113.11b2d8) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3kn3/1R6/8/8/P7/8/1K2p1B1/8 w - - 0 1"]
+
+{Buletin Problemistic=46 Buletin Problemistic/7-12 (EG#08043). U3:
+Neuenschwander=B beatochess 16/08/2025.} 1. Bh3 (1. Rb8+ $2 Ke7 2. Rb7+ Kf8 3.
+Bd5 Nd6) 1... Nc7 (1... Nf6 2. Rb8+ Kc7 (2... Ke7 3. Rb6) 3. Rc8+) 2. Rb8+ Ke7
+3. Rb7 (3. Rc8 $2 Kd6 4. Rd8+ Kc6 5. Bg2+ Kb6 6. Rb8+ Ka5 7. Rc8 e1=Q 8. Rxc7
+Qe5+ 9. Rc3 Kb4) 3... Kd6 4. Rb6+ Kc5 (4... Ke5 5. Rc6 e1=Q 6. Rxc7 Qb4+ 7. Kc2
+Qxa4+ 8. Kb2 Qb4+ 9. Kc2 Qe4+ 10. Kb2 Qb4+ 11. Kc2 Qa4+ 12. Kb2 Qb5+ 13. Kc2
+Qe2+ 14. Kb3 Qd1+ 15. Kb2) 5. Rb7 Nd5 (5... Kc6 6. Bg2+ Kd6 (6... Kd7 7. Bh3+
+Kd6 (7... Kd8 8. Rb8+) 8. Rb6+) 7. Rb6+ Kd7 (7... Ke5 8. Rb4) 8. Bh3+ Kd8 (8...
+Ke7 9. Rc6) 9. Rd6+ Ke8 10. Rc6 e1=Q 11. Rxc7)  (5... e1=Q $1 {<cook BN (TB)>} 
+6. Rxc7+ Kb4 7. Rb7+ (7. Rc2 Qe5+ 8. Ka2 Qd5+ 9. Kb2 Qb3+) 7... Kxa4 8. Ra7+
+Kb4 9. Rb7+ Ka5 10. Rb3 Qd2+) 6. Bg2 $1 (6. Be6 $2 Nf4 7. Rc7+ Kd6 8. Rc1 Nd3+
+9. Kc2 Nxc1 10. Kd2 Kxe6)  (6. Rb5+ $2 Kd6 7. Bg2 Ne3) 6... Ne3 7. Rc7+ Kb4 (
+7... Kb6 8. Rc1 Nd1+ 9. Kc2) 8. Rc1 $1 (8. Rb7+ $2 Ka5 $1 9. Ra7+ Kb6 10. Rb7+
+Ka6) 8... Nd1+ 9. Kc2 e1=Q 10. Rb1+ $1 Kc4 11. Bd5+ $1 1/2-1/2
+

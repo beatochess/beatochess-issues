@@ -1,0 +1,23 @@
+[Event "Mat Pat#0146"]
+[Site "?"]
+[Date "1985.11.30"]
+[Round "?"]
+[White "Hlinka=M"]
+[Black "(+0413.12d3e8) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "4k3/1P1np3/p7/4r3/8/3KB3/8/7R w - - 0 1"]
+
+{Mat Pat=6 .p Martin RT 1983-1985 Mat Pat=10 3-1-1987 (EG#08024). U3:
+Neuenschwander=B beatochess 15/08/2025.} 1. Rh8+ Kf7 2. Rd8 Rd5+ (2... Rb5
+{<main>} 3. Rxd7 Ke6 4. Rc7 Kd6 5. Bf4+ e5 6. Bxe5+ $1 Kxe5 7. Rc5+ Rxc5 8.
+b8=Q+)  (2... Nb8 {<main>} 3. Rxb8 Rb5 4. Kc4 Ke6 5. Bb6 $1 Rxb6 6. Kc5 Rb1 7.
+Kc6 Rc1+ 8. Kb6 Rb1+ 9. Ka7 $1 Kf5 {<eg>}  (9... Kd5 $1 {<cook BN>} 10. Rd8+
+Kc4 $10) 10. Rf8+ Ke4 11. b8=Q Rxb8 12. Rxb8 $1 e5 13. Kxa6 Kd3 14. Rd8+ Kc3
+15. Re8 $1 Kd4 16. Kb5 e4 17. Kb4) 3. Kc4 $1 (3. Bd4 $2 Ne5+)  (3. Ke4 $2 Rb5
+4. Rxd7 Ke6 5. Rc7 Kd6 6. Bf4+ e5)  (3. Kc3 $2 Rb5 4. Rxd7 Ke6 5. Rc7 Kd6 6.
+Bf4+ e5 7. Bxe5+ Kxe5 8. Rc5+ Rxc5+ 9. Kb4 Rb5+) 3... Rb5 4. Rxd7 Ke6 5. Bb6 $1
+(5. Rc7 $2 Kd6 6. Bf4+ e5 7. Bxe5+ Kxe5 8. Rc5+ Kd6 $1 9. Rxb5 axb5+ $1 10.
+Kxb5 Kc7 11. Ka6 Kb8 12. Kb6) 5... Rxb6 6. Kc5 $1 Rb1 7. Rc7 Rc1+ 8. Kb6 Rb1+
+9. Ka7 $1 1-0
+

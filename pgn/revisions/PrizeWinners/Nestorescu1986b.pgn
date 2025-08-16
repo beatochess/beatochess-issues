@@ -1,0 +1,20 @@
+[Event "1.p Buletin Problemistic#237"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nestorescu=V"]
+[Black "(+0111.34f4b2) U2"]
+[Result "1-0"]
+[FEN "8/1p3p2/8/1P1NP3/B4K2/2R5/pkPp4/8 w - - 0 1"]
+
+{Buletin Problemistic=46 Buletin Problemistic/7-12 (EG#08042). U2: Nunn=J
+EG=159-162 12/2005.} 1. Rb3+ $1 (1. Rd3 $2 a1=Q 2. Nc3 Kc1 3. Ne2+ Kb2 4. Rb3+
+Ka2 5. Rd3 Kb2 6. Nc3 Kc1) 1... Kc1 2. Nb4 a1=Q 3. Nd3+ Kd1 4. Rb1+ Qxb1 5. Ke3
+$1 (5. Kf3 $2 Qa1 6. Bb3 Qc3 7. Ke3 b6 8. Kf3 Qxb3 9. cxb3 Kc2 10. Nf2 Kxb3) 
+5... Qa1 6. Bb3 Qa3 (6... Qc3 7. b6 Qxb3 8. cxb3 Kc2 9. Nf2 Kxb3 10. Kd4 Kb4
+11. Kd5) 7. b6 $1 (7. Kf3 b6 8. Ke3 f5 9. e6 f4+ 10. Kf3 (10. Kf2 $1 {<cook
+JN>} 10... Qxb3 11. cxb3 Kc2 12. Ne1+ (12. e7 $2 Kxd3) 12... Kc1 13. e7 d1=Q
+14. e8=Q) 10... Qa8+ 11. Kf2 Qf3+ $1 12. Kxf3) 7... f6 8. e6 f5 9. Kf3 (9. Kf2
+$1 {<cook JN>} 9... Qxb3 10. cxb3 Kc2 11. Ne1+ Kc1 12. e7 d1=Q 13. e8=Q) 9...
+f4 10. e7 1-0
+
