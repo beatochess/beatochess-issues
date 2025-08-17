@@ -1,0 +1,59 @@
+[Event "sp.p Kazantsev JT 64 Shakhmatnoye Obozrenye"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nadareishvili=G Neidze=V"]
+[Black "(=0110.02d4g3) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7R/8/8/8/p2K4/6k1/p7/6B1 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=3(770) 64 Shakhmatnoye Obozrenye/2 1987 21/34.p USSR
+overall champ XVIII 1985-1986 Bulletin Central Chess Club USSR=19(461) Bulletin
+Central Chess Club USSR/7 1989. U2: Neuenschwander=B beatochess 17/08/2025.} 1.
+Rg8+ (1. Bh2+ $2 Kg2 2. Rg8+ Kxh2 3. Rh8+ Kg2 4. Rg8+ Kf2 5. Rf8+ Ke2 6. Re8+
+Kd2)  (1. Bf2+ $2 Kg2) 1... Kh3 $1 (1... Kh4 2. Bf2+)  (1... Kf3 2. Rf8+ Ke2 3.
+Rf2+) 2. Rh8+ Kg4 3. Rg8+ Kh5 4. Rh8+ Kg6 5. Rg8+ Kf7 $1 (5... Kh7 6. Rh8+ Kxh8
+7. Kc4 a1=Q 8. Bd4+ Qxd4+ 9. Kxd4) 6. Rg7+ $1 Ke6 (6... Kxg7 7. Kc4)  (6... Kf6
+7. Kc4)  (6... Kf8 7. Kc4 a1=Q 8. Bc5+ Ke8 9. Re7+ Kd8 10. Re3) 7. Rg6+ Kd7 (
+7... Kf5 8. Rf6+ $1) 8. Rg7+ Kc6 9. Rg6+ Kb5 $1 (9... Kb7 10. Rg7+ Ka6 11. Kc4
+$1 (11. Ra7+ $2 Kb5 12. Rb7+ Kc6 13. Rb6+ Kc7) 11... a1=Q 12. Ra7#) 10. Rb6+ $1
+(10. Rg5+ $2 Kb4) 10... Ka5 (10... Kxb6 11. Kc3+ Kb5 12. Kb2) 11. Kc4 $1 (11.
+Kc5 $1 {<cook BN>} 11... a1=Q 12. Rb5+ Ka6 13. Rb6+ Ka7 14. Bd4) 11... a1=Q 12.
+Rb5+ Ka6 13. Rb6+ Ka5 14. Rb5+ 1/2-1/2
+
+[Event "sp.p Kazantsev JT"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nadareishvili=G Neidze=V"]
+[Black "(=0110.02d4g3) (v) U1"]
+[Result "1/2-1/2"]
+[FEN "3R4/8/8/8/p2K4/6k1/p7/6B1 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=3(770) 64 Shakhmatnoye Obozrenye/2 1987 (EG#08073).
+U1: Garcia=M HHdbIV#55233 19-1-2007 U1: Van_der_Heijden=H HHdbIV#55233
+30-8-2008.} 1. Rg8+ (1. Bh2+ $2 Kxh2 2. Rh8+ Kg2 3. Rg8+ Kf2 4. Rf8+ Ke2 5.
+Re8+ Kd2)  (1. Ke4 $1 {<cook MG>} 1... a1=Q 2. Rd3+ Kg4 3. Bc5)  (1. Kc4 $1
+{<cook HH>} ) 1... Kh3 (1... Kh4 2. Bf2+ Kh3 3. Rg1)  (1... Kf3 2. Rf8+ Ke2 3.
+Rf2+) 2. Rh8+ Kg4 3. Rg8+ Kh5 4. Rh8+ Kg6 5. Rg8+ Kf7 (5... Kh7 6. Rh8+ Kxh8 7.
+Kc4 a1=Q 8. Bd4+) 6. Rg7+ $1 Ke6 (6... Kxg7 7. Kc4)  (6... Kf8 7. Kc4 a1=Q 8.
+Bc5+ $1 Ke8 9. Re7+ Kd8 10. Re3) 7. Rg6+ Kd7 (7... Kf5 8. Rf6+ $1) 8. Rg7+ Kc6
+9. Rg6+ Kb5 $1 (9... Kb7 10. Rg7+ Ka6 11. Kc4 $1 (11. Ra7+ $2 Kb5 12. Rb7+ Kc6
+13. Rb6+ Kc7) 11... a1=Q 12. Ra7#) 10. Rb6+ $1 Ka5 (10... Kxb6 11. Kc3+ Kb5 12.
+Kb2) 11. Kc4 $1 a1=Q 12. Rb5+ Ka6 13. Rb6+ Ka5 14. Rb5+ 1/2-1/2
+
+[Event "sp.p Kazantsev JT 64 Shakhmatnoye Obozrenye"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nadareishvili=G Neidze=V BN=(c)"]
+[Black "(=0110.03d4g3) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7R/8/8/8/p1pK4/6k1/p7/6B1 w - - 0 1"]
+
+{corrrection: Neuenschwander=B beatochess 17/08/2025.} 1. Rg8+ Kh3 2. Rh8+ Kg4
+3. Rg8+ Kh5 4. Rh8+ Kg6 5. Rg8+ Kf7 6. Rg7+ Ke6 7. Rg6+ Kd7 8. Rg7+ Kc6 9. Rg6+
+Kb5 10. Rb6+ Ka5 11. Kxc4 a1=Q 12. Rb5+ Ka6 13. Rb6+ Ka5 14. Rb5+ 1/2-1/2
+

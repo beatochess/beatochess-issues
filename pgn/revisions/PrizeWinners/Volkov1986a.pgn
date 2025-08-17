@@ -1,0 +1,30 @@
+[Event "1/5.p Kazantsev JT 64 Shakhmatnoye Obozrenye"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Volkov=V"]
+[Black "(+0440.11a8c6) (v) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "K7/3rb3/2kp2P1/8/8/3B4/8/7R w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=3(770) 64 Shakhmatnoye Obozrenye/2 1987 . version:
+Volkov=V 64 Shakhmatnoye Obozrenye=18(785) 9/1987. U3:Neuenschwander=B
+beatochess 17/08/2025.} 1. g7 Rd8+ 2. Ka7 Rg8 3. Rc1+ Kd7 4. Bf5+ Ke8 5. Rc8+
+Kf7 (5... Bd8 $1 {<cook BN>} ) 6. Be6+ $1 Kxe6 7. Rxg8 Kf7 8. Re8 $1 1-0
+
+[Event "1/5.p Kazantsev JT 64 Shakhmatnoye Obozrenye"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Volkov=V"]
+[Black "(+0440.11b8d8) U3"]
+[Result "1-0"]
+[FEN "1K1k3r/4b3/3p2P1/8/6B1/8/1R6/8 w - - 0 1"]
+
+{64 Shakhmatnoye Obozrenye=3(770) 64 Shakhmatnoye Obozrenye/2 1987 (EG#08066).
+U3: Garcia=M HHdbV#27227 23-9-2011.} 1. g7 Rg8 2. Ka7 Ke8 $1 (2... Kc7 3. Rb7+
+Kc6 4. Rxe7 d5 5. Be6 Kd6 6. Bxg8 Kxe7 7. Bxd5)  (2... Bf6 3. Rb8+ Ke7 4. Rxg8
+Kf7 5. Be6+ Kxe6 6. Re8+)  (2... Bf8 $1 { <cook MG>} ) 3. Rb8+ Kf7 4. Be6+ $1
+Kxe6 5. Rxg8 Kf7 6. Re8 $1 1-0
+
