@@ -1,0 +1,21 @@
+[Event "1.p 64#58"]
+[Site "?"]
+[Date "1979.10.25"]
+[Round "?"]
+[White "Kuznetsov=AG Rivkin=B"]
+[Black "(=0407.21b5f7) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "2n5/5kr1/P2pn3/1K6/N7/P7/8/3R4 w - - 0 1"]
+
+{64=43(590) (EG#04660). Neuenschwander=B beatochess 29/08/2025.} 1. a7 $1 (1.
+Rc1 $2 Na7+ 2. Kb6 Ke8 3. Re1 Re7) 1... Nxa7+ 2. Ka6 $1 Nc8 3. Kb7 Rg8 4. Rf1+
+$1 Ke7 (4... Kg6 5. Nc3 $1 Ne7 6. Ne4 $1 Nc5+ 7. Nxc5 dxc5 8. Rg1+ Kf7 9. Rxg8
+Kxg8 10. a4 c4 11. a5 c3 12. a6 Nc6 13. Kxc6 c2 14. a7 c1=Q+ 15. Kb7) 5. Rc1
+Kd7 (5... Rg4 $1 {<cook BN>} ) 6. Rxc8 $1 Nd8+ $1 7. Ka8 $1 (7. Kb8 $2 Nc6+ 8.
+Kb7 Na5+)  (7. Rxd8+ $2 Kxd8 8. Nc3 Rg2 $1 9. a4 Rb2+ 10. Nb5 Kd7 11. Kb6 $1
+Ke6 12. a5 Kd5 13. a6 Kc4) 7... Kxc8 8. Nb6+ Kc7 9. Nd5+ Kd7 $1 (9... Kc6 10.
+Ne7+ Kb5 11. Nxg8 d5 12. Nf6 d4 13. Ne4) 10. Nf6+ Ke6 $1 11. Nxg8 Nf7 $1 12. a4
+d5 13. a5 $1 d4 14. Nh6 $1 (14. a6 $2 d3 15. Kb8 Nd8 $1 16. Kc7 Nc6 $1 17. Kxc6
+d2 18. a7 d1=Q 19. a8=Q Qd5+) 14... Nxh6 15. a6 Nf7 16. Kb8 Nd8 17. Kc7 1/2-1/2
+
