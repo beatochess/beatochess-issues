@@ -1,0 +1,14 @@
+[Event "beatochess-13"]
+[Site "?"]
+[Date "2025.09.08"]
+[Round "?"]
+[White "Dobrescu=E BN=(v)"]
+[Black "(+0302.22h4h2) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5N2/1pP3P1/2r5/8/6NK/8/4p1k1/8 w - - 0 1"]
+
+{version of Dobrescu 1976 (+0302.22h4h2) .} 1. Ne3+ Kh2 (1... Kf2 2. Ng2) 2.
+Ng2 Rc4+ 3. Kh5 (3. Kg5 {<or>} ) 3... Rc5+ 4. Kh6 Rc6+ 5. Ne6 Kxg2 6. g8=Q+ Kh2
+7. Qb8 $1 e1=Q 8. c8=Q+ Kh3 9. Qh8 $1 Qxe6+ 10. Kg5+ 1-0
+

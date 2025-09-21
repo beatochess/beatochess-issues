@@ -1,0 +1,15 @@
+[Event "beatochess-13"]
+[Site "?"]
+[Date "2025.09.07"]
+[Round "?"]
+[White "Wotawa=A BN=(c)"]
+[Black "(+0400.13a4a1) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/5pP1/3p4/K6p/8/4R3/k4r2 w - - 0 1"]
+
+{correction of Wotawa 1952 (+0400.12a4a1) U2 U3.} 1. g7 Rf4+ (1... Rg1 2. Re1+
+Rxe1 3. g8=Q) 2. Kb3 Rf3+ 3. Kc2 Rg3 4. Re3 $1 Rg2+ 5. Kb3 Rb2+ 6. Ka4 $1 (6.
+Ka3 Ra2+ {loses time} ) 6... Rg2 7. Re1+ Kb2 8. Re2+ Rxe2 9. g8=Q h3 10. Qxd5
+h2 11. Qf3 Rd2 12. Qxf6+ Kc2 13. Qf3 1-0
+
