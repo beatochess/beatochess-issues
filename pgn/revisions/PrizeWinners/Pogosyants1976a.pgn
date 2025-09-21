@@ -1,0 +1,41 @@
+[Event "4.p Magyar Sakkelet#1198"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Pogosyants=E"]
+[Black "(+1303.32a4c7) U3"]
+[Result "1-0"]
+[FEN "n7/1rk5/8/2p5/K2Pp3/1P6/Q1P5/8 w - - 0 1"]
+
+{Magyar Sakkelet/5 (EG#03298). U3: Ricci=J HHdbIV#43545 2-12-2007 U3: Garcia=M
+HHdbV#38778 6-2-2009.} 1. Qb1 $1 (1. Qb2 $2 Nb6+ 2. Kb5 Nd7+ 3. Ka5 Ra7+ 4. Kb5
+Rb7+ 5. Kc4 Nb6+ 6. Kb5 (6. Kxc5 Na4+ 7. bxa4 Rxb2) 6... Nd7+) 1... Nb6+ 2. Kb5
+$1 (2. Ka3 $2 Nc4+ 3. bxc4 Rxb1) 2... Nd5+ $1 (2... Nd7+ $1 {<cook JR>} 3. Kc4
+Rb4+ 4. Kc3 Rxd4)  (2... cxd4 $1 {<cook MG>} 3. Qh1 Nd7+ 4. Kc4 d3 5. Qxe4 dxc2
+6. Qxc2 Rb6) 3. Kxc5 $1 (3. Kc4 $2 Kc6) 3... Rb5+ $1 4. Kc4 Kc6 $1 (4... Kd6 5.
+c3 $1) 5. b4 $1 (5. c3 $2 Ne3#)  (5. Qe1 $2 Rb4+ 6. Qxb4 Ne3+ 7. Kc3 Nd5+) 5...
+Rxb4+ 6. Qxb4 Nxb4 7. Kxb4 Kd5 (7... Kd6 8. c4 $1)  (7... e3 8. Kc3 e2 9. Kd2
+Kd5 10. c3) 8. Kc3 e3 9. Kd3 e2 10. c4+ $1 1-0
+
+[Event "4.p Magyar Sakkelet#1198"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Pogosyants=E"]
+[Black "(+1303.42a4c7) (c) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1r6/2kn4/8/2pP4/K2Pp3/1P6/Q1P5/8 w - - 0 1"]
+
+{Magyar Sakkelet/5. correction: Garcia=M Estudios Artisticos  de Ajedrez -
+VIII-83 2012. U2: Neuenschwander=B beatochess 08/09/2025..} 1. Qb1 $1 (1. Qb2
+$2 Nb6+ 2. Kb5 Nd7+ 3. Ka5 Ra8+ 4. Kb5 Rb8+ 5. Kc4 Nb6+ 6. Kb5 (6. Kxc5 Na4+ 7.
+bxa4 Rxb2) 6... Nd7+) 1... Nb6+ 2. Kb5 $1 (2. Ka3 $2 Nc4+ 3. bxc4 Rxb1) 2...
+Nxd5+ (2... Nd7+ 3. Kc4 Rb4+ 4. Kc3 Rxd4 5. Qh1 Kd6 6. Qh7 Ne5 7. Qh6+ Kxd5 8.
+Kb2 Nf3 9. Qf6 Rd2 10. Kc1 c4 11. b4 Rg2 12. Qe7)  (2... Nd7+ $1 {<cook BN?>} 
+3. Kc4 Rb4+ 4. Kc3 Rxd4 5. Qh1 Rxd5 6. Qxe4 Rd4 $14) 3. Kxc5 $1 (3. Kc4 $2 Kc6)
+3... Rb5+ $1 4. Kc4 (4. Kxb5 $2 Nc3+ 5. Kc4 Nxb1) 4... Kc6 $1 (4... Kd6 5. c3
+$1) 5. b4 $1 (5. c3 $2 Ne3#)  (5. Qe1 $2 Rb4+ 6. Qxb4 Ne3+ 7. Kc3 Nd5+ 8. Kc4
+Ne3+) 5... Rxb4+ 6. Qxb4 Nxb4 7. Kxb4 Kd5 (7... Kd6 8. c4 $1)  (7... e3 8. Kc3
+e2 9. Kd2 Kd5 10. c3) 8. Kc3 e3 9. Kd3 e2 10. c4+ $1 1-0
+

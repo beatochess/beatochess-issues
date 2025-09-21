@@ -1,0 +1,70 @@
+[Event "1.p Magyar Sakkelet#1217"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Dobrescu=E"]
+[Black "(+0302.22h4h2) U2"]
+[Result "1-0"]
+[FEN "5N2/1pP3P1/8/8/7K/4N3/4p2k/2r5 w - - 0 1"]
+
+{Magyar Sakkelet/11 6.p Rumanian champ 1976-1977 Revista de Romana de Sah/1
+1979 (EG#03295). U2: Van_der_Heijden=H EBUR=4 12/1997. Comment:
+Neuenschwander=B beatochess 08/09/2025..} 1. Ng2 $1 Rc4+ (1... Kxg2 2. g8=Q+
+Kf2 3. Qf7+ Kg2 4. Qg6+ Kf2 5. Qf5+ Ke1 (5... Kg2 6. Qg5+) 6. c8=Q) 2. Kh5 (2.
+Kg5 $1 {<cook HH>} 2... Kxg2 (2... Rc5+ $1 3. Kh4 Rc4+ 4. Kg5 Rc5+ 5. Kh6 Rc6+
+{leads to the main line} ) 3. g8=Q Rxc7 4. Qd5+ Kf2 5. Qf5+ Kg2 6. Qe4+ Kf2 7.
+Qf4+ Kg2 8. Qe3 Rc2 $1 9. Ne6 Kf1 10. Qf3+ Kg1 11. Qg4+ $1 Kf2 12. Qf5+ Kg1 (
+12... Kg2 13. Qxc2) 13. Nd4 e1=Q 14. Nf3+) 2... Rc5+ 3. Kh6 Rc6+ $1 4. Ne6 $1 (
+4. Kg5 $2 Kxg2)  (4. Kh7 $2 Rxc7) 4... Kxg2 (4... Rxe6+ 5. Kh7 Re8 6. Ne1) 5.
+g8=Q+ Kh2 $1 (5... Kh1 6. Qg3)  (5... Kf2 6. Qf7+) 6. Qb8 $1 e1=Q (6... Kg1 7.
+c8=Q Rxc8 (7... e1=Q 8. Qg8+ Kf2 9. Qf4+) 8. Qg3+ Kf1 9. Qf3+ Ke1 10. Nd4)  (
+6... Kh3 7. c8=Q Rxc8 8. Qe5 Rc2 9. Nd4) 7. c8=Q+ Kh3 8. Qh8 $1 (8. Qd8 $2
+Rxe6+ 9. Kg7 (9. Kh7 Qe4+ 10. Kg7 Qg6+) 9... Qg1+ 10. Kf8 Qf1+ 11. Kg7 Qg2+ 12.
+Kf8 Qf3+ 13. Kg7 Qg4+ 14. Kf8 Qf5+ 15. Kg7 Qg6+ 16. Kh8 (16. Kf8 Rf6+) 16...
+Qh6+ 17. Kg8 Rg6+ 18. Kf7 Rg7+ 19. Kf8 Qh8#)  (8. Qf8 $2 Rxe6+ 9. Kg7 (9. Kh7
+Qh4+ 10. Kg7 Qh6+ 11. Kg8 Rg6+) 9... Re7+ 10. Kg6 Qe6+ 11. Qf6 (11. Kg5 Qg4+
+12. Kh6 Qh4+ 13. Kg6 Qg4+ 14. Kf6 Qe6+ 15. Kg5 Qg4+) 11... Qg4+ 12. Kh6 Re6)  (
+8. Qg8 $2 Rxe6+ 9. Kg7 (9. Kg5 Qh4+ 10. Kf5 Qf6#)  (9. Kh7 Qh4+ 10. Kg7 Qf6+
+11. Kh7 Qh6#) 9... Qc3+ 10. Kh7 (10. Kf8 Qc5+ 11. Kg7 Qd4+) 10... Qd3+ 11. Kh8
+Rh6+ 12. Kg7 Rg6+) 8... Rxe6+ {<eg>}  (8... Qe3+ 9. Kg6+ Kg2 10. Qbh2+ Kf1 11.
+Q8h3+)  (8... Qg1 9. Qbe5 Rc4 10. Nf4+) 9. Kg5+ Kg2 10. Qhh2+ Kf1 (10... Kf3
+11. Qbf4#) 11. Qbf4+ 1-0
+
+[Event "1.p Magyar Sakkelet#1217"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Dobrescu=E"]
+[Black "(+0302.23h4h2) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5N2/1pP3P1/7p/8/7K/4N3/4p2k/2r5 w - - 0 1"]
+
+{Magyar Sakkelet/11 6.p Rumanian champ 1976-1977. correction: Dobrescu=E EBUR=3
+9/1998. Comment: Neuenschwander=B beatochess 08/09/2025.} 1. Ng2 Rc4+ (1...
+Kxg2 2. g8=Q+ Kf2 3. Qf7+) 2. Kh5 Rc5+ 3. Kxh6 Rc6+ 4. Ne6 $1 (4. Kg5 $2 Kxg2
+5. g8=Q e1=Q)  (4. Kh5 Kxg2 $2 (4... Rc5+ $1 5. Kh4 Rc4+ 6. Kg5 Rc5+ 7. Kh6
+Rc6+ {leads to the mainline} ) 5. g8=Q+ Kf1 6. Qf7+ Kg1 7. Qg7+ (7. c8=Q $1
+{<cook BN>} 7... Rxc8 8. Qg6+ Kf2 9. Qf5+ Kg1 10. Qg4+ Kf2 11. Qf4+ Kg2 12. Qe3
+Kf1 13. Qf3+) 7... Kf1 8. Qf7+ Kg1 9. Qe7 Kf1) 4... Kxg2 (4... Rxe6+ 5. Kh7 Re8
+6. Ne1) 5. g8=Q+ Kh2 $1 6. Qb8 $1 e1=Q (6... Kg1 7. c8=Q Rxc8 (7... e1=Q 8.
+Qg8+ Kf1 9. Qf4+) 8. Qg3+ Kf1 9. Qf3+ Ke1 10. Nd4)  (6... Kh3 7. c8=Q Rxc8 8.
+Qe5 Rc2 9. Nd4) 7. c8=Q+ Kh3 8. Qh8 $1 (8. Qg8 $2 Rxe6+ 9. Kg7 Qc3+ 10. Kh7 (
+10. Kf8 Qc5+ 11. Kg7 Qd4+) 10... Qd3+ 11. Kh8 Rh6+) 8... Qxe6+ {<eg>}  (8...
+Qe3+ 9. Kg6+ Kg2 10. Qbh2+ Kf1 11. Q8h3+)  (8... Qg1 9. Qbe5 Rc4 10. Nf4+) 9.
+Kg5+ Kg2 10. Qhh2+ Kf1 11. Qbf4+ 1-0
+
+[Event "1.p Magyar Sakkelet#1217"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Dobrescu=E BN=(v)"]
+[Black "(+0302.22h4h2) (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5N2/1pP3P1/2r5/8/6NK/8/4p1k1/8 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 08/09/2025.} 1. Ne3+ Kh2 (1... Kf2 2. Ng2
+) 2. Ng2 Rc4+ 3. Kh5 (3. Kg5 {<or>} ) 3... Rc5+ 4. Kh6 Rc6+ 5. Ne6 Kxg2 6.
+g8=Q+ Kh2 7. Qb8 $1 e1=Q 8. c8=Q+ Kh3 9. Qh8 $1 Qxe6+ 10. Kg5+ 1-0
+
