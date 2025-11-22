@@ -1,0 +1,31 @@
+[Event "sp.p Gusev JT"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Amiryan=G"]
+[Black "(+0010.13h6h8) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "7k/3p4/7K/2p1P2B/2p5/8/8/8 w - - 0 1"]
+
+{(EG#10828). U2: EG=128 4/1998.} 1. Bf7 $1 (1. Be2 $2 c3 2. Bd3 Kg8 3. Kg6 Kf8
+4. Kf6 Ke8 5. Be4 Kd8 6. Kf7 Kc7 7. Ke7 c4 $1) 1... c3 2. Bb3 c4 3. Bc2 Kg8 4.
+Kg6 Kf8 5. Kf6 Ke8 6. Be4 $1 (6. Ba4 $1 {<cook>} 6... Kd8 (6... Kf8 7. Bxd7 c2
+8. e6) 7. Kf7 Kc8 8. Ke8 Kc7 9. Ke7) 6... Kd8 (6... Kf8 7. Bg6 $1) 7. Kf7 Kc8
+$1 8. Ke8 $1 (8. Ke7 $2 Kc7) 8... Kc7 9. Ke7 $1 Kc8 10. Kd6 Kd8 11. Bf5 1-0
+
+[Event "sp.p Gusev JT"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Amiryan=G VH=(c)"]
+[Black "(+0010.13g6g8) (c)"]
+[Result "1-0"]
+[FEN "6k1/2p5/6K1/1p1P4/1p5B/8/8/8 w - - 0 1"]
+
+{correction: Hergert=V beatochess 21/11/2025.} 1. Be7 $1 (1. Be1 $2 b3 2. Bc3
+Kf8 3. Kf6 Ke8 4. Ke6 Kd8 $11) 1... b3 2. Ba3 b4 3. Bb2 Kf8 4. Kf6 Ke8 5. Ke6
+Kd8 6. Bd4 $1 (6. Be5 $2 Kc8 $11) 6... Kc8 (6... Ke8 7. Bf6 $1 $18) 7. Ke7 Kb8
+$1 (7... Kb7 8. Kd7 $18) 8. Kd8 $1 (8. Kd7 $2 Kb7 $11) 8... Kb7 9. Kd7 $1 Kb8 (
+9... b2 10. Bxb2 Kb6 11. Bd4+ Kb5 12. Kxc7 $18) 10. Kc6 1-0
+

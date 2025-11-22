@@ -3,20 +3,19 @@
 [Date "1987.??.??"]
 [Round "?"]
 [White "Gurgenidze=D Katsnelson=L"]
-[Black "(=0500.23d2h1) U2"]
+[Black "(=0500.23d2h1) U1"]
 [Result "1/2-1/2"]
+[ECO "A00"]
 [FEN "3R4/4R3/8/4P1p1/4P3/1p6/p2K4/1r5k w - - 0 1"]
 
 {(EG#07128). U2: Neuenschwander=B beatochess 06/06/2025.} 1. Ra7 $1 (1. Ra8 $2
 b2 2. Rxa2 (2. Rh7+ $1 {<cook BN>} 2... Kg1 3. Rg8 Kg2 (3... Rd1+ 4. Ke2 Re1+
-5. Kf3 Rf1+ 6. Ke3 Re1+ 7. Kf3) ) 2... Rd1+ 3. Ke2 b1=Q) 1... b2 (1... Rd1+ 2.
-Kxd1 b2 3. Rda8) 2. Rxa2 (2. Rh8+ $1 {<cook BN>} 2... Kg1 (2... Kg2 $2 3. Rxa2)
-3. Rg7 Kg2 4. Rf8 Rd1+ 5. Kc3 Rc1+ 6. Kd4 Rd1+ 7. Kc3) 2... Rd1+ $1 3. Ke2 $1
-Re1+ 4. Kf2 $1 (4. Kf3 $2 g4+ 5. Kf2 Rf1+ 6. Kg3 Rf3+ 7. Kxg4 b1=Q 8. Kxf3 Qxa2
-) 4... Rf1+ $1 (4... b1=Q 5. Rh8#) 5. Kg3 $1 Rg1+ (5... b1=Q 6. Rh8+) 6. Kf3 $1
-(6. Kh3 $2 g4+) 6... g4+ 7. Kf4 Rf1+ 8. Kg5 b1=Q 9. Rh8+ Kg1 10. Rhh2 $1 Qc1+ (
-10... Qxe4 11. Rag2+ Qxg2 12. Rxg2+ Kxg2 13. Kxg4) 11. Kh5 $1 (11. Kg6 {<or>} )
-1/2-1/2
+5. Kf3 Rf1+ 6. Ke3) 4. Rf7 Rd1+ 5. Kc3) 2... Rd1+ 3. Ke2 b1=Q) 1... b2 (1...
+Rd1+ 2. Kxd1 b2 3. Rda8) 2. Rxa2 Rd1+ $1 3. Ke2 $1 Re1+ 4. Kf2 $1 (4. Kf3 $2
+g4+ 5. Kf2 Rf1+ 6. Kg3 Rf3+ 7. Kxg4 b1=Q 8. Kxf3 Qxa2) 4... Rf1+ $1 (4... b1=Q
+5. Rh8#) 5. Kg3 $1 Rg1+ (5... b1=Q 6. Rh8+) 6. Kf3 $1 (6. Kh3 $2 g4+) 6... g4+
+7. Kf4 Rf1+ 8. Kg5 b1=Q 9. Rh8+ Kg1 10. Rhh2 $1 Qc1+ (10... Qxe4 11. Rag2+ Qxg2
+12. Rxg2+ Kxg2 13. Kxg4) 11. Kh5 $1 1/2-1/2
 
 [Event "3.p Galitzky MT Kommunist"]
 [Site "?"]
@@ -25,9 +24,10 @@ Re1+ 4. Kf2 $1 (4. Kf3 $2 g4+ 5. Kf2 Rf1+ 6. Kg3 Rf3+ 7. Kxg4 b1=Q 8. Kxf3 Qxa2
 [White "Gurgenidze=D Katsnelson=L BN=(c)"]
 [Black "(=0500.23d2h1) (c)"]
 [Result "1/2-1/2"]
+[ECO "A00"]
 [FEN "3R4/8/8/2R1P1p1/4P3/1p6/p2K4/1r5k w - - 0 1"]
 
-{correction: Neuenschwander=B beatochess 06/06/2025.} 1. Ra5 b2 2. Rxa2 Rd1+ 3.
-Ke2 Re1+ 4. Kf2 Rf1+ 5. Kg3 Rg1+ 6. Kf3 g4+ 7. Kf4 Rf1+ 8. Kg5 b1=Q 9. Rh8+ Kg1
-10. Rhh2 Qc1+ 11. Kh5 (11. Kg6 {<or>} 11... Qc6+ 12. Kg5) 1/2-1/2
+{correction: Neuenschwander=B beatochess 06/06/2025 .} 1. Ra5 b2 2. Rxa2 Rd1+
+3. Ke2 Re1+ 4. Kf2 Rf1+ 5. Kg3 Rg1+ 6. Kf3 g4+ 7. Kf4 Rf1+ 8. Kg5 b1=Q 9. Rh8+
+Kg1 10. Rhh2 Qc1+ 11. Kh5 (11. Kg6 {<or>} 11... Qc6+ 12. Kg5) 1/2-1/2
 

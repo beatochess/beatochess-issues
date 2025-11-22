@@ -1,0 +1,73 @@
+[Event "1.p CSSR Magyar Polska Romina match Magyar Sakkelet#0153"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0430.33h1a8) U3"]
+[Result "1-0"]
+[FEN "k7/8/1R2P1P1/3r4/5p2/p3p3/5P2/5b1K w - - 0 1"]
+
+{Magyar Sakkelet/5 5.p Bohemian Ring ty 1951-1952. U3: Tikkanen=K New in Chess
+Magazine=1 2008 U3: Van_der_Heijden=H HHdbVI 17-4-2017.} 1. e7 $1 (1. g7 $2
+Rh5+ 2. Kg1 Rg5+ 3. Kxf1 Rxg7) 1... Re5 $1 (1... Rh5+ 2. Kg1 Rh8 (2... Re5 3.
+Re6 $1 (3. g7 $2 Bc4 4. Re6 Rg5+ 5. Kh2 Bb5 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q
+Rxg8 9. Rxg8 exf2 10. Kg2 a2 $1) 3... Bb5 $1 (3... Rxe6 $1 {<cook KT>} 4. g7 a2
+5. g8=Q+ Kb7 6. e8=Q Rxe8 7. Qb3+ Kc7 8. Qc3+ Kb7) 4. Rxe5 a2 5. e8=Q+ (5. Rxb5
+$2 a1=Q+ 6. Kg2 f3+ 7. Kg3 Qg1+) 5... Bxe8 6. Ra5+ Kb7 7. f3 (7. g7 $2 e2 $1) 
+7... Bxg6 8. Rxa2 Bd3 (8... Kc7 $1 { <cook HH>} )  (8... Kc8 $1 {<cook HH>} ) 
+9. Ra4 Kc6 10. Rd4 $1 Bg6 (10... Bb5 11. Rxf4 Bd3 12. Rd4)  (10... Be2 11. Kg2
+Kc5 12. Rxf4 Bd3 13. Rf8 Kd4 14. Rd8+ Kc3 15. f4 Kd2 (15... Be4+ 16. Kf1 Bd3+
+17. Ke1) 16. Re8 $1 e2 17. Kf2 Bb5 18. Re5 $1 Bd3 19. Re3 $1) 11. Kf1 $1 Kc5
+12. Rxf4 Bd3+ 13. Ke1 Kd5 14. Ra4 Ke5 (14... Bc4 15. f4 Bd3 16. Ra5+ Ke4 (16...
+Ke6 17. Re5+)  (16... Kd6 17. Ra3) 17. f5)  (14... e2 15. Ra3 Bc4 16. Re3) 15.
+Ra3 Kd4 16. Ra5 $1 Bg6 (16... e2 17. Kd2) 17. Ra4+ Kd3 (17... Ke5 18. Ke2) 18.
+Ra3+ Kd4 19. Ke2 Ke5 20. Kxe3) 3. Kxf1 e2+ 4. Kxe2 Re8 5. Ra6+ Kb7 6. Rxa3
+Rxe7+ 7. Kf3 Rg7 8. Kxf4 Rxg6 9. Rc3) 2. g7 $1 (2. Re6 $2 Rxe6 3. g7 Rxe7 4.
+g8=Q+ Ka7 5. Qa2 Ba6 6. Qxa3 exf2 7. Qxe7+ Bb7+) 2... Bc4 $1 3. Re6 $1 Bd5+ (
+3... Rh5+ 4. Kg2 Rg5+ 5. Kf3 Bb5 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q Rxg8 9.
+Rxg8)  (3... Rxe6 4. g8=Q+)  (3... Bxe6 4. e8=Q+) 4. f3 $1 (4. Kg1 $2 Rg5+ 5.
+Kf1 Bc4+ 6. Ke1 Rg1#) 4... Bxf3+ 5. Kg1 $1 Rg5+ 6. Kf1 $1 Bh5 $1 7. Rg6 $1 Rxg6
+(7... Bxg6 {<main>} 8. g8=Q+) 8. e8=Q+ 1-0
+
+[Event "1.p CSSR Magyar Polska Romina match Magyar Sakkelet#0153"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0430.35h1a8) (c) U3"]
+[Result "1-0"]
+[FEN "k7/6pp/1R2P2P/3r4/5p2/p3p3/5P2/5b1K w - - 0 1"]
+
+{Magyar Sakkelet/5 . correction: Farago=P FIDE revue=1 1-3/1963. U3: Farago=P
+Revista de Romana de Sah=4 4/1964.} 1. e7 Re5 (1... Rh5+ 2. Kg1 Re5 3. Re6 $1 (
+3. hxg7 $2 Bc4 4. Re6 Rg5+ 5. Kh2 Bb5 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q Rxg8
+9. Rxg8 exf2 10. Kg2 a2) 3... Bb5 (3... Rxe6 4. hxg7 Rxe7 (4... a2 $1 {<cook
+PF>} 5. g8=Q+ Kb7 6. e8=Q Rxe8 7. Qb3+ Kc7 8. Qc3+ Kb7) 5. g8=Q+ Kb7 6. Kxf1
+exf2 7. Qf8 Rc7 8. Qxa3) 4. Rxe5 (4. e8=Q+ $2 Bxe8 5. Rxe5 gxh6 6. Rxe8+ Kb7 7.
+Re4 a2) 4... a2 5. Rxb5 a1=Q+ 6. Kh2)  (1... Ka7 2. Rb4 Re5 3. hxg7 a2 4. Ra4+)
+2. hxg7 (2. Re6 $2 Rh5+ 3. Kg1 Bb5) 2... Bc4 3. Re6 $1 Bd5+ (3... Bxe6 {<main>}
+4. e8=Q+)  (3... Rxe6 {<main>} 4. g8=Q+)  (3... Rh5+ 4. Kg2 $1 Rg5+ 5. Kf3 $1
+Bb5 (5... Bd5+ 6. Kxf4) 6. e8=Q+ Bxe8 7. Rxe8+ Kb7 8. g8=Q Rxg8 9. Rxg8 exf2
+10. Kxf2) 4. f3 $1 (4. Kg1 $2 Rg5+ 5. Kf1 Bc4+ 6. Ke1 Rg1#) 4... Bxf3+ 5. Kg1
+$1 Rg5+ 6. Kf1 Bh5 7. Rg6 $1 Rxg6 (7... Bxg6 {<main>} ) 8. e8=Q+ 1-0
+
+[Event "1.p CSSR Magyar Polska Romina match Magy"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Fritz=J"]
+[Black "(+0430.33h1a8) (c) U3"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "k7/8/1R2P1P1/3r4/5p2/1p2p3/5P2/5b1K w - - 0 1"]
+
+{Magyar Sakkelet/4 5.p Bohemian Ring ty 1951-1952. correction: Farago=P Revista
+de Romana de Sah=12 12/1964. U3: Hergert=V beatochess 07/10/2025.} 1. e7 Rh5+ (
+1... Re5 $1 {<cook VH>} 2. g7 Bc4 3. Re6 Bd5+ 4. f3 $1 Rh5+ (4... Bxf3+ $2 5.
+Kg1 Rg5+ 6. Kf1 Bh5 7. Rg6 $10) 5. Kg2 Rg5+ 6. Kh3 Bxe6+ 7. Kh4 Rxg7 8. e8=Q+
+Ka7) 2. Kg1 Re5 3. Re6 $1 (3. g7 $2 Bc4 4. Re6 Rg5+ 5. Kh2 Bb5 6. e8=Q+ Bxe8 7.
+Rxe8+ Kb7 $1 8. g8=Q Rxg8 9. Rxg8 exf2 10. Kg2 b2)  (3. Kxf1 $2 Rxe7 4. Rxb3
+Re6 $1) 3... Rxe6 (3... Bb5 4. Rxe5 Be8 5. g7 b2 6. g8=Q b1=Q+ 7. Kh2 Kb7 8.
+Qxe8) 4. g7 b2 (4... Rxe7 $1 {<cook VH>} 5. g8=Q+ Ka7 6. Qxb3 Ba6 $11) 5. g8=Q+
+Ka7 6. Qf7 b1=Q 7. e8=Q+ Qb7 8. Qxb7+ Kxb7 9. Qxe6 e2 10. f3 1-0
+

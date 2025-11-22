@@ -1,0 +1,19 @@
+[Event "2.p Thèmes 64#4585"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Sochnev=A"]
+[Black "(+0041.13h3h1) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/P7/8/3p4/4bN2/5p1K/1B4p1/7k w - - 0 1"]
+
+{Themes 64=122 Themes 64/4-6. U2: Hergert=V 07/10/2025.} 1. Bd4 f2 $1 2. Bxf2
+d4 3. Ne2 (3. Bxd4 $2 g1=Q) 3... g1=Q $1 4. Bxg1 (4. Nxg1 $2 d3 5. Be3 d2 $1) 
+4... Bg2+ (4... d3 5. Ng3+ Kxg1 6. Nxe4) 5. Kg3 d3 6. Nf4 $1 d2 (6... Be4 7.
+Be3) 7. Nxg2 (7. Nh3 $1 {<cook VH>} 7... d1=Q 8. Nf2+ Kxg1 9. Nxd1 $18) 7...
+d1=Q 8. a8=Q Qa1 $1 (8... Kxg1 9. Qa7+ Kh1 10. Qh7+ Kg1 11. Qh2+ Kf1 12. Ne3+) 
+(8... Qd6+ 9. Nf4+) 9. Qc6 $1 (9. Qxa1 $2)  (9. Qb7 $2 Qa7 $1)  (9. Ba7 $2 Qxa7
+$1 10. Qxa7) 9... Qc1 (9... Qg7+ 10. Kh3 Kxg1 11. Qc1+) 10. Qe4 $1 Kxg1 11.
+Qd4+ Kh1 12. Qh4+ Kg1 13. Qh2+ Kf1 14. Qh1+ 1-0
+

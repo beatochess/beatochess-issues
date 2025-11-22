@@ -1,0 +1,29 @@
+[Event "sp.p Galitzky MT Kommunist"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Caputto=Z"]
+[Black "(+3101.24h7g5) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/5R1K/2P2N1p/4P1k1/1p1p4/3p4/8/3q4 w - - 0 1"]
+
+{also Probleemblad#066 Probleemblad/3 1988 (EG#07136). U2: Neuenschwander=B
+beatochess 0/06/2025.} 1. Ne4+ Kh5 2. Rf5+ (2. e6 $1 {<cook BN>} 2... Qc2 3. e7
+Qxc6 4. e8=Q) 2... Kh4 3. Rf4+ Kh5 4. Rg4 Qxg4 5. Nf6+ Kh4 6. Nxg4 b3 7. Nh2 b2
+8. Nf3+ Kg3 9. Nd2 Kf2 10. c7 Ke1 11. c8=Q Kxd2 12. e6 b1=Q 13. e7 1-0
+
+[Event "sp.p Galitzky MT Kommunist"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Caputto=Z VH=(s)"]
+[Black "(+3101.24h7g5) (s)"]
+[Result "1-0"]
+[FEN "8/5R1K/2P2N1p/4P1k1/1p1p4/3p4/8/3q4 w - - 0 1"]
+
+{changed solution: Hergert=V 08/10/2025.} 1. Ne4+ $1 Kh4 (1... Kh5 2. Rf5+ (2.
+e6 $1 {<or>} ) 2... Kh4 3. Rf4+ {etc.} ) 2. Rf4+ Kh5 3. Rg4 $1 (3. Rf5+ Kh4 4.
+Rf4+ Kh5 5. Rg4 {waste of time} ) 3... Qxg4 4. Nf6+ Kh4 5. Nxg4 b3 6. Nh2 $1 b2
+7. Nf3+ Kg3 8. Nd2 1-0
+
