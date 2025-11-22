@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "1948.12.18"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0000.22g2a4) -HHdbVI"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/p7/8/pP6/k7/8/4P1K1/8 w - - 0 1"]
+
+1. Kf2 $1 (1. Kf3 $2 Kb4 $1 $19)  (1. Kf1 $2 Kb3 $1 $19) 1... Kb4 (1... Kb3 2.
+e4 $10)  (1... Kxb5 2. Ke1 $10) 2. Ke1 $1 Kc3 3. Kd1 Kb2 4. e4 a4 5. e5 a3 6.
+e6 a2 7. e7 a1=Q+ 8. Ke2 1/2-1/2
+

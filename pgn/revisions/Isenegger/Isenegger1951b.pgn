@@ -1,0 +1,14 @@
+[Event "Der Bund"]
+[Site "?"]
+[Date "1951.05.24"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0001.06a1a3) -HHdbVI"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/1p6/1p6/1p6/1p6/kpp5/8/K2N4 w - - 0 1"]
+
+1. Nb2 $1 (1. Ne3 $2 b2+ (1... c2 $2 2. Nxc2+ bxc2 $10) 2. Kb1 Kb3 3. Nc2 Kc4
+$19) 1... c2 (1... cxb2+ 2. Kb1 Ka4 3. Kxb2 {etc.} ) 2. Nc4+ Ka4 3. Nb2+ Ka5 4.
+Nd3 1/2-1/2
+

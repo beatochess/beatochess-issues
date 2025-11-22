@@ -1,0 +1,32 @@
+[Event "3/4.p New Statesman (and Nation)"]
+[Site "?"]
+[Date "1956.03.24"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+3101.54a7f8) U1"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5k2/K1pR4/p1NP4/6q1/1p6/pP2P3/P1P5/8 w - - 0 1"]
+
+{New Statesman (and Nation)=332. U1: Neuenschwander=B beatochess 18/11/2025 .} 
+1. Nd4 (1. dxc7 $2 Qc5+)  (1. Rxc7 $2 Qc5+)  (1. Rxc7 $1 {<cook BN>} 1... Qc5+
+2. Kb7 Qxd6 3. e4 $16)  (1. Rd8+ $1 {<cook BN>} 1... Kf7 2. d7) 1... Qc5+ 2.
+Kb8 (2. Kb7 {<or>} ) 2... Qb6+ 3. Ka8 $1 cxd6 (3... a5 4. Ne6+ Kg8 5. Rd8+ Kf7
+6. Nxc7 Qxe3 7. d7)  (3... c5 4. Ne6+ Kg8 5. Rd8+ Kf7 6. Nc7 c4 7. e4 Qc6+ 8.
+Kb8 Qxe4 9. d7) 4. Rb7 $1 Qa5 5. Rb5 $1 axb5+ 6. Kb7 Kf7 (6... Qd8 7. Ne6+) 7.
+Nc6 1-0
+
+[Event "3/4.p New Statesman (and Nation)"]
+[Site "?"]
+[Date "1956.03.24"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(+3101.54a7f8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "5k2/K1pR4/p2P4/6q1/1p6/pP2P3/P1P1N3/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/11/2025.} 1. Nd4 Qc5+ 2. Kb7 (2.
+Ka8 $2 Qd5+ 3. Kb8 cxd6) 2... Qb6+ 3. Ka8 cxd6 4. Rb7 Qa5 5. Rb5 $1 axb5+ 6.
+Kb7 1-0
+

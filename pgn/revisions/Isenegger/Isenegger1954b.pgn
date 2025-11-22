@@ -1,0 +1,27 @@
+[Event "Schweizerische Schachzeitung#0927"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0314.00c6a8) U3"]
+[Result "1/2-1/2"]
+[FEN "k7/8/2K5/6n1/8/8/4B3/6rN w - - 0 1"]
+
+{Schweizerische Schachzeitung=9 Schweizerische Schachzeitung/9. U3: Nunn=J
+HHdbIII#41659 31-8-2002.} 1. Nf2 Rg2 (1... Rc1+ $1 { <cook JN>} 2. Kd5 Rc2) 2.
+Ne4 $1 Nxe4 3. Bf3 Rg6+ (3... Rc2+ {<main>} 4. Kb5 $1 Rc5+ 5. Kb4 Re5 6. Kc4
+Kb8 7. Kd4) 4. Kd7 $1 Rd6+ 5. Ke7 Rd4 6. Ke6 Ka7 7. Ke5 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#0927"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(=0314.00c6a8) (c)"]
+[Result "*"]
+[FEN "k7/8/2K5/8/6B1/8/3n4/6rN w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/11/2025.} 1. Nf2 Rg2 2. Ne4 $1 Nxe4
+3. Bf3 Rg6+ (3... Rc2+ {<main>} 4. Kb5 Rc5+ 5. Kb4 Re5 6. Kc4) 4. Kd7 Rd6+ 5.
+Ke7 Rd4 6. Ke6 *
+

@@ -1,0 +1,32 @@
+[Event "Schweizerische Schachzeitung#0478"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+0032.23b8f7) (c) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1K2b3/5k1N/1Np5/1P6/6p1/6p1/6P1/8 w - - 0 1"]
+
+{Schweizerische Schachzeitung=12 Schweizerische Schachzeitung/12. correction:
+Isenegger=S Schweizerische Schachzeitung=1 1/1943. U2: Neuenschwander=B
+beatochess 04/11/2025.} 1. Nf6 $1 Kxf6 (1... cxb5 {<main>} 2. Nxe8 $1 Kxe8 3.
+Kc7 $1 Ke7 4. Kc6 b4 5. Kd5 Kf6 6. Ke4 Kg5 7. Nc4 b3 8. Nb2 Kh5 9. Kf5 Kh4 10.
+Kf4 Kh5 11. Kxg3 Kg5 12. Na4 Kf5 13. Kh4 Kf4 14. g3+ Kf3 15. Nb2) 2. Nd7+ $1
+Bxd7 3. b6 Be6 4. b7 Bd5 5. Ka7 {<cooks BN> other winning moves} 5... Bxg2 6.
+b8=Q Bd5 7. Qxg3 Kf5 8. Kb6 Bf3 9. Kc5 Kg5 10. Kd4 Kf5 11. Qe5+ Kg6 12. Ke3 Kf7
+13. Kf4 Kg6 14. Qe6+ 1-0
+
+[Event "Schweizerische Schachzeitung#0478"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(s)"]
+[Black "(+0032.23b8f7) (s)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1K2b3/5k1N/1Np5/1P6/6p1/6p1/6P1/8 w - - 0 1"]
+
+{changed solution: Neuenschwander=B beatochess 04/11/2025.} 1. Nf6 $1 Kxf6 (
+1... cxb5 2. Nxe8) 2. Nd7+ $1 Bxd7 3. b6 1-0
+

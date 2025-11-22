@@ -1,0 +1,17 @@
+[Event "Schach-Echo#083"]
+[Site "?"]
+[Date "1955.07.20"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+3140.42g8h5) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "6K1/B5p1/6pq/7k/5PRb/7P/5PP1/8 w - - 0 1"]
+
+{Schach-Echo=14. U2: Neuenschwander=B beatochess 18/11/2025.} 1. g3 $1 g5 $1 (
+1... Bd8 2. Rh4+ $1 Bxh4 3. g4#) 2. Rxh4+ $1 gxh4 3. g4+ Kg6 4. f5+ Kf6 5. Be3
+$1 (5. Bd4+ $2 Ke7 6. Bxg7 Qf4) 5... g5 6. Bd4+ Ke7 7. Bg7 $1 Qc6 8. f6+ Kd6 (
+8... Kd7 9. f7 Qe6 10. Bf6 Qxf6 11. f8=Q Qb6 12. Qf5+ Kc7 13. f4) 9. f7 Qc4 (
+9... Qd5 10. Bf6) 10. Bf6 Qe6 11. Kg7 (11. f3 $1 {<cook BN>} ) 11... Qd7 12.
+Kg6 Qc8 13. Kxg5 1-0
+

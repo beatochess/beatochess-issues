@@ -1,0 +1,18 @@
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0043.11c7h2) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1B6/2K5/5np1/8/5P2/8/7k/5b2 w - - 0 1"]
+
+{U2: Neuenschwander=B beatochesss 18/11/2025.} 1. f5 $1 (1. Kd8 $2 Kg2)  (1.
+Kc6 $2 Kg2)  (1. Kd6 $2 Ne4+ 2. Ke5 (2. Ke6 Ng3 3. Kf6 Bd3) 2... Ng3) 1... gxf5
+(1... g5 2. Kd8+ Kh3 3. Ke7 Nh5 4. f6 Bc4 5. f7 Bxf7 6. Kxf7 Nf4 7. Kf6) 2. Kd6
+f4 3. Ke6 Nh5 4. Kf5 Kg3 5. Kg5 $1 (5. Bc7 $2 Bc4 $1) 5... Be2 6. Bc7 (6. Bd6
+{<or>} )  (6. Be5 $2 Kf3 $1) 6... Bg4 $1 7. Bb8 (7. Be5 $2 Kf3 8. Bb8 Ng7 9.
+Kf6 Ne6 $1) 7... Kf3 8. Be5 $1 (8. Kh4 $1 {<cook BN>} 8... Ng7 9. Bxf4 Kxf4) 
+8... Ng3 (8... Ke4 9. Bxf4) 9. Bxf4 $1 Ne4+ 10. Kh4 Kxf4 1/2-1/2
+

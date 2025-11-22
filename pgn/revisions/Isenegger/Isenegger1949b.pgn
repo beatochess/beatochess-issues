@@ -1,0 +1,19 @@
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+4013.12f1h2) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "q7/8/5p2/1Q6/3P2B1/2p5/7k/n4K2 w - - 0 1"]
+
+{U2: Neuenschwander=B 18/11/2025.} 1. Qh5+ Kg3 2. Qh3+ Kf4 3. Qh4 $1 (3. Kf2 $1
+{<cook BN>} 3... Qd8 4. Bd7) 3... Qa3 (3... Qa5 {<main>} 4. Bf5+ Kxf5 5. Qh5+
+Ke4 6. Qxa5)  (3... Qa7 {<main>} 4. Bh5+ $1 Ke3 $1 5. Qf2+ Kd3 (5... Ke4 6.
+Qf3+ Kxd4 7. Qf2+) 6. Qe2+ Kxd4 7. Qf2+ Ke5 8. Qxa7)  (3... Qd8 {<main>} 4.
+Bh5+)  (3... Qe4 {<main>} 4. Bd7+ Ke3 5. Qf2+ Kd3 6. Bb5#)  (3... Nb3 4. Be2+
+Ke3 5. Qf2+) 4. Bd7+ (4. Bc8+ $1 {<cook BN>} 4... Ke3 5. Qf2+ Kd3 6. Ba6+) 4...
+Ke3 5. Qf2+ Kd3 6. Bb5+ Ke4 7. Bc6+ Kd3 8. Qe2+ Kxd4 9. Qe4+ Kc5 10. Qe7+ Kxc6
+11. Qxa3 1-0
+

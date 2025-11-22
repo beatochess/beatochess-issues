@@ -1,0 +1,30 @@
+[Event "Tijdschrift v.d. KNSB#439"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+0104.44f6b7) U1"]
+[Result "1-0"]
+[FEN "8/Nk6/1Pp2K2/2P4p/8/p7/np3P1P/6R1 w - - 0 1"]
+
+{Tijdschrift v.d. KNSB/12. U1: Van_der_Heijden=H HHdbV#56176 15-1-2014.} 1.
+Rg7+ (1. Nb5 $1 { <cook HH>} 1... cxb5 2. Rg7+ Kc6 3. b7 b1=Q 4. b8=Q) 1... Ka6
+$1 2. Nb5 $1 b1=Q 3. Nxa3 Qa1+ 4. Kg6 Ka5 (4... Qg1+ 5. Kh7 Qxg7+ 6. Kxg7) 5.
+Ra7+ Kb4 6. Nc2+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#439"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(+0104.33h8b7) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "2R4K/Nk6/1Pp5/2P5/8/p6P/np6/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 18/11/2025.} 1. Rc7+ Ka6 2. Nb5 $1 (2.
+Nxc6 b1=Q 3. b7 (3. Nd4 Ka5 4. b7 Ka6) 3... Qxb7 4. Rxb7 Kxb7 $10) 2... b1=Q 3.
+Nxa3 Qa1+ (3... Qb2+ 4. Kh7 Qxa3 5. Ra7+) 4. Kh7 Ka5 5. Ra7+ (5. b7 Qc3 6. b8=Q
+Qxh3+ 7. Kg8 Qg3+ 8. Kf8 Qf4+ 9. Ke8 Qe5+ 10. Kf7 Qf4+ $10) 5... Kb4 6. Nc2+
+1-0
+

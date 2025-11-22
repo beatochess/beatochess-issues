@@ -1,0 +1,29 @@
+[Event "Der Bund"]
+[Site "?"]
+[Date "1951.06.21"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0070.11b2g6)  U2 -HHdbVI"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7B/2p4b/6k1/1P6/1b6/8/1K6/8 w - - 0 1"]
+
+{U2: Neuenschwander=B 17/10/2025.} 1. Bd4 Bd6 (1... Ba5 2. b6 $1 cxb6 (2...
+Bxb6 3. Bxb6 cxb6 4. Kc3 (4. Kb3 {<or>} ) ) 3. Bc3 $1 $10) 2. Ba7 (2. b6 $2 c5
+3. Be3 c4 4. b7 Bb8 5. Kc3 Bg8)  (2. Bg1 $1 {(or Bf2/Be3) <cooks BN>} 2... Bg8
+3. b6 c6 4. b7 Bb8 5. Kc3 $10) 1/2-1/2
+
+[Event "Der Bund"]
+[Site "?"]
+[Date "1951.06.21"]
+[Round "?"]
+[White "Isenegger=S BN=(s)"]
+[Black "(=0070.11b2g6) (s) -HHdbVI"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7B/2p4b/6k1/1P6/1b6/8/1K6/8 w - - 0 1"]
+
+{changed solution: Neuenschwander=B 17/10/2025.} 1. Bd4 Ba5 (1... Bd6 2. Ba7 (
+2. b6 $2 c5 3. Be3 c4 4. b7 Bb8 5. Kc3 Bg8) 2... Bg8 3. b6 $10) 2. b6 $1 cxb6 (
+2... Bxb6 3. Bxb6 cxb6 4. Kc3 (4. Kb3 {<or>} ) ) 3. Bc3 $1 1/2-1/2
+

@@ -1,0 +1,28 @@
+[Event "British Chess Magazine#0904"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+0000.21e5g5) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/8/4K1k1/1PP4p/8/8/8 w - - 0 1"]
+
+{British Chess Magazine/12. U2: Neuenschwander=B beatochess 18/11/2025.} 1. Ke4
+Kg4 2. Ke3 Kg3 3. b5 h3 4. b6 h2 5. b7 h1=Q 6. b8=Q+ Kg4 7. Qf4+ Kh5 8. Qf3+
+{The fastest, but the queen ending is also won <cooks BN>} 8... Qxf3+ 9. Kxf3
+Kg5 10. Ke4 Kf6 11. Kd5 Ke7 12. Kc6 1-0
+
+[Event "British Chess Magazine#0904"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+0000.21e5g5) (s)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/8/8/4K1k1/1PP4p/8/8/8 w - - 0 1"]
+
+{shortened solution: Neuenschwander=B beatochess 18/11/2025.} 1. Ke4 Kg4 2. Ke3
+Kg3 3. b5 h3 4. b6 h2 5. b7 h1=Q 6. b8=Q+ Kg4 7. Qf4+ 1-0
+

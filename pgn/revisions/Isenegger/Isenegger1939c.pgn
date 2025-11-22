@@ -1,0 +1,37 @@
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+3412.36g6d5) U2"]
+[Result "1-0"]
+[FEN "8/B3p3/3p2K1/1P1k2N1/4p2P/1pR2P2/3p1pNr/q7 w - - 0 1"]
+
+{U2?: Kolb=F Schweizerische Schachzeitung=10 10/1941 U2: Garcia=M HHdbV#65483
+24-9-2011. U2< Neuenschwander=B beatochess 13/09/2025.} 1. Nf4+ Ke5 2. Be3 $1
+exf3 (2... Rg2 3. Rc7 $1 Qa7 $1 4. Rxa7 d5 5. Ra1 $1 b2 6. Rd1 Rg1 7. Ne2 $1) 
+3. Nd3+ Kd5 4. Nb4+ Ke5 5. Nc6+ Kd5 6. Nxe7+ Ke5 7. Nc6+ (7. Rc4 $1 { <cook
+MG>} 7... Qb1+ 8. Kg7 Rxh4 9. Rxh4 d1=Q 10. Bxf2 Qh7+ 11. Nxh7 d5 12. Nf8) 7...
+Kd5 8. Nb4+ Ke5 9. Nd3+ (9. Rd3 {<cook BN>} ) 9... Kd5 10. Nf4+ Ke5 11. Nf7+
+Ke4 12. Nxd6+ Ke5 13. Nc4+ Ke4 14. Nxd2+ Ke5 15. Nc4+ Ke4 16. Nd6+ Ke5 17. Nf7+
+Ke4 18. Ng5+ Ke5 19. Rd3 $1 Qa8 20. Nf7+ Ke4 21. Nd6+ Ke5 22. Nc4+ Ke4 23. Rd4#
+1-0
+
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(+3412.38h6d5) (c) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/4p3/1p1p3K/1P1k2Np/4p2P/1pR1BP2/3p1pNr/q7 w - - 0 1"]
+
+{correction: Schweizerische Schachzeitung=10 10/1941. U2: Neuenschwander=B
+beatochess 04/11/2025.} 1. Nf4+ Ke5 2. Kg6 $1 exf3 $1 (2... Rg2 3. Rc7 $1 Qa7
+$1 4. Rxa7 d5 5. Ra1 $1 b2 6. Rd1 Rg1 7. Ne2 $1) 3. Nd3+ $1 Kd5 4. Nb4+ Ke5 5.
+Nc6+ Kd5 6. Nxe7+ Ke5 7. Nc6+ Kd5 8. Nb4+ Ke5 9. Nd3+ (9. Rd3 $1 {<cook BN>} ) 
+9... Kd5 10. Nf4+ Ke5 11. Nf7+ Ke4 12. Nxd6+ Ke5 13. Nc4+ Ke4 14. Nxd2+ Ke5 15.
+Nc4+ Ke4 16. Nd6+ Ke5 17. Nf7+ Ke4 18. Ng5+ Ke5 19. Rd3 $1 Qa8 20. Nf7+ Ke4 21.
+Nd6+ Ke5 22. Nc4+ Ke4 23. Rd4# 1-0
+

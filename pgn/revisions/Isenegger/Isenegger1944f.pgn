@@ -1,0 +1,27 @@
+[Event "Schweizerische Schachzeitung#0613"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0611.00c1d3) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/4rB2/8/8/8/3k4/N3r3/2K5 w - - 0 1"]
+
+{Schweizerische Schachzeitung=12 Schweizerische Schachzeitung/12. U3:
+Neuenschwander=B beatochess 15/11/2025.} 1. Nb4+ Ke4 2. Bg6+ Kd4 3. Nc6+ Kc3 $1
+$19 {<cook BN>} 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#0613"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(=0611.00c2d4) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "4rB2/N7/8/8/3k4/4r3/2K5/8 w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 15/11/2025.} 1. Nb5+ Ke5 2. Bg7+
+1/2-1/2
+

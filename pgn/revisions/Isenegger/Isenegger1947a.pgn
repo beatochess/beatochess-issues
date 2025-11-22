@@ -1,0 +1,30 @@
+[Event "Schweizerische Schachzeitung"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0331.20d7g6) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1b4N1/3K1P2/6kP/8/5r2/8/8/8 w - - 0 1"]
+
+{Schweizerische Schachzeitung=6 Schweizerische Schachzeitung/6. U3:
+Neuenschwander=B 17/11/2025.} 1. Ne7+ Kxf7 (1... Kxh6 $1 {<cook BN>} 2. Nc6
+Rxf7+) 2. Nc6 1/2-1/2
+
+[Event "Schweizerische Schachzeitung"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(v)"]
+[Black "(=0331.20d7g6) (v)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/7k/3r2N1/8/6K1/7N/7b/8 w - - 0 1"]
+
+{version: Neuenschwander=B beatochess 17/11/2025.} 1. Ng5+ $1 (1. Ngf4 $2 {DTZ
+365} )  (1. Ne7 $2 {DTZ 335} )  (1. Nh4 $2 {DTZ 297} )  (1. Nhf4 $2 {DTZ 379} )
+1... Kxg6 (1... Kg8 2. Ne7+ $1 Kf8 3. Nf3 $1)  (1... Kg7 2. Nf4 $1 Bg1 3. Nfe6+
+$1 Kg6 4. Nf4+ (4. Nf8+ {<or>} ) 4... Kg7 5. Nfe6+ Kg8 $10 {because the black
+king cannot take part in the action} ) 2. Nf3 1/2-1/2
+

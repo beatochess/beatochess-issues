@@ -1,0 +1,29 @@
+[Event "Schweizerische Schachzeitung#0604"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0602.00d4a6) U2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/8/k7/6r1/2NK4/3N2r1/8/8 w - - 0 1"]
+
+{Schweizerische Schachzeitung=12 Schweizerische Schachzeitung/12. U2:
+Neuenschwander=B 15/11/2025.} 1. Nc5+ Ka7 $1 2. Ne4 R3g4 3. Ne5 Rf4 4. Ke3 Rgf5
+5. Nd6 $1 (5. Nc6+ $1 {<cook BN>} ) 5... Rf8 6. Ng6 Rf3+ 7. Ke4 R8f6 8. Ne8 Rf7
+9. Nd6 $1 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#0604"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(=0602.00d4a6) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "8/7k/1r6/4KN2/1r2N3/8/8/8 w - - 0 1"]
+
+{correction: Neuenschwander=B 15/11/2025.} 1. Nf6+ Kh8 2. Nd5 R6b5 3. Nd4 Rc5
+4. Kd6 Rbc4 5. Ne3 Rc1 6. Nb3 Rc6+ 7. Kd5 R1c3 8. Nd1 R3c4 9. Ne3 Rc3 10. Nd1
+Rc2 11. Ne3 R2c3 12. Nd1 1/2-1/2
+
