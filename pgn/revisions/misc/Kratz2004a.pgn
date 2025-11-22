@@ -1,0 +1,34 @@
+[Event "3.hm Pavlovsky & Pospisil-70 JT"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Kratz=J"]
+[Black "(+0010.14b8a6) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "1K6/p7/k7/pp1p4/8/1B6/P7/8 w - - 0 1"]
+
+{(EG#14725). U2: Hergert=V beatochess 10/11/2025.} 1. Kc7 (1. Bxd5 $2 Kb6 $1) 
+1... a4 (1... b4 2. Ba4 b3 3. Kc6 b2 4. Bb5#)  (1... d4 2. a4 d3 3. Kc6 d2 4.
+axb5#) 2. Bxd5 Ka5 (2... b4 3. Kc6 Ka5 4. Kc5 a6 5. Kc4 b3 6. a3 b2 7. Be4) 3.
+Kb7 $1 (3. Kc6 $2 Kb4 4. Be6 a6 $1 5. Kb6 Ka3 6. Kxa6 b4) 3... a6 (3... Kb4 4.
+Ka6 $1 (4. Kxa7 $2 Ka3)  (4. Kc6 $2 a6) 4... Kc5 5. Bf7 (5. Be4 $2 Kb4 $1 6.
+Bd5 (6. Bb1 Ka3 7. Kxb5 Kb2 $1) 6... Kc5) 5... b4 (5... Kb4 6. Be6) 6. Ka5 b3
+7. a3 b2 8. Ba2 Kd4 9. Kxa4 Kc3 10. Kb5 a6+ 11. Ka5 $1 b1=Q 12. Bxb1 Kb2 13. a4
+$1)  (3... b4 4. Kc6 a6 5. Be4 $1 b3 6. a3 b2 7. Kd5 $1) 4. Be6 (4. Bf7 {<or>} 
+)  (4. Bg8 {<or>} )  (4. Be4 $2 Kb4 $1 5. Kxa6 Ka3 6. Bb1 b4 $1)  (4. Ka7 $1
+{<cook VH>} 4... b4 5. Bc4 b3 6. a3 b2 7. Bd3 b1=Q 8. Bxb1 $16) 4... b4 (4...
+Kb4 5. Kxa6)  (4... a3 5. Bb3 b4 6. Bc4 $1) 5. Bc4 $1 (5. Kc6 $2 b3 6. a3 b2 7.
+Ba2 b1=Q 8. Bxb1)  (5. Kc7 $2 b3 $1 6. a3 b2 7. Ba2 Kb5 8. Kd6 b1=Q 9. Bxb1 Kc4
+10. Ba2+ Kc3 11. Kc5 Kb2 12. Kb4 Kxa2 13. Kxa4 a5)  (5. Bd7 $2 b3 6. a3 b2 7.
+Bf5 Kb5 8. Bd3+ Kc5 9. Kxa6 Kd4 $1 10. Bb1 Kc3 11. Ba2 b1=Q 12. Bxb1 Kb3)  (5.
+Bf7 $2 b3 6. a3 b2 7. Ba2 Kb5 8. Ka7 b1=Q 9. Bxb1 Kc4 10. Ba2+ Kc3 11. Kxa6 Kb2
+12. Ka5 Kxa3 $1)  (5. Bf5 $2 a3 $1 (5... b3 $2 6. a3 Kb5 7. Bd3+ $1 Kc5 8. Kxa6
+)  (5... Kb5 6. Bd3+ $1 Kc5 7. Kxa6 Kd4 8. Bb1 $1) 6. Be6 (6. Bc2 Kb5 7. Bd3+
+Kc5 $1 8. Bc2 Kb5 $1) 6... Kb5 7. Bf7 (7. Bd7+ Ka5 $1 8. Be6 Kb5) 7... a5 8.
+Be8+ Kc4 9. Kb6 Kc3 $1 10. Ba4 (10. Bf7 a4) 10... Kb2 11. Kxa5 (11. Bb3 a4) 
+11... Kxa2) 5... b3 (5... a3 6. Kc6 Ka4 (6... b3 7. Bxb3) 7. Kc5) 6. a3 b2 7.
+Bd3 $1 (7. Ba2 $2 Kb5 $1) 7... b1=Q+ 8. Bxb1 Kb5 9. Ba2 (9. Bc2 {<or>} )  (9.
+Bd3+ $2 Ka5 10. Bxa6 $2) 9... Ka5 10. Kc7 $1 Kb5 11. Kd6 Ka5 12. Kd5 Kb5 13.
+Bb1 Ka5 14. Kc4 Kb6 15. Kb4 1-0
+

@@ -1,0 +1,28 @@
+[Event "2.hm Bron MT Problemist Pribuzhja#3662"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Radchenko=S"]
+[Black "(=0400.02a5e6) U1"]
+[Result "1/2-1/2"]
+[FEN "1R6/8/4k3/K7/1pp5/8/7r/8 w - - 0 1"]
+
+{also .c Mitrofanov MT Vecherny Peterburg 1994 (EG#09911). U1: Conrady=H
+HHdbIII#08885 1-4-2005.} 1. Re8+ (1. Rxb4 Kd5 2. Rb5+ $1 {<cook HC>} )  (1. Rc8
+$2 b3 2. Rxc4 Rh8 $1 (2... b2 $2 3. Rb4 Kd5 4. Kb6 $1 (4. Ka4 $2 Rh4)  (4. Rb3
+$2 Kc4 5. Ka4 b1=Q 6. Rxb1 Ra2#) ) ) 1... Kd7 2. Re4 b3 3. Rxc4 b2 4. Rb4 Kc7
+5. Rb3 1/2-1/2
+
+[Event "2.hm Bron MT Problemist Pribuzhja#3662"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Radchenko=S VH=(c)"]
+[Black "(=0400.02a5e6) (c)"]
+[Result "1/2-1/2"]
+[FEN "1R6/8/4k3/K7/1pp5/8/3r4/8 w - - 0 1"]
+
+{correction: Hergert=V beatochess 12/11/2025.} 1. Re8+ (1. Rxb4 $2 Kd5 2. Rb5+
+Kd4 3. Rh5 Kc3 4. Rh3+ Rd3 $19)  (1. Rc8 $2 b3 2. Rxc4 Rd8 $19) 1... Kd7 2. Re4
+b3 (2... c3 3. Kxb4 c2 4. Rc4 $11) 3. Rxc4 b2 4. Rb4 Kc7 5. Rb3 $11 1/2-1/2
+

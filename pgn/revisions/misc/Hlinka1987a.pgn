@@ -1,0 +1,30 @@
+[Event "1.hm Kaminer MT Schakend Nederland#2087"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Hlinka=M"]
+[Black "(=0130.32c5c2) U2 U3"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[FEN "8/8/8/1pK5/8/1pPP4/2k2P2/2b4R w - - 0 1"]
+
+{Schakend Nederland/4 (EG#07477). U3: Staudte=R HHdbII#49185 1-11-1996 U3:
+Bourzutschky=M HHdbV#26043 28-12-2010 U3: Hergert=V beatochess 07/10/2025.} 1.
+f4 (1. Rh4 $2 b4 $1 2. Rxb4 Ba3) 1... b2 (1... Bxf4 2. Kxb5) 2. Rh2+ Bd2 3. Rh1
+Kxc3 $1 4. d4 (4. Rb1 $2 b4 5. f5 Kc2 6. Rxb2+ Kxb2 7. f6 b3 8. f7 Bh6) 4... b4
+5. d5 $1 (5. f5 $2 Be3 $1 (5... Bc1 6. Rh3+ Kc2 7. Rh2+ Kb3 8. Rxb2+ Bxb2 9. f6
+) 6. Kb5 (6. Rf1 {<cook MB>} 6... Bxd4+ 7. Kd5 Be3 $1 (7... Bf6 $2 8. Rf3+ Kc2
+9. Kc4) 8. f6 Bh6 9. f7 Bf8 10. Rg1 Kc2 $19 {VH, no cook} ) 6... Bc1 7. Rh3+
+Kc2 8. Rh2+ Bd2 9. Rh1 b1=Q 10. Rxb1 Kxb1 11. f6 b3 12. d5 b2 13. d6 Kc2 14. d7
+b1=Q+) 5... Bc1 (5... Be3+ $1 {<cook VH>} 6. Kb5 (6. Kc6 Bc1 $19 {the white
+king can move to the fourth rank.} ) 6... Bc1 7. Rh3+ Kc2 $1 (7... Kd4 $2 8.
+Rb3 $11) 8. d6 b1=Q 9. d7 Bd2 $1 $19 {VH} ) 6. Rh3+ Kc2 7. d6 $1 (7. Rh2+ $2
+Kb3 8. Rxb2+ Bxb2) 7... b1=Q 8. d7 Be3+ $1 9. Rxe3 Qd1 10. Kc6 b3 $1 11. Kc7 (
+11. Re6 $2 Qf3+ 12. Kb6 b2 $1 13. Rc6+ Kb3 14. d8=Q b1=Q)  (11. Re5 $2 Qf3+ 12.
+Kb6 Qd3 $1 13. Rc5+ Kd2) 11... b2 (11... Qc1 $19 {<cook VH>} ) 12. Re6 $1 (12.
+Re5 $2 Qd3 $1 13. d8=Q Qxd8+ 14. Kxd8 b1=Q 15. f5 Qb8+) 12... Qxd7+ $1 (12...
+b1=Q 13. Rc6+ $1) 13. Kxd7 b1=Q 14. f5 $1 Qb5+ 15. Rc6+ Kd3 16. f6 Ke4 (16...
+Qb7+ $1 {<cook RS>} 17. Rc7 Qd5+ 18. Kc8 Qg8+ 19. Kb7 Qd8 20. f7 Kd4 21. Kc6
+Ke5 22. Rd7 Qa8+ 23. Kb5 Ke6 24. Rc7 Kd6) 17. f7 Qd5+ 18. Ke7 $1 Qxc6 19. f8=Q
+1/2-1/2
+

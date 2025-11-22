@@ -1,0 +1,30 @@
+[Event ".c Mkhedruli"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Mitrofanov=L"]
+[Black "(+0101.24b5e5) U3"]
+[Result "1-0"]
+[FEN "2R5/6p1/5pP1/1K1pk3/6P1/2N5/5p2/8 w - - 0 1"]
+
+{(EG#02954). U3: De_Zeeuw=M HHdbIV#42270 4-9-2005.} 1. Ne2 f1=Q 2. Kc6 f5 3. g5
+f4 4. Re8+ Kf5 5. Ng3+ fxg3 6. Rf8+ Kxg6 $1 {<cook MZ>}  (6... Ke4 $1 {<cook
+MZ>} 7. Rxf1 d4 8. Kc5 Ke3 $1 9. Kc4 g2 10. Rd1 Ke2 11. Rg1 (11. Ra1 d3 12. Kc3
+d2 13. Kc2 Kf2 14. Kxd2 g1=Q 15. Rxg1 Kxg1) 11... Kf2 12. Ra1 Ke3) 7. Rxf1 Kxg5
+8. Kxd5 Kg4 1-0
+
+[Event ".c Mkhedruli"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Mitrofanov=L VH=(c)"]
+[Black "(+0101.24b5e5) (c)"]
+[Result "1-0"]
+[FEN "3R4/7p/6pP/2K1pk2/7P/3N4/6p1/8 w - - 0 1"]
+
+{correction: Hergert=V beatochess 21/11/2025.} 1. Nf2 $1 (1. Rf8+ $2 Ke6 2.
+Re8+ Kf7 3. Nxe5+ Kxe8 4. Nf3 Kf7 5. Kd4 g5 6. hxg5 Kg6 7. Ke3 g1=Q+ 8. Nxg1
+Kxg5 $11)  (1. Kd6 $2 Kg4 2. Nxe5+ Kg3 $11) 1... g1=Q 2. Kd6 g5 (2... Qxf2 3.
+Rf8+ Kg4 4. Rxf2 $18)  (2... Kf4 3. Nh3+) 3. h5 g4 4. Rf8+ Kg5 5. Nh3+ $1 gxh3
+6. Rg8+ Kxh6 7. Rxg1 Kxh5 8. Kxe5 Kh4 9. Kf4 (9. Kf5 $2 h2 $11) 1-0
+

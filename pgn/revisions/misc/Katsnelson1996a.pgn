@@ -1,0 +1,17 @@
+[Event "Zadachy i Etyudy#0094"]
+[Site "?"]
+[Date "1996.05.07"]
+[Round "?"]
+[White "Katsnelson=V"]
+[Black "(+0401.11e5a7) U1"]
+[Result "1-0"]
+[FEN "2R5/k7/8/P3K1N1/5p2/8/5r2/8 w - - 0 1"]
+
+{Zadachy i Etyudy=10 . U1: Golomedov=A Zadachy i Etyudy=12 1996 22-4-1997. U3:
+Hergert=V beatochess 13/11/2025} 1. Ne4 (1. Ne6 $1 {<cook AG>} 1... Ra2 (1...
+f3 $1 $11 {no cook, VH} ) 2. Rc5 f3 3. Kd6 f2 4. Rf5 f1=Q (4... Ka6 $1 $11 {no
+cook, VH} ) 5. Rxf1 Rxa5 6. Kc7) 1... Ra2 (1... Kb7 2. Nxf2 Kxc8 3. Ne4 Kb7 4.
+Nc5+ $1 Kc6 5. a6) 2. Rc7+ Ka6 (2... Ka8 $1 {<cook VH>} 3. Kd6 Rxa5 $10)  (2...
+Kb8 $1 {<cook VH>} 3. Kd6 Rxa5 $11) 3. Kd5 $1 (3. Nc5+ $2 Kb5 4. a6 f3) 3...
+Ra3 (3... Rxa5+ 4. Nc5+ $1)  (3... Re2 $1 {<cooks VN> or Rg2/Rh2} ) 1-0
+
