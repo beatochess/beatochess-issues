@@ -1,0 +1,27 @@
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Isenegger=S"]
+[Black "(=0000.11d8d5) U3"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3K4/7p/8/3k4/8/8/1P6/8 w - - 0 1"]
+
+{U3: Conrady=H HHdbIII#42429 15-3-2001.} 1. Kc7 (1. b4 $2 Kc6) 1... h5 (1...
+Kc5 2. b4+ Kxb4 3. Kd6) 2. b4 Kc4 3. Kc6 Kxb4 (3... h4 $1 {<cook HC>} 4. b5 h3
+5. b6 h2 6. b7 h1=Q+) 4. Kd5 1/2-1/2
+
+[Event "National-Zeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Isenegger=S BN=(c)"]
+[Black "(=0000.11d8d5) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "3K4/6p1/8/3k4/8/8/1P6/8 w - - 0 1"]
+
+{correction: Neuenschwander=B 23/11/2025.} 1. Kc7 g5 2. b4 Kc4 3. Kc6 Kxb4 4.
+Kd5 1/2-1/2
+
