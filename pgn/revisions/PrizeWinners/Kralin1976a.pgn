@@ -1,0 +1,59 @@
+[Event "1/2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG"]
+[Black "(+0400.55g8e8) U3"]
+[Result "1-0"]
+[FEN "r3k1KR/p1p4p/2p5/p1P5/2P3P1/P7/P7/8 b q - 0 1"]
+
+{Shakhmaty v SSSR/1 (EG#03481). U3: Reiners=J 0-0=3 1981.} 1... O-O-O+ $1 (1...
+Kd7+ 2. Kxh7 Rxh8+ 3. Kxh8 a4 4. g5 Kc8 5. g6 Kb7 6. g7 Ka6 7. g8=Q) 2. Kg7 $1
+(2. Kxh7 $2 Rxh8+ 3. Kxh8 a4 $1) 2... Rxh8 3. Kxh8 a4 (3... h6 4. a4 $1) 4. g5
+$1 Kb7 $1 5. Kg8 $1 (5. Kg7 $2 h6 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qh1) 5...
+h5 (5... Kc8 6. Kg7 $1 (6. Kxh7 $2 Kb7 $1) 6... Kb7 (6... Kd7 7. Kxh7) 7. Kf7
+Kc8 8. Ke7 Kb8 9. Kd8 Kb7 10. Kd7 Kb8 11. Kxc6 Kc8 12. Kb5 Kd7 13. Kxa4 Kc6 14.
+Kb4 a5+ 15. Kxa5 Kxc5 16. a4 Kxc4 17. Ka6 Kb4 (17... Kd3 18. Kb5 $1 Kd4 19. Kc6
+Kc4 20. a5)  (17... Kd5 18. Kb5 $1 c5 19. a5 c4 20. a6 c3 21. a7 c2 22. a8=Q+) 
+(17... Kd4 $1 {<cook JR>} 18. Kb5 c5 19. a5 c4 20. a6 c3 21. a7 c2 22. a8=Q
+c1=Q) 18. a5 c5 19. Kb6 c4 20. a6 c3 21. a7 c2 22. a8=Q c1=Q 23. Qa5+ Kc4 24.
+Qc5+ Kd3 25. Qxc1) 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qc3# 1-0
+
+[Event "1/2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG"]
+[Black "(+0400.55g8e8) (c) U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "r3k1KR/p1p4p/2p5/p1P5/2P3P1/P7/2P5/8 b q - 0 1"]
+
+{Shakhmaty v SSSR/1. correction: Rothwell=S Keym=W Konig & Turm=17 9/2005. U2:
+Neuenschwander=B beatochess 09/12/2025.} 1... O-O-O+ $1 (1... Kd7+ 2. Kxh7
+Rxh8+ 3. Kxh8 a4 4. g5 Kc8 5. g6 Kb7 6. g7 Ka6 7. g8=Q Ka5 8. Qb8) 2. Kg7 $1 (
+2. Kxh7 $2 Rxh8+ 3. Kxh8 a4 $1 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6 8. Qg1
+(8. Qd5 $1 {<cook BN>} 8... cxd5 9. cxd5 Kb5 10. c6 Kc5 11. c4) ) 2... Rxh8 3.
+Kxh8 a4 (3... h6 4. a4 $1) 4. g5 $1 (4. Kxh7 $2 Kb7 $1)  (4. Kg8 $2 h6 $1)  (4.
+Kg7 $2 h6 $1) 4... Kb7 $1 5. Kg8 $1 (5. Kg7 $2 h5 $1 6. gxh6 Ka6 7. h7 Ka5 8.
+h8=Q a6 9. Qh1) 5... h5 (5... Kc8 6. Kg7 $1 Kb7 7. Kf7 Kc8 8. Ke7 Kb8 9. Kd8
+Kb7 10. Kd7 Kb8 11. Kxc6 Kc8 12. Kb5 Kd7 13. Kxa4 Kc6 14. Kb4 a5+ 15. Kxa5 Kxc5
+16. a4 Kxc4 17. Ka6 Kb4 18. a5 c5 19. Kb6 c4 20. a6)  (5... Ka8 6. Kf7 Kb7 7.
+Ke7 Kc8 8. Ke8) 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q (8. h8=B { <or>} ) 8... a6 9.
+Qc3# 1-0
+
+[Event "1/2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kralin=N Kuznetsov=AG BN=(c)"]
+[Black "(+0400.66g8e8) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "r3k1KR/p1p4p/2p5/p1P5/2P2pP1/P4P2/8/8 b q - 1 1"]
+
+{correction: Neuenschwander=B beatochess 10/12/2025.} 1... O-O-O+ 2. Kg7 $1 (2.
+Kxh7 $2 Rxh8+ 3. Kxh8 a4 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6) 2... Rxh8 3.
+Kxh8 a4 4. g5 Kb7 5. Kg8 $1 (5. Kg7 $2 h5 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6) 
+5... h5 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qc3# 1-0
+

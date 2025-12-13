@@ -1,0 +1,38 @@
+[Event "4.p German Chess Society-100 AT"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kozdon=B"]
+[Black "(=0473.34e7h8) U4"]
+[Result "1/2-1/2"]
+[FEN "7k/1p2K3/3p2PB/7P/1b6/1n1p2P1/7p/3R1br1 w - - 0 1"]
+
+{(EG#03511). U4: 200 Estudios - Mundial 1968-1977#197 2004.} 1. Ra1 $1 (1. Kf7
+$2 Bc3 2. Ra1 Bxa1) 1... Nxa1 (1... d5+ 2. Kf7 Bc3 (2... Bf8 3. Ra8) 3. Ra8#) 
+2. Kf7 Bc3 3. Bd2 $1 Be5 (3... Bxd2 4. g7+)  (3... Bg7 4. h6 Bb2 5. g7+)  (3...
+Bf6 4. Bg5 Bb2 5. h6 h1=Q 6. g7+) 4. Bf4 $1 Bb2 (4... Rxg3 5. Bxg3 Bg7 6. h6 $1
+Bxh6 7. Bxd6 Bg7 8. Bf8) 5. Bc1 (5. h6 $1 {<cook>} 5... Rxg3 6. Bxg3) 5... Bc3
+6. Bd2 Bd4 7. Be3 Be5 8. Bf4 Rxg3 (8... Bb2 9. Bc1) 9. Bxg3 (9. Bxe5+ $2 dxe5
+10. g7+ Rxg7+) 9... Bg7 (9... Bb2 10. h6 h1=Q 11. g7+ Bxg7 12. hxg7+) 10. h6 $1
+Bxh6 11. Bxd6 Bg7 12. Bf8 $1 Bb2 (12... Bxf8 13. Kxf8 h1=Q (13... d2 14. g7+
+Kh7 15. g8=Q+ Kh6 16. Qg7+ Kh5 17. Qf7+ Kg5 18. Qxf1) 14. g7+ Kh7 15. g8=Q+ Kh6
+16. Qg7+ Kh5 17. Qh7+ Kg5 18. Qxh1) 13. Ba3 Bc3 14. Bb4 Bd4 15. Bc5 Be5 16. Bd6
+Bf6 17. Be7 Bg7 18. Bf8 Bb2 19. Ba3 1/2-1/2
+
+[Event "4.p German Chess Society-100 AT"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Kozdon=B"]
+[Black "(=0473.34e7h8) (s)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "7k/1p2K3/3p2PB/7P/1b6/1n1p2P1/7p/3R1br1 w - - 0 1"]
+
+{(EG#03511). U4: 200 Estudios - Mundial 1968-1977#197 2004. Changed solution:
+Neuenschwander=B beatochess 10/12/2025.} 1. Ra1 $1 (1. Kf7 $2 Bc3 2. Ra1 Bxa1) 
+1... Nxa1 (1... d5+ 2. Kf7 Bc3 (2... Bf8 3. Ra8) 3. Ra8#) 2. Kf7 Bc3 3. Bd2 $1
+Bb2 4. Bc1 $1 Bd4 5. Be3 $1 Be5 6. Bf4 Rxg3 7. Bxg3 Bg7 8. h6 Bxh6 9. Bxd6 Bg7
+10. Bf8 Bb2 11. Ba3 Bc3 12. Bb4 Bd4 13. Bc5 Be5 14. Bd6 Bf6 15. Be7 Bg7 16. Bf8
+1/2-1/2
+

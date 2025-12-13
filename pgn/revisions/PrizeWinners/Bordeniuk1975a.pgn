@@ -1,0 +1,35 @@
+[Event "1.p USSR team champ IX"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "2"]
+[White "Bordeniuk=M"]
+[Black "(+0303.65b8a4) TT U2"]
+[Result "1-0"]
+[FEN "nK6/P1r2p2/2p2p2/1Pp2P2/k1P3p1/2P3P1/8/8 w - - 0 1"]
+
+{USSR team champ IX 1975-1976 (EG#03435). U2: Garcia=M HHdbIV#42370 19-1-2007.
+U2: Neuenschwander=B beatochess 04/12/2025.} 1. b6 Rd7 $1 2. Kxa8 Ka5 3. b7
+Rd8+ 4. b8=R $1 (4. b8=Q $2 Ka6 5. Qxd8) 4... Rd7 5. Rb3 $1 (5. Rb1 $1 {<cook
+MG>} 5... Ka6 6. Kb8 Rxa7 7. Kc8 Re7 8. Kd8 Re4 9. Kc7 Rxc4 10. Kxc6 Ka7 11.
+Rb3 Re4 12. Rb7+ Ka6 13. Rxf7 Re3 14. Rxf6 Rxg3 15. Rg6 Rf3 16. Rxg4 Ka7 17.
+Rg7+ Ka6 18. Rg8 Ka7 19. Rf8) 5... Ka6 6. Kb8 Rxa7 $1 7. Kc8 $1 (7. Ra3+ $2 Kb6
+$1 8. Rxa7) 7... Re7 8. Kd8 Re4 9. Kc7 Rxc4 10. Kxc6 Ka7 11. Ra3+ (11. Kd5 $1
+{<cook BN>} 11... Ra4 12. Kxc5) 11... Kb8 12. Kd5 1-0
+
+[Event "1.p USSR team champ IX"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "2"]
+[White "Bordeniuk=M BN=(v)"]
+[Black "(+0303.66b8a4) TT (v)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "nK6/P1r2p2/2p2p2/1Pp2Pp1/k1P3p1/2P3P1/8/8 w - - 0 1"]
+
+{USSR team champ IX 1975-1976 (EG#03435). version: Neuenschwander=B beatochess
+04/12/2025.} 1. b6 Rd7 $1 2. Kxa8 Ka5 3. b7 Rd8+ 4. b8=R $1 (4. b8=Q $2 Ka6 5.
+Qxd8) 4... Rd7 5. Rb3 $1 (5. Rb1 $2 Ka6 6. Kb8 Rxa7 7. Kc8 Re7 8. Kd8 Re4 9.
+Kc7 Rxc4 10. Kxc6 Ka7) 5... Ka6 6. Kb8 Rxa7 $1 7. Kc8 $1 (7. Ra3+ $2 Kb6 $1 8.
+Rxa7) 7... Re7 8. Kd8 Re4 9. Kc7 Rxc4 10. Kxc6 Ra4 (10... Ka7 11. Ra3+ Kb8 12.
+Kd5) 11. c4 $1 1-0
+

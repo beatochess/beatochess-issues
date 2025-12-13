@@ -8,13 +8,35 @@
 [ECO "A00"]
 [FEN "8/5K2/8/p1pPkp2/4P1P1/7p/7P/8 w - - 0 1"]
 
-{(EG#03384). U2: Neuenschwander=B beatochess 01/12/2025.} 1. Ke7 $1 (1. g5 $2
-f4 $1) 1... a4 (1... c4 {<main>} 2. d6 c3 3. d7 c2 4. d8=Q c1=Q 5. Qd5+ Kf4 6.
-Qxf5+ (6. gxf5 {<cook BN>} )  (6. exf5 {<cook BN>} ) 6... Ke3 7. Qg5+ Kxe4 8.
-Qxc1)  (1... fxe4 {<main>} 2. d6 e3 3. d7 e2 4. d8=Q e1=Q 5. Qd6+ Ke4 6. Qe6+
-Kf3 7. Qxe1)  (1... f4 {<main>} 2. d6 f3 3. d7 f2 4. d8=Q f1=Q 5. Qd5+ Kf4 6.
-Qf5+ (6. Qf7+ {<or>} ) 6... Ke3 7. Qxf1)  (1... fxg4 {<main>} 2. d6 g3 3. d7
-gxh2 (3... g2 4. d8=Q g1=Q 5. Qd5+ Kf4 6. Qf5+ Ke3 7. Qxc5+) 4. d8=Q h1=Q 5.
-Qd6+ Kxe4 6. Qc6+ Kd4 7. Qxh1) 2. d6 (2. exf5 $1 {<cook BN>} 2... a3 3. d6 a2
-4. d7 a1=Q 5. d8=Q) 2... a3 3. d7 a2 4. d8=Q a1=Q 5. Qh8+ Kxe4 6. Qxa1 1-0
+{(EG#03384). comment, U2: Neuenschwander=B beatochess 01/12/2025.} 1. Ke7 $1 (
+1. g5 $2 f4 $1) 1... a4 (1... c4 {<main>} 2. d6 c3 3. d7 c2 4. d8=Q c1=Q 5.
+Qd5+ Kf4 6. Qxf5+ (6. gxf5 {<cook BN>} )  (6. exf5 {<cook BN>} ) 6... Ke3 7.
+Qg5+ Kxe4 8. Qxc1)  (1... fxe4 {<main>} 2. d6 e3 3. d7 e2 4. d8=Q e1=Q 5. Qd6+
+Ke4 6. Qe6+ Kf3 7. Qxe1)  (1... f4 {<main>} 2. d6 f3 3. d7 f2 4. d8=Q f1=Q 5.
+Qd5+ Kf4 6. Qf5+ (6. Qf7+ {<or>} ) 6... Ke3 7. Qxf1)  (1... fxg4 {<main>} 2. d6
+g3 3. d7 gxh2 (3... g2 {<main BN>} 4. d8=Q g1=Q 5. Qd5+ Kf4 6. Qf5+ Ke3 7.
+Qxc5+) 4. d8=Q h1=Q 5. Qd6+ Kxe4 6. Qc6+ Kd4 7. Qxh1) 2. d6 (2. exf5 $1 {<cook
+BN>} 2... a3 3. d6 a2 4. d7 a1=Q 5. d8=Q) 2... a3 3. d7 a2 4. d8=Q a1=Q 5. Qh8+
+Kxe4 6. Qxa1 1-0
+
+[Event "2/3.p Chervoni Girnik"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Zinar=M BN=(c)"]
+[Black "(+0000.55f7e5) (c)"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/5K2/8/1ppPkp2/4P1P1/p6p/P6P/8 w - - 0 1"]
+
+{(EG#03384). U2: Neuenschwander=B beatochess 03/12/2025.} 1. Ke7 $1 (1. g5 $2
+f4 $1 2. g6 f3 3. g7 f2 4. g8=Q f1=Q+ 5. Ke8 Qf6) 1... b4 (1... c4 {<main>} 2.
+d6 c3 3. d7 c2 4. d8=Q c1=Q 5. Qd5+ Kf4 6. Qxf5+ (6. exf5 $2 Qc7+ 7. Kf8 b4 8.
+f6 b3) 6... Ke3 7. Qg5+ Kxe4 8. Qxc1)  (1... fxe4 {<main>} 2. d6 e3 3. d7 e2 4.
+d8=Q e1=Q 5. Qd6+ Ke4 6. Qe6+ Kf3 7. Qxe1)  (1... f4 {<main>} 2. d6 f3 3. d7 f2
+4. d8=Q f1=Q 5. Qd5+ Kf4 6. Qf5+ (6. Qf7+ {<or>} ) 6... Ke3 7. Qxf1)  (1...
+fxg4 {<main>} 2. d6 g3 3. d7 gxh2 (3... g2 {<main>} 4. d8=Q g1=Q 5. Qd5+ Kf4 6.
+Qf5+ Ke3 7. Qxc5+) 4. d8=Q h1=Q 5. Qd6+ Kxe4 6. Qc6+ Kd4 7. Qxh1) 2. d6 b3 3.
+d7 bxa2 (3... b2 4. d8=Q b1=Q 5. Qd5+ Kf4 6. gxf5) 4. d8=Q a1=Q 5. Qh8+ Kxe4 6.
+Qxa1 1-0
 
