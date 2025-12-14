@@ -1,0 +1,32 @@
+[Event "1.p Canterbury Blitz ty"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Afek=Y"]
+[Black "(=0340.53a7c8) U3"]
+[Result "1/2-1/2"]
+[FEN "2kr4/Kp2p1p1/3P2P1/1P6/1P1P4/8/8/5B1b w - - 0 1"]
+
+{(EG#03596). U3: ARVES website#022 6-5-2005.} 1. Bh3+ e6 (1... Rd7 2. dxe7) 2.
+Bxe6+ Rd7 3. d5 Bxd5 (3... Be4 4. Bxd7+ Kxd7 5. Kxb7 Bxg6 6. Ka7 Be4 7. b6 g5
+8. b7) 4. Bxd5 b6+ (4... Rxd6 5. Bxb7+ Kc7 6. Be4 Rf6 $1 {<cook>} 7. Bb1 (7.
+Bc6 Rf4) 7... Rb6 8. Bd3 Rb8 9. Be2 Rb7+ 10. Ka6 Rb6+ 11. Ka5 Rxg6) 5. Bb7+ (5.
+Kxb6 $2 Rxd6+ 6. Ka7 Rxg6) 5... Rxb7+ (5... Kd8 6. Kxb6 Rxd6+ 7. Ka7 Kc7 (7...
+Rxg6 8. b6) 8. Be4) 6. Ka8 Rb8+ 7. Ka7 Rb7+ 8. Ka8 1/2-1/2
+
+[Event "1.p Canterbury Blitz ty"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Afek=Y BN=(c)"]
+[Black "(=0340.63a7c8) (c)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "2kr4/Kp2p1p1/3P2P1/1P6/1P1P4/1P6/8/5B1b w - - 0 1"]
+
+{correction: Neuenschwander=B beatochess 14/12/2025.} 1. Bh3+ e6 (1... Rd7 2.
+dxe7) 2. Bxe6+ Rd7 3. d5 Bxd5 (3... Be4 4. Bxd7+ Kxd7 5. Kxb7 Bxg6 6. Ka7 Be4
+7. b6 g5 8. b7) 4. Bxd5 b6+ (4... Rxd6 5. Bxb7+ Kc7 6. Be4 Rf6 7. Bc6) 5. Bb7+
+(5. Kxb6 $2 Rxd6+ 6. Ka7 Rxg6) 5... Rxb7+ (5... Kd8 6. Kxb6 Rxd6+ 7. Ka7 Kc7 (
+7... Rxg6 8. b6) 8. Be4) 6. Ka8 Rb8+ 7. Ka7 Rb7+ 8. Ka8 1/2-1/2
+
