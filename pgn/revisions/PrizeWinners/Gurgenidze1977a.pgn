@@ -1,0 +1,49 @@
+[Event "Shakhmaty v SSSR#22"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Gurgenidze=D"]
+[Black "(+3805.31a8b1) U2"]
+[Result "1-0"]
+[FEN "K2n1r1R/P2q3P/1r3P2/4p3/1N6/8/2N4R/1k6 w - - 0 1"]
+
+{Shakhmaty v SSSR/6. U2: Shakhmaty v SSSR/12 1977.} 1. Na3+ Kc1 (1... Ka1 2.
+Ra2#) 2. Na2+ Kd1 3. Nc3+ Ke1 (3... Kc1 4. Rc2#) 4. Nc2+ Kf1 5. Ne3+ Kg1 (5...
+Ke1 6. Re2#) 6. Rg8+ $1 Qg7 $1 7. Ne2+ (7. Rxg7+ $2 Kxh2 8. Rg8 Ne6+ 9. Rxf8
+Nc7#)  (7. fxg7 $1 {<cook>} 7... Ne6+ 8. gxf8=Q+) 7... Kxh2 8. h8=Q+ Qxh8 9.
+Nf1+ $1 (9. Rg2+ $2 Kh3 10. Rg3+ Kh4 11. Rg4+ Kh5 12. Ng3+ Kh6 13. Ngf5+ Kh7) 
+9... Kh3 (9... Kh1 10. Rg1#) 10. Ng1+ Kh4 11. Nf3+ Kh5 (11... Kh3 12. Rg3#) 12.
+Ng3+ Kh6 13. Nf5+ Kh7 (13... Kh5 14. Rg5#) 14. Ng5+ $1 Kxg8 15. Ne7# 1-0
+
+[Event "4.p Shakhmaty v SSSR#22"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Gurgenidze=D"]
+[Black "(+3805.31a8b1) C U2"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "Kn3r1R/1P1q3P/1r3P2/4p3/1N6/8/2N4R/1k6 w - - 0 1"]
+
+{Shakhmaty v SSSR/6 (EG#03723). correction: Shakhmaty v SSSR/11 1978. U2:
+Hornecker=S HHdbIV#44763 30-6-2005.} 1. Na3+ $1 Kc1 2. Na2+ (2. Rh1+ $1 {<cook
+NH>} 2... Kb2 3. Nc4+ Kb3 4. Nxb6) 2... Kd1 3. Nc3+ Ke1 4. Nc2+ Kf1 5. Ne3+ Kg1
+6. Rg8+ Qg7 $1 7. Ne2+ $1 (7. Rxg7+ $2 Kxh2)  (7. fxg7 $2 Ra6#) 7... Kxh2 8.
+h8=Q+ $1 Qxh8 9. Nf1+ Kh3 10. Ng1+ Kh4 11. Nf3+ Kh5 12. Ng3+ Kh6 13. Nf5+ Kh7
+14. Ng5+ $1 Kxg8 15. Ne7# 1-0
+
+[Event "Shakhmaty v SSSR#22"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Gurgenidze=D BN=(c)"]
+[Black "(+3805.32a8b1) C"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "Kn3r1R/1P1q3P/1r3P2/1p2p3/1N6/8/2N4R/1k6 w - - 0 1"]
+
+{correction: Neuen6schwander=B beatochess (web) no.15 02/2026.} 1. Na3+ $1 Kc1
+2. Na2+ Kd1 3. Nc3+ Ke1 4. Nc2+ Kf1 5. Ne3+ Kg1 6. Rg8+ Qg7 $1 7. Ne2+ $1 (7.
+Rxg7+ $2 Kxh2)  (7. fxg7 $2 Ra6#) 7... Kxh2 8. h8=Q+ $1 Qxh8 9. Nf1+ Kh3 10.
+Ng1+ Kh4 11. Nf3+ Kh5 12. Ng3+ Kh6 13. Nf5+ Kh7 14. Ng5+ $1 Kxg8 15. Ne7# 1-0
+

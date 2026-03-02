@@ -1,0 +1,46 @@
+[Event "3.p Selman MT 1978-1979"]
+[Site "; Schakend Nederland#1681 no."]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Marwitz=J"]
+[Black "(+0471.23f1h1) U2"]
+[Result "1-0"]
+[FEN "4r3/2p4P/3p4/2p3B1/6P1/6b1/2b3N1/R4K1k w - - 0 1"]
+
+{(EG#04021); source: Schakend Nederland#1681 no.3 3/1979; (ty also known as:
+KNSB ty 1978); U2: Van_der_Heijden=H HHdbVII 10-2-2024} 1. Ra3 Rf8+ (1... Kh2
+2. Bf4 $1 Rf8 (2... Bxf4 3. Nxf4) 3. h8=Q+ Rxh8 4. Rxg3) 2. Nf4 $1 (2. Bf4 $2
+Bxf4 3. h8=Q+ Rxh8 4. Nxf4 Be4) 2... Kh2 $1 (2... Bxf4 3. h8=Q+ Rxh8 4. Bxf4) 
+3. Ra2 Bxf4 4. Rxc2+ (4. Bxf4+ $2 Rxf4+ 5. Ke1 $1 (5. Ke2 Rf8 6. Rxc2 Rh8) 5...
+Re4+ (5... Rf8 $2 6. Rxc2+ Kg3 7. g5) 6. Kf2 Re8 7. Rxc2 Rh8 $1 8. Rd2 $1 (8.
+Kf3+ Kh3 9. Rc1 Kh4 10. Kf4 Rf8+ 11. Ke4 Kg5 $1 12. Rh1 Rh8) 8... Kh3 $1 (8...
+Rxh7 9. Rd5 $1 Rf7+ 10. Rf5 $1) 9. Kf3 Rxh7 10. Rd5 Kh4 11. Kf4 Rf7+ 12. Rf5
+Rxf5+ $1 13. gxf5 (13. Kxf5 c4) 13... Kh5)  (4. h8=Q+ $2 Rxh8 5. Bxf4+ Kh3 6.
+Rxc2 Kxg4)  (4. Bf6 $1 {<cook HH>} 4... Bd2 5. h8=Q+ Rxh8 6. Rxc2 Rb8 7. Rxd2+
+Kg3 8. g5) 4... Bd2+ $1 (4... Kh3 5. Bxf4 Rxf4+ (5... Kxg4 6. Rg2+ Kf5 (6...
+Kxf4 7. Rf2+) 7. Rg8) 6. Kg1 $1) 5. Bf4+ $1 (5. Ke2 $2 Bxg5) 5... Rxf4+ 6. Ke2
+Rf8 7. Rxd2 Rh8 8. Kf3+ (8. Rd5 $2 Kg3) 8... Kh3 (8... Kg1 9. Rd1+ Kh2 10. Rd5
+Rxh7 11. Rh5+) 9. Rd5 Rxh7 10. Rh5+ Rxh5 11. gxh5 1-0
+
+[Event "3.p Selman MT 1978-1979"]
+[Site "; Schakend Nederland#1681 no."]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Marwitz=J BN=(c)"]
+[Black "(+0471.33f1h1) C"]
+[Result "1-0"]
+[FEN "4r3/2p4P/3p4/p1p3B1/6P1/6b1/2b3N1/R4K1k w - - 0 1"]
+
+{(EG#04021); source: Schakend Nederland#1681 no.3 3/1979; (ty also known as:
+KNSB ty 1978); correcction: Neuenschwander=B beatochess (web) no.15 02/2026.} 
+1. Ra3 Rf8+ (1... Kh2 2. Bf4 $1 Rf8 (2... Bxf4 3. Nxf4) 3. h8=Q+ Rxh8 4. Rxg3) 
+2. Nf4 $1 (2. Bf4 $2 Bxf4 3. h8=Q+ Rxh8 4. Nxf4 Be4) 2... Kh2 $1 (2... Bxf4 3.
+h8=Q+ Rxh8 4. Bxf4) 3. Ra2 Bxf4 4. Rxc2+ (4. Bxf4+ $2 Rxf4+ 5. Ke1 $1 (5. Ke2
+Rf8 6. Rxc2 Rh8) 5... Re4+ (5... Rf8 $2 6. Rxc2+ Kg3 7. g5) 6. Kf2 Re8 7. Rxc2
+Rh8 $1)  (4. h8=Q+ $2 Rxh8 5. Bxf4+ Kh3 6. Rxc2 Kxg4)  (4. Bf6 $2 Bd2 5. h8=Q+
+Rxh8 6. Rxc2 Ra8 7. Rxd2+ Kg3 8. g5 Kg4) 4... Bd2+ $1 (4... Kh3 5. Bxf4 Rxf4+ (
+5... Kxg4 6. Rg2+ Kf5 (6... Kxf4 7. Rf2+) 7. Rg8) 6. Kg1 $1) 5. Bf4+ $1 (5. Ke2
+$2 Bxg5) 5... Rxf4+ 6. Ke2 Rf8 7. Rxd2 Rh8 8. Kf3+ (8. Rd5 $2 Kg3) 8... Kh3 (
+8... Kg1 9. Rd1+ Kh2 10. Rd5 Rxh7 11. Rh5+) 9. Rd5 Rxh7 10. Rh5+ Rxh5 11. gxh5
+1-0
+

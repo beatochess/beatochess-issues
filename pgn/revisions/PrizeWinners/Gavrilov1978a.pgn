@@ -1,0 +1,28 @@
+[Event "14.pl 5th Ukraine Team Ch 1978"]
+[Site "; Ukraine Team Ch 1978"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gavrilov=E"]
+[Black "(=0033.10e3b5) TT (U2)"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6b1/8/7P/1k6/8/2n1K3/8/8 w - - 0 1"]
+
+{(EG#03782); source: Ukraine Team Ch 1978. (U2): Neuenschwander=B beatochess
+(web) no.15 02/2026.} 1. Kd4 Kb4 2. Ke5 Bh7 3. Kf6 Ne4+ 4. Kg7 Ng5 5. Kf6 Ne4+
+6. Kg7 (6. Kf7 {<minor dual>} ) 6... Ng5 7. Kf6 1/2-1/2
+
+[Event "14.pl 5th Ukraine Team Ch 1978"]
+[Site "; Ukraine Team Ch 1978"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gavrilov=E BN=(c)"]
+[Black "(=0033.10e3b5) TT C"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "6b1/8/7P/8/8/2n1K3/8/4k3 w - - 3 3"]
+
+{(EG#03782); source: Ukraine Team Ch 1978. correction: Neuenschwander=B
+beatochess (web) no.15 02/2026.} 3. Kd4 Kd2 4. Ke5 Bh7 5. Kf6 Ne4+ 6. Kg7 Ng5
+7. Kf6 Ne4+ 8. Kg7 Ng5 9. Kf6 1/2-1/2
+

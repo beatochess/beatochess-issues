@@ -1,0 +1,29 @@
+[Event "5.pl 10th USSR team Ch. 1978-1979"]
+[Site "; Bulletin USSR otb champ no."]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Kalinin=A Gulyaev=A"]
+[Black "(+1007.23d3b3) TT  U1"]
+[Result "1-0"]
+[FEN "8/8/6Q1/p4N2/P1n5/1k1Kp3/p2nP3/8 w - - 0 1"]
+
+{(EG#04145); source: Bulletin USSR otb champ no.7 1979; U1: Garcia=M Estudios
+Artisticos de Ajedrez - V-15 2012 pseudonym: Grin=A} 1. Nd4+ (1. Qg1 $1 { <cook
+MG>} 1... Ne5+ 2. Kxe3 Kb2 3. Kxd2 a1=Q 4. Qxa1+ Kxa1 5. Kc3 Ka2 6. Nd6) 1...
+Kb2 2. Qg7 Kb1 3. Qg1+ (3. Nc2 $2 Nb2+ 4. Kc3 Ne4+ 5. Kb3 Nd2+ 6. Kc3 Ne4+) 
+3... Kb2 4. Qa1+ (4. Nc2 $2 Ne5+ 5. Kxe3 Kxc2 6. Qa1 Nec4+ 7. Kf2 Kb3) 4...
+Kxa1 5. Kc2 Na3+ 6. Kc1 Nf1 (6... Nab1 {<main>} 7. Nc2#) 7. Nb3# 1-0
+
+[Event "5.pl 10th USSR team Ch. 1978-1979"]
+[Site "; Bulletin USSR otb champ no."]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Kalinin=A Gulyaev=A BN=(c)"]
+[Black "(+1007.23d3b3) TT  C"]
+[Result "1-0"]
+[FEN "3Q4/8/8/pN6/P1n5/1k1Kp3/p2nP3/8 w - - 0 1"]
+
+{(EG#04145); source: Bulletin USSR otb champ no.7 1979; pseudonym: Grin=A;
+correction: Neuenschwander=B beatochess (web) no.15 02/2026.} 1. Nd4+ Kb2 2.
+Qh8 Kb1 3. Qh1+ Kb2 4. Qa1+ Kxa1 5. Kc2 Na3+ 6. Kc1 1-0
+

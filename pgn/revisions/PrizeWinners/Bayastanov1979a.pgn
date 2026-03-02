@@ -1,0 +1,31 @@
+[Event "4.pl 10th USSR team Ch. 1978-1979"]
+[Site "; Bulletin USSR otb champ no."]
+[Date "1979.??.??"]
+[Round "1"]
+[White "Bayastanov=A"]
+[Black "(+0011.03e7d2) TT  U3"]
+[Result "1-0"]
+[FEN "8/4K3/8/1Np1p3/5p1B/8/3k4/8 w - - 0 1"]
+
+{(EG#04137); source: Bulletin USSR otb champ no.7 1979; U3: Pallier=A EG=147 1/
+2007} 1. Kd6 (1. Bg5 $2 Kd3 2. Kd6 f3 3. Bh4 e4) 1... e4 2. Kxc5 (2. Bg5 $2 e3
+3. Bxf4 c4 (3... Kd3 $2 4. Bg3 e2 5. Be1 Kc2 6. Nc3 $1 (6. Ba5 $2 c4 7. Nd4+
+Kd3 8. Nf3 c3) ) ) 2... f3 (2... e3 {<main>} 3. Nd4 e2 4. Nf3+ Ke3 5. Ne1 (5.
+Nh2 $2 Kd2 6. Nf3+ Ke3) 5... f3 6. Kd5 (6. Bg5+ $2 Kf2 7. Bh4+ Ke3) 6... f2 7.
+Bg5#) 3. Nd4 Kd3 4. Kd5 Ke3 5. Kc4 f2 (5... Kd2 $1 {<cook AP>} ) 6. Bg5# 1-0
+
+[Event "4.pl 10th USSR team Ch. 1978-1979"]
+[Site "; Bulletin USSR otb champ no."]
+[Date "1979.??.??"]
+[Round "1"]
+[White "Bayastanov=A BN=(c)"]
+[Black "(+0011.03e7d2) TT  C"]
+[Result "1-0"]
+[ECO "A00"]
+[FEN "8/3K4/8/Np1p4/4p1B1/8/2k5/8 w - - 0 1"]
+
+{(EG#04137); source: Bulletin USSR otb champ no.7 1979; correction:
+Neuenschwander=B beatochess (web) no.15 02/2026.} 1. Kc6 d4 2. Kxb5 e3 (2... d3
+3. Nc4 d2 4. Ne3+ Kd3 5. Nd1 e3 6. Kc5 e2 7. Bf5#) 3. Nc4 Kd3 4. Kb4 e2 (4...
+Kc2 5. Bh5) 5. Bf5# 1-0
+

@@ -24,19 +24,19 @@ Qc5+ Kd3 25. Qxc1) 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qc3# 1-0
 [Date "1976.??.??"]
 [Round "?"]
 [White "Kralin=N Kuznetsov=AG"]
-[Black "(+0400.55g8e8) (c) U2"]
+[Black "(+0400.55g8e8) C U2"]
 [Result "1-0"]
 [ECO "A00"]
 [FEN "r3k1KR/p1p4p/2p5/p1P5/2P3P1/P7/2P5/8 b q - 0 1"]
 
 {Shakhmaty v SSSR/1. correction: Rothwell=S Keym=W Konig & Turm=17 9/2005. U2:
-Neuenschwander=B beatochess 09/12/2025.} 1... O-O-O+ $1 (1... Kd7+ 2. Kxh7
-Rxh8+ 3. Kxh8 a4 4. g5 Kc8 5. g6 Kb7 6. g7 Ka6 7. g8=Q Ka5 8. Qb8) 2. Kg7 $1 (
-2. Kxh7 $2 Rxh8+ 3. Kxh8 a4 $1 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6 8. Qg1
-(8. Qd5 $1 {<cook BN>} 8... cxd5 9. cxd5 Kb5 10. c6 Kc5 11. c4) ) 2... Rxh8 3.
-Kxh8 a4 (3... h6 4. a4 $1) 4. g5 $1 (4. Kxh7 $2 Kb7 $1)  (4. Kg8 $2 h6 $1)  (4.
-Kg7 $2 h6 $1) 4... Kb7 $1 5. Kg8 $1 (5. Kg7 $2 h5 $1 6. gxh6 Ka6 7. h7 Ka5 8.
-h8=Q a6 9. Qh1) 5... h5 (5... Kc8 6. Kg7 $1 Kb7 7. Kf7 Kc8 8. Ke7 Kb8 9. Kd8
+Neuenschwander=B beatochess (web) no.15 02/2026.} 1... O-O-O+ $1 (1... Kd7+ 2.
+Kxh7 Rxh8+ 3. Kxh8 a4 4. g5 Kc8 5. g6 Kb7 6. g7 Ka6 7. g8=Q Ka5 8. Qb8) 2. Kg7
+$1 (2. Kxh7 $2 Rxh8+ 3. Kxh8 a4 $1 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6 8.
+Qg1 (8. Qd5 $1 {<cook BN>} 8... cxd5 9. cxd5 Kb5 10. c6 Kc5 11. c4) ) 2... Rxh8
+3. Kxh8 a4 (3... h6 4. a4 $1) 4. g5 $1 (4. Kxh7 $2 Kb7 $1)  (4. Kg8 $2 h6 $1) 
+(4. Kg7 $2 h6 $1) 4... Kb7 $1 5. Kg8 $1 (5. Kg7 $2 h5 $1 6. gxh6 Ka6 7. h7 Ka5
+8. h8=Q a6 9. Qh1) 5... h5 (5... Kc8 6. Kg7 $1 Kb7 7. Kf7 Kc8 8. Ke7 Kb8 9. Kd8
 Kb7 10. Kd7 Kb8 11. Kxc6 Kc8 12. Kb5 Kd7 13. Kxa4 Kc6 14. Kb4 a5+ 15. Kxa5 Kxc5
 16. a4 Kxc4 17. Ka6 Kb4 18. a5 c5 19. Kb6 c4 20. a6)  (5... Ka8 6. Kf7 Kb7 7.
 Ke7 Kc8 8. Ke8) 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q (8. h8=B { <or>} ) 8... a6 9.
@@ -47,13 +47,13 @@ Qc3# 1-0
 [Date "1976.??.??"]
 [Round "?"]
 [White "Kralin=N Kuznetsov=AG BN=(c)"]
-[Black "(+0400.66g8e8) (c)"]
+[Black "(+0400.56g8e8) C"]
 [Result "1-0"]
 [ECO "A00"]
 [FEN "r3k1KR/p1p4p/2p5/p1P5/2P2pP1/P4P2/8/8 b q - 1 1"]
 
-{correction: Neuenschwander=B beatochess 10/12/2025.} 1... O-O-O+ 2. Kg7 $1 (2.
-Kxh7 $2 Rxh8+ 3. Kxh8 a4 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6) 2... Rxh8 3.
-Kxh8 a4 4. g5 Kb7 5. Kg8 $1 (5. Kg7 $2 h5 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6) 
-5... h5 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qc3# 1-0
+{correction: Neuenschwander=B beatochess (web) no.15 02/2026.} 1... O-O-O+ 2.
+Kg7 $1 (2. Kxh7 $2 Rxh8+ 3. Kxh8 a4 4. g5 Kb7 5. g6 Ka6 6. g7 Ka5 7. g8=Q a6) 
+2... Rxh8 3. Kxh8 a4 4. g5 Kb7 5. Kg8 $1 (5. Kg7 $2 h5 6. gxh6 Ka6 7. h7 Ka5 8.
+h8=Q a6) 5... h5 6. gxh6 Ka6 7. h7 Ka5 8. h8=Q a6 9. Qc3# 1-0
 

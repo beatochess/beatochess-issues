@@ -1,0 +1,29 @@
+[Event "2.p Molodoj Leninets (Kurgan)"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Katsnelson=L Mitrofanov=L"]
+[Black "(=0031.22b8h4)"]
+[Result "1/2-1/2"]
+[FEN "1K6/8/2P5/8/6pk/bp6/7P/3N4 w - - 0 1"]
+
+{(EG#03751).} 1. Kc7 $1 b2 $1 2. Nxb2 Bxb2 3. Kd6 $1 Bc1 4. Ke5 Kg5 5. Ke4 Bf4
+6. h4+ $1 gxh3 7. Kf3 1/2-1/2
+
+[Event "2.p Molodoj Leninets (Kurgan)"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Katsnelson=L Mitrofanov=L"]
+[Black "(=0031.22b8h4) V U1"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[FEN "1K6/8/2P5/8/6pk/bp1N4/7P/8 w - - 0 1"]
+
+{U1: Neuenschwander=B beatochess (web) no.15 02/2026.} 1. Kc7 $1 (1. Kb7 $2 Bd6
+$1)  (1. Kb7 $1 {<cook BN>} 1... Bd6 2. Kb6 Kh3 3. Kb5 Kxh2 4. Kc4 g3 5. Kxb3
+Kg2 6. Kc4 Kf1 7. Kd5 g2 (7... Bb8 8. Ne5 g2 9. Nf3 Kf2 10. Ke4) 8. Kxd6 g1=Q
+9. c7 Qg4 10. Kc6) 1... b2 (1... Bb4 2. Kb6 Bd6 3. Kb5 Bxh2 4. Kc4 Bc7 5. Kxb3
+Kg3 6. Kc2 Kf3 7. Kd1 g3 8. Ne1+) 2. Nxb2 Bxb2 3. Kd6 Bc1 4. Ke5 Kg5 5. Ke4 (5.
+h4+ $2 gxh3 6. Ke4 h2) 5... Bf4 6. h4+ $1 gxh3 7. Kf3 h2 8. Kg2 1/2-1/2
+
