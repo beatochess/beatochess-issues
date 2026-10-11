@@ -1,0 +1,444 @@
+[Event "Wiener Neueste Nachrichten"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(=0002.01f8a8) U1"]
+[Result "1/2-1/2"]
+[FEN "kN3K2/N7/8/8/8/p7/8/8 w - - 0 1"]
+{U1: Conrady=H Internet 15-6-2003.} 1. Nac6 $1 (1. Nbc6 $2 a2 2. Na5 Kxa7 3.
+Nb3 Kb6)  (1. Ke7 $1 {<cook HC>} 1... a2 (1... Kxb8 2. Nc6+)  (1... Kxa7 2.
+Nc6+ Kb6 3. Nb4) 2. Nac6 a1=Q 3. Nd7) 1... a2 (1... Kb7 2. Nb4) 2. Na5 a1=Q (
+2... Kxb8 3. Nb3 Kc7 4. Ke7 Kc6 5. Ke6 Kb5 6. Kd5 Kb4 7. Na1 Kc3 8. Ke4 Kb2 9.
+Kd3 Kxa1 10. Kc2) 3. Nbc6 $1 Qf6+ (3... Qe1 4. Kf7 $1) 4. Ke8 $1 (4. Kg8 $2 Qf4
+5. Kg7 Qf5 6. Kg8 Qf6 7. Kh7 Qg5 8. Kh8 Qg6) 4... Qd6 5. Kf7 Qh6 1/2-1/2
+
+[Event "Wiener Neueste Nachrichten"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(=0002.02f8a8) (c)"]
+[Result "1/2-1/2"]
+[FEN "kN3K2/N7/p7/8/8/p7/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 19/08/2024.} 1. Nac6 $1 (1. Nbc6 $2 a2
+2. Na5 Kxa7 3. Nb3 Kb6) 1... a2 (1... Kb7 2. Nb4) 2. Na5 a1=Q (2... Kxb8 3. Nb3
+Kc7 4. Ke7 Kc6 5. Ke6 Kb5 6. Kd5 Kb4 7. Na1 Kc3 8. Ke4 Kb2 9. Kd3 Kxa1 10. Kc2)
+3. Nbc6 $1 Qf6+ (3... Qe1 4. Kf7 $1) 4. Ke8 $1 (4. Kg8 $2 Qf4 5. Kg7 Qf5 6. Kg8
+Qf6 7. Kh7 Qg5 8. Kh8 Qg6) 4... Qd6 5. Kf7 Qh6 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0311.23h3c5) U1"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/P7/2p5/2k5/8/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+{Deutsche Schachzeitung/10. U1: Garcia=M HHdbV#68133 24-9-2011.} 1. a8=R $1 (1. a8=Q $2 Ra1 2.
+Qxa1 h1=Q+ 3. Qxh1) (1. Kg3 $1 {<cook MG>} Ra1 2. Kxh2 Ra2 3. Kg3 Ra4 4. Kf3
+Ra3 5. Kf4) (1. Bd3 $1 {<cook MG>} Ra1 2. Kxh2) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1
+1-0
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0350.45h3c5) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b5/PpBp4/1P1P4/2k5/7p/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+{Deutsche Schachzeitung/10. correction: Hornecker=S Die Schwalbe=298-1 8/2019.} 1. a8=R $1 (1. a8=Q $2
+Ra1 2. Qxa1 h1=Q+ 3. Qxh1) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1 1-0
+
+[Event "Deutsche Schachzeitung#1920"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+0311.25h3c5) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2N5/P1p5/2p5/2k5/7p/2P1p2K/4B2p/7r w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1935.??.??"]
+{correction: Neuenschwander=B beatochess 21/08/2024.} 1. a8=R $1 (1. a8=Q $2 Ra1 2.
+Qxa1 h1=Q+ 3. Qxh1) 1... Ra1 2. Rxa1 h1=Q+ 3. Rxh1 1-0
+
+[Event "Deutsche Schachblatter#08"]
+[Site "?"]
+[Date "1938.06.15"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+1400.01c8a1) U1"]
+[Result "1-0"]
+[FEN "1RK5/8/Q7/8/5r2/8/p7/k7 w - - 0 1"]
+{Deutsche Schachblatter=12 . U1: Garcia=M EG=174 10/2008.} 1. Qh6 $1 (1. Qe2 $2
+Rf8+ 2. Kc7 Rxb8 3. Qe5+ Kb1)  (1. Ra8 $2 Rf8+ 2. Kb7 Rxa8)  (1. Rb6 $1 {<cook
+MG>} 1... Rf8+ 2. Kd7 Rf7+ 3. Kc6 Rf6+ 4. Kb5 Rf5+ 5. Ka4 Ra5+ 6. Kb3 Rxa6 7.
+Rxa6)  (1. Qc6 $2 Rc4 $1 2. Qxc4) 1... Rf8+ (1... Rc4+ {<main>} 2. Kb7 Rb4+ 3.
+Kc6 Rc4+ 4. Kb5 Rc5+ 5. Kb6) 2. Kc7 (2. Kb7 $2 Rxb8+)  (2. Kd7 {<or>} ) 2...
+Rxb8 (2... Rf7+ 3. Kb6) 3. Qc1+ Rb1 4. Qc3+ Rb2 5. Qd4 Kb1 6. Qd1# 1-0
+
+[Event "Deutsche Schachblatter#08"]
+[Site "?"]
+[Date "1938.06.15"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+1400.01c8a1) (c)"]
+[Result "1-0"]
+[FEN "1RK5/8/Q7/5r2/8/8/p7/k7 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 17/08/2024.} 1. Qh6 $1 (1. Qe2 $2 Rf8+
+2. Kc7 Rxb8 3. Qe5+ Kb1)  (1. Ra8 $2 Rf8+ 2. Kb7 Rxa8)  (1. Rb6 $2 Rc5+ 2. Kd7
+Rd5+ 3. Ke6 Re5+ 4. Kd6 Rd5+ 5. Kc6 Rc5+ 6. Kb7 Rc7+ 7. Ka8 Rc8+)  (1. Qc6 $2
+Rc5) 1... Rf8+ (1... Rc5+ 2. Kb7 Rb5+ 3. Kc6 Rc5+ 4. Kb6) 2. Kc7 (2. Kb7 $2
+Rxb8+)  (2. Kd7 {<or>} ) 2... Rxb8 (2... Rf7+ 3. Kb6) 3. Qc1+ Rb1 4. Qc3+ Rb2
+5. Qd4 Kb1 6. Qd1# 1-0
+
+[Event "Deutsche Schachblatter#14"]
+[Site "?"]
+[Date "1939.03.15"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0311.12g2b1) U2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P7/8/Nrp5/8/6Kp/1kB5 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1939.03.15"]
+{Deutsche Schachblatter=6 . U2: Garcia=M Estudios Artisticos  de Ajedrez - IV-41 2012.} 1. Nc3+ Ka1 $1 (1... Kxc1 2. Na2+ Kd2 3.
+Nxb4) 2. a7 Rb8 $1 3. Bb2+ (3. axb8=Q $2 h1=Q+ 4. Kxh1) (3. Bf4 $1 {<cook MG>}
+Ra8 4. Bb8 Kb2 5. Na4+ Kc2 6. Nb6 Rxa7 7. Bxa7 c3 8. Nd5) 3... Rxb2+ 4. Kh1 Rb8
+$1 5. axb8=B $1 (5. axb8=Q $2) 1-0
+
+[Event "Deutsche Schachblatter#14"]
+[Site "?"]
+[Date "1939.03.15"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0312.13g2b1) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P7/2p5/Nrp5/8/6Kp/NkB5 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1939.03.15"]
+{Deutsche Schachblatter=6 . correction: Garcia=M Estudios Artisticos  de Ajedrez - IV-41 2012.} 1. Nc3+ $1 Kxa1 $1 (1... Kxc1 2.
+Na2+ Kd2 3. Nxb4) 2. a7 Rb8 $1 3. Bb2+ (3. Bf4 $2 Ra8 4. Bb8 Kb2 5. Na4+ Kc1) (
+3. axb8=Q $2 h1=Q+ 4. Kxh1) 3... Rxb2+ 4. Kh1 Rb8 $1 5. axb8=B $1 (5. axb8=Q $2
+) 1-0
+
+[Event "Deutsche Schachblatter#14"]
+[Site "?"]
+[Date "1939.03.15"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(+0311.12g2b1) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P7/8/Nrp5/8/k3Kp2/2B5 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1939.03.15"]
+{correction: Neuenschwander=B beatochess 22/08/2024.} 1. Nc3+ Ka1 2. a7 Rb8 3.
+Bb2+ $1 (3. Bf4 $2 Ra8 4. Bb8 Kb2 5. Na4+ Kb3 6. Nb6 Rxa7 7. Bxa7 c3) 3...
+Rxb2+ 4. Kf1 Rb8 5. axb8=B $1 1-0
+
+[Event "3.p ADS ty Deutsche Schachblatter"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(=3500.11f1f3) U3"]
+[Result "1/2-1/2"]
+[FEN "5q2/5r2/1p6/8/8/5k2/1P2R1R1/5K2 w - - 0 1"]
+{U3: Nunn=J HHdbIII#44698 31-8-2002.} 1. b3 $1 (1. b4 $2 b5)  (1. Kg1 $2 Rf4 $1
+2. Rgf2+ Kg3 3. Re3+ (3. Rxf4 Qxf4 4. Rg2+ Kh3 $1) 3... Kh4 4. Re4 Qg7+) 1...
+b5 (1... Rf6 2. Rgf2+ Kg3 3. Re3+ Kg4 4. Re4+ Kg5 5. Re5+ Kg6 6. Re6)  (1...
+Kf4 2. Kg1 Kf5 (2... Qc5+ 3. Ref2+ Ke4 4. Rg4+ Kd3 5. Rg3+ Kd4 6. Rxf7) 3.
+Rgf2+ Kg6 4. Rg2+ Kh7 5. Rh2+ Kg8 6. Rhg2+ Rg7 7. Rxg7+ Kxg7 8. Rg2+)  (1...
+Qa8 $1 { <cook JN>} 2. Ref2+ (2. Rgf2+ Kg3 3. Re3+ Rf3 $1 (3... Qf3 $2 4.
+Rfxf3+ Rxf3+ 5. Ke2 $1) )  (2. Ra2 Qe4 3. Rgf2+ Kg3 4. Rxf7 Qb1+) 2... Ke3 3.
+Rg3+ Qf3 (3... Rf3 {<or>} ) ) 2. b4 Kf4 3. Kg1 $1 Qxb4 (3... Rf6 4. Rgf2+ Kg3
+5. Re3+ Rf3 6. Rg2+ Kh3 7. Rh2+) 4. Rgf2+ Kg3 5. Re3+ Kg4 6. Rxf7 Qd4 7. Rf3 b4
+8. Kg2 1/2-1/2
+
+[Event "3.p ADS ty Deutsche Schachblatter"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(=3500.22f1f3) (c)"]
+[Result "1/2-1/2"]
+[FEN "5q2/p4r2/p7/8/8/5k2/PP2R1R1/5K2 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 23/08/2024.} 1. a3 $3 (1. a4 $2 a5 $1
+2. b3 a6 $1 3. Kg1 {Zugzwang} 3... Rf4 $1 4. Ref2+ Ke4 5. Rg4 Rxg4+)  (1. b3 $2
+a5 $1 2. a3 Kf4 3. Kg1 a4 $1 4. b4 a5 $1 5. bxa5 Qc5+ 6. Ref2+ Ke4 7. Rg4+ Kd3
+8. Rg3+ Kc4 9. Rg4+ Kb5)  (1. b4 $2 a5 $1 2. bxa5 Kf4 3. Kg1 (3. a6 Kf5) 3...
+Qc5+) 1... a5 (1... Kf4 2. Kg1 Qc5+ 3. Ref2+ Ke4 4. Rg4+ Kd3 5. Rg3+ Kc4 (5...
+Kd4 6. Rxf7) 6. Rc3+)  (1... Rf4 2. Ref2+ Ke3 3. Rg3+ Ke4 4. Rg4)  (1... Qd6 2.
+Rgf2+ (2. Ref2+ $2 Ke3 3. Rxf7 Qd1#) 2... Kg3 3. Rxf7)  (1... Qc5 2. Ref2+ $1 (
+2. Rgf2+ $2 Kg3 3. Rxf7 Qc1+ 4. Re1 Qc4+) 2... Ke3 3. Rg3+ Kd4 4. Rg4+) 2. a4
+$1 (2. b3 $2 Kf4 3. Kg1 a4 $1) 2... a6 3. b3 $1 {Mutual Zugzwang} 3... Kf4 4.
+Kg1 Qc5+ 5. Ref2+ Ke4 6. Rg4+ Kd3 7. Rg3+ Ke4 8. Rg4+ 1/2-1/2
+
+[Event "Deutsche Schachblatter"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+0134.01f1h8) U2"]
+[Result "1-0"]
+[FEN "4N1nk/1b6/4p3/8/8/8/8/R4K2 w - - 0 1"]
+{U2: Neuenschwander=B beatochess 29/08/2024.} 1. Ra3 $1 Nh6 (1... Kh7 2. Ra7)
+2. Rh3 Kh7 3. Nd6 Ba6+ 4. Ke1 $1 (4. Kg1 $2 Kg6 5. Ra3 Be2)  (4. Kf2 $1 {<cook
+BN>} 4... Kg6 5. Ra3 Ng4+ 6. Kg3 Be2 7. Ra2 Bd1 8. Rd2) 4... Kg6 5. Ra3 1-0
+
+[Event "Deutsche Schachblatter"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(v)"]
+[Black "(+0134.01f1h8) (v)"]
+[Result "1-0"]
+[FEN "4N1nk/1b6/8/8/3p4/8/8/R4K2 w - - 0 1"]
+{version: Neuenschwander=B 30/08/2024.} 1. Ra2 $1 (1. Ra5 $2 Nh6 2. Rh5 Kh7 3.
+Nd6 Ba6+ 4. Ke1 Kg6) 1... Nh6 (1... Ne7 2. Ra7) 2. Rh2 Ba6+ (2... Kh7 3. Nd6
+Ba6+ {leads to the main line} ) 3. Ke1 $1 (3. Kf2 $2 Kh7 4. Nd6 Kg6 5. Rg2+ Kf6
+) 3... Kh7 4. Nd6 Kg6 5. Rg2+ $1 Kf6 (5... Kh5 {<main line>} 6. Rg3 $1 (6. Kd2
+$2 Ng4 $1) 6... Ng4 (6... d3 7. Kd2 {and the black bishop will be captured
+eventually} )  (6... Ng4 7. Ra3) 7. Ra3) 6. Kd2 $1 (6. Rg3 $2 Nf5 $1 7. Rf3 Bd3
+$1) 6... Bf1 (6... Nf5 7. Rf2) 7. Rf2+ Ke6 8. Rxf1 Kxd6 9. Rf6+ 1-0
+
+[Event "Der Tagesspiegel"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(+3141.01d1c4) U3 U1"]
+[Result "1-0"]
+[FEN "2B5/8/8/1q6/2k2N1R/2p4b/8/3K4 w - - 0 1"]
+{U3: Afek=Y HHdbVI 6-8-2020 U2: Neuenschwander=B  beatochess 01/09/2024.} 1.
+Ba6 $1 (1. Ne6+ $2 Kb3 $1 2. Nd4+ Kb2 3. Nxb5 c2+ 4. Ke2 c1=Q 5. Rb4+ (5. Bxh3
+Qc2+) 5... Ka1 6. Bxh3 Qc2+ 7. Ke3 Qc3+ 8. Nxc3) 1... Qxa6 (1... c2+ $1 {<cook
+YA>} 2. Kd2 (2. Kxc2 Qxa6 3. Ne6+ Kb5 4. Nc7+ Kb6 5. Nxa6 Bf5+) 2... c1=Q+ 3.
+Kxc1 Qxa6 4. Ne6+ Kc3 5. Rxh3+ Qd3) 2. Ne6+ Kb3 3. Nc5+ Kb2 4. Rb4+ Ka3 5. Nxa6
+Bf1 (5... Bc8 6. Rb6 $1) 6. Rb6 $1 (6. Kc2 $1 {<cook BN>} 6... Bxa6 7. Kxc3)
+1-0
+
+[Event "Der Tagesspiegel"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(v)"]
+[Black "(+3141.01d1c4) (v)"]
+[Result "1-0"]
+[FEN "2B3b1/8/8/1q6/7R/2pkp1PN/8/3K4 w - - 0 1"]
+{version: Neuenschwander=B beatochess 01/09/2024.} 1. Nf4+ Kc4 (1... Ke4 2.
+Ne2+ (2. Ne6+ {<or>} ) 2... Kf3 3. Nd4+ Kf2 4. Rf4+ Kxg3 5. Rg4+) 2. Ba6 $1 (2.
+Ne6+ $2 Kb3 3. Nd4+ Kb2 4. Rh2+ e2+ $1 5. Rxe2+ Qxe2+ 6. Nxe2 Bb3+ 7. Ke1 Bc4
+8. Bf5 c2) 2... Qxa6 (2... c2+ 3. Kxc2 Qxa6 4. Ne6+) 3. Ne6+ Kb3 4. Nc5+ Kb2 5.
+Rb4+ Bb3+ 6. Rxb3+ Ka2 7. Nxa6 Kxb3 8. Nc5+ (8. Ke2 $2 Kc4) 8... Kc4 9. Ne6 (9.
+Ne4 $2 Kd4 $1) 9... Kd3 10. Nf4+ Kd4 (10... Ke4 11. Ke2 c2 12. Nd3 Kd4 13. Nc1)
+1-0
+
+[Event "Berliner Morgenpost"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Heuacker=P"]
+[Black "(=3141.00d1f8) U3"]
+[Result "1/2-1/2"]
+[FEN "5k2/3b4/4qB2/5N2/8/1R6/8/3K4 w - - 0 1"]
+{U3: Konoval=Y Bourzutschky=M HHdbV#47003 28-7-2011.} 1. Be7+ (1. Nd4 $2 Qxf6
+2. Rf3 Bg4) 1... Kf7 (1... Kg8 2. Rg3+ Kh7 (2... Kf7 3. Rg7+ Ke8 4. Nd6+) 3.
+Rh3+ Kg6 4. Rh6+) 2. Nd6+ Kxe7 (2... Kg6 3. Rg3+ Kh5 (3... Kh6 $1 {<cook
+YK/MB>} )  (3... Kh7 $1 {<cook YK/MB>} ) 4. Rg5+ (4. Rg7 $2 Ba4+ 5. Kd2 Qd5+ 6.
+Kc1 Qd1+) 4... Kh6 (4... Kh4 5. Re5+) 5. Nf5+ Kh7 6. Rh5+ Kg8 7. Rg5+) 3. Re3
+Qxe3 4. Nf5+ Bxf5 1/2-1/2
+
+[Event "Berliner Morgenpost"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Heuacker=P BN=(c)"]
+[Black "(=3141.00d1f8) (c)"]
+[Result "1/2-1/2"]
+[FEN "2bB1k2/8/4q3/5N2/8/7R/8/3K4 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 09/09/2024.} 1. Be7+ (1. Rh8+ $2 Kf7
+2. Rh7+ Kg8 3. Rg7+ Kh8) 1... Kf7 2. Nd6+ Kxe7 (2... Kg8 3. Rg3+ Kh7 4. Nxc8)
+3. Re3 Qxe3 4. Nf5+ Bxf5 1/2-1/2
+
+[Event "EG 1st prize"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+4000.45f8h8)"]
+[Result "1-0"]
+[FEN "5K1k/5pp1/4p3/5p2/3p3P/3P3Q/P3P3/6q1 w - - 0 1"]
+1. Qf3 (1. Kxf7 $2 Kh7 2. Kxe6 Qg6+ 3. Kd5 Qf7+ 4. Kxd4 Qa7+ 5. Kc3 Qa3+ 6. Kd2
+Qxa2+ 7. Ke3 Qe6+ 8. Kf2 Qe5 9. Qg3 Qd4+ 10. Kg2 g6 { with only a minimal
+advantage for White} )  (1. h5 $2 Qg5 {=} ) 1... Qg6 (1... Qg4 2. a4 $16) 2.
+Qf4 (2. a4 $2 e5 3. Qd5 Qf6) 2... Qf6 (2... f6 3. Qxd4 Qg4 4. Qd7 Qb4+ 5. Kf7
+Qb8 (5... Kh7 6. Qc8) 6. a4 { and White wins easily} ) 3. Qg5 (3. Qd6 $2 f4 4.
+a4 Qf5 5. Qxd4 e5 { gives White only a minimal edge, for example,} 6. Qc4 f3 7.
+exf3 Qxf3 8. Qe4 (8. a5 Qb7 9. Qa4 Qa6 10. Kxf7 Qf6+ 11. Ke8 Qe6+ 12. Kd8 Qd6+
+13. Qd7 (13. Kc8 Qxd3 14. a6 Qd5 15. a7 Qc5+ 16. Kb7 Qe7+ 17. Kb6 Qd8+ 18. Kc5
+Qf8+ 19. Kc4 Qf7+ {= perpetual check} ) 13... Qc5 14. Qa4 Qd6+ 15. Qd7 Qc5 16.
+Qc7 Qf8+ 17. Kd7 Qf5+ 18. Kc6 Qxd3 19. Qxe5) ) 3... Qxg5 (3... e5 4. Qxf6 gxf6
+5. a4) 4. hxg5 e5 5. a3 $3 ( {After } 5. a4 $2 e4 6. a5 exd3 7. exd3 f4 8. a6
+f3 9. a7 f2 10. a8=Q f1=Q {, a position of mutual zugzwang arises, which Black
+holds with accurate play } 11. Qb8 Qf2 $1 12. Qb7 Qh2 $1 13. Qc8 Kh7 $1 14.
+Qf5+ Kh8 15. Kxf7 Qc7+ {=} ) 5... e4 6. a4 exd3 (6... f4 7. a5 f3 8. exf3 e3 (
+8... exf3 { leads to the main line} ) 9. a6 e2 10. a7 e1=Q 11. a8=Q Qe6 (11...
+Kh7 12. Kxf7) 12. Qe4 Qd6+ 13. Kxf7 Qd7+ 14. Kf8 Qd6+ 15. Ke8 Qb8+ 16. Kf7 $16)
+7. exd3 f4 8. a5 f3 9. a6 f2 10. a7 f1=Q 11. a8=Q { Now Black is in Zugzwang }
+11... Qf5 (11... Kh7 12. Qe4+ f5 13. gxf6+ Kh6 14. f7 $1 $16) 12. Qh1+ Qh7 13.
+Qxh7+ Kxh7 14. Kxf7 Kh8 15. Ke6 Kh7 16. Kf5 $1 { (final Zugzwang)}  (16. Ke5 $2
+Kg6 17. Kxd4 Kxg5 18. Ke5 Kg6 19. Ke6 (19. d4 Kf7) 19... Kh7 $1 20. d4 g5 {=} )
+1-0
+
+[Event "Hornecker MT 2nd honorable mention"]
+[Site "?"]
+[Date "2024.06.24"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0440.45e7a6)"]
+[Result "1-0"]
+[FEN "7r/P1p1K2p/k2p4/5p2/B5p1/4P3/5PPb/6R1 w - - 0 1"]
+1. Ra1 $1 {(theme)}  (1. Be8 $2 Kxa7 2. Ra1+ Kb6 3. g3 h5 4. Rh1 h4 5. Rxh2
+hxg3 6. Rg2 (6. Rxh8 $2 g2) 6... Rh2 7. Rxg3 Rxf2 $10) 1... Kxa7 (1... Be5 2.
+Be8+ $1) 2. g3 (2. Bd7+ $2 Kb7 3. g3 h5 4. Rh1 h4 5. Rxh2 hxg3) 2... h5 3. Rh1
+h4 4. Rxh2 hxg3 5. Rxh8 g2 6. Ra8+ Kb7 (6... Kb6 7. Rb8+) 7. Bc6+ Kxc6 8. Ra1
+$1 {(theme)} 8... Kd5 9. Rg1 Ke4 10. Rxg2 d5 11. Kf6 c5 (11... Kf3 12. Rh2 c5
+13. Kxf5) 12. Rg1 $1 {Back to the square where the rook started  the round trip
+(via the four corner squares)}  (12. Kg5 $2 Kf3 13. Rh2 d4 $1 14. exd4 cxd4 15.
+Kxf5 d3 16. Ke5 d2 17. Rh1 Kxf2 $10)  (12. Rg3 $2 c4 13. Kg5 c3 14. Rg1 g3 $1
+15. Rxg3 (15. fxg3 Kxe3 16. Kxf5 c2 17. Rc1 Kd2 18. Rh1 Ke3 $1 19. Rc1 Kd2 20.
+Ra1 Ke3 $1) 15... c2 16. Rg1 f4 $1 17. exf4 d4) 1-0
+
+[Event "Magyar Sakkvilag"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0031.12f2f5)"]
+[Result "1/2-1/2"]
+[FEN "8/3p4/3P4/b4k2/8/8/5K1p/N7 w - - 0 1"]
+1. Kg2 Bb6 $1 {Prepares the defence of the h-pawn.}  (1... Ke4 2. Nb3 $1 Bb4 (
+2... Bb6 3. Nd2+ $10 (3. Kxh2 $2 Kd3) ) 3. Kxh2 $10)  (1... Ke4) 2. Nb3 $1 (
+{After } 2. Kxh2 $2 {, the white knight cannot be saved.} 2... Ke4 3. Nc2 Ba5
+4. Na3 Kd3 5. Kg2 Bb4 6. Nb5 Kc4 7. Nc7 (7. Na7 Bxd6 8. Nc8 Bc5 $19) 7... Bxd6
+8. Ne8 Be5 $19) 2... Bg1 3. Nc1 $1 (3. Na5 $2 Ke5 4. Nb7 Kd5 $19) 3... Ke5 4.
+Na2 $1 Ke6 $1 {Sets up a trap. } 5. Kh1 $1 (5. Nb4 $2 {is premature because of
+} 5... Bc5 $1 $19) 5... Kxd6 6. Nb4 $1 Ke6 (6... Kc5 7. Na6+ $1 Kc4 8. Nb8 $1 (
+8. Nc7 Bd4 $19) 8... d5 9. Nd7 d4 10. Ne5+ $10) 7. Na6 $1 (7. Kg2 $2 Bc5 $19)
+7... Bd4 $1 (7... Kd5 8. Nb8 d6 9. Nd7 $10) 8. Kg2 $1 (8. Kxh2 $2 Be5+ $1 9.
+Kg2 Bd6 $1 $19) 8... Kd5 9. Nb8 $1 d6 10. Kxh2 {Finally.} 10... Ba7 11. Na6 $1
+(11. Nd7 $2 Ke6 12. Nf8+ Kf7 $10) 1/2-1/2
+
+[Event "Probleemblad commendation"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=0041.44h1f1)"]
+[Result "1/2-1/2"]
+[FEN "3N4/3p4/2p5/4P2b/1p1P3p/7P/5P2/5kBK w - - 0 1"]
+1. Nb7 Bf3+ 2. Kh2 b3 (2... Ke2 3. Nc5 Kd2 (3... Kd1 4. Nxd7 b3 5. Nc5 b2 6.
+Na4) 4. Nxd7 b3 5. Nb6 $10) 3. Na5 b2 4. Nc4 b1=N 5. d5 $1 cxd5 6. e6 $1 dxe6
+7. Nd2+ Ke2 8. Nxb1 d4 9. Nd2 $1 (9. Nc3+ $2 Ke1 $1 $17)  (9. Na3 $2 d3 10. Nc4
+e5 $17) 9... e5 10. Nb3 $1 (10. Nc4 $2 d3 $17) 10... Bd5 {Tempo!}  (10... Bc6
+11. f4 $10) 11. Nc5 $1 (11. Nc1+ $2 Kd2 12. f4 Kxc1 13. fxe5 d3 14. Be3+ d2 15.
+Kg1 Kc2 $17) 11... e4 12. Nd7 $1 (12. f3 $2 e3 $1 $17) 12... d3 13. Nf6 $1
+{Tempo!} 13... Bc6 14. Ng4 d2 15. Ne3 {This successfully ends the tour of the
+busy knight.} 1/2-1/2
+
+[Event "Springaren nr. 170"]
+[Site "?"]
+[Date "2024.06.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0030.75e5g6)"]
+[Result "1-0"]
+[FEN "3b4/2pp4/6k1/1P2K1p1/3p1p2/3P3P/PP2P2P/8 w - - 0 1"]
+1. a4 Be7 2. a5 Bb4 (2... Bc5 3. b6 $1 cxb6 4. a6 b5 5. b4 Ba7 6. Kd6 Kf5 7.
+Kc7 Ke5 8. Kb7 Kd6 9. h4 $1 (9. Kxa7 $2 Kc7 10. Ka8 Kc8 $10) 9... g4 10. h5 f3
+11. exf3 gxf3 12. h6 f2 13. h7 f1=Q 14. h8=Q $16 Qxd3 15. Kxa7 $16) 3. b6 f3 $1
+(3... Bd6+ 4. Kd5 cxb6 5. Kxd6 bxa5 6. Kxd7 $16) 4. exf3 Bxa5 5. b7 Bd2 $1 6.
+Ke4 $1 (6. b8=N $2 d6+ 7. Kxd4 Kf5 8. Na6 c6 9. Kc4 Kf4 10. b4 Be3 11. Nb8 d5+
+12. Kc3 c5 13. b5 Bd4+ 14. Kd2 c4 $10)  (6. b8=Q $2 Bf4+ 7. Ke4 d5+ 8. Kxd4 c5+
+9. Kxd5 Bxb8 $10) 6... Bf4 7. b8=N $1 d6 (7... d5+ 8. Kxd5 c6+ 9. Nxc6) 8. Nc6
+(8. b4 $2 c5 $1 $10) 1-0
+
+[Event "The Problemist 29(11)"]
+[Site "?"]
+[Date "2024.09.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0004.12e5e3)"]
+[Result "1-0"]
+[FEN "8/5p2/8/P3K3/4p3/1N2k3/1n6/8 w - - 0 1"]
+1. Kd5 (1. a6 $2 Nc4+) 1... Na4 (1... Nd3 2. Kc4 Nf4 (2... Ne5+ 3. Kb5 Nd7 4.
+a6) 3. Nd4 $1 Ng6 4. Nf5+ $1 (4. a6 $2 Ne5+ $1 (4... Ne7 $2 5. Nf5+) 5. Kb5
+Kxd4 6. a7 e3 7. a8=Q e2 $10) 4... Kf4 5. a6 Ne5+ 6. Kb5 Kxf5 7. a7 e3 8. a8=Q
+e2 9. Qh1 $18)  (1... f5 2. a6 f4 3. a7 Na4 4. Kc6 {<=main line>} ) 2. Kc6 f5
+3. a6 f4 4. a7 Nb6 $1 5. Kxb6 f3 6. Na5 $3 { The climax of the study.}  (6.
+a8=Q $2 f2 7. Qf8 (7. Qa6 {<or>} ) 7... f1=Q 8. Qxf1)  (6. Nd2 $2 Kxd2 7. a8=Q
+f2 8. Qd5+ Ke2 9. Qxe4+ Kf1 $10)  (6. a8=R $2 f2 7. Ra1 (7. Rf8 Ke2 8. Nd4+ Ke1
+) 7... Kf4 $1 8. Kc5 e3 9. Nd4 Kg3 10. Kc4 Kg2) 6... f2 7. Nc4+ Kd3 (7... Ke2
+8. a8=Q f1=Q 9. Qa2+ (9. Qxe4+ $2 Kf2 $10) 9... Kd3 10. Qb3+ Kd4 11. Nb2 {leads
+to the main variation} ) 8. a8=Q f1=Q 9. Qa3+ (9. Qd5+ $2 Ke2 10. Qxe4+ Kf2 $10
+) 9... Kd4 (9... Kxc4 10. Qa6+)  (9... Kc2 10. Ne3+)  (9... Ke2 10. Qe3+) 10.
+Qb2+ (10. Qc5+ Kd3 11. Qa3+ {waste of time} ) 10... Kd3 (10... Kd5 11. Ne3+)
+11. Ne5+ Ke3 12. Ng4+ Kf4 (12... Kf3 13. Nh2+)  (12... Kd3 13. Kb5) 13. Qf6+
+1-0
+
+[Event ".c Springaren#06957"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Steniczka=H"]
+[Black "(=0447.11h5h3) U3"]
+[Result "1/2-1/2"]
+[FEN "8/6R1/4n2p/P6K/2n5/1B2r2k/4N3/1b6 w - - 0 1"]
+{Springaren=46 Springaren/9 (EG#09362). U3: Garcia=M Estudios Artisticos  de
+Ajedrez - X-43 2012.} 1. Rg3+ $1 Rxg3 2. Nxg3 Nf4+ 3. Kxh6 Nxa5 (3... Nd2 $1
+{<cook MG>} 4. Nh5 Nxh5 5. Bd5 Kh4 6. a6 Ne4 7. a7 Nef6 8. a8=Q Ng4#) 4. Nh5 $1
+Nxh5 5. Be6+ Kh4 6. Bf5 $1 Ba2 7. Bb1 $1 Bb3 8. Bc2 Bc4 9. Bd3 Bd5 10. Be4 Bf7
+11. Bg6 Bg8 12. Bh7 Ba2 13. Bb1 Bxb1 1/2-1/2
+
+[Event ".c Springaren#06957"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Steniczka=H"]
+[Black "(=0457.01h5h3) (c) U1"]
+[Result "1/2-1/2"]
+[FEN "8/6R1/4n2p/B6K/2n5/1B2r2k/4N3/1b6 w - - 0 1"]
+{Springaren=46 Springaren/9. correction: Garcia=M Estudios Artisticos  de
+Ajedrez - X-43 2012 U1: Neuenschwander=B beatochess 17/08/2024.} 1. Rg3+ $1 (1.
+Ng1+ {<cook BN>} 1... Kh2 2. Bc7+ Nxc7 (2... Kh1 3. Rg3) 3. Bxc4)  (1. Rb7
+{<cook BN>} 1... Nxa5 2. Bxe6+) 1... Rxg3 2. Nxg3 Nf4+ 3. Kxh6 Nxa5 4. Nh5 Nxh5
+5. Be6+ Kh4 6. Bf5 Ba2 7. Bb1 Bb3 8. Bc2 Bc4 9. Bd3 Bd5 10. Be4 Bg8 11. Bh7 Ba2
+12. Bb1 Bxb1 1/2-1/2
+
+[Event ".c Springaren#06957"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Steniczka=H BN=(c)"]
+[Black "(=0447.21h5h3) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/6R1/4n2p/P6K/P1n5/1B2r2k/4N3/1b6 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 17/08/2024.} 1. Rg3+ $1 Rxg3 2. Nxg3
+Nf4+ 3. Kxh6 Nxa5 (3... Nd2 4. Ne2 $1 (4. Nh5 $2 Nxh5 5. Bd5 Kh4 6. a6 Ne4 7.
+a7 Nef6 8. Be6 Be4)  (4. a6 $2 Kxg3) 4... Nxe2 5. Bd5 Nc3 6. Bb7) 4. Nh5 $1
+Nxh5 5. Be6+ Kh4 6. Bf5 $1 Ba2 7. Bb1 $1 Bb3 8. Bc2 Bc4 9. Bd3 Bd5 10. Be4 Bf7
+11. Bg6 Bg8 12. Bh7 Ba2 13. Bb1 Bxb1 1/2-1/2
+

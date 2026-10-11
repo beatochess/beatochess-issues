@@ -216,9 +216,11 @@ Ke3 $2 Bh7 4. Nf6 Bb1) 3... Ne2+ 4. Kf3 Nd4+ 5. Ke3 Nf5+ 6. Kf4 (6. Kf3 $2 Bb1
 [Date "1978.??.??"]
 [Round "?"]
 [White "Gavrilov=E BN=(c)"]
-[Black "(=0033.10e3b5) TT C"]
+[Black "(=0033.10e3e1) TT C"]
 [Result "1/2-1/2"]
+[ECO "A00"]
 [FEN "6b1/8/7P/8/8/2n1K3/8/4k3 w - - 3 3"]
+
 {(EG#03782); source: Ukraine Team Ch 1978. correction: Neuenschwander=B
 beatochess (web) no.15 02/2026.} 3. Kd4 Kd2 4. Ke5 Bh7 5. Kf6 Ne4+ 6. Kg7 Ng5
 7. Kf6 Ne4+ 8. Kg7 Ng5 9. Kf6 1/2-1/2
@@ -573,12 +575,14 @@ Rxh7 11. Rh5+) 9. Rd5 Rxh7 10. Rh5+ Rxh5 11. gxh5 1-0
 [Date "1979.??.??"]
 [Round "?"]
 [White "Marwitz=J BN=(c)"]
-[Black "(+0471.33f1h1) C"]
+[Black "(+0471.24f1h1) C"]
 [Result "1-0"]
+[ECO "A00"]
 [FEN "4r3/2p4P/3p4/p1p3B1/6P1/6b1/2b3N1/R4K1k w - - 0 1"]
+
 {(EG#04021); source: Schakend Nederland#1681 no.3 3/1979; (ty also known as:
-KNSB ty 1978); correcction: Neuenschwander=B beatochess (web) no.15 02/2026.}
-1. Ra3 Rf8+ (1... Kh2 2. Bf4 $1 Rf8 (2... Bxf4 3. Nxf4) 3. h8=Q+ Rxh8 4. Rxg3)
+KNSB ty 1978); correcction: Neuenschwander=B beatochess (web) no.15 02/2026.} 
+1. Ra3 Rf8+ (1... Kh2 2. Bf4 $1 Rf8 (2... Bxf4 3. Nxf4) 3. h8=Q+ Rxh8 4. Rxg3) 
 2. Nf4 $1 (2. Bf4 $2 Bxf4 3. h8=Q+ Rxh8 4. Nxf4 Be4) 2... Kh2 $1 (2... Bxf4 3.
 h8=Q+ Rxh8 4. Bxf4) 3. Ra2 Bxf4 4. Rxc2+ (4. Bxf4+ $2 Rxf4+ 5. Ke1 $1 (5. Ke2
 Rf8 6. Rxc2 Rh8) 5... Re4+ (5... Rf8 $2 6. Rxc2+ Kg3 7. g5) 6. Kf2 Re8 7. Rxc2
@@ -809,9 +813,11 @@ Nc4+ Bxc4 5. Rxb3 c2 6. Rxb2 c1=R 7. Rc2 Rxc2 1/2-1/2
 [Date "1977.??.??"]
 [Round "?"]
 [White "Priedniks=E BN=(c)"]
-[Black "(=0131.24a3b5) C"]
+[Black "(=0131.24a3b7) C"]
 [Result "1/2-1/2"]
+[ECO "A00"]
 [FEN "8/1k3b2/8/P2P1N2/p2R4/Kpp5/1p6/8 w - - 0 1"]
+
 {correction: Neuenschwander=B beatochess (web) no.15 02/2026.} 1. Nd6+ Ka6 (
 1... Ka8 2. Rc4 b1=Q 3. Rc8+ Ka7 4. Rc7+ Ka6 5. Rc6+) 2. Rb4 Bxd5 (2... b1=Q 3.
 Rb6+ Ka7 4. Nb5+ Ka8 5. Nc7+) 3. Rb6+ (3. Nb5 $2 b1=N+ 4. Kxa4 c2 5. Nc7+ Ka7

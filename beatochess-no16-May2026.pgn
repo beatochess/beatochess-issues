@@ -176,9 +176,11 @@ Kc6 (6... Qxf5 7. Ne7+) 7. Rc5+ dxc5 8. Ne5+ Kd6 {<eg>} 9. Nxd7 Kxd7 10. bxc5
 [Date "1979.??.??"]
 [Round "?"]
 [White "Gurgenidze=D BN=(c)"]
-[Black "(+3101.56b2e5) C"]
+[Black "(+3101.56e3e5) C"]
 [Result "1-0"]
+[ECO "A00"]
 [FEN "8/1p4pq/pP1p2p1/P3k1P1/1Pp2NR1/4K3/2P5/8 w - - 0 1"]
+
 {(EG#04754); source: Scacco! 11/1979; correction:: Neuenschwander=B beatochess
 no.16 05/2026 (web).} 1. Rh4 Qg8 2. Rh8 Qf7 3. Rf8 Qd7 4. Nxg6+ Ke6 5. Rf6+ Kd5
 6. Rf5+ Kc6 7. Rc5+ 1-0
@@ -363,6 +365,7 @@ a6 Kd7 4. b6 $1 Kc8 $1 5. a7 Kb7 6. bxc7 Bxa7 7. Ke6 Kxc7 8. Kd5 $1 1-0
 [Black "(+0030.31f7d6) C"]
 [Result "1-0"]
 [FEN "8/b1p2K2/3k4/PP5P/8/8/8/8 w - - 0 1"]
+
 {source: EG no.66 11 /1980; (c): (source unknown 0000); Ring ty: 31/37.pl 16th
 USSR overall Ch. 1981-1982( 64 Shakhm. Obozrenye no. 9(313) 1985)} 1. h6 (1. a6
 $2 Kd7) 1... Bd4 2. a6 (2. h7 $2 c5) 2... Kd7 3. b6 $1 Kc8 (3... Bxb6 4. h7 Bd4
@@ -376,7 +379,9 @@ Kd7) 7. Kd5 1-0
 [White "Mitrofanov=L BN=(c)"]
 [Black "(+0030.31f7d5) C"]
 [Result "1-0"]
+[ECO "A00"]
 [FEN "8/b1p2K2/8/P2k3P/1P6/8/8/8 w - - 0 1"]
+
 {EG#04429); source: EG no.66 11/1981; correction: Neuenschwander=B beatochess
 no.16 05/2026 (web).} 1. b5 (1. h6 $2 Bd4) 1... Kd6 2. h6 Bd4 3. a6 Kd7 4. b6
 $1 Kc8 5. a7 Kb7 6. bxc7 Bxa7 7. Ke6 $1 Kxc7 8. Kd5 $1 1-0
@@ -790,8 +795,9 @@ Ke7 Bb5 10. Bg4 1/2-1/2
 [Black "(=0046.22b8a6) C"]
 [Result "1/2-1/2"]
 [FEN "1K4B1/4p3/k3p3/3PP3/8/6n1/8/1b2n3 w - - 0 1"]
+
 {(EG#04406); source: EG no.66 11/1981. correction: Neuenschwander=B beatochess
-no.16 05/2026 (web).} 1. d6 (1. Bxe6 $2 Nf3 2. d6 Nxe5 3. d7 (3. dxe7 Nc6+)
+no.16 05/2026 (web).} 1. d6 (1. Bxe6 $2 Nf3 2. d6 Nxe5 3. d7 (3. dxe7 Nc6+) 
 3... Nxd7+) 1... Nf3 2. Kc7 (2. dxe7 $2 Bg6 3. Bxe6 Nh5 4. Kc7 Ng7) 2... Nxe5
 3. dxe7 Bg6 4. Bxe6 Nh5 5. e8=Q Bxe8 6. Kd6 Nf3 7. Ke7 Bc6 8. Kd6 Be8 9. Ke7
 1/2-1/2

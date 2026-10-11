@@ -1,0 +1,906 @@
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.01"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0161.00g4a8)"]
+[Result "1-0"]
+[FEN "k5b1/8/8/2R5/6K1/2N5/3b4/8 w - - 0 1"]
+1. Ne4 Be6+ 2. Kf3 Bb4 (2... Be1 3. Rc1 Bh4 (3... Ba5 4. Ra1) 4. Rh1 Be7 5.
+Rh8+) 3. Rb5 Bf8 4. Re5 Bd7 (4... Bf7 5. Rf5) 5. Rd5 1-0
+
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.01"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0161.00f3a8)"]
+[Result "1-0"]
+[FEN "k4bb1/8/8/8/4N3/4RK2/8/8 w - - 0 1"]
+1. Rd3 Be7 2. Rd7 Bh4 3. Kf4 Kb8 (3... Bb3 4. Rh7 Be1 5. Rh1) 4. Ke5 Bc4 5. Kd6
+Bf1 6. Rg7 1-0
+
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.02"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0130.01f5h8) TW"]
+[Result "1-0"]
+[FEN "7k/1p3R2/8/5K2/7b/8/8/8 w - - 0 1"]
+1. Rc7 $1 ( {Try: } 1. Kg6 $2 Kg8 2. Rf4 Bd8 3. Rd4 Bb6 4. Rd6 Ba5) 1... Kg8 2.
+Rc4 $1 (2. Kg6 $2 Kf8 3. Rc4 Bd8) 2... Be1 (2... Be7 3. Kg6 b5 (3... Kf8 4.
+Rc8+) 4. Rc8+ Bf8 5. Rb8)  (2... Bf2 3. Kg6 Kf8 4. Rf4+) 3. Kg6 Kf8 4. Rf4+ Kg8
+5. Re4 1-0
+
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.02"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0130.01f5h8) TW"]
+[Result "1-0"]
+[FEN "7k/5R2/8/5K2/1p5b/8/8/8 w - - 0 1"]
+1. Kg6 $1 ( {Try:} 1. Rc7 $2 Kg8 2. Rc4 Be1 $1 3. Kg6 Kf8 4. Rf4+ Ke7 $1 5.
+Re4+ Kd6 6. Rxe1) 1... Kg8 2. Rf4 $1 Bg3 3. Rg4 Be5 (3... Bd6 4. Rd4)  (3...
+Bc7 4. Rc4)  (3... Bh2 4. Kf6+ Kf8 5. Rh4)  (3... Be1 4. Re4)  (3... Bf2 4.
+Rxb4 Bg3 5. Rg4 Bf2 6. Ra4 Kf8 7. Rf4+) 4. Re4 1-0
+
+[Event "beatochess"]
+[Site "?"]
+[Date "2024.04.26"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(+0130.02f3g1)"]
+[Result "1-0"]
+[FEN "5b2/2R5/p2p4/8/8/5K2/8/6k1 w - - 0 1"]
+1. Rf7 $1 (1. Kg3 $2 Bh6 $1 $10)  (1. Rb7 $2 d5 $1 $10)  (1. Rd7 $2 d5 $1 $10)
+1... Bh6 2. Rb7 $1 (2. Rh7 $2 Bc1 $1 $10) 2... d5 (2... a5 3. Rb8 $1 a4 (3...
+Bd2 4. Rb1+ Kh2 5. Rb2) 4. Rg8+ Kf1 5. Rh8)  (2... Bf8 3. Kg3 Kf1 4. Rf7+) 3.
+Rb6 $1 (3. Rb8 $2 d4 $1 4. Rg8+ Kf1 5. Rh8 Be3 $10) 3... Bf8 4. Kg3 Kf1 5. Rf6+
+1-0
+
+[Event "Problem Paradise 3.p"]
+[Site "?"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Neuenschwander=B"]
+[Black "(=3045.86h7h5)"]
+[Result "1/2-1/2"]
+[FEN "7b/3p2nK/p3p2p/2P1P2k/PB1N2p1/P6P/1qPN1PP1/8 w - - 0 1"]
+1. c6 $1 (1. Ne4 $2 Qxd4 $19) 1... dxc6 (1... gxh3 2. c7 hxg2 3. N2f3) 2. Ne4
+Nf5 (2... Qxd4 $2 3. Ng3+ Kg5 4. Be7+ Kf4 5. Ne2+) 3. Nxf5 exf5 4. Ng3+ Kg5 5.
+h4+ Kf4 6. Bd6 Bxe5 (6... Qb7+ 7. Kxh8 Qc8+ 8. Kg7 Qd7+ 9. Kg6 Qe8+ 10. Kg7 $10
+) 7. Bf8 Qb7+ 8. Kg6 Bc7 9. Bg7 $1 {Threatens perpetual check with Ne2+ and
+Nc3+ etc.} 9... Ba5 10. Ba1 $1 {Threatens perpetual check with Nh5+ and Nf6+
+etc.} 10... Bd8 11. Bh8 $1 (11. Bg7 $2 Qe7 12. Nh5+ Ke4 13. Nf6+ Kd4 14. Ng8+
+Qxg7+ 15. Kxg7 Bxh4 $19) 11... Ba5 (11... Qe7 12. Nh5+ Ke4 13. Nf6+ Kd4 (13...
+Qxf6+ 14. Bxf6 Bxf6 15. Kxf6 $10) 14. Ng8+ $10) 12. Ba1 $1 Bd8 13. Bh8 $1
+{positional draw} 1/2-1/2
+
+[Event "2.p 64#550"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "2"]
+[White "Zakhodyakin=G"]
+[Black "(+0027.01c3e6) U1 U2"]
+[Result "1-0"]
+[FEN "3n4/8/4k3/2p5/6N1/2K1B3/4B3/4n3 w - - 0 1"]
+{64=13-14 . U2: 64 Shakhmatnoye Obozrenye=9(728) 5/1985 U1: Beasley=J
+HHdbIII#53843 3-2-2002.} 1. Bd2 $1 (1. Bxc5 $1 {<cook JB>} ) 1... Ng2 2. Bf1 $1
+Nf4 $1 (2... Nh4 3. Bg5 Kf5 4. Bxh4)  (2... Kf5 3. Nh6+) 3. Bxf4 Kf5 4. Bc7 (4.
+Be3 $1 {<cook>} 4... Kxg4 5. Bxc5) 4... Ne6 5. Ne3+ $1 (5. Nh6+ $2 Kg6) 5...
+Ke4 6. Nd5 $1 Kxd5 7. Bg2# 1-0
+
+[Event "2.p 64#550"]
+[Site "?"]
+[Date "1931.07.30"]
+[Round "2"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0057.12c3e6) (c)"]
+[Result "1-0"]
+[FEN "3n4/b7/1p2k3/2p5/6N1/1PK1B3/4B3/4n3 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 19/04/2024.} 1. Bd2 Ng2 2. Bf1 Nf4 (
+2... Nh4 3. Bg5)  (2... Kf5 3. Nh6+)  (2... Nf4 3. Bxf4 Kf5 4. Bc7 Ne6 5. Ne3+
+Ke4 6. Nd5 Kxd5 7. Bg2#) 3. Bxf4 Kf5 4. Bc7 Ne6 5. Ne3+ Ke4 6. Nd5 Kxd5 7. Bg2#
+1-0
+
+[Event ".c 64#518"]
+[Site "?"]
+[Date "1931.02.20"]
+[Round "1"]
+[White "Zakhodyakin=G"]
+[Black "(=0074.10e5g6) U3"]
+[Result "1/2-1/2"]
+[FEN "N1B5/8/4P1k1/4K2n/8/8/8/6bb w - - 0 1"]
+{64=2-3 . U3: Afek=Y HHdbVI 6-8-2020.} 1. e7 Nf6 $1 (1... Kf7 2. e8=Q+ Kxe8 3.
+Nc7+ Kd8 4. Bg4) 2. Nc7 Bh2+ 3. Ke6 Bxc7 (3... Be4 $1 {<cook YA>} 4. e8=Q+ Nxe8
+5. Nxe8 Bf5+ 6. Kd5 Bxc8) 4. e8=Q+ Nxe8 5. Kd7 Kf7 6. Bb7 Bxb7 1/2-1/2
+
+[Event ".c 64#518"]
+[Site "?"]
+[Date "1931.02.20"]
+[Round "1"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0074.12c5h5) (c)"]
+[Result "1/2-1/2"]
+[FEN "1bB5/2p5/8/1NKpP2k/8/8/4n3/7b w - - 0 1"]
+{correction: Neuenschwander=B beatochess 19/04/2024.} 1. e6 Ng3 (1... Kg6 2.
+Kc6 Kf6 3. Kd7 Be4 4. e7 Bg6 5. Bb7 Nf4 (5... d4 6. Be4 Bf7 7. Bd5) 6. Bc6 Bf5+
+7. Kd8 Ne6+ 8. Kc8 Nd4+ 9. Kb7 Nxb5 10. e8=N+ $10) 2. e7 (2. Nxc7 $2 Nf5 $1 (
+2... Bxc7 $2 3. e7 Ne4+ 4. Kc6) 3. Nxd5 Bxd5 4. Kxd5 Ne7+ $17) 2... Ne4+ 3.
+Kxd5 (3. Kc6 Nf6 4. Kb7 (4. Nd4 Ba7) 4... c6 5. Kxc6 {j} 5... Kg6 $17) 3...
+Nf6+ 4. Ke6 Kg6 5. Nxc7 $1 (5. Bd7 Bd5+ 6. Ke5 c5+) 5... Bxc7 (5... Be4 6. Kd6
+$1 (6. e8=Q+ $2 Nxe8 7. Nxe8 Bf5+ 8. Ke7 Bxc8 $17) 6... Ne8+ 7. Kd7 Nxc7 8.
+e8=Q+ Nxe8 9. Kxe8) 6. e8=Q+ $1 Nxe8 7. Kd7 Kf7 8. Bb7 $1 Bxb7 1/2-1/2
+
+[Event "4.p 64#571"]
+[Site "?"]
+[Date "1931.11.30"]
+[Round "2"]
+[White "Zakhodyakin=G"]
+[Black "(=4016.21a1c1) U3"]
+[Result "1/2-1/2"]
+[FEN "5Q2/3B1P2/q7/1p6/8/P2n4/8/K1k1n3 w - - 0 1"]
+{64=21-22 . U3: Beasley=J HHdbIII#53872 3-2-2002 U3: Haworth=G Bleicher=E
+HHdbIV#14339 1-11-2009.} 1. Qc8+ Nc2+ 2. Qxc2+ Kxc2 3. f8=Q b4 $1 (3... Qa7 $1
+{ <cook JB>} 4. Qc8+ Kd2) 4. Ba4+ Qxa4 5. Qxb4 $1 Nxb4 (5... Qa8 $1 {<cook
+GH/EB> } )  (5... Qa6 $1 {<cook GH/EB>} )  (5... Qe8 $1 {<cook GH/EB>} )  (5...
+Qc6 $1 { <cook GH/EB>} )  (5... Qa7 $1 {<cook GH/EB>} ) 1/2-1/2
+
+[Event "4.p 64#571"]
+[Site "?"]
+[Date "1931.11.30"]
+[Round "2"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=4013.11a1d1) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/1Q6/8/q2n1B2/1p6/P7/8/K2k4 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 20/04/2024.} 1. Bc2+ $1 Kc1 (1... Kxc2
+2. Qh7+ Kb3 (2... Kc3 3. Qh3+ Kc4 4. Kb2) 3. Qb1+ Kc4 4. Qe4+ Kc5 5. Qc2+ Kb5
+6. Qd3+) 2. Ba4 $1 Qxa4 (2... Qc5 3. Qg7) 3. Qxb4 $1 Nxb4 1/2-1/2
+
+[Event "Shakhmaty v SSSR#101"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0302.33c2d5) U3"]
+[Result "1-0"]
+[FEN "8/N7/2p5/3k2p1/N7/r3p1P1/P1K1P3/8 w - - 0 1"]
+{Shakhmaty v SSSR/7. U3: Garcia=M Estudios Artisticos  de Ajedrez - XI-97
+2012.} 1. Nc3+ Kc4 (1... Kc5 $1 {<cook MG>} 2. Nc8 Kd4) 2. Nxc6 Rxc3+ 3. Kb2 g4
+4. Na5+ Kd4 (4... Kb4 5. a3+ Rxa3 6. Nc6+ Ka4 7. Nd4) 5. Nb3+ Kc4 6. Nc5 $1 Kd4
+(6... Kb4 7. Na6+ Kc4 8. Nc7) 7. Ne6+ Kc4 8. Nc7 Kd4 (8... Kb4 {<main>} 9. Nd5+
+Kc4 10. Nxc3) 9. Nb5+ Kc4 10. Nxc3 1-0
+
+[Event "Shakhmaty v SSSR#101"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0302.33c1c4) (c)"]
+[Result "1-0"]
+[FEN "3N4/8/2p5/6p1/2k5/r1N1p1P1/P3P3/2K5 w - - 0 1"]
+{Shakhmaty v SSSR/7. correction: Garcia=M Estudios Artisticos  de Ajedrez -
+XI-97 2012. U3: Neuenschwander=B beatochess 03/04/2024.} 1. Nxc6 Rxc3+ (1...
+Kxc3 $19 {<cook BN>} ) 2. Kb2 g4 3. Na5+ Kd4 (3... Kb4 4. a3+ Rxa3 5. Nc6+ Ka4
+6. Nd4) 4. Nb3+ Kc4 5. Nc5 $1 Kd4 (5... Kb4 6. Na6+ Kc4 7. Nc7) 6. Ne6+ Kc4 7.
+Nc7 Kd4 (7... Kb4 {<main>} 8. Nd5+ Kc4 9. Nxc3) 8. Nb5+ Kc4 9. Nxc3 1-0
+
+[Event "Shakhmaty v SSSR#101"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0302.54c1b5) (c)"]
+[Result "1-0"]
+[FEN "8/r3N2p/2p5/1k4p1/N5P1/P3p1P1/P3P3/2K5 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 03/04/2024.} 1. Nc3+ Kc4 2. Nxc6 Rxa3
+3. Kc2 $3 (3. Nd1 $2 Rxa2 4. Nxe3+ Kc3 5. Nd5+ Kc4 6. e4 Ra3)  (3. Kb2 Rxc3 4.
+Ne7 (4. Na5+ $2 Kb4 5. a3+ Rxa3 6. Nc6+ Ka4 7. Nd4 h6) 4... Kd4 5. Nf5+ Kc4)
+3... Rxc3+ 4. Kb2 h6 5. Na5+ Kd4 (5... Kb4 6. a3+ $1 Rxa3 7. Nc6+ Ka4 8. Nd4 $1
+) 6. Nb3+ Kc4 7. Nc5 $1 Kd4 (7... Kb4 8. Na6+ Kc4 9. Nc7 $1) 8. Ne6+ Kc4 9. Nc7
+$1 Kd4 (9... Kb4 10. Nd5+) 10. Nb5+ 1-0
+
+[Event "Shakhmaty v SSSR#01"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0302.03d1c5) U3"]
+[Result "1/2-1/2"]
+[FEN "8/2r2p2/2N5/2k5/8/3p4/1N1p4/3K4 w - - 0 1"]
+{Shakhmaty v SSSR/1. U3: Shakhmaty v SSSR/3 1957.} 1. Ne5 Kd4 $1 2. Nf3+ $1 (2.
+Nexd3 $2 Ke3) 2... Kc3 $1 (2... Ke3 3. Nxd2) 3. Na4+ Kb4 4. Nb6 $1 Kc5 5. Na4+
+Kb5 6. Nb2 $1 Rc1+ 7. Kxd2 Rc2+ 8. Kxd3 Rxb2 9. Ng5 $1 Rf2 (9... f6 10. Ne4 $1)
+(9... f5 10. Ne6 $1) 10. Ne4 $1 Rf3+ 11. Ke2 Rf4 12. Ke3 Rf1 13. Ke2 $1 Rf4 (
+13... Rg1 $1 {<cook>} 14. Nd6+ Kc5 15. Nxf7 Rg6 16. Kd3 Kd5 17. Ke3 Re6+ 18.
+Kd3 Rf6 19. Ng5 Rf5 20. Nh7 Kd6 21. Kd4 Ke7 $1 22. Ke4 Ke6 23. Kd4 Kf7 24. Ke4
+Kg6) 14. Ke3 1/2-1/2
+
+[Event "Shakhmaty v SSSR#01"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0302.24d1c5) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/2r2p2/2N5/2k3p1/8/3p3P/1N1p1P2/3K4 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 04/04/2024.} 1. Ne5 Kd4 2. Nf3+ Kc3 3. Na4+ Kb4 (
+3... Kb3 4. Nb6) 4. Nb6 $1 (4. Nb2 $2 Rc2 $1 5. Nxd3+ Kc3 6. Ke2 Rc1 $1 7. Nxd2
+Rc2) 4... Kc5 5. Na4+ Kb5 6. Nb2 Rc1+ 7. Kxd2 Rc2+ 8. Kxd3 Rxb2 9. Nxg5 (9. Ke3
+f6) 9... Rxf2 10. Ne4 Rf1 11. Ke2 Rf4 12. Ke3 Rf1 13. Ke2 1/2-1/2
+
+[Event "1.hm Shakhmaty v SSSR#07"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0014.13e4a6) U3"]
+[Result "1-0"]
+[FEN "8/B2N1n2/k2p4/2p5/4K3/2p5/2P5/8 w - - 0 1"]
+{Shakhmaty v SSSR/3. U3: (HHdbII#20443 1948) U3: Paavilainen=J Suomen
+Tehtavaniekat=1 4-4-2008.} 1. Bb8 (1. Bb6 $2 Kb5 2. Kf5 Kc6 3. Kg6 Nh8+ 4. Kg7
+Kxd7 5. Ba5 Ke6 6. Kxh8 d5 $1 7. Bxc3 d4 8. Be1 c4 9. Kg7 c3) 1... Kb7 (1...
+Kb5 $1 {<cook>} 2. Kd5 Ng5 3. Nf6 (3. Bxd6 Nf3 4. Nxc5 Ne1 5. Ne4 Nxc2 6. Nxc3+
+Ka5 7. Kc5 Na3 8. Bc7+ Ka6 9. Bf4 Ka5 10. Bc1 Nc2 11. Bd2 Na3) 3... Nf3 4. Ng4
+Kb4 $1 5. Bxd6 Ka3 6. Bxc5+ Kb2 7. Ne3 Ne1 8. Kc4 Nxc2 9. Nd1+ Kc1 10. Nxc3 Kb2
+) 2. Kd5 Kc8 3. Kc6 $1 (3. Ke6 $2 Ng5+ 4. Kxd6 Nf3) 3... Nd8+ 4. Kxd6 Kb7 $1 (
+4... Nb7+ 5. Ke7 Na5 6. Bf4 $1 Nc6+ $1 { <cook JP>}  (6... Nc4 7. Bc1 $1 Nd2 8.
+Nxc5 Nf3 9. Ne6) 7. Kd6 Nd4 8. Ne5 $1 Nxc2 9. Kxc5 Na3 $1 (9... Ne1 $2 10. Kd4
+Nc2+ (10... c2 11. Bc1 Kc7 12. Ke4 Ng2 (12... Kd6 13. Ng6 Ke6 14. Nf4+) 13. Ng6
+Kd7 14. Kf3 Ne1+ 15. Ke2 Ng2 16. Kf2) 11. Kxc3 Na3 12. Kb4 Nc2+ 13. Kc5 $1 Kb7
+14. Bd2 Ka6 15. Nf3 Na3 16. Nd4) 10. Nf3 Nb1 11. Ng5 $1 Nd2 (11... c2 $2 12.
+Kb4 Kd7 13. Kb3 Ke7 14. Bc1 Kf6 15. Nf3 Kf5 16. Kxc2 Ke4 17. Ne1) 12. Kb4) 5.
+Ne5 $1 (5. Ke7 $2 Nc6+)  (5. Bc7 $2 Nf7+) 5... Kxb8 6. Kd7 $1 Nb7 7. Nc6+ Ka8
+8. Ke6 $1 c4 9. Kd5 $1 1-0
+
+[Event "1.hm Shakhmaty v SSSR#07"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0045.15b5a8) (c)"]
+[Result "1-0"]
+[FEN "kB3N2/1b3n2/3pp3/1Kp1p3/N1p5/8/2P5/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 22/04/2024.} 1. Nd7 ( {Black has
+sufficient material for equality after} 1. Bc7) 1... Bc8 2. Nab6+ Kb7 3. Nxc8
+Kxc8 4. Kc6 Nd8+ (4... e4 5. Bc7) 5. Kxd6 Kb7 (5... Nb7+ 6. Kxe6 Na5 7. Bxe5)
+6. Nxe5 $1 Kxb8 7. Kd7 Nb7 8. Nc6+ Ka8 9. Kxe6 c3 10. Ke5 $1 c4 11. Kd5 1-0
+
+[Event ".c Shakhmaty v SSSR#04"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0002.02c8e8) U2"]
+[Result "1/2-1/2"]
+[FEN "1NK1k2N/4p3/8/8/8/4p3/8/8 w - - 0 1"]
+{Shakhmaty v SSSR/1. U2: Beasley=J HHdbIII#44615 3-2-2002.} 1. Na6 $1 e2 2.
+Nc7+ Kf8 3. Ne6+ (3. Ng6+ $1 {<cook JB>} ) 3... Kg8 4. Nf7 $1 e1=Q (4... Kxf7
+5. Ng5+) 5. Nfg5 $1 Qd2 {<eg>} 6. Kc7 Qd5 7. Kb6 Qc4 8. Kb7 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR#04"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0002.03c6e8)"]
+[Result "1/2-1/2"]
+[FEN "4k2N/4p3/2K1p3/8/1N6/6p1/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 04/04/2024.} 1. Na6 $1 g2 2. Nc7+ Kf8
+(2... Kd8 3. Nxe6+ Kc8 4. Ng6 g1=Q 5. Nxe7+ $10) 3. Nxe6+ Kg8 4. Nf7 $1 g1=Q 5.
+Nfg5 1/2-1/2
+
+[Event "Th mes 64#0951"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0310.10g8a7) U2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6K1/k5P1/7B/5r2/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1962.??.??"]
+{Th mes 64=28 Th mes 64/10-12. U2: Th mes 64=30 4-6/1963.} 1. Kh8 Rb5 2. Be3+ (2. g8=Q $1 {
+<cook>} Rb8 3. Bf8) 2... Ka8 3. Bc5 Rb8+ 4. Bf8 Rb1 5. g8=Q Rh1+ 6. Bh6+ 1-0
+
+[Event "Th mes 64#0951"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0310.11g8a7) (c)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6K1/k5P1/8/5rp1/8/8/8/2B5 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1962.??.??"]
+{correction: Neuenschwander=B beatochess 22/04/2024.} 1. Kh8 Rb5 2. Be3+ Ka8 3. Bc5 Rb8+ 4. Bf8
+Rb1 5. g8=Q (5. Bd6 $2 Rh1+ 6. Kg8 Rh6 7. Kf7 Rh7) 5... Rh1+ 6. Bh6+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0002.03g5g1) U3"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4p3/7N/6K1/4p2N/8/3p4/6k1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1962.??.??"]
+{Shakhmaty v SSSR/10. U3: Lafora=C Dos Caballos en Combate#375 1965.} 1. Ng4 d1=Q 2. Ng2 $1 Qd5+ 3. Kh4 e5 (
+3... Qf5 $1 {<cook CL>} 4. N2e3 Qg6 $1 5. Kg3 Qg5 6. Kh3 Qh5+ 7. Kg3 e5) 4.
+N2e3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0002.14g5g1) (c)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6N1/5p2/5P2/6K1/4p2N/3p4/6p1/6k1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1962.??.??"]
+{correction: Neuenschwander=B beatochess 22/04/2024.} 1. Nh6 d2 2. Ng4 d1=Q 3. Nxg2 $1 Qd5+ (
+3... Kxg2 4. Ne3+) 4. Kh4 $1 (4. Kh6 $2 Qf5 (4... Qd2+ $2 5. N2e3) )  (4. Kf4
+Qd6+) 4... Qf5 5. N2e3 1/2-1/2
+
+[Event "1.hm Vecherni Kiev"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0305.01f4b1) U2"]
+[Result "1/2-1/2"]
+[FEN "7r/3n4/8/1N6/p2N1K2/8/8/1k6 w - - 0 1"]
+{EG#00057. U2: Garcia=M EG=173 7/2008.} 1. Nc3+ Ka1 2. Nxa4 Rc8 3. Ke4 (3. Nb3+
+$1 {<cook MG>} 3... Ka2 4. Nd2 Ka3 5. Nc3) 3... Rc4 4. Nc5 Nxc5+ 5. Kd5 Rc3 6.
+Ne2 Re3 7. Nd4 Rc3 8. Ne2 Rc2 9. Nd4 Rc1 10. Ne2 Re1 11. Nd4 1/2-1/2
+
+[Event "1.hm Vecherni Kiev"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0305.01f6a1) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/8/5K2/1N1p3r/8/8/7n/k2N4 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 23/04/2024.} 1. Nd4 (1. Ndc3 $2 Kb2 2. Ke6 d4)  (1. Ke6
+$2 Nf3) 1... Ng4+ (1... Rh3 2. Ne3 Nf3 3. Ne6) 2. Ke6 Rh3 3. Kxd5 Rd3 4. Ne3 $1
+Nxe3+ 5. Ke4 Rc3 6. Nb5 Rb3 7. Nd4 Ra3 8. Nb5 Ra5 9. Nd4 Ra3 10. Nb5 Rb3 11.
+Nd4 Rc3 12. Nb5 Rc5 13. Nd4 Rc3 14. Nb5 1/2-1/2
+
+[Event "3.hm Vecherni Kiev"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0510.12d1h6) U1 U2"]
+[Result "1/2-1/2"]
+[FEN "3RR3/1p1BP2r/7k/8/8/8/7p/3K4 w - - 0 1"]
+{EG#00059. U1: Veitch=W EG=3 1/1966 U2: Aloni=H Shahmat 1966.} 1. Bc6 (1. Kc2
+$1 {<cook WV>} 1... h1=Q 2. Bb5 Qe4+ 3. Kb3 Rxe7 4. Rxe7 Qxe7 5. Rd5) 1... bxc6
+2. Rd6+ Kh5 3. Rd5+ (3. Re6 $1 {<cook HA>} 3... h1=Q+ 4. Re1 Qd5+ 5. Kc2 Kh6 6.
+Re2) 3... cxd5 4. Rg8 h1=Q+ 5. Kd2 Qh2+ 6. Kd1 1/2-1/2
+
+[Event "3.hm Vecherni Kiev"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0510.23d1g5) (c)"]
+[Result "1/2-1/2"]
+[FEN "4rB1R/8/2pRP2P/6k1/8/8/3p3p/3K4 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 23/04/2024.} 1. Be7+ $1 Rxe7 2. Rg8+ Kh5 (2... Kf6 3.
+Rf8+ Ke5 4. Rf1 Kxd6 5. Rh1)  (2... Kh4 3. Rd4+) 3. Rd5+ $1 cxd5 4. h7 $1 h1=Q+
+5. Kxd2 Qh2+ 6. Kd1 Qh1+ 7. Kd2 Rxh7 8. e7 Qh2+ 9. Kd1 Qh1+ 10. Kd2 1/2-1/2
+
+[Event "3.hm Rustaveli MT Vecherni Tbilisi"]
+[Site "?"]
+[Date "1967.02.03"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+3200.33g1h4) U1"]
+[Result "1-0"]
+[FEN "5R2/4p3/1p1p2P1/1P6/P6k/8/2q5/4R1K1 w - - 0 1"]
+{EG#00396. U1: Beasley=J HHdbIII#33057 3-2-2002 U2: Neuenschwander=B beatochess
+07/04/2024.} 1. g7 (1. Kh1 $1 {<cook JB>} 1... Qc3 (1... Qxg6 2. Rh8+) 2. Re2
+Qa1+ 3. Kh2) 1... Qg6+ 2. Kh1 $1 (2. Kf2 $2 Qg3+ 3. Kf1 (3. Ke2 Qe5+ 4. Kd3
+Qd5+ 5. Ke3 Qe5+ 6. Kf3 Qg3+) 3... Qxg7 4. Rf4+ Kh5)  (2. Kh2 $2 Qg3+ 3. Kh1
+Qxe1+) 2... Qxg7 3. Rf4+ Kh5 4. Rf5+ (4. Rg1 {<cook BN>} 4... Qe5 5. Rfg4 Qd5+
+6. R1g2 Qf3 7. Rg3 Qf1+ 8. Rg1 Qf5 9. Rg5+ Qxg5 10. Rxg5+ Kxg5 11. a5) 4... Kh4
+5. Ree5 $1 dxe5 6. Rf2 $1 1-0
+
+[Event "3.hm Rustaveli MT Vecherni Tbilisi"]
+[Site "?"]
+[Date "1967.02.03"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+3101.52h1h3) (v)"]
+[Result "1-0"]
+[FEN "5R2/4pN2/2qp4/6P1/4P2P/3P3k/2P5/7K w - - 0 1"]
+{version: Neuenschwander=B beatochess 07/04/2024.} 1. g6 Qc3 (1... Qxc2 2. Ng5+
+Kg3 (2... Kxh4 3. Rf1 $1) 3. Rf3+ Kxh4 4. Rf1) 2. Ng5+ Kxh4 (2... Kg3 3. Rf1)
+3. Nf3+ (3. Rf1 $2 Kh5 $1) 3... Kh5 (3... Kg3 4. Ng1 Qg7 5. Rf3+ $1 Kh4 6. Kh2)
+4. g7 $1 Qxg7 5. Rf5+ Kh6 (5... Kg4 6. Rg5+) 6. Ne5 $3 dxe5 (6... Qg3 7. Nf7+
+Kh7 8. Rh5+ Kg6 9. Rg5+)  (6... Qg8 7. Nf7+ Kh7 8. Rh5+ Kg6 9. Rg5+)  (6... Kh7
+7. Rf7)  (6... e6 7. Nf7+ Kh7 8. Rh5+ Kg8 9. Rg5)  (6... Qh7 7. Rf2)  (6... Qh8
+7. Nf7+) 7. Rf2 1-0
+
+[Event "Shakhmatnaya Moskva#28"]
+[Site "?"]
+[Date "1969.07.17"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0170.00d3a8) U2 U1"]
+[Result "1-0"]
+[FEN "k7/5R2/7b/8/7B/3K4/8/7b w - - 0 1"]
+{Shakhmatnaya Moskva=13(279) . U2: Shakhmatnaya Moskva=3(317) 10-2-1971 U1 U2:
+Neuenschwander=B beatochess 24/04/2024.} 1. Rf6 $1 {(<cooks BN>1.Kd4, 1.Kc4,
+1.Kc3, 1.Bg3, 1.Bf2, are all winning according to tablebase)} 1... Bg7 2. Re6
+$1 (2. Rf5 { <cook BN> tablebase} ) 2... Bb2 3. Re8+ (3. Bf2 $1 {<cook>} ) 3...
+Ka7 4. Bf2+ Ka6 5. Re6+ Ka5 6. Kc4 Bb7 7. Be1+ Ka4 8. Rb6 1-0
+
+[Event "Shakhmatnaya Moskva#28"]
+[Site "?"]
+[Date "1969.07.17"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(m)"]
+[Black "(+0170.01c5h8) (m)"]
+[Result "1-0"]
+[FEN "7k/2p5/8/2K5/8/6R1/8/b2B1b2 w - - 0 1"]
+{modification: Neuenschwander=B beatochess 24/04/2024.} 1. Rf3 Bg2 2. Rf4 Bb7
+3. Rb4 Bg2 4. Rh4+ Kg8 5. Rg4+ 1-0
+
+[Event "2.p Th mes 64#2400"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3002.10c2h7) U2"]
+[Result "1/2-1/2"]
+[FEN "8/4N2k/8/6P1/3q4/8/2K3N1/8 w - - 0 1"]
+{Th mes 64=66 Th mes 64/4-6 also Chess Life & Review#0541 Chess Life &
+Review=10 Chess Life & Review/10 1972 (EG#02453). U2: Beasley=J HHdbIII#29359
+3-2-2002.} 1. g6+ Kh8 (1... Kg7 2. Nf5+) 2. g7+ $1 Qxg7 3. Nh4 $1 Qh7+ 4. Nhf5
+$1 Qh3 $1 5. Kd2 $1 (5. Nd4 $1 {<cook JB>} ) 5... Qf3 6. Kc2 $1 Kh7 7. Kd2
+1/2-1/2
+
+[Event "2.p Th mes 64#2400"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(=3002.10c2h7) (v)"]
+[Result "1/2-1/2"]
+[FEN "8/7k/2N5/6P1/7N/8/2K5/q7 w - - 0 1"]
+{version: Neuenschwander=B beatochess 09/04/2024.} 1. g6+ Kh8 2. g7+ Kxg7 (2...
+Qxg7 {<main>} 3. Ne7 $1 Qg4 (3... Qh7+ 4. Nhf5) 4. Nhf5 Qf3 5. Kd2 $1 Qb3 6.
+Ke2 $1) 3. Nd4 $1 (3. Nf5+ $2 Kf6 4. Nfd4 Qa3 $1 5. Kd2 Kg5 $1) 3... Kf6 4.
+Nhf3 1/2-1/2
+
+[Event "64#23"]
+[Site "?"]
+[Date "1972.03.24"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0013.12c8a8) U3"]
+[Result "1-0"]
+[FEN "k1K5/8/8/8/3pP1p1/8/8/1B2n3 w - - 0 1"]
+{64=12(195) . U3: Korolkov=V 64=9(296) 1-3-1974.} 1. e5 d3 (1... g3 $1 { <cook
+VK>} 2. e6 Ka7 $1 3. e7 g2) 2. e6 d2 3. Bc2 $1 Nxc2 4. e7 d1=Q 5. e8=Q Ka7 6.
+Qb5 $1 1-0
+
+[Event "64#23"]
+[Site "?"]
+[Date "1972.03.24"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0013.23c8a8) (c)"]
+[Result "1-0"]
+[FEN "k1K5/8/4B3/2p1P3/6p1/6P1/3p4/4n3 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 10/04/2024.} 1. Bb3 $1 (1. Bxg4 $2 c4
+2. e6 c3 3. Bd1 c2 4. Bxc2 Nxc2 5. e7 d1=Q 6. e8=Q Ka7 7. Qb5 Qg4+) 1... c4 2.
+Bd1 $1 (2. Ba4 $2 Nf3 3. e6 Nd4 4. e7 Nf5 5. Kd8 Ng7 (5... Nxe7 $2 {is too
+slow} ) 6. e8=Q Nxe8 7. Kxe8 Kb7 8. Kf7 Kb6 9. Kf6 Ka5 10. Bd1 Kb4 11. Ke5 Kc3)
+2... c3 3. e6 c2 4. Bxc2 Nxc2 5. e7 d1=Q 6. e8=Q Ka7 7. Qb5 $1 (7. Qc6 $2 Qf3 (
+7... Qb1 {<or>} ) ) 1-0
+
+[Event "Szachy#1505"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0130.01b4b1) U2"]
+[Result "1-0"]
+[FEN "8/4p3/b7/4R3/1K6/8/8/1k6 w - - 0 1"]
+{Szachy=11(383) Szachy/11. U2: Afek=Y HHdbVI 6-8-2020 U2: Neuenschwander=B
+beatochess 25/04/2024.} 1. Kc3 $1 e6 $1 2. Re4 $1 (2. Rg5 $1 {<cook YA>} 2...
+Bc8 3. Rg1+ Ka2 4. Rg2+ Kb1 5. Kb3) 2... e5 3. Rxe5 (3. Rb4+ $1 {<cook BN>}
+3... Kc1 4. Ra4) 3... Bc8 4. Kb3 Kc1 5. Rc5+ 1-0
+
+[Event "Szachy#1505"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0130.01b4b1) (c)"]
+[Result "1-0"]
+[FEN "8/4p3/b7/4R2p/1K6/8/8/1k6 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 25/04/2024.} 1. Kc3 e6 2. Re4 $1 (2.
+Rg5 $2 h4 $1)  (2. Rxh5 $2 Bc8 $1) 2... Bc8 (2... h4 3. Rb4+ (3. Rxh4 Bc8) 3...
+Kc1 4. Ra4)  (2... e5 3. Rxe5 { <or> 3.Rb4+} ) 3. Kb3 Kc1 4. Rc4+ 1-0
+
+[Event ".c Fizkulturnik Belarussii"]
+[Site "?"]
+[Date "1979.10.03"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0133.00c6a7) U3"]
+[Result "1-0"]
+[FEN "n4b2/k7/2K5/3R4/8/8/8/8 w - - 0 1"]
+{EG#04964. U3: Conrady=H HHdbIII#22486 27-5-2001 U2: Neuenschwander=B
+beatochess 25/04/2024.} 1. Rd7+ Nc7 (1... Ka6 2. Rd8 Nb6 $1 {<cook HC>} 3. Rxf8
+Ka5 4. Rf5+ Ka6) 2. Rxc7+ (2. Kxc7 $1 {<cook BN>} 2... Ka6 3. Rd5 $1) 2... Kb8
+3. Rh7 Ba3 4. Rh1 Be7 5. Rh8+ Ka7 6. Rh7 1-0
+
+[Event ".c Fizkulturnik Belarussii"]
+[Site "?"]
+[Date "1979.10.03"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(+0133.00c6a7) (v)"]
+[Result "1-0"]
+[FEN "5b2/k7/2KR4/3n4/8/8/8/8 w - - 0 1"]
+{version: Neuenschwander=B beatochess 25/04/2024.} 1. Rd7+ Kb8 (1... Ka6 2.
+Rxd5 $1)  (1... Nc7 2. Rxc7+ ( {<or>} 2. Kxc7) 2... Kb8 3. Rh7 Ba3 4. Rh1 Be7
+5. Rh8+ Ka7 6. Rh7) 2. Rd8+ Ka7 3. Rxf8 $1 (3. Rxd5 $2 Bh6 $1) 3... Nb4+ 4. Kb5
+1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0011.01b7b4) U2"]
+[Result "1/2-1/2"]
+[FEN "8/1K1BN3/8/8/1k6/8/4p3/8 w - - 0 1"]
+{Shakhmaty v SSSR/6. U2: Prigunov=V Shakhmaty v SSSR/7 1985.} 1. Nd5+ $1 Ka5 $1
+(1... Kb3 2. Ba4+ $1 Kxa4 3. Nc3+) 2. Ne7 $1 (2. Ka8 $1 {<cook VP>} 2... e1=Q
+3. Bc6) 2... e1=Q 3. Nc6+ Ka4 (3... Kb5 4. Ne5+ $1) 4. Nd4+ $1 Ka5 5. Nc6+
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0011.02b7b4) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/pK1BN3/8/8/1k6/8/4p3/8 w - - 0 1"]
+{correction: Neuenschwander=B 11/04/2024.} 1. Nd5+ Ka5 (1... Kb3 2. Ba4+ $1) 2.
+Ne7 $1 (2. Kxa7 $2 {is one move too slow. White cannot reach the theoretical
+draw with the bishop on b7.} 2... e1=Q 3. Bc6 Qf2+ (3... Qg1+ $2 4. Ka8 Qg8+ 5.
+Ka7 Qf7+ 6. Bb7) 4. Ka8 Qf8+ 5. Ka7 Qc5+ 6. Kb7 Qd6) 2... e1=Q 3. Nc6+ Ka4 4.
+Nd4+ Ka5 5. Nc6+ Kb5 6. Ne5+ Ka5 7. Nc6+ 1/2-1/2
+
+[Event "Th mes 64#3746"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3041.10g8h3) U3"]
+[Result "1/2-1/2"]
+[FEN "6K1/5P1N/8/3q4/7b/3B3k/8/8 w - - 0 1"]
+{Th mes 64=100 Th mes 64/10-12. U3: Pachman=V Th mes 64=103 8-9/1981 U3:
+Beasley=J HHdbIII#22304 3-2-2002.} 1. Bf5+ $1 (1. Be4 $2 Qa2 2. Bb1 Qg2+ 3. Kf8
+Be1 4. Ke8 Bb4) 1... Kh2 2. Ng5 $1 Bxg5 3. Be4 $1 Qa2 (3... Qb3 $1 {<cook JB>}
+4. Bc2 Qg3 5. f8=Q Bh6+) 4. Bb1 Qg2 $1 {<cook VP>} 5. Be4 Qg3 1/2-1/2
+
+[Event "Th mes 64#3746"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(m)"]
+[Black "(=3040.30g8a8) (m)"]
+[Result "1/2-1/2"]
+[FEN "k5K1/3PbP1B/4q3/8/6P1/8/8/8 w - - 0 1"]
+{modification: Neuenschwander=B beatochess 11/04/2024.} 1. d8=Q+ (1. g5 $2 Qxd7
+)  (1. Bf5 $2 Qd6) 1... Bxd8 2. Bf5 (2. g5 $2 Be7 3. g6 Qc8+ 4. Kg7 Qf8#) 2...
+Qc4 3. g5 (3. Bd3 $2 Qxg4+) 3... Bxg5 4. Bd3 Qa2 (4... Qd5 5. Be4) 5. Bb1 Qb3
+6. Bc2 Qe6 7. Bf5 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3103.10a2g4) U2"]
+[Result "1/2-1/2"]
+[FEN "4n3/8/5P2/8/6k1/7q/KR6/8 w - - 0 1"]
+{Shakhmaty v SSSR/1. U2: Beasley=J HHdbIII#21035 3-2-2002.} 1. f7 Qh8 2. Rg2+
+$1 (2. Rf2 $2 Nf6)  (2. Rb8 Qh2+ 3. Ka3 Qd6+ 4. Ka4 (4. Rb4+ $1 {<cook JB>} )
+4... Qd7+) 2... Kf3 3. Rg8 $1 Qh2+ 4. Rg2 $1 Qh8 5. Rg8 Qh2+ 6. Rg2 Qxg2+ 7.
+Ka3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3103.10a2g4) (c)"]
+[Result "1/2-1/2"]
+[FEN "4n3/8/5P2/8/6k1/7q/K1R5/8 w - - 0 1"]
+{Shakhmaty v SSSR/1. correction: Neuenschwander=B beatochess 11/04/2024 .} 1.
+f7 Qh8 2. Rg2+ (2. Rc8 $2 Qh2+ 3. Kb3 Qg3+ 4. Rc3 (4. Kb4 Qd6+) 4... Qb8+ 5.
+Kc2 Nd6) 2... Kf3 3. Rg8 $1 Qh2+ 4. Rg2 $1 Qh8 5. Rg8 Qh2+ 6. Rg2 Qxg2+ 7. Ka3
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+3230.00c6b8) U2"]
+[Result "1-0"]
+[FEN "1k3b2/6q1/2K5/5RR1/8/8/8/8 w - - 0 1"]
+{Shakhmaty v SSSR/1. U2: Afek=Y HHdbVI 6-8-2020.} 1. Rb5+ Ka8 (1... Kc8 2. Rxg7
+Bxg7 3. Rg5) 2. Ra5+ Qa7 (2... Kb8 3. Rgb5+) 3. Rxa7+ (3. Rh5 $1 {<cook YA>} )
+(3. Rgd5 $1 { <cook YA>} ) 3... Kxa7 4. Rg4 $1 (4. Rg6 $1 {<cook YA>} ) 4...
+Bh6 5. Kc7 Ka6 6. Rg6+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+3230.01c6b8) (c)"]
+[Result "1-0"]
+[FEN "1k3b2/6q1/2K5/5RR1/7p/8/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 30/04/2024.} 1. Rb5+ Ka8 2. Ra5+ Qa7 (
+2... Kb8 3. Rgb5+) 3. Rxa7+ (3. Rgd5 $2 Qxa5) 3... Kxa7 4. Rg4 $1 Bh6 (4... h3
+5. Rh4 h2 6. Rxh2 Bb4 (6... Bg7 7. Rh7) 7. Ra2+ Kb8 8. Rb2) 5. Kc7 Ka6 6. Rg6+
+1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0040.12b3e4) U3"]
+[Result "1/2-1/2"]
+[FEN "8/8/P6B/8/4k3/1K6/1p2p3/4b3 w - - 0 1"]
+{Shakhmaty v SSSR/12. U3: Isakov=V Shakhmaty v SSSR/2 1985 U3: Haworth=G
+Bleicher=E HHdbIV#50746 1-11-2009.} 1. Kc2 (1. Kxb2 $2 Bc3+)  (1. Ka2 $2 Kd3 2.
+a7 Kc2) 1... Ba5 $1 2. Bd2 $1 (2. a7 $2 b1=Q+ 3. Kxb1 e1=Q+ 4. Bc1 Qb4+) 2...
+Bxd2 3. a7 b1=Q+ (3... Kd4 $1 {<cook VI>} ) 4. Kxb1 e1=Q+ 5. Ka2 Qc1 (5... Kd4
+$1 {<cook VI>} 6. a8=Q Qe6+)  (5... Kd3 $1 {<cook GH/EB>} ) 6. a8=Q+ 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0040.12c3f4) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/8/1P6/7B/5k2/2K5/2p2p2/5b2 w - - 0 1"]
+{Shakhmaty v SSSR/12. correction: Keith=D EG=188 4/2012. U3 Neuenschwander=B
+beatochess 12/04/2024.} 1. Kd2 Ba6 (1... Bd3 {<cook BN>} 2. Be2 (2. b7 f1=Q 3.
+b8=Q+ Kg5 4. Qe5+ Kh6) 2... c1=Q+ 3. Kxc1 Ke3 $1 4. b7 Kxe2)  (1... Bg2 {<cook
+BN>} 2. Be2 Be4) 2. Be2 Bxe2 3. b7 c1=Q+ 4. Kxc1 f1=Q+ 5. Kb2 Qd1 6. b8=Q+
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0040.12d5f4) (c)"]
+[Result "1/2-1/2"]
+[FEN "8/8/bP6/3K3B/p4k2/5p2/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 12/04/2024.} 1. Kd4 $1 (1. Bxf3 $2 a3)
+1... f2 2. Be2 $1 a3 (2... Bxe2 3. b7 f1=Q 4. b8=Q+ $10 {, e.g.} 4... Kg4 5.
+Qg8+ Kh4 6. Qh7+ Kg3 7. Qg6+ Bg4 8. Qd3+) 3. Kc3 a2 4. Kb2 Bxe2 5. b7 a1=Q+ 6.
+Kxa1 f1=Q+ 7. Kb2 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3101.01f3g7) U2"]
+[Result "1/2-1/2"]
+[FEN "8/6kq/2p5/5R2/5N2/5K2/8/8 w - - 0 1"]
+{Shakhmaty v SSSR/9. U2: Beasley=J HHdbIII#20150 3-2-2002.} 1. Ne6+ Kh6 2. Rf6+
+Kh5 3. Rg6 $1 Qd7 4. Nf4+ (4. Rg5+ $1 {<cook JB>} 4... Kh4 5. Rg4+ Kh5 (5...
+Kh3 $2 6. Nf4+) 6. Rg5+) 4... Kh4 5. Ng2+ 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3101.02f3h8) (c)"]
+[Result "1/2-1/2"]
+[FEN "7k/7q/5R2/2Np4/8/5Kp1/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 12/04/2024.} 1. Rf8+ Kg7 2. Ne6+ Kh6 (
+2... Kg6 3. Kxg3 $1 (3. Nf4+ $2 Kg5 4. Kxg3 Qh4+ 5. Kg2 (5. Kf3 Qh1+) 5... Qg4+
+6. Kf2 Qxf4+) 3... Qe7 4. Nf4+ Kg5 (4... Kg7 5. Rd8)  (4... Kh7 5. Rh8+ Kg7 6.
+Rd8) 5. Nh3+ {and Rf3} ) 3. Rf6+ (3. Kxg3 Qg6+)  (3. Nf4 Qg7)  (3. Rf4 Qd3+)
+3... Kh5 4. Rg6 $1 (4. Nf4+ Kg5 (4... Kh4 $2 5. Rg6) 5. Rg6+ Kf5 6. Rxg3 Qh1+
+{is theoreatically lost} ) 4... Qf7+ (4... Qxg6 5. Nf4+ Kg5 6. Nxg6 Kxg6 7.
+Kxg3) 5. Nf4+ Qxf4+ 6. Kxf4 Kxg6 7. Kxg3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3016.10b3f4) U2"]
+[Result "1/2-1/2"]
+[FEN "4n3/8/5P2/8/5k1B/1K6/1n5q/8 w - - 0 1"]
+{Shakhmaty v SSSR/9. U2: Beasley=J HHdbIII#20149 3-2-2002. Change main line:
+Neuenschwander=B beatochess 16/04/2024.} 1. f7 Qh3+ 2. Bg3+ $1 (2. Kb4 $2 Nd3+)
+(2. Ka2 $2 Qe6+) 2... Qxg3+ 3. Ka2 $1 Nf6 (3... Nc4 {is much more dangerous
+<main line? BN>} 4. f8=Q+ Ke4 5. Qxe8+ Kd3 6. Qe7 $1 Kc3 (6... Qg8 7. Qb4 Qa8+
+8. Kb3 {/b1} 8... Nd2+ 9. Kb2 Qh8+ 10. Ka2 $10) 7. Qe1+ $1 Qxe1) 4. f8=Q Qc3 5.
+Qb8+ (5. Qd6+ $1 {<cook JB>} )  (5. Qa3 $1 {<cook JB>} ) 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(v)"]
+[Black "(=3013.10b3f4) (v)"]
+[Result "1/2-1/2"]
+[FEN "4n3/8/5P2/8/5k2/1K6/5B1q/8 w - - 0 1"]
+{version: Neuenschwander=B beatochess 16/04/2024.} 1. f7 Qh3+ (1... Qh8 2. Bc5
+Qh3+ 3. Kb4 $1 (3. Kb2 Qg2+ $1 4. Kc1 (4. Ka3 Qa8+ 5. Kb2 Qb7+) 4... Qh1+ 5.
+Kb2 (5. Kd2 Qd5+)  (5. Kc2 Qh7+) 5... Qb7+) ) 2. Bg3+ $1 (2. Kb4 $2 Qh8 3. Bc5
+Qb2+) 2... Qxg3+ 3. Ka4 $1 (3. Kb4 $2 Qe1+)  (3. Kc4 $2 Nd6+) 1/2-1/2
+
+[Event "Shakhmaty (Riga)#31"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=3230.10a8b6) U2"]
+[Result "1/2-1/2"]
+[FEN "KR6/1P5q/1k6/5R2/8/8/1b6/8 w - - 0 1"]
+{Shakhmaty (Riga)=21 Shakhmaty (Riga)/11. U2: Van_der_Heijden=H HHdbIV#51756
+3-1-2010 U1: Neuenschwander=B beatochess 13/04/2024.} 1. Rb5+ $1 (1. Ra5 {<cook
+BN>} ) 1... Kxb5 2. Rh8 $1 Qe4 3. Rh4 $1 Qc6 4. Rh6 Qf3 5. Rh3 Qd5 6. Rh5 (6.
+Rb3+ $1 {<cook HH> } ) 6... Be5 7. Rxe5 1/2-1/2
+
+[Event "Shakhmaty (Riga)#31"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=3230.10a8b6) (c)"]
+[Result "1/2-1/2"]
+[FEN "KR6/1P5q/k7/6R1/3b4/8/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 13/04/2024.} 1. Rb5 $1 (1. Rg4 $2 Qe7
+$1 2. Rxd4 (2. Rg6+ Bf6) 2... Qa3 3. Rd3 (3. Rg8 Kb6+ 4. Kb8 Qa7+ 5. Kc8 Qxb7+
+6. Kd8 Qb8+) 3... Qa5 (3... Qxd3 $2 4. Re8) 4. Rf8 Kb6+ 5. Kb8 Qa7+ 6. Kc8
+Qxb7+ 7. Kd8 Qc7+ 8. Ke8 Qe5+ 9. Kd8 Qg5+ 10. Kc8 Qc5+ 11. Kd7 Qb5+)  (1. Rd5)
+1... Kxb5 2. Rh8 $1 (2. Re8 Qh1 $1) 2... Qe4 3. Rh4 Qf3 4. Rh3 $1 (4. Rxd4 $2
+Qa3+ $1 5. Kb8 Kb6) 4... Qc6 5. Rh6 Qg2 6. Rh2 Qd5 7. Rh5 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0160.10e4f1) U2"]
+[Result "1-0"]
+[FEN "R7/8/8/8/1bb1K3/8/2P5/5k2 w - - 0 1"]
+{Shakhmaty v SSSR/9. U2: Neuenschwander=B beatchess 14/04/2024.} 1. Ra4 Bf7 2.
+Rxb4 Bg6+ 3. Ke3 Bxc2 4. Kd2 (4. Rb2 {<cook BN> } 4... Bh7 5. Rf2+ Kg1 6. Kf3)
+4... Bh7 5. Rh4 Bg8 6. Rf4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0160.11e4f1) (c)"]
+[Result "1-0"]
+[FEN "R7/8/5p2/8/1bb1K3/8/2P5/5k2 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 14/04/2024.} 1. Ra4 Bf7 (1... f5+ 2.
+Kd4 $1) 2. Rxb4 Bg6+ 3. Ke3 Bxc2 4. Kd2 (4. Rb2 $2 Bd1 $1 (4... Ba4 {<or>} ) 5.
+Rb1 Ke1 6. Kd3 f5) 4... Bh7 5. Rh4 Bg8 6. Rf4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(+0170.01e6h1) U3"]
+[Result "1-0"]
+[FEN "b7/8/4K3/B7/7p/b7/2R5/7k w - - 0 1"]
+{Shakhmaty v SSSR/3. U3: Nikoronov=A Shakhmaty v SSSR/12 1983.} 1. Rc3 Bb2 2.
+Rd3 $1 Bg7 (2... Bg2 3. Bc7 Kg1 4. Rd1+ Bf1 5. Bb6+) 3. Rd1+ Kh2 (3... Kg2 $1
+{<cook AN>} 4. Rd8 $1 Bf3 5. Rg8 Bg4+ $1 6. Kd5 h3 7. Rxg7 h2 8. Rxg4+ Kh3) 4.
+Bc7+ Kh3 5. Rd3+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(+0170.01e6h1) (c)"]
+[Result "1-0"]
+[FEN "7k/8/b7/2R4p/B7/4K3/8/b7 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 15/04/2024.} 1. Rc6 (1. Rxh5+ $2 Kg7
+$1)  (1. Ra5 $2 Bc4 $1) 1... Bb7 (1... Bf1 2. Rc1) 2. Rd6 $1 (2. Rb6 $2 Bd5 $1)
+2... Bg2 (2... Bg7 3. Rd8+ Kh7 4. Bc2+ Kh6 5. Rd6+ Kg5 6. Rg6+) 3. Rd8+ Kh7 (
+3... Kg7 4. Rd1) 4. Bc2+ Kh6 5. Rd6+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0013.21e8h5) U3"]
+[Result "1/2-1/2"]
+[FEN "1n2K3/3B4/2P5/7k/2P5/8/4p3/8 w - - 0 1"]
+{Shakhmaty v SSSR/3. U3: Bogdanov=I Shakhmaty v SSSR/12 1983.} 1. Bg4+ $1 Kxg4
+2. c7 e1=Q+ 3. Kf7 Qf1+ (3... Qf2+ 4. Kg8) 4. Kg7 Qa1+ (4... Nd7 $1 {<cook IB>}
+5. c8=Q Qf6+ $1 6. Kg8 (6. Kh7 Qe7+ 7. Kh6 Kf5 8. c5 (8. Qg8 Qh4+ 9. Kg7 Qf6+
+10. Kh7 Nf8+) 8... Qf7 9. Qc6 Qf8+ 10. Kh5 Qh8+ 11. Qh6 Nf6+) 6... Qe7 7. Kh8
+Kf5 $1 (7... Kg5 $2 8. Qa8 (8. c5 $2 Nf6)  (8. Qg8+ $2 Kh6) 8... Qf6+ (8... Nf6
+9. Qg2+ Kh6 10. Qh2+ (10. Qh3+ $2 Nh5 $1) 10... Kg6 11. Qg3+ Kf7 12. Qg7+ $1 (
+12. Qb8 $2 Qd7 $1) ) 9. Kg8 Qg6+ 10. Kh8 Qh6+ 11. Kg8 Nf6+ 12. Kf7 Qg6+ 13. Ke6
+Qf5+ 14. Ke7 $1 (14. Kd6 $2 Ne4+ 15. Kc7 Qe5+ 16. Kb6 Qc5+ 17. Ka6 Qa3+ 18. Kb7
+Nc5+ 19. Kb8 Nd7+ 20. Kb7 Qf3+ 21. Ka7 Qf2+ 22. Kb7 Qg2+ 23. Ka7 Qa2+ 24. Kb7
+Nc5+ 25. Kb8 Qh2+ 26. Ka7 Qc7+) 14... Qd7+ 15. Kf8 Qd6+ 16. Kf7 Qc7+ 17. Kf8)
+8. c5 Kg5 $1 9. Qa8 Qf6+ 10. Kg8 Qg6+ 11. Kh8 Qh6+ 12. Kg8 Nf6+ 13. Kf7 Qg6+
+14. Ke6 Qf5+ 15. Ke7 (15. Kd6 Ne4+ $1 16. Kc7 Qe5+ 17. Kc8 Qe8+ 18. Kb7 Nxc5+
+19. Ka7 Qa4+ 20. Kb8 Qf4+ 21. Kc8 Qf8+) 15... Nd5+ $1 16. Kd6 Qf6+ 17. Kd7 Qe7+
+18. Kc6 Qe6+ 19. Kb7 Qd7+ 20. Ka6 Qa4+)  (4... Nd7)  (4... Qa1+) 5. Kg8 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0013.21e8h5) (c)"]
+[Result "1/2-1/2"]
+[FEN "1n2K3/3B4/2P5/7k/8/1P6/4p3/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 15/04/2024.} 1. Bg4+ $1 Kxg4 2. c7
+e1=Q+ 3. Kf7 Qf1+ (3... Qf2+ 4. Kg8) 4. Kg7 Qa1+ (4... Nd7 5. c8=Q Qf6+ 6. Kg8
+Qe7 7. Qc4+) 5. Kg8 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G"]
+[Black "(=0031.11d7h2) U3"]
+[Result "1/2-1/2"]
+[FEN "4N3/3K4/8/1P6/8/1b1p4/7k/8 w - - 0 1"]
+{Shakhmaty v SSSR/6. U3: Bolshagin=V Shakhmaty v SSSR/11 1986.} 1. Nf6 $1 d2 (
+1... Ba4 2. Kd6 $1 Bxb5 3. Ne4 $1 Kg2 4. Kc5) 2. Ng4+ Kg3 3. Ne3 Kf3 4. b6 Kxe3
+5. b7 d1=Q+ 6. Ke7 Qd4 (6... Be6 $1 {<cook VB>} 7. b8=Q Qd7+ 8. Kf6 Qf7+ 9. Kg5
+(9. Ke5 Qf4+) 9... Qg7+ 10. Kh5 Bf7+ 11. Kh4 Qh6+ 12. Kg3 (12. Kg4 Be6+ 13. Kg3
+Qh3#) 12... Qg5+ 13. Kh3 Be6+ 14. Kh2 Qh4+ 15. Kg2 Qf2+ 16. Kh1 Bd5#) 7. b8=Q
+1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Zakhodyakin=G BN=(c)"]
+[Black "(=0031.21d7h2) (c)"]
+[Result "1/2-1/2"]
+[FEN "4N3/3K4/6P1/1P6/7k/1b1p4/8/8 w - - 0 1"]
+{correction: Neuenschwander=B beatochess 14/04/2024.} 1. Nd6 (1. Ng7 $2 Kg4 $1)
+1... d2 2. Nf5+ Kg4 3. Ne3+ Kf3 4. b6 Kxe3 5. b7 d1=Q+ 6. Ke7 1/2-1/2
+
